@@ -1,11 +1,7 @@
-from dotenv import load_dotenv
-
 import openai
 from google.cloud import language_v1
-
 import numpy as np
-import re
-
+from dotenv import load_dotenv
 load_dotenv()
 
 # Using Google Cloud Natural Language's analyze_entities endpoint
