@@ -1,5 +1,3 @@
-import os
-import json
 import pandas as pd
 import re
 from unidecode import unidecode
@@ -8,13 +6,13 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-apos_pattern = "(\w{1})'S"
-p_pattern = "(\((?!born).+?\)), "
-pl_pattern = "(plural .+?), "
-alias_pattern = "(?:also called|also spelled) (.+?), "
-cat_pattern = "(?!in full)(?:in|In) (.+?), (?:or (.+?), (.+?), )?"
-aka_pattern = "(?:Latin in full|in full|byname of|original name) (.+?), "
-bd_pattern = "\(born (\w+ \d{1,2}, \d{4})(?:, )(.*?)(?:—died (\w+ \d{1,2}, \d{4})(?:, )(.*?))?\), "
+apos_pattern = r"(\w+)'S"
+p_pattern = r"(\((?!born).+?\)), "
+pl_pattern = r"(plural .+?), "
+alias_pattern = r"(?:also called|also spelled) (.+?), "
+cat_pattern = r"(?!in full)(?:in|In) (.+?), (?:or (.+?), (.+?), )?"
+aka_pattern = r"(?:Latin in full|in full|byname of|original name) (.+?), "
+bd_pattern = r"\(born (\w+ \d{1,2}, \d{4})(?:, )(.*?)(?:—died (\w+ \d{1,2}, \d{4})(?:, )(.*?))?\), "
 
 
 def clean_articles(articles):
@@ -29,7 +27,7 @@ def clean_articles(articles):
         id.append(article["article_id"])
         title = article["title"].strip(' ,')  # strip commas and extra whitespace from titles
         title = title.replace(u"\u2019", "'")  # replace unicode single smart quote in title
-        text = article["text"].replace(u"\u2019", "'")  # replace unicode single smart quote in text
+        text = article["text"].replace(u"\u2019", "'").strip()  # replace unicode single smart quote in text
 
         # title = unidecode(title)
         # text = unidecode(text)
@@ -40,9 +38,9 @@ def clean_articles(articles):
         else:
             title_tc = title.title()
 
-        title_comma = title + ', '
-        title_colon = title_tc + ': '
-        text = text.replace(title_comma, title_colon, 1)
+        title_comma = re.escape(title) + r'(\s)*,(\s)*'
+        title_colon = title_tc + r': '
+        text = re.sub(title_comma, title_colon, text)
 
         prefix = title_colon
         contents = []
@@ -55,26 +53,24 @@ def clean_articles(articles):
         if apos_text:
             text = text.replace(apos_text.group(0), apos_text.group(1))
 
-        p = prefix.replace('(', '\(').replace(')', '\)') + p_pattern
-        paren_info = re.search(p, text)
+        # p = prefix.replace(r'(', r'\(').replace(r')', r'\)') + re.escape(p_pattern)
+        paren_info = re.search(re.escape(prefix) + p_pattern, text)
         if paren_info:
             contents.append(paren_info.group(1).strip('()'))
             paren = '(' + '; '.join(contents) + ')'
             prefix = ' '.join([title_tc, paren]) + ': '
             text = text.replace(paren_info.group(0), prefix, 1)
 
-        pl = prefix.replace('(', '\(').replace(')', '\)') + pl_pattern
-        plural = re.search(pl, text)
+        plural = re.search(re.escape(prefix) + pl_pattern, text)
         if plural:
             contents.append(plural.group(1))
             paren = '(' + '; '.join(contents) + ')'
             prefix = ' '.join([title_tc, paren]) + ': '
             text = text.replace(plural.group(0), prefix, 1)
 
-        alias = prefix.replace('(', '\(').replace(')', '\)') + alias_pattern
-        alias_name = re.search(alias, text)
+        alias_name = re.search(re.escape(prefix) + alias_pattern, text)
         if alias_name:
-            contents.append('or ' + alias_name.group(1))
+            contents.append('or ' + alias_name.group(1).strip())
             paren = '(' + '; '.join(contents) + ')'
             prefix = ' '.join([title_tc, paren]) + ': '
             text = text.replace(alias_name.group(0), prefix, 1)
@@ -82,8 +78,7 @@ def clean_articles(articles):
         else:
             alt_title.append([])
 
-        cat = prefix.replace('(', '\(').replace(')', '\)') + cat_pattern
-        category = re.search(cat, text)
+        category = re.search(re.escape(prefix) + cat_pattern, text)
         if category:
             if category.group(3):
                 cat_name = category.group(1) + '/' + category.group(2) + ' ' + category.group(3)
@@ -98,16 +93,14 @@ def clean_articles(articles):
         else:
             grouping.append([])
 
-        aka = prefix.replace('(', '\(').replace(')', '\)') + aka_pattern
-        aka_name = re.search(aka, text)
+        aka_name = re.search(re.escape(prefix) + aka_pattern, text)
         if aka_name:
             contents.append('aka ' + aka_name.group(1))
             paren = '(' + '; '.join(contents) + ')'
             prefix = ' '.join([title_tc, paren]) + ': '
             text = text.replace(aka_name.group(0), prefix, 1)
 
-        bd = prefix.replace('(', '\(').replace(')', '\)') + bd_pattern
-        birth_death = re.search(bd, text)
+        birth_death = re.search(re.escape(prefix) + bd_pattern, text)
         if birth_death:
             contents.append('born ' + birth_death.group(1) + ' in ' + birth_death.group(2))
             if birth_death.group(3):
