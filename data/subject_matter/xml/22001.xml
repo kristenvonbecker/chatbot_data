@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="22001" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:05:55" url="/article/celestial-sphere/22001" version="3">
+ <title>
+  celestial sphere
+ </title>
+ <p>
+  <assembly id="a159438" url="/assembly/view/159438">
+   <title>
+    Diagram stars, planets, constellations, and other heavenly bodies by understanding Earth’s celestial sphere
+   </title>
+   <media mediaid="151067" thumburl="/67/151067-049-9ABAF143.jpg" type="video" url=""/>
+   <caption>
+    Explanation of the celestial sphere.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   celestial sphere
+  </e>
+  ,
+  <assemblyref assemblyid="a159438"/>
+  the apparent surface of the heavens, on which the stars seem to be fixed. For the purpose of establishing coordinate systems to mark the positions of heavenly bodies, it can be considered a real sphere at an infinite distance from the Earth. The Earth’s axis, extended to infinity, touches this sphere at the north and south celestial poles, around which the heavens seem to turn. The plane of the Earth’s Equator, extended to infinity, marks the celestial equator.
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="41192">
+   hour circle
+  </xref>
+  ;
+  <xref articleid="31918">
+   ecliptic
+  </xref>
+  ;
+  <xref articleid="78318">
+   zenith
+  </xref>
+  .
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="9711" articletypeid="1" language="en_us" lastupdate="2023-Feb-10 14:27:08" url="/article/artificial-intelligence/9711" version="29">
+ <title>
+  artificial intelligence (AI)
+ </title>
+ <p>
+  <e type="bold">
+   artificial intelligence (AI)
+  </e>
+  , the ability of a digital
+  <xref articleid="117728">
+   computer
+  </xref>
+  or computer-controlled
+  <xref articleid="63935">
+   robot
+  </xref>
+  to perform tasks commonly associated with intelligent beings. The term is frequently applied to the project of developing systems endowed with the intellectual processes characteristic of humans, such as the ability to reason, discover meaning, generalize, or learn from past experience. Since the development of the
+  <xref articleid="30431">
+   digital computer
+  </xref>
+  in the 1940s, it has been demonstrated that computers can be programmed to carry out very complex tasks—as, for example, discovering proofs for mathematical theorems or playing
+  <xref articleid="105867">
+   chess
+  </xref>
+  —with great proficiency. Still, despite continuing advances in computer processing speed and memory capacity, there are as yet no programs that can match human flexibility over wider domains or in tasks requiring much everyday knowledge. On the other hand, some programs have attained the performance levels of human experts and professionals in performing certain specific tasks, so that artificial intelligence in this limited sense is found in applications as diverse as medical diagnosis, computer
+  <xref articleid="396602">
+   search engines
+  </xref>
+  , and voice or handwriting recognition.
+ </p>
+ <p>
+  <e type="italic">
+   <xref articleid="630823">
+    (Read Ray Kurzweil’sBritannica essay on the future of “Nonbiological Man.”)
+   </xref>
+  </e>
+ </p>
+ <h1 id="h219078">
+  <title>
+   What is intelligence?
+  </title>
+  <p>
+   All but the simplest human behaviour is ascribed to intelligence, while even the most complicated
+   <xref articleid="105953">
+    insect
+   </xref>
+   behaviour is never taken as an indication of intelligence. What is the difference? Consider the behaviour of the digger
+   <xref articleid="76200">
+    wasp
+   </xref>
+   ,
+   <e type="italic">
+    Sphex ichneumoneus
+   </e>
+   . When the female wasp returns to her burrow with food, she first deposits it on the threshold, checks for intruders inside her burrow, and only then, if the coast is clear, carries her food inside. The real nature of the wasp’s
+   <xref articleid="105953" refid="h41274">
+    instinctual behaviour
+   </xref>
+   is revealed if the food is moved a few inches away from the entrance to her burrow while she is inside: on emerging, she will repeat the whole procedure as often as the food is displaced. Intelligence—conspicuously absent in the case of
+   <e type="italic">
+    Sphex
+   </e>
+   —must include the ability to adapt to new circumstances.
+  </p>
+  <p>
+   <e type="italic">
+    <xref articleid="630820">
+     (Read Yuval Noah Harari’s Britannica essay on the future of “Nonconscious Man.”)
+    </xref>
+   </e>
+  </p>
+  <p>
+   <xref articleid="61727">
+    Psychologists
+   </xref>
+   generally do not characterize
+   <xref articleid="106318">
+    human intelligence
+   </xref>
+   by just one trait but by the combination of many diverse abilities. Research in AI has focused chiefly on the following components of intelligence: learning, reasoning, problem solving, perception, and using language.
+  </p>
+  <h2 id="h219079">
+   <title>
+    Learning
+   </title>
+   <p>
+    There are a number of different forms of learning as applied to artificial intelligence. The simplest is learning by trial and error. For example, a simple
+    <xref articleid="117728">
+     computer
+    </xref>
+    program for solving mate-in-one
+    <xref articleid="105867">
+     chess
+    </xref>
+    problems might try moves at random until mate is found. The program might then store the solution with the position so that the next time the computer encountered the same position it would recall the solution. This simple memorizing of individual items and procedures—known as rote learning—is relatively easy to implement on a computer. More challenging is the problem of implementing what is called generalization. Generalization involves applying past experience to analogous new situations. For example, a program that learns the past tense of regular English verbs by rote will not be able to produce the past tense of a word such as
+    <e type="italic">
+     jump
+    </e>
+    unless it previously had been presented with
+    <e type="italic">
+     jumped
+    </e>
+    , whereas a program that is able to generalize can learn the “add
+    <e type="italic">
+     ed
+    </e>
+    ” rule and so form the past tense of
+    <e type="italic">
+     jump
+    </e>
+    based on experience with similar verbs.
+   </p>
+  </h2>
+  <h2 id="h219080">
+   <title>
+    Reasoning
+   </title>
+   <p>
+    To reason is to draw inferences appropriate to the situation. Inferences are classified as either
+    <xref articleid="29720">
+     deductive
+    </xref>
+    or
+    <xref articleid="42354">
+     inductive
+    </xref>
+    . An example of the former is, “Fred must be in either the museum or the café. He is not in the café; therefore he is in the museum,” and of the latter, “Previous accidents of this sort were caused by instrument failure; therefore this accident was caused by instrument failure.” The most significant difference between these forms of reasoning is that in the deductive case the truth of the premises guarantees the truth of the conclusion, whereas in the inductive case the truth of the premise lends support to the conclusion without giving absolute assurance. Inductive reasoning is common in science, where data are collected and tentative models are developed to describe and predict future behaviour—until the appearance of anomalous data forces the model to be revised. Deductive reasoning is common in
+    <xref articleid="109827">
+     mathematics
+    </xref>
+    and
+    <xref articleid="110686">
+     logic
+    </xref>
+    , where elaborate structures of irrefutable theorems are built up from a small set of basic axioms and rules.
+   </p>
+   <p>
+    There has been considerable success in programming computers to draw inferences, especially deductive inferences. However, true reasoning involves more than just drawing inferences; it involves drawing inferences
+    <e type="italic">
+     relevant
+    </e>
+    to the solution of the particular task or situation. This is one of the hardest problems confronting AI.
+   </p>
+  </h2>
+  <h2 id="h219081">
+   <title>
+    Problem solving
+   </title>
+   <p>
+    Problem solving, particularly in artificial intelligence, may be characterized as a systematic search through a range of possible actions in order to reach some predefined goal or solution. Problem-solving methods divide into special purpose and general purpose. A special-purpose method is tailor-made for a particular problem and often exploits very specific features of the situation in which the problem is embedded. In contrast, a general-purpose method is applicable to a wide variety of problems. One general-purpose technique used in AI is means-end analysis—a step-by-step, or incremental, reduction of the difference between the current state and the final goal. The program selects actions from a list of means—in the case of a simple robot this might consist of PICKUP, PUTDOWN, MOVEFORWARD, MOVEBACK, MOVELEFT, and MOVERIGHT—until the goal is reached.
+   </p>
+   <p>
+    Many diverse problems have been solved by artificial intelligence programs. Some examples are finding the winning move (or sequence of moves) in a board game, devising mathematical proofs, and manipulating “virtual objects” in a computer-generated world.
+   </p>
+  </h2>
+  <h2 id="h219082">
+   <title>
+    Perception
+   </title>
+   <p>
+    In perception the environment is scanned by means of various sensory organs, real or artificial, and the scene is decomposed into separate objects in various spatial relationships. Analysis is complicated by the fact that an object may appear different depending on the angle from which it is viewed, the direction and intensity of illumination in the scene, and how much the object contrasts with the surrounding field.
+   </p>
+   <p>
+    At present, artificial perception is sufficiently well advanced to enable optical sensors to identify individuals, autonomous vehicles to drive at moderate speeds on the open road, and robots to roam through buildings collecting empty soda cans. One of the earliest systems to integrate perception and action was FREDDY, a stationary robot with a moving television eye and a pincer hand, constructed at the
+    <xref articleid="32002">
+     University of Edinburgh
+    </xref>
+    , Scotland, during the period 1966–73 under the direction of Donald Michie. FREDDY was able to recognize a variety of objects and could be instructed to assemble simple artifacts, such as a toy car, from a random heap of components.
+   </p>
+  </h2>
+  <h2 id="h219083">
+   <title>
+    Language
+   </title>
+   <p>
+    A
+    <xref articleid="108460">
+     language
+    </xref>
+    is a system of signs having meaning by convention. In this sense, language need not be confined to the spoken word. Traffic signs, for example, form a minilanguage, it being a matter of convention that ⚠ means “hazard ahead” in some countries. It is distinctive of languages that linguistic units possess meaning by convention, and linguistic meaning is very different from what is called natural meaning, exemplified in statements such as “Those clouds mean rain” and “The fall in pressure means the valve is malfunctioning.”
+   </p>
+   <p>
+    An important characteristic of full-fledged human languages—in contrast to birdcalls and traffic signs—is their productivity. A productive language can formulate an unlimited variety of sentences.
+   </p>
+   <p>
+    It is relatively easy to write
+    <xref articleid="25053">
+     computer programs
+    </xref>
+    that seem able, in severely restricted contexts, to respond fluently in a human language to questions and statements. Although none of these programs actually understands language, they may, in principle, reach the point where their command of a language is indistinguishable from that of a normal human. What, then, is involved in genuine understanding, if even a computer that uses language like a native human speaker is not acknowledged to understand? There is no universally agreed upon answer to this difficult question. According to one theory, whether or not one understands depends not only on one’s behaviour but also on one’s history: in order to be said to understand, one must have learned the language and have been trained to take one’s place in the linguistic community by means of interaction with other language users.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h219084">
+  <title>
+   Methods and goals in AI
+  </title>
+  <h2 id="h219085">
+   <title>
+    Symbolic vs. connectionist approaches
+   </title>
+   <p>
+    AI research follows two distinct, and to some extent competing, methods, the symbolic (or “top-down”) approach, and the connectionist (or “bottom-up”) approach. The top-down approach seeks to replicate intelligence by analyzing cognition independent of the biological structure of the
+    <xref articleid="16178">
+     brain
+    </xref>
+    , in terms of the processing of symbols—whence the
+    <e type="italic">
+     symbolic
+    </e>
+    label. The bottom-up approach, on the other hand, involves creating artificial
+    <xref articleid="126495">
+     neural networks
+    </xref>
+    in imitation of the brain’s structure—whence the
+    <e type="italic">
+     connectionist
+    </e>
+    label.
+   </p>
+   <p>
+    To illustrate the difference between these approaches, consider the task of building a system, equipped with an optical scanner, that recognizes the letters of the alphabet. A bottom-up approach typically involves training an artificial neural network by presenting letters to it one by one, gradually improving performance by “tuning” the network. (Tuning adjusts the responsiveness of different neural pathways to different stimuli.) In contrast, a top-down approach typically involves writing a computer program that compares each letter with geometric descriptions. Simply put, neural activities are the basis of the bottom-up approach, while symbolic descriptions are the basis of the top-down approach.
+   </p>
+   <p>
+    In
+    <e type="italic">
+     The Fundamentals of Learning
+    </e>
+    (1932),
+    <xref articleid="72241">
+     Edward Thorndike
+    </xref>
+    , a psychologist at
+    <xref articleid="24885">
+     Columbia University
+    </xref>
+    , New York City, first suggested that human learning consists of some unknown property of connections between
+    <xref articleid="55388">
+     neurons
+    </xref>
+    in the brain. In
+    <e type="italic">
+     The Organization of Behavior
+    </e>
+    (1949), Donald Hebb, a psychologist at
+    <xref articleid="49717">
+     McGill University
+    </xref>
+    , Montreal, Canada, suggested that learning specifically involves strengthening certain patterns of neural activity by increasing the probability (weight) of induced neuron firing between the associated connections. The notion of weighted connections is described in a later section,
+    <xref articleid="9711">
+     Connectionism
+    </xref>
+    .
+   </p>
+   <p>
+    In 1957 two vigorous advocates of symbolic AI—Allen Newell, a researcher at the
+    <xref articleid="473155">
+     RAND Corporation
+    </xref>
+    , Santa Monica, California, and
+    <xref articleid="67856">
+     Herbert Simon
+    </xref>
+    , a
+    <xref articleid="61727">
+     psychologist
+    </xref>
+    and
+    <xref articleid="109626">
+     computer scientist
+    </xref>
+    at
+    <xref articleid="1894">
+     Carnegie Mellon University
+    </xref>
+    , Pittsburgh, Pennsylvania—summed up the top-down approach in what they called the physical symbol system hypothesis. This hypothesis states that processing structures of symbols is sufficient, in principle, to produce artificial intelligence in a digital computer and that, moreover,
+    <xref articleid="106318">
+     human intelligence
+    </xref>
+    is the result of the same type of symbolic manipulations.
+   </p>
+   <p>
+    During the 1950s and ’60s the top-down and bottom-up approaches were pursued simultaneously, and both achieved noteworthy, if limited, results. During the 1970s, however, bottom-up AI was neglected, and it was not until the 1980s that this approach again became prominent. Nowadays both approaches are followed, and both are acknowledged as facing difficulties. Symbolic techniques work in simplified realms but typically break down when confronted with the real world; meanwhile, bottom-up researchers have been unable to replicate the nervous systems of even the simplest living things.
+    <e type="italic">
+     Caenorhabditis elegans
+    </e>
+    , a much-studied worm, has approximately 300 neurons whose pattern of interconnections is perfectly known. Yet connectionist models have failed to mimic even this worm. Evidently, the neurons of connectionist theory are gross oversimplifications of the real thing.
+   </p>
+  </h2>
+  <h2 id="h219086">
+   <title>
+    Strong AI, applied AI, and cognitive simulation
+   </title>
+   <p>
+    Employing the methods outlined above, AI research attempts to reach one of three goals: strong AI, applied AI, or cognitive simulation. Strong AI aims to build machines that think. (The term
+    <e type="italic">
+     strong AI
+    </e>
+    was introduced for this category of research in 1980 by the philosopher
+    <xref articleid="487946">
+     John Searle
+    </xref>
+    of the
+    <xref articleid="18668">
+     University of California
+    </xref>
+    at Berkeley.) The ultimate ambition of strong AI is to produce a machine whose overall intellectual ability is indistinguishable from that of a human being. As is described in the section
+    <xref articleid="9711">
+     Early milestones in AI
+    </xref>
+    , this goal generated great interest in the 1950s and ’60s, but such optimism has given way to an appreciation of the extreme difficulties involved. To date, progress has been meagre. Some critics doubt whether research will produce even a system with the overall intellectual ability of an
+    <xref articleid="7736">
+     ant
+    </xref>
+    in the foreseeable future. Indeed, some researchers working in AI’s other two branches view strong AI as not worth pursuing.
+   </p>
+   <p>
+    Applied AI, also known as advanced information processing, aims to produce commercially viable “smart” systems—for example, “expert” medical diagnosis systems and stock-trading systems. Applied AI has enjoyed considerable success, as described in the section
+    <xref articleid="9711">
+     Expert systems
+    </xref>
+    .
+   </p>
+   <p>
+    In cognitive simulation, computers are used to test theories about how the human mind works—for example, theories about how people recognize faces or recall memories. Cognitive simulation is already a powerful tool in both neuroscience and
+    <xref articleid="472061">
+     cognitive psychology
+    </xref>
+    .
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h219087">
+  <title>
+   Alan Turing and the beginning of AI
+  </title>
+  <h2 id="h219088">
+   <title>
+    Theoretical work
+   </title>
+   <p>
+    The earliest substantial work in the field of artificial intelligence was done in the mid-20th century by the British logician and computer pioneer
+    <xref articleid="73839">
+     Alan Mathison Turing
+    </xref>
+    . In 1935 Turing described an abstract computing machine consisting of a limitless memory and a scanner that moves back and forth through the memory, symbol by symbol, reading what it finds and writing further symbols. The actions of the scanner are dictated by a program of instructions that also is stored in the memory in the form of symbols. This is Turing’s stored-program concept, and implicit in it is the possibility of the machine operating on, and so modifying or improving, its own program. Turing’s conception is now known simply as the universal
+    <xref articleid="1510">
+     Turing machine
+    </xref>
+    . All modern computers are in essence universal Turing machines.
+   </p>
+   <p>
+    During
+    <xref articleid="110199">
+     World War II
+    </xref>
+    , Turing was a leading cryptanalyst at the Government Code and Cypher School in Bletchley Park, Buckinghamshire, England. Turing could not turn to the project of building a stored-program electronic computing machine until the cessation of hostilities in Europe in 1945. Nevertheless, during the war he gave considerable thought to the issue of machine intelligence. One of Turing’s colleagues at Bletchley Park, Donald Michie (who later founded the Department of Machine Intelligence and Perception at the University of Edinburgh), later recalled that Turing often discussed how computers could learn from experience as well as solve new problems through the use of guiding principles—a process now known as heuristic problem solving.
+   </p>
+   <p>
+    Turing gave quite possibly the earliest public lecture (London, 1947) to mention computer intelligence, saying, “What we want is a machine that can learn from experience,” and that the “possibility of letting the machine alter its own instructions provides the mechanism for this.” In 1948 he introduced many of the central concepts of AI in a report entitled “Intelligent Machinery.” However, Turing did not publish this paper, and many of his ideas were later reinvented by others. For instance, one of Turing’s original ideas was to train a network of artificial
+    <xref articleid="55388">
+     neurons
+    </xref>
+    to perform specific tasks, an approach described in the section
+    <xref articleid="9711">
+     Connectionism
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h219089">
+   <title>
+    Chess
+   </title>
+   <p>
+    At Bletchley Park, Turing illustrated his ideas on machine intelligence by reference to
+    <xref articleid="105867">
+     chess
+    </xref>
+    —a useful source of challenging and clearly defined problems against which proposed methods for problem solving could be tested. In principle, a chess-playing computer could play by searching exhaustively through all the available moves, but in practice this is impossible because it would involve examining an astronomically large number of moves. Heuristics are necessary to guide a narrower, more discriminative search. Although Turing experimented with designing chess programs, he had to content himself with theory in the absence of a computer to run his chess program. The first true AI programs had to await the arrival of
+    <xref articleid="117728" refid="h216048">
+     stored-program electronic digital computers
+    </xref>
+    .
+   </p>
+   <p>
+    In 1945 Turing predicted that computers would one day play very good chess, and just over 50 years later, in 1997,
+    <xref articleid="472185">
+     Deep Blue
+    </xref>
+    , a
+    <xref articleid="105867" refid="h80452">
+     chess computer
+    </xref>
+    built by the
+    <xref articleid="1636">
+     International Business Machines Corporation (IBM)
+    </xref>
+    , beat the reigning world champion,
+    <xref articleid="44807">
+     Garry Kasparov
+    </xref>
+    , in a six-game match. While Turing’s prediction came true, his expectation that chess programming would contribute to the understanding of how human beings think did not. The huge improvement in computer chess since Turing’s day is attributable to advances in computer engineering rather than advances in AI—Deep Blue’s 256 parallel processors enabled it to examine 200 million possible moves per second and to look ahead as many as 14 turns of play. Many agree with
+    <xref articleid="82316">
+     Noam Chomsky
+    </xref>
+    , a linguist at the
+    <xref articleid="51298">
+     Massachusetts Institute of Technology (MIT)
+    </xref>
+    , who opined that a computer beating a grandmaster at chess is about as interesting as a bulldozer winning an
+    <xref articleid="108519">
+     Olympic
+    </xref>
+    <xref articleid="76441">
+     weightlifting
+    </xref>
+    competition.
+   </p>
+  </h2>
+  <h2 id="h219090">
+   <title>
+    The Turing test
+   </title>
+   <p>
+    In 1950 Turing sidestepped the traditional debate concerning the definition of intelligence, introducing a practical test for computer intelligence that is now known simply as the
+    <xref articleid="1511">
+     Turing test
+    </xref>
+    . The Turing test involves three participants: a computer, a human interrogator, and a human foil. The interrogator attempts to determine, by asking questions of the other two participants, which is the computer. All communication is via keyboard and display screen. The interrogator may ask questions as penetrating and wide-ranging as he or she likes, and the computer is permitted to do everything possible to force a wrong identification. (For instance, the computer might answer, “No,” in response to, “Are you a computer?” and might follow a request to multiply one large number by another with a long pause and an incorrect answer.) The foil must help the interrogator to make a correct identification. A number of different people play the roles of interrogator and foil, and, if a sufficient proportion of the interrogators are unable to distinguish the computer from the human being, then (according to proponents of Turing’s test) the computer is considered an intelligent, thinking entity.
+   </p>
+   <p>
+    In 1991 the American philanthropist Hugh Loebner started the annual Loebner Prize competition, promising a $100,000 payout to the first computer to pass the Turing test and awarding $2,000 each year to the best effort. However, no AI program has come close to passing an undiluted Turing test. In late 2022, the advent of
+    <xref articleid="636374">
+     ChatGPT
+    </xref>
+    reignited conversation about the likelihood that the components of the Turing test had been met.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h219091">
+  <title>
+   Early milestones in AI
+  </title>
+  <h2 id="h219092">
+   <title>
+    The first AI programs
+   </title>
+   <p>
+    The earliest successful AI program was written in 1951 by Christopher Strachey, later director of the Programming Research Group at the
+    <xref articleid="57828">
+     University of Oxford
+    </xref>
+    . Strachey’s
+    <xref articleid="22734">
+     checkers
+    </xref>
+    (draughts) program ran on the
+    <xref articleid="117728" refid="h216048">
+     Ferranti Mark I
+    </xref>
+    computer at the
+    <xref articleid="472817">
+     University of Manchester
+    </xref>
+    , England. By the summer of 1952 this program could play a complete game of checkers at a reasonable speed.
+   </p>
+   <p>
+    Information about the earliest successful demonstration of machine learning was published in 1952. Shopper, written by Anthony Oettinger at the
+    <xref articleid="18777">
+     University of Cambridge
+    </xref>
+    , ran on the
+    <xref articleid="117728" refid="h216048">
+     EDSAC
+    </xref>
+    computer. Shopper’s simulated world was a mall of eight shops. When instructed to purchase an item, Shopper would search for it, visiting shops at random until the item was found. While searching, Shopper would memorize a few of the items stocked in each shop visited (just as a human shopper might). The next time Shopper was sent out for the same item, or for some other item that it had already located, it would go to the right shop straight away. This simple form of learning, as is pointed out in the introductory section
+    <xref articleid="9711">
+     What is intelligence?
+    </xref>
+    , is called rote learning.
+   </p>
+   <p>
+    The first AI program to run in the United States also was a checkers program, written in 1952 by Arthur Samuel for the prototype of the IBM 701. Samuel took over the essentials of Strachey’s checkers program and over a period of years considerably extended it. In 1955 he added features that enabled the program to learn from experience. Samuel included mechanisms for both rote learning and generalization, enhancements that eventually led to his program’s winning one game against a former Connecticut checkers champion in 1962.
+   </p>
+  </h2>
+  <h2 id="h219093">
+   <title>
+    Evolutionary computing
+   </title>
+   <p>
+    Samuel’s checkers program was also notable for being one of the first efforts at evolutionary computing. (His program “evolved” by pitting a modified copy against the current best version of his program, with the winner becoming the new standard.) Evolutionary computing typically involves the use of some automatic method of generating and evaluating successive “generations” of a program, until a highly proficient solution evolves.
+   </p>
+   <p>
+    A leading proponent of evolutionary computing, John Holland, also wrote test software for the prototype of the IBM 701 computer. In particular, he helped design a
+    <xref articleid="126495">
+     neural-network
+    </xref>
+    “virtual” rat that could be trained to navigate through a maze. This work convinced Holland of the efficacy of the bottom-up approach. While continuing to consult for
+    <xref articleid="1636">
+     IBM
+    </xref>
+    , Holland moved to the
+    <xref articleid="52484">
+     University of Michigan
+    </xref>
+    in 1952 to pursue a doctorate in
+    <xref articleid="109827">
+     mathematics
+    </xref>
+    . He soon switched, however, to a new interdisciplinary program in
+    <xref articleid="117728">
+     computers
+    </xref>
+    and information processing (later known as communications science) created by Arthur Burks, one of the builders of
+    <xref articleid="443545">
+     ENIAC
+    </xref>
+    and its successor EDVAC. In his 1959 dissertation, for most likely the world’s first computer science Ph.D., Holland proposed a new type of computer—a multiprocessor computer—that would assign each artificial neuron in a network to a separate processor. (In 1985
+    <xref articleid="126154">
+     Daniel Hillis
+    </xref>
+    solved the engineering difficulties to build the first such computer, the 65,536-processor Thinking Machines Corporation
+    <xref articleid="70387" refid="h93020">
+     supercomputer
+    </xref>
+    .)
+   </p>
+   <p>
+    Holland joined the faculty at Michigan after graduation and over the next four decades directed much of the research into methods of automating evolutionary computing, a process now known by the term
+    <e type="italic">
+     genetic algorithms
+    </e>
+    . Systems implemented in Holland’s laboratory included a
+    <xref articleid="105867">
+     chess
+    </xref>
+    program, models of single-
+    <xref articleid="106125">
+     cell
+    </xref>
+    biological organisms, and a classifier system for controlling a simulated gas-pipeline network. Genetic algorithms are no longer restricted to “academic” demonstrations, however; in one important practical application, a genetic algorithm cooperates with a witness to a crime in order to generate a portrait of the criminal.
+   </p>
+  </h2>
+  <h2 id="h219094">
+   <title>
+    Logical reasoning and problem solving
+   </title>
+   <p>
+    The ability to reason logically is an important aspect of intelligence and has always been a major focus of AI research. An important landmark in this area was a theorem-proving program written in 1955–56 by Allen Newell and J. Clifford Shaw of the
+    <xref articleid="473155">
+     RAND Corporation
+    </xref>
+    and
+    <xref articleid="67856">
+     Herbert Simon
+    </xref>
+    of the Carnegie Mellon University. The Logic Theorist, as the program became known, was designed to prove theorems from
+    <e type="italic">
+     Principia Mathematica
+    </e>
+    (1910–13), a three-volume work by the British philosopher-mathematicians
+    <xref articleid="76859">
+     Alfred North Whitehead
+    </xref>
+    and
+    <xref articleid="64464">
+     Bertrand Russell
+    </xref>
+    . In one instance, a proof devised by the program was more elegant than the proof given in the books.
+   </p>
+   <p>
+    Newell, Simon, and Shaw went on to write a more powerful program, the General Problem Solver, or GPS. The first version of GPS ran in 1957, and work continued on the project for about a decade. GPS could solve an impressive variety of puzzles using a trial and error approach. However, one criticism of GPS, and similar programs that lack any learning capability, is that the program’s intelligence is entirely secondhand, coming from whatever information the programmer explicitly includes.
+   </p>
+  </h2>
+  <h2 id="h219095">
+   <title>
+    English dialogue
+   </title>
+   <p>
+    Two of the best-known early AI programs, Eliza and Parry, gave an eerie semblance of intelligent conversation. (Details of both were first published in 1966.) Eliza, written by Joseph Weizenbaum of MIT’s AI Laboratory, simulated a human therapist. Parry, written by Stanford University psychiatrist Kenneth Colby, simulated a human
+    <xref articleid="58420">
+     paranoiac
+    </xref>
+    . Psychiatrists who were asked to decide whether they were communicating with Parry or a human paranoiac were often unable to tell. Nevertheless, neither Parry nor Eliza could reasonably be described as intelligent. Parry’s contributions to the conversation were canned—constructed in advance by the programmer and stored away in the computer’s memory. Eliza, too, relied on canned sentences and simple programming tricks.
+   </p>
+  </h2>
+  <h2 id="h219096">
+   <title>
+    AI programming languages
+   </title>
+   <p>
+    In the course of their work on the Logic Theorist and GPS, Newell, Simon, and Shaw developed their Information Processing Language (IPL), a computer language tailored for AI programming. At the heart of IPL was a highly flexible data structure that they called a list. A list is simply an ordered sequence of items of data. Some or all of the items in a list may themselves be lists. This scheme leads to richly branching structures.
+   </p>
+   <p>
+    In 1960 John McCarthy combined elements of IPL with the lambda calculus (a formal mathematical-logical system) to produce the programming language
+    <xref articleid="443511">
+     LISP
+    </xref>
+    (List Processor), which remains the principal language for AI work in the United States. (The lambda calculus itself was invented in 1936 by the Princeton logician
+    <xref articleid="472038">
+     Alonzo Church
+    </xref>
+    while he was investigating the abstract
+    <e type="italic">
+     Entscheidungsproblem
+    </e>
+    , or “decision problem,” for predicate logic—the same problem that
+    <xref articleid="73839">
+     Turing
+    </xref>
+    had been attacking when he invented the universal
+    <xref articleid="1510">
+     Turing machine
+    </xref>
+    .)
+   </p>
+   <p>
+    The logic programming language PROLOG (Programmation en Logique) was conceived by Alain Colmerauer at the University of Aix-Marseille, France, where the language was first implemented in 1973. PROLOG was further developed by the logician Robert Kowalski, a member of the AI group at the University of Edinburgh. This language makes use of a powerful theorem-proving technique known as resolution, invented in 1963 at the U.S. Atomic Energy Commission’s Argonne National Laboratory in Illinois by the British logician Alan Robinson. PROLOG can determine whether or not a given statement follows logically from other given statements. For example, given the statements “All logicians are rational” and “Robinson is a logician,” a PROLOG program responds in the affirmative to the query “Robinson is rational?” PROLOG is widely used for AI work, especially in Europe and Japan.
+   </p>
+   <p>
+    Researchers at the Institute for New Generation Computer Technology in Tokyo have used PROLOG as the basis for sophisticated logic programming languages. Known as fifth-generation languages, these are in use on nonnumerical parallel computers developed at the Institute.
+   </p>
+   <p>
+    Other recent work includes the development of languages for reasoning about time-dependent data such as “the account was paid yesterday.” These languages are based on tense logic, which permits statements to be located in the flow of time. (Tense logic was invented in 1953 by the philosopher Arthur Prior at the University of Canterbury, Christchurch, New Zealand.)
+   </p>
+  </h2>
+  <h2 id="h219097">
+   <title>
+    Microworld programs
+   </title>
+   <p>
+    To cope with the bewildering complexity of the real world, scientists often ignore less relevant details; for instance, physicists often ignore
+    <xref articleid="35414">
+     friction
+    </xref>
+    and
+    <xref articleid="32229">
+     elasticity
+    </xref>
+    in their models. In 1970
+    <xref articleid="344569">
+     Marvin Minsky
+    </xref>
+    and
+    <xref articleid="608459">
+     Seymour Papert
+    </xref>
+    of the MIT AI Laboratory proposed that likewise AI research should focus on developing programs capable of intelligent behaviour in simpler artificial environments known as microworlds. Much research has focused on the so-called blocks world, which consists of coloured blocks of various shapes and sizes arrayed on a flat surface.
+   </p>
+   <p>
+    An early success of the microworld approach was SHRDLU, written by Terry Winograd of MIT. (Details of the program were published in 1972.) SHRDLU controlled a robot arm that operated above a flat surface strewn with play blocks. Both the arm and the blocks were virtual. SHRDLU would respond to commands typed in natural English, such as “Will you please stack up both of the red blocks and either a green cube or a pyramid.” The program could also answer questions about its own actions.Although SHRDLU was initially hailed as a major breakthrough, Winograd soon announced that the program was, in fact, a dead end. The techniques pioneered in the program proved unsuitable for application in wider, more interesting worlds. Moreover, the appearance that SHRDLU gave of understanding the blocks microworld, and English statements concerning it, was in fact an illusion. SHRDLU had no idea what a green block was.
+   </p>
+   <p>
+    Another product of the microworld approach was Shakey, a mobile
+    <xref articleid="63935">
+     robot
+    </xref>
+    developed at the Stanford Research Institute by Bertram Raphael, Nils Nilsson, and others during the period 1968–72. The robot occupied a specially built microworld consisting of walls, doorways, and a few simply shaped wooden blocks. Each wall had a carefully painted baseboard to enable the robot to “see” where the wall met the floor (a simplification of reality that is typical of the microworld approach). Shakey had about a dozen basic abilities, such as TURN, PUSH, and CLIMB-RAMP.
+   </p>
+   <p>
+    Critics pointed out the highly simplified nature of Shakey’s environment and emphasized that, despite these simplifications, Shakey operated excruciatingly slowly; a series of actions that a human could plan out and execute in minutes took Shakey days.
+   </p>
+   <p>
+    The greatest success of the microworld approach is a type of program known as an expert system, described in the next section.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h219098">
+  <title>
+   Expert systems
+  </title>
+  <p>
+   Expert systems occupy a type of microworld—for example, a model of a ship’s hold and its cargo—that is self-contained and relatively uncomplicated. For such AI systems every effort is made to incorporate all the information about some narrow field that an expert (or group of experts) would know, so that a good expert system can often outperform any single human expert. There are many commercial expert systems, including programs for medical diagnosis, chemical analysis, credit authorization, financial management, corporate planning, financial document routing,
+   <xref articleid="56871">
+    oil
+   </xref>
+   and
+   <xref articleid="109683">
+    mineral
+   </xref>
+   prospecting,
+   <xref articleid="36395">
+    genetic engineering
+   </xref>
+   ,
+   <xref articleid="110735">
+    automobile
+   </xref>
+   design and manufacture,
+   <xref articleid="18803">
+    camera
+   </xref>
+   lens design,
+   <xref articleid="117728">
+    computer
+   </xref>
+   installation design, airline scheduling, cargo placement, and automatic help services for home computer owners.
+  </p>
+  <h2 id="h219099">
+   <title>
+    Knowledge and inference
+   </title>
+   <p>
+    The basic components of an expert system are a knowledge base, or KB, and an inference engine. The information to be stored in the KB is obtained by interviewing people who are expert in the area in question. The interviewer, or knowledge engineer, organizes the information elicited from the experts into a collection of rules, typically of an “if-then” structure. Rules of this type are called production rules. The inference engine enables the expert system to draw deductions from the rules in the KB. For example, if the KB contains the production rules “if
+    <e type="italic">
+     x
+    </e>
+    , then
+    <e type="italic">
+     y
+    </e>
+    ” and “if
+    <e type="italic">
+     y
+    </e>
+    , then
+    <e type="italic">
+     z
+    </e>
+    ,” the inference engine is able to deduce “if
+    <e type="italic">
+     x
+    </e>
+    , then
+    <e type="italic">
+     z
+    </e>
+    .” The expert system might then query its user, “Is
+    <e type="italic">
+     x
+    </e>
+    true in the situation that we are considering?” If the answer is affirmative, the system will proceed to infer
+    <e type="italic">
+     z
+    </e>
+    .
+   </p>
+   <p>
+    Some expert systems use
+    <xref articleid="2203">
+     fuzzy logic
+    </xref>
+    . In standard logic there are only two truth values, true and false. This absolute precision makes vague attributes or situations difficult to characterize. (When, precisely, does a thinning head of hair become a bald head?) Often the rules that human experts use contain vague expressions, and so it is useful for an expert system’s inference engine to employ fuzzy logic.
+   </p>
+  </h2>
+  <h2 id="h219100">
+   <title>
+    DENDRAL
+   </title>
+   <p>
+    In 1965 the AI researcher Edward Feigenbaum and the geneticist
+    <xref articleid="47582">
+     Joshua Lederberg
+    </xref>
+    , both of
+    <xref articleid="69406">
+     Stanford University
+    </xref>
+    , began work on Heuristic DENDRAL (later shortened to DENDRAL), a chemical-analysis expert system. The substance to be analyzed might, for example, be a complicated
+    <xref articleid="110804">
+     compound
+    </xref>
+    of
+    <xref articleid="20244">
+     carbon
+    </xref>
+    ,
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    , and
+    <xref articleid="55947">
+     nitrogen
+    </xref>
+    . Starting from spectrographic data obtained from the substance, DENDRAL would hypothesize the substance’s
+    <xref articleid="53247">
+     molecular
+    </xref>
+    structure. DENDRAL’s performance rivaled that of
+    <xref articleid="108655">
+     chemists
+    </xref>
+    expert at this task, and the program was used in industry and in academia.
+   </p>
+  </h2>
+  <h2 id="h219101">
+   <title>
+    MYCIN
+   </title>
+   <p>
+    Work on MYCIN, an expert system for treating
+    <xref articleid="106084">
+     blood
+    </xref>
+    infections, began at
+    <xref articleid="69406">
+     Stanford University
+    </xref>
+    in 1972. MYCIN would attempt to diagnose patients based on reported symptoms and medical test results. The program could request further information concerning the patient, as well as suggest additional laboratory tests, to arrive at a probable diagnosis, after which it would recommend a course of treatment. If requested, MYCIN would explain the reasoning that led to its diagnosis and recommendation. Using about 500 production rules, MYCIN operated at roughly the same level of competence as human specialists in blood infections and rather better than general practitioners.
+   </p>
+   <p>
+    Nevertheless, expert systems have no common sense or understanding of the limits of their expertise. For instance, if MYCIN were told that a patient who had received a gunshot wound was bleeding to death, the program would attempt to diagnose a
+    <xref articleid="110416">
+     bacterial
+    </xref>
+    cause for the patient’s symptoms. Expert systems can also act on absurd clerical errors, such as prescribing an obviously incorrect dosage of a drug for a patient whose weight and age data were accidentally transposed.
+   </p>
+  </h2>
+  <h2 id="h219102">
+   <title>
+    The CYC project
+   </title>
+   <p>
+    CYC is a large experiment in symbolic AI. The project began in 1984 under the auspices of the Microelectronics and Computer Technology Corporation, a consortium of computer,
+    <xref articleid="66711">
+     semiconductor
+    </xref>
+    , and
+    <xref articleid="106023">
+     electronics
+    </xref>
+    manufacturers. In 1995 Douglas Lenat, the CYC project director, spun off the project as Cycorp, Inc., based in Austin, Texas. The most ambitious goal of Cycorp was to build a KB containing a significant percentage of the commonsense knowledge of a human being. Millions of commonsense assertions, or rules, were coded into CYC. The expectation was that this “critical mass” would allow the system itself to extract further rules directly from ordinary prose and eventually serve as the foundation for future generations of expert systems.
+   </p>
+   <p>
+    With only a fraction of its commonsense KB compiled, CYC could draw inferences that would defeat simpler systems. For example, CYC could infer, “Garcia is wet,” from the statement, “Garcia is finishing a marathon run,” by employing its rules that running a
+    <xref articleid="50748">
+     marathon
+    </xref>
+    entails high exertion, that people sweat at high levels of exertion, and that when something sweats it is wet. Among the outstanding remaining problems are issues in searching and problem solving—for example, how to search the KB automatically for information that is relevant to a given problem. AI researchers call the problem of updating, searching, and otherwise manipulating a large structure of symbols in realistic amounts of time the frame problem. Some critics of symbolic AI believe that the frame problem is largely unsolvable and so maintain that the symbolic approach will never yield genuinely intelligent systems. It is possible that CYC, for example, will succumb to the frame problem long before the system achieves human levels of knowledge.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h219103">
+  <title>
+   Connectionism
+  </title>
+  <p>
+   Connectionism, or neuronlike computing, developed out of attempts to understand how the human
+   <xref articleid="16178">
+    brain
+   </xref>
+   works at the neural level and, in particular, how people learn and remember. In 1943 the neurophysiologist Warren McCulloch of the
+   <xref articleid="1974">
+    University of Illinois
+   </xref>
+   and the mathematician Walter Pitts of the
+   <xref articleid="23977">
+    University of Chicago
+   </xref>
+   published an influential treatise on
+   <xref articleid="109392" refid="h21498">
+    neural nets and automatons
+   </xref>
+   , according to which each neuron in the brain is a simple digital processor and the brain as a whole is a form of computing machine. As McCulloch put it subsequently, “What we thought we were doing (and I think we succeeded fairly well) was treating the brain as a
+   <xref articleid="1510">
+    Turing machine
+   </xref>
+   .”
+  </p>
+  <h2 id="h219104">
+   <title>
+    Creating an artificial neural network
+   </title>
+   <p>
+    It was not until 1954, however, that Belmont Farley and Wesley Clark of
+    <xref articleid="51298">
+     MIT
+    </xref>
+    succeeded in running the first artificial
+    <xref articleid="126495">
+     neural network
+    </xref>
+    —albeit limited by computer memory to no more than 128
+    <xref articleid="55388">
+     neurons
+    </xref>
+    . They were able to train their networks to recognize simple patterns. In addition, they discovered that the random destruction of up to 10 percent of the neurons in a trained network did not affect the network’s performance—a feature that is reminiscent of the brain’s ability to tolerate limited damage inflicted by surgery, accident, or disease.
+   </p>
+   <p>
+    <assembly id="a55236" url="/assembly/view/55236">
+     <title>
+      section of an artificial neural network
+     </title>
+     <media mediaid="65065" type="image" url="/65/65065-004-55E954C2.jpg"/>
+     <caption>
+      In the artificial neural network section shown in the figure, the weight, or strength, of each input is indicated by the relative size of its connection. The firing threshold for the output neuron,
+      <e type="italic">
+       N
+      </e>
+      , is 4 in this example. Hence,
+      <e type="italic">
+       N
+      </e>
+      is quiescent unless a combination of input signals is received from
+      <e type="italic">
+       W
+      </e>
+      ,
+      <e type="italic">
+       X
+      </e>
+      ,
+      <e type="italic">
+       Y
+      </e>
+      , and
+      <e type="italic">
+       Z
+      </e>
+      that exceeds a weight of 4.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a55236"/>
+    The simple neural network depicted in the figure illustrates the central ideas of connectionism. Four of the network’s five neurons are for input, and the fifth—to which each of the others is connected—is for output. Each of the neurons is either firing (1) or not firing (0). Each connection leading to
+    <e type="italic">
+     N
+    </e>
+    , the output neuron, has a “weight.” What is called the total weighted input into
+    <e type="italic">
+     N
+    </e>
+    is calculated by adding up the weights of all the connections leading to
+    <e type="italic">
+     N
+    </e>
+    from neurons that are firing. For example, suppose that only two of the input neurons,
+    <e type="italic">
+     X
+    </e>
+    and
+    <e type="italic">
+     Y
+    </e>
+    , are firing. Since the weight of the connection from
+    <e type="italic">
+     X
+    </e>
+    to
+    <e type="italic">
+     N
+    </e>
+    is 1.5 and the weight of the connection from
+    <e type="italic">
+     Y
+    </e>
+    to
+    <e type="italic">
+     N
+    </e>
+    is 2, it follows that the total weighted input to
+    <e type="italic">
+     N
+    </e>
+    is 3.5. As shown in the figure,
+    <e type="italic">
+     N
+    </e>
+    has a firing threshold of 4. That is to say, if
+    <e type="italic">
+     N
+    </e>
+    ’s total weighted input equals or exceeds 4, then
+    <e type="italic">
+     N
+    </e>
+    fires; otherwise,
+    <e type="italic">
+     N
+    </e>
+    does not fire. So, for example,
+    <e type="italic">
+     N
+    </e>
+    does not fire if the only input neurons to fire are
+    <e type="italic">
+     X
+    </e>
+    and
+    <e type="italic">
+     Y
+    </e>
+    , but
+    <e type="italic">
+     N
+    </e>
+    does fire if
+    <e type="italic">
+     X
+    </e>
+    ,
+    <e type="italic">
+     Y
+    </e>
+    , and
+    <e type="italic">
+     Z
+    </e>
+    all fire.
+   </p>
+   <p>
+    Training the network involves two steps. First, the external agent inputs a pattern and observes the behaviour of
+    <e type="italic">
+     N
+    </e>
+    . Second, the agent adjusts the connection weights in accordance with the rules:
+   </p>
+   <list type="ul">
+    <item>
+     If the actual output is 0 and the desired output is 1, increase by a small fixed amount the weight of each connection leading to
+     <e type="italic">
+      N
+     </e>
+     from neurons that are firing (thus making it more likely that
+     <e type="italic">
+      N
+     </e>
+     will fire the next time the network is given the same pattern);
+    </item>
+    <item>
+     If the actual output is 1 and the desired output is 0, decrease by that same small amount the weight of each connection leading to the output neuron from neurons that are firing (thus making it less likely that the output neuron will fire the next time the network is given that pattern as input).
+    </item>
+   </list>
+   <p>
+    The external agent—actually a computer program—goes through this two-step procedure with each pattern in a training sample, which is then repeated a number of times. During these many repetitions, a pattern of connection weights is forged that enables the network to respond correctly to each pattern. The striking thing is that the learning process is entirely mechanical and requires no human intervention or adjustment. The connection weights are increased or decreased automatically by a constant amount, and exactly the same learning procedure applies to different tasks.
+   </p>
+  </h2>
+  <h2 id="h219105">
+   <title>
+    Perceptrons
+   </title>
+   <p>
+    In 1957 Frank Rosenblatt of the Cornell Aeronautical Laboratory at
+    <xref articleid="26342">
+     Cornell University
+    </xref>
+    in Ithaca, New York, began investigating artificial neural networks that he called perceptrons. He made major contributions to the field of AI, both through experimental investigations of the properties of neural networks (using computer simulations) and through detailed mathematical analysis. Rosenblatt was a charismatic communicator, and there were soon many research groups in the United States studying perceptrons. Rosenblatt and his followers called their approach connectionist to emphasize the importance in learning of the creation and modification of connections between neurons. Modern researchers have adopted this term.
+   </p>
+   <p>
+    One of Rosenblatt’s contributions was to generalize the training procedure that Farley and Clark had applied to only two-layer networks so that the procedure could be applied to multilayer networks. Rosenblatt used the phrase “back-propagating error correction” to describe his method. The method, with substantial improvements and extensions by numerous scientists, and the term
+    <e type="italic">
+     back-propagation
+    </e>
+    are now in everyday use in connectionism.
+   </p>
+  </h2>
+  <h2 id="h219106">
+   <title>
+    Conjugating verbs
+   </title>
+   <p>
+    In one famous connectionist experiment conducted at the University of California at San Diego (published in 1986), David Rumelhart and James McClelland trained a network of 920 artificial neurons, arranged in two layers of 460 neurons, to form the past tenses of English verbs. Root forms of verbs—such as
+    <e type="italic">
+     come
+    </e>
+    ,
+    <e type="italic">
+     look
+    </e>
+    , and
+    <e type="italic">
+     sleep
+    </e>
+    —were presented to one layer of neurons, the input layer. A supervisory computer program observed the difference between the actual response at the layer of output neurons and the desired response—
+    <e type="italic">
+     came
+    </e>
+    , say—and then mechanically adjusted the connections throughout the network in accordance with the procedure described above to give the network a slight push in the direction of the correct response. About 400 different verbs were presented one by one to the network, and the connections were adjusted after each presentation. This whole procedure was repeated about 200 times using the same verbs, after which the network could correctly form the past tense of many unfamiliar verbs as well as of the original verbs. For example, when presented for the first time with
+    <e type="italic">
+     guard
+    </e>
+    , the network responded
+    <e type="italic">
+     guarded
+    </e>
+    ; with
+    <e type="italic">
+     weep
+    </e>
+    ,
+    <e type="italic">
+     wept
+    </e>
+    ; with
+    <e type="italic">
+     cling
+    </e>
+    ,
+    <e type="italic">
+     clung
+    </e>
+    ; and with
+    <e type="italic">
+     drip
+    </e>
+    ,
+    <e type="italic">
+     dripped
+    </e>
+    (complete with double
+    <e type="italic">
+     p
+    </e>
+    ). This is a striking example of learning involving generalization. (Sometimes, though, the peculiarities of English were too much for the network, and it formed
+    <e type="italic">
+     squawked
+    </e>
+    from
+    <e type="italic">
+     squat
+    </e>
+    ,
+    <e type="italic">
+     shipped
+    </e>
+    from
+    <e type="italic">
+     shape
+    </e>
+    , and
+    <e type="italic">
+     membled
+    </e>
+    from
+    <e type="italic">
+     mail
+    </e>
+    .)
+   </p>
+   <p>
+    Another name for connectionism is
+    <e type="italic">
+     parallel distributed processing,
+    </e>
+    which emphasizes two important features. First, a large number of relatively simple processors—the neurons—operate in parallel. Second, neural networks store information in a distributed fashion, with each individual connection participating in the storage of many different items of information. The know-how that enabled the past-tense network to form
+    <e type="italic">
+     wept
+    </e>
+    from
+    <e type="italic">
+     weep
+    </e>
+    , for example, was not stored in one specific location in the network but was spread throughout the entire pattern of connection weights that was forged during training. The human brain also appears to store information in a distributed fashion, and connectionist research is contributing to attempts to understand how it does so.
+   </p>
+  </h2>
+  <h2 id="h219107">
+   <title>
+    Other neural networks
+   </title>
+   <p>
+    Other work on neuronlike computing includes the following:
+   </p>
+   <list type="ul">
+    <item>
+     <e type="italic">
+      Visual perception
+     </e>
+     . Networks can recognize faces and other objects from visual data. A neural network designed by John Hummel and Irving Biederman at the
+     <xref articleid="2014">
+      University of Minnesota
+     </xref>
+     can identify about 10 objects from simple line drawings. The network is able to recognize the objects—which include a mug and a frying pan—even when they are drawn from different angles. Networks investigated by Tomaso Poggio of MIT are able to recognize bent-wire shapes drawn from different angles, faces photographed from different angles and showing different expressions, and objects from cartoon drawings with gray-scale shading indicating depth and orientation.
+    </item>
+    <item>
+     <e type="italic">
+      Language processing
+     </e>
+     . Neural networks are able to convert handwritten and typewritten material to electronic text. The U.S. Internal Revenue Service has commissioned a neuronlike system that will automatically read tax returns and correspondence. Neural networks also convert speech to printed text and printed text to speech.
+    </item>
+    <item>
+     <e type="italic">
+      Financial analysis
+     </e>
+     . Neural networks are being used increasingly for loan risk assessment, real estate valuation, bankruptcy prediction, share price prediction, and other business applications.
+    </item>
+    <item>
+     <e type="italic">
+      Medicine
+     </e>
+     . Medical applications include detecting
+     <xref articleid="49375">
+      lung
+     </xref>
+     nodules and
+     <xref articleid="39718">
+      heart
+     </xref>
+     <xref articleid="20287">
+      arrhythmias
+     </xref>
+     and predicting adverse drug reactions.
+    </item>
+    <item>
+     <e type="italic">
+      Telecommunications
+     </e>
+     .
+     <xref articleid="117784">
+      Telecommunications
+     </xref>
+     applications of neural networks include control of
+     <xref articleid="110260">
+      telephone
+     </xref>
+     switching networks and echo cancellation in
+     <xref articleid="53141">
+      modems
+     </xref>
+     and on
+     <xref articleid="65844">
+      satellite
+     </xref>
+     links.
+    </item>
+   </list>
+  </h2>
+ </h1>
+ <h1 id="h219108">
+  <title>
+   Nouvelle AI
+  </title>
+  <h2 id="h219109">
+   <title>
+    New foundations
+   </title>
+   <p>
+    The approach now known as nouvelle AI was pioneered at the MIT AI Laboratory by the Australian
+    <xref articleid="344566">
+     Rodney Brooks
+    </xref>
+    during the latter half of the 1980s. Nouvelle AI distances itself from strong AI, with its emphasis on human-level performance, in favour of the relatively modest aim of
+    <xref articleid="105953">
+     insect
+    </xref>
+    -level performance. At a very fundamental level, nouvelle AI rejects symbolic AI’s reliance upon constructing internal models of reality, such as those described in the section
+    <xref articleid="9711" refid="h219097">
+     Microworld programs
+    </xref>
+    . Practitioners of nouvelle AI assert that true intelligence involves the ability to function in a real-world environment.
+   </p>
+   <p>
+    A central idea of nouvelle AI is that intelligence, as expressed by complex behaviour, “emerges” from the interaction of a few simple behaviours. For example, a
+    <xref articleid="63935">
+     robot
+    </xref>
+    whose simple behaviours include collision avoidance and motion toward a moving object will appear to stalk the object, pausing whenever it gets too close.
+   </p>
+   <p>
+    <assembly id="a55524" url="/assembly/view/55524">
+     <title>
+      Herbert the robot
+     </title>
+     <media mediaid="65356" type="image" url="/56/65356-004-2DB7470F.jpg"/>
+     <caption>
+      Designed by Rodney Brooks and affectionately named for artificial intelligence pioneer Herbert Simon, Herbert the robot employed 30 infrared sensors, a laser scanner, and a magnetic compass to locate soft-drink cans and keep itself oriented as it wandered throughout the MIT Artificial Intelligence Laboratory. After collecting an empty can with its robotic arm, Herbert would return it to a recycling bin.
+     </caption>
+     <credit>
+      © MIT, Artificial Intelligence Laboratory
+     </credit>
+    </assembly>
+    <assembly id="a56153" url="/assembly/view/56153">
+     <title>
+      three stages of mobile robot development for the Mars Rover Research Project
+     </title>
+     <media mediaid="65774" type="image" url="/74/65774-004-6505892A.jpg"/>
+     <caption>
+      Three stages of mobile robot development for the Mars Rover Research Project: (A) Genghis, (B) Attila, and (C) Pebbles, displayed in MIT’s development of a mobile robot to reconnoitre the Martian surface. To see a larger image and obtain information on each robot, click on the individual photograph.
+     </caption>
+     <credit>
+      © MIT, Artificial Intelligence Laboratory
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a55524"/>
+    One famous example of nouvelle AI is Brooks’s robot Herbert (named after
+    <xref articleid="67856">
+     Herbert Simon
+    </xref>
+    ), whose environment is the busy offices of the MIT AI Laboratory. Herbert searches desks and tables for empty soda cans, which it picks up and carries away. The robot’s seemingly goal-directed behaviour emerges from the interaction of about 15 simple behaviours. More recently, Brooks has constructed prototypes of mobile robots for exploring the surface of
+    <xref articleid="110149">
+     Mars
+    </xref>
+    . (
+    <e type="italic">
+     See
+    </e>
+    the photographs
+    <assemblyref assemblyid="a56153"/>
+    and an interview with Rodney Brooks.)
+   </p>
+   <p>
+    Nouvelle AI sidesteps the frame problem discussed in the section
+    <xref articleid="9711" refid="h219102">
+     The CYC project
+    </xref>
+    . Nouvelle systems do not contain a complicated symbolic model of their environment. Instead, information is left “out in the world” until such time as the system needs it. A nouvelle system refers continuously to its sensors rather than to an internal model of the world: it “reads off” the external world whatever information it needs at precisely the time it needs it. (As Brooks insisted, the world is its own best model—always exactly up-to-date and complete in every detail.)
+   </p>
+  </h2>
+  <h2 id="h219110">
+   <title>
+    The situated approach
+   </title>
+   <p>
+    Traditional AI has by and large attempted to build disembodied intelligences whose only interaction with the world has been indirect (CYC, for example). Nouvelle AI, on the other hand, attempts to build embodied intelligences situated in the real world—a method that has come to be known as the situated approach. Brooks quoted approvingly from the brief sketches that
+    <xref articleid="73839">
+     Turing
+    </xref>
+    gave in 1948 and 1950 of the situated approach. By equipping a machine “with the best sense organs that money can buy,” Turing wrote, the machine might be taught “to understand and speak English” by a process that would “follow the normal teaching of a child.” Turing contrasted this with the approach to AI that focuses on abstract activities, such as the playing of
+    <xref articleid="105867">
+     chess
+    </xref>
+    . He advocated that both approaches be pursued, but until recently little attention has been paid to the situated approach.
+   </p>
+   <p>
+    The situated approach was also anticipated in the writings of the philosopher Bert Dreyfus of the
+    <xref articleid="18668">
+     University of California
+    </xref>
+    at Berkeley. Beginning in the early 1960s, Dreyfus opposed the physical symbol system hypothesis, arguing that intelligent behaviour cannot be completely captured by symbolic descriptions. As an alternative, Dreyfus advocated a view of intelligence that stressed the need for a body that could move about, interacting directly with tangible physical objects. Once reviled by advocates of AI, Dreyfus is now regarded as a prophet of the situated approach.
+   </p>
+   <p>
+    Critics of nouvelle AI point out the failure to produce a system exhibiting anything like the complexity of behaviour found in real insects. Suggestions by researchers that their nouvelle systems may soon be conscious and possess language seem entirely premature.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h219111">
+  <title>
+   Is strong AI possible?
+  </title>
+  <p>
+   The ongoing success of applied AI and of cognitive simulation, as described in the preceding sections of this article, seems assured. However, strong AI—that is, artificial intelligence that aims to duplicate human intellectual abilities—remains controversial. Exaggerated claims of success, in professional journals as well as the popular press, have damaged its reputation. At the present time even an embodied system displaying the overall intelligence of a
+   <xref articleid="24594">
+    cockroach
+   </xref>
+   is proving elusive, let alone a system that can rival a human being. The difficulty of scaling up AI’s modest achievements cannot be overstated. Five decades of research in symbolic AI have failed to produce any firm evidence that a symbol system can manifest human levels of general intelligence; connectionists are unable to model the nervous systems of even the simplest
+   <xref articleid="42669">
+    invertebrates
+   </xref>
+   ; and critics of nouvelle AI regard as simply mystical the view that high-level behaviours involving language understanding, planning, and reasoning will somehow emerge from the interaction of basic behaviours such as obstacle avoidance, gaze control, and object manipulation.
+  </p>
+  <p>
+   However, this lack of substantial progress may simply be testimony to the difficulty of strong AI, not to its impossibility. Let us turn to the very idea of strong artificial intelligence. Can a computer possibly think?
+   <xref articleid="82316">
+    Noam Chomsky
+   </xref>
+   suggests that debating this question is pointless, for it is an essentially arbitrary decision whether to extend common usage of the word
+   <e type="italic">
+    think
+   </e>
+   to include machines. There is, Chomsky claims, no factual question as to whether any such decision is right or wrong—just as there is no question as to whether our decision to say that airplanes fly is right, or our decision not to say that ships swim is wrong. However, this seems to oversimplify matters. The important question is, Could it ever be appropriate to say that computers think, and, if so, what conditions must a computer satisfy in order to be so described?
+  </p>
+  <p>
+   Some authors offer the
+   <xref articleid="1511">
+    Turing test
+   </xref>
+   as a definition of intelligence. However, Turing himself pointed out that a computer that ought to be described as intelligent might nevertheless fail his test if it were incapable of successfully imitating a human being. For example, why should an intelligent robot designed to oversee mining on the
+   <xref articleid="110148">
+    Moon
+   </xref>
+   necessarily be able to pass itself off in conversation as a human being? If an intelligent entity can fail the test, then the test cannot function as a definition of intelligence. It is even questionable whether passing the test would actually show that a computer is intelligent, as the information theorist
+   <xref articleid="125111">
+    Claude Shannon
+   </xref>
+   and the AI pioneer
+   <xref articleid="472838">
+    John McCarthy
+   </xref>
+   pointed out in 1956. Shannon and McCarthy argued that it is possible, in principle, to design a machine containing a complete set of canned responses to all the questions that an interrogator could possibly ask during the fixed time span of the test. Like Parry, this machine would produce answers to the interviewer’s questions by looking up appropriate responses in a giant table. This objection seems to show that in principle a system with no intelligence at all could pass the Turing test.
+  </p>
+  <p>
+   In fact, AI has no real definition of intelligence to offer, not even in the subhuman case.
+   <xref articleid="62752">
+    Rats
+   </xref>
+   are intelligent, but what exactly must an artificial intelligence achieve before researchers can claim this level of success? In the absence of a reasonably precise criterion for when an artificial system counts as intelligent, there is no objective way of telling whether an AI research program has succeeded or failed. One result of AI’s failure to produce a satisfactory criterion of intelligence is that, whenever researchers achieve one of AI’s goals—for example, a program that can summarize newspaper articles or beat the world chess champion—critics are able to say “
+   <e type="italic">
+    That’s
+   </e>
+   not intelligence!”
+   <xref articleid="344569">
+    Marvin Minsky’s
+   </xref>
+   response to the problem of defining intelligence is to maintain—like Turing before him—that intelligence is simply our name for any problem-solving mental process that we do not yet understand. Minsky likens intelligence to the concept “unexplored regions of Africa”: it disappears as soon as we discover it.
+  </p>
+  <signature>
+   B.J. Copeland
+  </signature>
+ </h1>
+ <h1 id="h219112">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    B. Jack Copeland
+   </e>
+   ,
+   <e type="italic">
+    Artificial Intelligence: A Philosophical Introduction
+   </e>
+   (1993), treats at greater length many of the issues introduced in this article.
+  </p>
+  <p>
+   <e type="smallcap">
+    Pamela McCorduck
+   </e>
+   ,
+   <e type="italic">
+    Machines Who Think
+   </e>
+   (1979), is a highly readable account of symbolic AI.
+  </p>
+  <p>
+   <e type="smallcap">
+    Marvin Minsky
+   </e>
+   ,
+   <e type="italic">
+    The Society of Mind
+   </e>
+   (1986, reissued 1988), sets out the author’s theory of how minds work, chiefly based on his extensive work in symbolic AI.
+  </p>
+  <p>
+   <e type="smallcap">
+    William Bechtel
+   </e>
+   and
+   <e type="smallcap">
+    Adele Abrahamsen
+   </e>
+   ,
+   <e type="italic">
+    Connectionism and the Mind
+   </e>
+   (1991), is an introduction to neuronlike computing and its relationship to the study of the brain.
+  </p>
+  <p>
+   <e type="smallcap">
+    Luc Steels
+   </e>
+   and
+   <e type="smallcap">
+    Rodney Brooks
+   </e>
+   (eds.),
+   <e type="italic">
+    The Artificial Life Route to Artificial Intelligence: Building Embodied, Situated Agents
+   </e>
+   (1995), describes the theory and practice of nouvelle AI.
+  </p>
+  <p>
+   <e type="smallcap">
+    Monty Newborn
+   </e>
+   ,
+   <e type="italic">
+    Kasparov Versus Deep Blue: Computer Chess Comes of Age
+   </e>
+   (1997), is a fascinating account of computer chess from Turing to Deep Blue.
+  </p>
+  <p>
+   <e type="smallcap">
+    Douglas B. Lenat
+   </e>
+   and
+   <e type="smallcap">
+    R.V. Guha
+   </e>
+   ,
+   <e type="italic">
+    Building Large Knowledge-Based Systems
+   </e>
+   (1990), provides an in-depth account of the CYC project.
+  </p>
+  <p>
+   <e type="smallcap">
+    Hubert L. Dreyfus
+   </e>
+   ,
+   <e type="italic">
+    What Computers Still Can’t Do
+   </e>
+   (1992), is both a first-rate history of symbolic AI and a catalogue of objections to the whole project.
+  </p>
+  <p>
+   <e type="smallcap">
+    John L. Casti
+   </e>
+   ,
+   <e type="italic">
+    The Cambridge Quintet: A Work of Scientific Speculation
+   </e>
+   (1998), is a thought-provoking imaginary dialogue on AI between Turing, the philosopher Ludwig Wittgenstein, and others.
+  </p>
+  <signature>
+   B.J. Copeland
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

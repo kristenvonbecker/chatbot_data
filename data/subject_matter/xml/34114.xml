@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="34114" articletypeid="1" language="en_us" lastupdate="2022-Jul-08 17:55:07" url="/article/ferromagnetism/34114" version="2">
+ <title>
+  ferromagnetism
+ </title>
+ <p>
+  <e type="bold">
+   ferromagnetism
+  </e>
+  , physical phenomenon in which certain electrically uncharged materials strongly attract others. Two materials found in nature, lodestone (or magnetite, an oxide of iron, Fe
+  <sub>
+   3
+  </sub>
+  O
+  <sub>
+   4
+  </sub>
+  ) and iron, have the ability to acquire such attractive powers, and they are often called natural ferromagnets. They were discovered more than 2,000 years ago, and all early scientific studies of
+  <xref articleid="106020">
+   magnetism
+  </xref>
+  were conducted on these materials. Today, ferromagnetic materials are used in a wide variety of devices essential to everyday life—e.g.,
+  <xref articleid="106043">
+   electric motors
+  </xref>
+  and
+  <xref articleid="106042">
+   generators
+  </xref>
+  ,
+  <xref articleid="73199">
+   transformers
+  </xref>
+  ,
+  <xref articleid="110260">
+   telephones
+  </xref>
+  , and
+  <xref articleid="49042">
+   loudspeakers
+  </xref>
+  .
+ </p>
+ <p>
+  Ferromagnetism is a kind of magnetism that is associated with iron,
+  <xref articleid="24523">
+   cobalt
+  </xref>
+  ,
+  <xref articleid="55747">
+   nickel
+  </xref>
+  , and some
+  <xref articleid="5832">
+   alloys
+  </xref>
+  or
+  <xref articleid="110804">
+   compounds
+  </xref>
+  containing one or more of these
+  <xref articleid="110602">
+   elements
+  </xref>
+  . It also occurs in
+  <xref articleid="35781">
+   gadolinium
+  </xref>
+  and a few other
+  <xref articleid="110615">
+   rare-earth elements
+  </xref>
+  . In contrast to other substances, ferromagnetic materials are magnetized easily, and in strong magnetic fields the magnetization approaches a definite limit called saturation. When a field is applied and then removed, the magnetization does not return to its original value; this phenomenon is referred to as
+  <xref articleid="41845">
+   hysteresis
+  </xref>
+  . When heated to a certain
+  <xref articleid="71632">
+   temperature
+  </xref>
+  called the
+  <xref articleid="28254">
+   Curie point
+  </xref>
+  , which is different for each substance, ferromagnetic materials lose their characteristic properties and cease to be magnetic; however, they become ferromagnetic again on cooling.
+ </p>
+ <p>
+  The magnetism in ferromagnetic materials is caused by the alignment patterns of their constituent atoms, which act as elementary electromagnets. Some species of
+  <xref articleid="110411">
+   atoms
+  </xref>
+  possess a magnetic moment; that is, such an atom itself is an elementary
+  <xref articleid="32309">
+   electromagnet
+  </xref>
+  produced by the motion of
+  <xref articleid="32316">
+   electrons
+  </xref>
+  about its
+  <xref articleid="56462">
+   nucleus
+  </xref>
+  and by the spin of those electrons. Below the Curie point, atoms that behave as tiny magnets in ferromagnetic materials spontaneously align themselves. They become oriented in the same direction, so that their magnetic fields reinforce each other.
+ </p>
+ <p>
+  One requirement of a ferromagnetic material is that its atoms or
+  <xref articleid="42688">
+   ions
+  </xref>
+  have permanent magnetic moments. The magnetic moment of an atom comes from its electrons, since the nuclear contribution is negligible. Another requirement for ferromagnetism is that
+  <xref articleid="110312">
+   quantummechanical
+  </xref>
+  effects keep the magnetic moments of many atoms parallel to each other. According to the
+  <xref articleid="58783">
+   Pauli exclusion principle
+  </xref>
+  , two electrons in the same location cannot have their
+  <xref articleid="69132">
+   spins
+  </xref>
+  oriented in the same direction. Their spins must be antiparallel. In electrons in nearby atoms, if two electrons were antiparallel, that would mean the two electrons would have a strong repulsive force from being near each other. By having their spins and thus their magnetic moments be parallel, the material is in a lower energy configuration than that in which nearby electrons are exerting a strong repulsive force on each other. Without these quantum mechanical effects, the atoms would be disordered by thermal agitation, the moments of neighbouring atoms would neutralize each other, and the large magnetic moment characteristic of ferromagnetic materials would not exist.
+ </p>
+ <p>
+  There is ample evidence that some atoms or ions have a permanent magnetic moment that may be pictured as a
+  <xref articleid="50021">
+   dipole
+  </xref>
+  consisting of a positive, or north, pole separated from a negative, or south, pole. In ferromagnets, the large coupling between the atomic magnetic moments leads to some degree of dipole alignment and hence to a net magnetization.
+ </p>
+ <p>
+  The French physicist Pierre-Ernest Weiss postulated a large-scale type of magnetic order for ferromagnets called domain structure. According to his theory, a ferromagnetic solid consists of a large number of small regions, or domains, in each of which all of the atomic or ionic magnetic moments are aligned. If the resultant moments of these domains are randomly oriented, the object as a whole will not display magnetism, but an externally applied magnetizing field will, depending on its strength, rotate one after another of the domains into alignment with the external field and cause aligned domains to grow at the expense of nonaligned ones. In the limiting state called saturation, the entire object will comprise a single domain.
+ </p>
+ <p>
+  Domain structure can be observed directly. In one technique, a
+  <xref articleid="24793">
+   colloidal
+  </xref>
+  solution of small magnetic particles, usually magnetite, is placed on the surface of a ferromagnet. When surface poles are present, the particles tend to concentrate in certain regions to form a pattern that is readily observed with an optical
+  <xref articleid="108723">
+   microscope
+  </xref>
+  . Domain patterns have also been observed with polarized light, polarized
+  <xref articleid="55406">
+   neutrons
+  </xref>
+  ,
+  <xref articleid="32318">
+   electron beams
+  </xref>
+  , and
+  <xref articleid="77656">
+   X-rays
+  </xref>
+  .
+ </p>
+ <p>
+  In many ferromagnets the dipole moments are aligned parallel by the strong coupling. This is the magnetic arrangement found for the elemental metals iron (Fe), nickel (Ni), and cobalt (Co) and for their alloys with one another and with some other elements. These materials still constitute the largest group of ferromagnets commonly used. The other elements that possess a collinear ordering are the rare-earth metals gadolinium (Gd),
+  <xref articleid="71743">
+   terbium
+  </xref>
+  (Tb), and
+  <xref articleid="31684">
+   dysprosium
+  </xref>
+  (Dy), but the last two become ferromagnets only well below room temperature. Some alloys, although not composed of any of the elements just mentioned, nevertheless have a parallel moment arrangement. An example of this is the
+  <xref articleid="40316">
+   Heusler alloy
+  </xref>
+  CuAlMn
+  <sub>
+   3
+  </sub>
+  , in which the
+  <xref articleid="50515">
+   manganese
+  </xref>
+  (Mn) atoms have magnetic moments, though manganese metal itself is not ferromagnetic.
+ </p>
+ <p>
+  Several ionically bound compounds have been discovered to be ferromagnetic. Some of these compounds are electrical
+  <xref articleid="42511">
+   insulators
+  </xref>
+  ; others have a conductivity of magnitude typical of
+  <xref articleid="66711">
+   semiconductors
+  </xref>
+  . Such compounds include chalcogenides (compounds of
+  <xref articleid="57841">
+   oxygen
+  </xref>
+  ,
+  <xref articleid="70248">
+   sulfur
+  </xref>
+  ,
+  <xref articleid="66662">
+   selenium
+  </xref>
+  , or
+  <xref articleid="71610">
+   tellurium
+  </xref>
+  ), halides (compounds of
+  <xref articleid="34677">
+   fluorine
+  </xref>
+  ,
+  <xref articleid="82243">
+   chlorine
+  </xref>
+  ,
+  <xref articleid="16596">
+   bromine
+  </xref>
+  , or
+  <xref articleid="42681">
+   iodine
+  </xref>
+  ), and their combinations. The ions with permanent dipole moments in these materials are manganese,
+  <xref articleid="82451">
+   chromium
+  </xref>
+  (Cr), and
+  <xref articleid="33275">
+   europium
+  </xref>
+  (Eu); the others are
+  <xref articleid="30261">
+   diamagnetic
+  </xref>
+  . At low temperatures, the rare-earth metals
+  <xref articleid="40820">
+   holmium
+  </xref>
+  (Ho) and erbium (Er) have a nonparallel moment arrangement that gives rise to a substantial spontaneous magnetization. Some ionic compounds with the
+  <xref articleid="69141">
+   spinel
+  </xref>
+  crystal structure also possess ferromagnetic ordering. A different structure leads to a spontaneous magnetization in
+  <xref articleid="72316">
+   thulium
+  </xref>
+  (Tm) below 32 kelvins (K).
+ </p>
+ <p>
+  Above the Curie point (also called the Curie temperature), the spontaneous magnetization of the ferromagnetic material vanishes, and it becomes
+  <xref articleid="58400">
+   paramagnetic
+  </xref>
+  (i.e., it remains weakly magnetic). This occurs because the thermal energy becomes sufficient to overcome the internal aligning forces of the material. The Curie temperatures for some important ferromagnets are: iron, 1,043 K; cobalt, 1,394 K; nickel, 631 K; and gadolinium, 293 K.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

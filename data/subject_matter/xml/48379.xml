@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="48379" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 23:24:10" url="/article/linear-accelerator/48379" version="3">
+ <title>
+  linear accelerator
+ </title>
+ <p>
+  <e type="bold">
+   linear accelerator
+  </e>
+  , also called
+  <e type="bold">
+   Linac
+  </e>
+  , type of
+  <xref articleid="108531">
+   particle accelerator
+  </xref>
+  (
+  <e type="italic">
+   q.v.
+  </e>
+  ) that imparts a series of relatively small increases in energy to subatomic particles as they pass through a sequence of alternating electric fields set up in a linear structure. The small accelerations add together to give the particles a greater energy than could be achieved by the voltage used in one section alone.
+ </p>
+ <p>
+  In 1924 Gustaf Ising, a Swedish physicist, proposed accelerating particles using alternating electric fields, with “drift tubes” positioned at appropriate intervals to shield the particles during the half-cycle when the field is in the wrong direction for acceleration. Four years later, the Norwegian engineer Rolf Wideröe built the first machine of this kind, successfully accelerating potassium ions to an energy of 50,000 electron volts (50 kiloelectron volts).
+ </p>
+ <p>
+  Linear machines for accelerating lighter particles, such as protons and electrons, awaited the advent of powerful radio-frequency oscillators, which were developed for radar during World War II. Proton linacs typically operate at frequencies of about 200 megahertz (MHz), while the accelerating force in electron linacs is provided by an electromagnetic field with a microwave frequency of about 3,000 MHz.
+ </p>
+ <p>
+  The proton linac, designed by the American physicist Luis Alvarez in 1946, is a more efficient variant of Wideröe’s structure. In this accelerator, electric fields are set up as standing waves within a cylindrical metal “resonant cavity,” with drift tubes suspended along the central axis. The largest proton linac is at the Clinton P. Anderson Meson Physics Facility in Los Alamos, N.M., U.S.; it is 875 m (2,870 feet) long and accelerates protons to 800 million electron volts (800 megaelectron volts). For much of its length, this machine utilizes a structural variation, known as the side-coupled cavity accelerator, in which acceleration occurs in on-axis cells that are coupled together by cavities mounted to their sides. These coupling cavities serve to stabilize the performance of the accelerator against changes in the resonant frequencies of the accelerating cells.
+ </p>
+ <p>
+  Electron linacs utilize traveling waves rather than standing waves. Because of their small mass, electrons travel at close to the speed of light at energies as low as 5 megaelectron volts. They can therefore travel along the linac with the accelerating wave, in effect riding the crest of the wave and thus always experiencing an accelerating field. The world’s longest electron linac is the 3.2-kilometre (2-mile) machine at the Stanford (University) Linear Accelerator Center, Menlo Park, Calif., U.S.; it can accelerate electrons to 50 billion electron volts (50 gigaelectron volts). Much smaller linacs, both proton and electron types, have important practical applications in medicine and in industry.
+ </p>
+ <signature>
+  Christine Sutton
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

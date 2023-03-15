@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="32843" articletypeid="1" language="en_us" lastupdate="2022-Jul-21 15:01:21" url="/article/equilibrium/32843" version="3">
+ <title>
+  equilibrium
+ </title>
+ <p>
+  <assembly id="a2287" url="/assembly/view/2287">
+   <title>
+    body under equal and opposite forces
+   </title>
+   <media mediaid="2482" type="image" url="/82/2482-004-0FB0CC12.jpg"/>
+   <caption>
+    (A) A body in equilibrium under equal and opposite forces. (B) A body not in equilibrium under equal and opposite forces.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   equilibrium
+  </e>
+  ,
+  <assemblyref assemblyid="a2287"/>
+  in
+  <xref articleid="108654">
+   physics
+  </xref>
+  , the condition of a system when neither its state of motion nor its internal energy state tends to change with time. A simple mechanical body is said to be in equilibrium if it experiences neither linear
+  <xref articleid="3469">
+   acceleration
+  </xref>
+  nor angular acceleration; unless it is disturbed by an outside force, it will continue in that condition indefinitely. For a single particle, equilibrium arises if the
+  <xref articleid="384392">
+   vector
+  </xref>
+  sum of all forces acting upon the particle is zero. A rigid body (by definition distinguished from a particle in having the property of extension) is considered to be in equilibrium if, in addition to the states listed for the particle above, the vector sum of all
+  <xref articleid="72955">
+   torques
+  </xref>
+  acting on the body equals zero so that its state of rotational motion remains constant. An equilibrium is said to be stable if small, externally induced displacements from that state produce forces that tend to oppose the displacement and return the body or particle to the equilibrium state. Examples include a weight suspended by a spring or a brick lying on a level surface. An equilibrium is unstable if the least departure produces forces that tend to increase the displacement. An example is a ball bearing balanced on the edge of a razor blade.
+ </p>
+ <p>
+  In
+  <xref articleid="108582">
+   thermodynamics
+  </xref>
+  the concept of equilibrium is extended to include possible changes in the internal state of a system, as characterized by its
+  <xref articleid="71632">
+   temperature
+  </xref>
+  ,
+  <xref articleid="61303">
+   pressure
+  </xref>
+  ,
+  <xref articleid="29953">
+   density
+  </xref>
+  , and any other quantities needed to specify its state completely. At strict thermodynamic equilibrium, the temperature of the system is uniform (otherwise heat would flow), and any gradients in state functions such as pressure or density are balanced by external forces so that they remain constant. For example, the equilibrium pressure at the bottom of a column of air is higher than at the top because of the force of
+  <xref articleid="106265">
+   gravity
+  </xref>
+  , and density gradients in a
+  <xref articleid="22102">
+   centrifuge
+  </xref>
+  are balanced by the
+  <xref articleid="22100">
+   centrifugal force
+  </xref>
+  . It is also useful to consider quasi-equilibrium processes where, for example, temperature gradients are allowed if the rate of
+  <xref articleid="39732">
+   heat
+  </xref>
+  flow is too slow to be significant (
+  <xref articleid="3732">
+   adiabatic processes
+  </xref>
+  ), but the system is otherwise in local thermodynamic equilibrium. For example, the adiabatic expansion of a rising column of air accounts for the decrease of atmospheric temperature with
+  <xref articleid="71632">
+   altitude
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="26063" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:19:16" url="/article/continuity/26063" version="5">
+ <title>
+  continuity
+ </title>
+ <p>
+  <e type="bold">
+   continuity
+  </e>
+  , in mathematics, rigorous formulation of the intuitive concept of a
+  <xref articleid="35654">
+   function
+  </xref>
+  that varies with no abrupt breaks or jumps. A function is a relationship in which every value of an independent variable—say
+  <e type="italic">
+   x
+  </e>
+  —is associated with a value of a dependent variable—say
+  <e type="italic">
+   y
+  </e>
+  . Continuity of a function is sometimes expressed by saying that if the
+  <e type="italic">
+   x
+  </e>
+  -values are close together, then the
+  <e type="italic">
+   y
+  </e>
+  -values of the function will also be close. But if the question “How close?” is asked, difficulties arise.
+ </p>
+ <p>
+  For close
+  <e type="italic">
+   x
+  </e>
+  -values, the distance between the
+  <e type="italic">
+   y
+  </e>
+  -values can be large even if the function has no sudden jumps. For example, if
+  <e type="italic">
+   y
+  </e>
+  = 1,000
+  <e type="italic">
+   x
+  </e>
+  , then two values of
+  <e type="italic">
+   x
+  </e>
+  that differ by 0.01 will have corresponding
+  <e type="italic">
+   y
+  </e>
+  -values differing by 10. On the other hand, for any point
+  <e type="italic">
+   x
+  </e>
+  , points can be selected close enough to it so that the
+  <e type="italic">
+   y
+  </e>
+  -values of this function will be as close as desired, simply by choosing the
+  <e type="italic">
+   x
+  </e>
+  -values to be closer than 0.001 times the desired closeness of the
+  <e type="italic">
+   y
+  </e>
+  -values. Thus, continuity is defined precisely by saying that a function
+  <e type="italic">
+   f
+  </e>
+  (
+  <e type="italic">
+   x
+  </e>
+  ) is continuous at a point
+  <e type="italic">
+   x
+  </e>
+  <sub>
+   0
+  </sub>
+  of its domain if and only if, for any degree of closeness ε desired for the
+  <e type="italic">
+   y
+  </e>
+  -values, there is a distance δ for the
+  <e type="italic">
+   x
+  </e>
+  -values (in the above example equal to 0.001ε) such that for any
+  <e type="italic">
+   x
+  </e>
+  of the domain within the distance δ from
+  <e type="italic">
+   x
+  </e>
+  <sub>
+   0
+  </sub>
+  ,
+  <e type="italic">
+   f
+  </e>
+  (
+  <e type="italic">
+   x
+  </e>
+  ) will be within the distance ε from
+  <e type="italic">
+   f
+  </e>
+  (
+  <e type="italic">
+   x
+  </e>
+  <sub>
+   0
+  </sub>
+  ). In contrast, the function that equals 0 for
+  <e type="italic">
+   x
+  </e>
+  less than or equal to 1 and that equals 2 for
+  <e type="italic">
+   x
+  </e>
+  larger than 1 is not continuous at the point
+  <e type="italic">
+   x
+  </e>
+  = 1, because the difference between the value of the function at 1 and at any point ever so slightly greater than 1 is never less than 2.
+ </p>
+ <p>
+  A function is said to be continuous if and only if it is continuous at every point of its domain. A function is said to be continuous on an interval, or subset of its domain, if and only if it is continuous at each point of the interval. The sum, difference, and product of continuous functions with the same domain are also continuous, as is the quotient, except at points at which the denominator is zero. Continuity can also be defined in terms of
+  <xref articleid="48305">
+   limits
+  </xref>
+  by saying that
+  <e type="italic">
+   f
+  </e>
+  (
+  <e type="italic">
+   x
+  </e>
+  ) is continuous at
+  <e type="italic">
+   x
+  </e>
+  <sub>
+   0
+  </sub>
+  of its domain if and only if, for values of
+  <e type="italic">
+   x
+  </e>
+  in its domain,
+  <formula>
+   <inlinemedia id="i16124" mediaid="16124" url="/24/16124-004-6CE1755E.jpg"/>
+  </formula>
+ </p>
+ <p>
+  A more abstract definition of continuity can be given in terms of sets, as is done in
+  <xref articleid="108691">
+   topology
+  </xref>
+  , by saying that for any open set of
+  <e type="italic">
+   y
+  </e>
+  -values, the corresponding set of
+  <e type="italic">
+   x
+  </e>
+  -values is also open. (A set is “open” if each of its elements has a “neighbourhood,” or region enclosing it, that lies entirely within the set.) Continuous functions are the most basic and widely studied class of functions in mathematical
+  <xref articleid="111001">
+   analysis
+  </xref>
+  , as well as the most commonly occurring ones in physical situations.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

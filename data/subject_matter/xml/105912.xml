@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="105912" articletypeid="1" language="en_us" lastupdate="2021-Dec-15 12:32:23" url="/article/complexity/105912" version="7">
+ <title>
+  complexity
+ </title>
+ <p>
+  <e type="bold">
+   complexity
+  </e>
+  , a scientific theory which asserts that some systems display behavioral phenomena that are completely inexplicable by any conventional analysis of the systems’ constituent parts. These phenomena, commonly referred to as emergent behaviour, seem to occur in many complex systems involving living organisms, such as a stock market or the human brain. For instance, complexity theorists see a stock market crash as an emergent response of a complex monetary system to the actions of myriad individual investors; human consciousness is seen as an emergent property of a complex network of neurons in the brain. Precisely how to model such emergence—that is, to devise mathematical laws that will allow emergent behaviour to be explained and even predicted—is a major problem that has yet to be solved by complexity theorists. The effort to establish a solid theoretical foundation has attracted mathematicians, physicists, biologists, economists, and others, making the study of complexity an exciting and evolving new scientific theory.
+ </p>
+ <p>
+  This article surveys the basic properties that are common to all complex systems and summarizes some of the most prominent attempts that have been made to model emergent behaviour. The text is adapted from
+  <e type="italic">
+   Would-be Worlds
+  </e>
+  (1997), by the American mathematician John L. Casti, and is published here by permission of the author.
+ </p>
+ <h1 id="h129399">
+  <title>
+   Complexity as a systems concept
+  </title>
+  <p>
+   In everyday parlance a system, animate or inanimate, that is composed of many interacting components whose behaviour or structure is difficult to understand is frequently called complex. Sometimes a system may be structurally complex, like a mechanical clock, but behave very simply. (In fact, it is the simple, regular behaviour of a clock that allows it to serve as a timekeeping device.) On the other hand, there are systems, such as the weather or the Internet, whose structure is very easy to understand but whose behaviour is impossible to predict. And, of course, some systems—such as the brain—are complex in both structure and behaviour.
+  </p>
+  <p>
+   Complex systems are not new, but for the first time in history tools are available to study such systems in a controlled, repeatable, scientific fashion. Previously, the study of complex systems, such as an ecosystem, a national economy, or even a road-traffic network, was simply too expensive, too time-consuming, or too dangerous—in sum, too impractical—for tinkering with the system as a whole. Instead, only bits and pieces of such processes could be looked at in a laboratory or in some other controlled setting. But, with today’s computers, complete silicon surrogates of these systems can be built, and these “would-be worlds” can be manipulated in ways that would be unthinkable for their real-world counterparts.
+  </p>
+  <p>
+   In coming to terms with complexity as a systems concept, an inherent subjective component must first be acknowledged. When something is spoken of as being “complex,” everyday language is being used to express a subjective feeling or impression. Hence, the meaning of something depends not only on the language in which it is expressed (i.e., the code), the medium of transmission, and the message but also on the context. In short, meaning is bound up with the whole process of communication and does not reside in just one or another aspect of it. As a result, the complexity of a political structure, an ecosystem, or an immune system cannot be regarded as simply a property of that system taken in isolation. Rather, whatever complexity such systems have is a joint property of the system and its interaction with other systems, most often an observer or controller.
+  </p>
+  <p>
+   This point is easy to see in areas like finance. Assume an individual investor interacts with the stock exchange and thereby affects the price of a stock by deciding to buy, to sell, or to hold. This investor then sees the market as complex or simple, depending on how he or she perceives the change of prices. But the exchange itself acts upon the investor, too, in the sense that what is happening on the floor of the exchange influences the investor’s decisions. This feedback causes the market to see the investor as having a certain degree of complexity, in that the investor’s actions cause the market to be described in terms such as
+   <e type="italic">
+    nervous
+   </e>
+   ,
+   <e type="italic">
+    calm
+   </e>
+   , or
+   <e type="italic">
+    unsettled
+   </e>
+   . The two-way complexity of a financial market becomes especially obvious in situations when an investor’s trades make noticeable blips on the ticker without actually dominating the market.
+  </p>
+  <p>
+   So just as with truth, beauty, and good and evil, complexity resides as much in the eye of the beholder as it does in the structure and behaviour of a system itself. This is not to say that objective ways of characterizing some aspects of a system’s complexity do not exist. After all, an amoeba is just plain simpler than an elephant by anyone’s notion of complexity. The main point, though, is that these objective measures arise only as special cases of the two-way measures, cases in which the interaction between the system and the observer is much weaker in one direction.
+  </p>
+  <p>
+   A second key point is that common usage of the term
+   <e type="italic">
+    complex
+   </e>
+   is informal. The word is typically employed as a name for something counterintuitive, unpredictable, or just plain hard to understand. So to create a genuine science of complex systems (something more than just anecdotal accounts), these informal notions about the complex and the commonplace would need to be translated into a more formal, stylized language, one in which intuition and meaning can be more or less faithfully captured in symbols and syntax. The problem is that an integral part of transforming complexity (or anything else) into a science involves making that which is fuzzy precise, not the other way around—an exercise that might more compactly be expressed as “formalizing the informal.”
+  </p>
+  <p>
+   To bring home this point, look at the various properties associated with simple and complex systems.
+  </p>
+  <h2 id="h129400">
+   <title>
+    Predictability
+   </title>
+   <p>
+    There are no surprises in simple systems. Drop a stone, it falls; stretch a spring and let go, it oscillates in a fixed pattern; put money into a fixed-interest bank account, it accrues regularly. Such predictable and intuitively well-understood behaviour is one of the principal characteristics of simple systems.
+   </p>
+   <p>
+    Complex processes, on the other hand, generate counterintuitive, seemingly acausal behaviour that is full of surprises. Lowering taxes and interest rates may unexpectedly lead to higher unemployment; low-cost housing projects frequently give rise to slums worse than those they replaced; and opening new freeways often results in unprecedented traffic jams and increased commuting times. Such unpredictable, seemingly capricious behaviour is one of the defining features of complex systems.
+   </p>
+  </h2>
+  <h2 id="h129401">
+   <title>
+    Connectedness
+   </title>
+   <p>
+    Simple systems generally involve a small number of components, with self-interactions dominating the linkages between the variables. For example, primitive barter economies, in which only a small number of goods (food, tools, weapons, clothing) are traded, are simpler and easier to understand than the developed economies of industrialized nations.
+   </p>
+   <p>
+    In addition to having only a few variables, simple systems generally consist of very few feedback loops. Loops of this sort enable the system to restructure, or at least modify, the interaction pattern between its variables, thereby opening up the possibility for a wider range of behaviours. To illustrate, consider a large organization that is characterized by employment stability, the substitution of capital for human labour, and individual action and responsibility (individuality). Increased substitution of labour by capital decreases individuality in the organization, which in turn may reduce employment stability. Such a feedback loop exacerbates any internal stresses initially present in the system—possibly leading to a collapse of the entire organization. This type of collapsing loop is especially dangerous for social structures.
+   </p>
+  </h2>
+  <h2 id="h129402">
+   <title>
+    Centralized control
+   </title>
+   <p>
+    In simple systems control is generally concentrated in one, or at most a few, locations. Political dictatorships, privately owned corporations, and the original American telephone system are good examples of centralized systems with very little interaction, if any, between the lines of command. Moreover, the effects of the central authority’s decisions are clearly traceable.
+   </p>
+   <p>
+    By way of contrast, complex systems exhibit a diffusion of real authority. Complex systems may seem to have a central control, but in actuality the power is spread over a decentralized structure; a number of units combine to generate the actual system behaviour. Typical examples of decentralized systems include democratic governments, universities, and the Internet. Complex systems tend to adapt more quickly to unexpected events because each component has more latitude for independent action; complex systems also tend to be more resilient because the proper functioning of each and every component is generally not critical.
+   </p>
+  </h2>
+  <h2 id="h129403">
+   <title>
+    Decomposability
+   </title>
+   <p>
+    Typically, a simple system has few or weak interactions between its various components. Severing some of these connections usually results in the system behaving more or less as before. For example, relocating Native Americans in New Mexico and Arizona to reservations produced no major effects on the dominant social structure of these areas because the Native Americans were only weakly coupled to the dominant local social fabric in the first place.
+   </p>
+   <p>
+    Complex processes, on the other hand, are irreducible. A complex system cannot be decomposed into isolated subsystems without suffering an irretrievable loss of the very information that makes it a system. Neglecting any part of the process or severing any of the connections linking its parts usually destroys essential aspects of the system’s behaviour or structure. The
+    <xref articleid="110308" refid="h77436">
+     <e type="italic">
+      n
+     </e>
+     -body problem
+    </xref>
+    in physics is a quintessential example of this sort of indecomposability. Other examples include an electrical circuit, a Renoir painting, or the tripartite division of the U.S. government into its executive, judicial, and legislative subsystems.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h129404">
+  <title>
+   Surprise-generating mechanisms
+  </title>
+  <p>
+   The vast majority of counterintuitive behaviours shown by complex systems are attributable to some combination of the following five sources: paradox/self-reference, instability, uncomputability, connectivity, and emergence. With some justification, these sources of complexity can be thought of as surprise-generating mechanisms, whose quite different natures lead to their own characteristic type of surprise. A brief description of these mechanisms is described below, followed by a more detailed consideration of how they act to create complex behaviour.
+  </p>
+  <h2 id="h129405">
+   <title>
+    Paradox
+   </title>
+   <p>
+    Paradoxes typically arise from false assumptions, which then lead to inconsistencies between observed and expected behaviour. Sometimes paradoxes occur in simple logical or linguistic situations, such as the famous Liar Paradox (“This sentence is false.”). In other situations, the paradox comes from the peculiarities of the human visual system or simply from the way in which the parts of a system are put together.
+   </p>
+  </h2>
+  <h2 id="h129406">
+   <title>
+    Instability
+   </title>
+   <p>
+    Everyday intuition has generally been honed on systems whose behaviour is stable with regard to small disturbances, for the obvious reason that unstable systems tend not to survive long enough for reliable intuitions to develop about them. Nevertheless, the systems of both nature and humans often display pathologically sensitive behaviour to small disturbances—as, for example, when stock markets crash in response to seemingly minor economic news about interest rates, corporate mergers, or bank failures. Such behaviours occur often enough that they deserve a starring role in this taxonomy of surprise.
+   </p>
+   <p>
+    According to Adam Smith’s 18th-century model of economic processes, if there is a system of goods and a demand for those goods, prices will always tend toward a level at which supply equals demand. Thus, this world postulates some type of negative feedback, which leads to stable prices. This means that any change in prices away from this equilibrium will be resisted by the economy and that the laws of supply and demand will act to reestablish the equilibrium prices. Recently, some economists have argued that this model is not true for many sectors of the real economy. Rather, these economists claim to observe positive feedback in which the price equilibria are unstable.
+   </p>
+  </h2>
+  <h2 id="h129407">
+   <title>
+    Uncomputability
+   </title>
+   <p>
+    The kinds of behaviours seen in models of complex systems are the result of following a set of rules. This is because these models are embodied in computer programs, which must necessarily follow well-defined rules. By definition, any behaviour seen in such worlds is the outcome of following the rules encoded in the program. Although computing machines are de facto rule-following devices, there is no a priori reason to believe that any of the processes of nature and humans are necessarily rule-based. If uncomputable processes do exist in nature—for example, the breaking of waves on a beach or the movement of air masses in the atmosphere—then these processes will never fully manifest themselves in the surrogate worlds of their models. Processes that are close approximations to these uncomputable ones may be observed, just as an irrational number can be approximated as closely as desired by a rational number. However, the real phenomenon will never appear in a computer, if indeed such uncomputable quantities exist outside the pristine world of mathematics.
+   </p>
+   <p>
+    To illustrate what is at issue here, the problem of whether the cognitive powers of the human mind can be duplicated by a computing machine revolves about just this question. If human cognitive activity is nothing more than rule-following, encoded somehow into our neural circuitry, then there is no logical obstacle to constructing a silicon mind. On the other hand, it has been forcefully argued by some that cognition involves activities that transcend simple rule-following. If so, then the workings of the brain can never be captured in a computer program. (This issue is given more complete coverage in the article
+    <xref articleid="9711">
+     artificial intelligence
+    </xref>
+    .)
+   </p>
+  </h2>
+  <h2 id="h129408">
+   <title>
+    Connectivity
+   </title>
+   <p>
+    What makes a system a system, and not simply a collection of elements, are the connections and interactions between its components, as well as the effect that these linkages have on its behaviour. For example, it is the interrelationship between capital and labour that makes an economy; each component taken separately would not suffice. The two must interact for economic activity to take place, and complexity and surprise often reside in these connections. The following is an illustration of this point.
+   </p>
+   <p>
+    Certainly the most famous question of classical celestial mechanics is the
+    <e type="italic">
+     n
+    </e>
+    -body problem, which comes in many forms. One version involves
+    <e type="italic">
+     n
+    </e>
+    point masses (a simplifying mathematical idealization that concentrates each body’s mass into a point) moving in accordance with Newton’s laws of gravitational attraction and asks if, from some set of initial positions and velocities of the particles, there is a finite time in the future at which either two (or more) bodies will collide or one (or more) bodies will acquire an arbitrarily high energy and thus escape the system. In the special case when
+    <e type="italic">
+     n
+    </e>
+    = 10, this is a mathematical formulation of the question, “Is our solar system stable?”
+   </p>
+   <p>
+    The behaviour of two planetary bodies orbiting each other can be written down completely in terms of the elementary functions of mathematics, such as powers, roots, sines, cosines, and exponentials. Nevertheless, for the extension to just three bodies it turns out to be impossible to combine the solutions of the three two-body problems to determine whether the three-body system is stable. Thus, the essence of the three-body problem resides somehow in the way in which all three bodies interact. Any approach to the problem that severs even one of the linkages between the bodies destroys the very nature of the problem. Here is a case in which complicated behaviour arises as a result of the interactions between relatively simple subsystems.
+   </p>
+  </h2>
+  <h2 id="h129409">
+   <title>
+    Emergence
+   </title>
+   <p>
+    A surprise-generating mechanism dependent on connectivity for its very existence is the phenomenon known as emergence. Emergence refers to unexpected global system properties, not present in any of the individual subsystems, that emerge from component interactions. A good example is water, whose distinguishing characteristics are its natural form as a liquid and its nonflammability—both of which are totally different than the properties of its component gases, hydrogen and oxygen.
+   </p>
+   <p>
+    The difference between complexity arising from emergence and that coming only from connection patterns lies in the nature of the interactions between the various components of the system. For emergence, attention is not placed simply on whether there is some kind of interaction between the components but also on the specific nature of those interactions. For instance, connectivity alone would not enable one to distinguish between ordinary tap water, which involves an interaction between hydrogen and oxygen molecules, and heavy water (deuterium), which involves an interaction between the same components but with an extra neutron thrown into the mix. Emergence would make this distinction. In practice it is often difficult (and unnecessary) to differentiate between connectivity and emergence, and they are frequently treated as synonymous surprise-generating mechanisms.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h129410">
+  <title>
+   Emergent behaviour
+  </title>
+  <p>
+   Complex systems produce surprising behaviour; in fact, they produce behavioral patterns and properties that just cannot be predicted from knowledge of their parts taken in isolation. The appearance of emergent properties is probably the single most distinguishing feature of complex systems. An example of this phenomenon is the
+   <e type="italic">
+    Game of Life
+   </e>
+   , a simple board game created in the late 1960s by American mathematician John Conway.
+   <e type="italic">
+    Life
+   </e>
+   is not really a game because there are no players, nor are there any decisions to be made;
+   <e type="italic">
+    Life
+   </e>
+   is actually a dynamical system (albeit constrained to the squares of an infinite checkerboard) that displays many intriguing examples of emergence. Another example of emergence occurs in the global behaviour of an ant colony.
+  </p>
+  <h2 id="h129411">
+   <title>
+    Emergence in an ant colony
+   </title>
+   <p>
+    Like human societies, ant colonies achieve things that no individual member can accomplish. Nests are erected and maintained; chambers and tunnels are excavated; and territories are defended. Individual ants acting in accord with simple, local information carry on all of these activities; there is no master ant overseeing the entire colony and broadcasting instructions to the individual workers. Each individual ant processes the partial information available to it in order to decide which of the many possible functional roles it should play in the colony.
+   </p>
+   <p>
+    Recent work on harvester ants has shed considerable light on the processes by which members of an ant colony assume various roles. These studies identify four distinct tasks that an adult harvester-ant worker can perform outside the nest: foraging, patrolling, nest maintenance, and midden work (building and sorting the colony’s refuse pile). It is primarily the interactions between ants performing these tasks that give rise to emergent phenomena in the ant colony.
+   </p>
+   <p>
+    When debris is piled near their nest opening, nest-maintenance workers abound. Apparently, the ants engage in task switching, by which the local decision of each individual ant determines much of the coordinated behaviour of the entire colony. Task allocation depends on two kinds of decisions made by individual ants. First, there is the decision about which task to perform, followed by the decision of whether to be active in this task. As already noted, these decisions are based solely on local information; there is no centralized control keeping track of the big picture.
+   </p>
+   <p>
+    Once an ant becomes a forager it never switches to other tasks outside the nest. When a large cleaning chore arises on the surface of the nest, new nest-maintenance workers are recruited from ants working inside the nest, not from workers performing tasks on the outside. When there is a disturbance, such as an intrusion by foreign ants, nest-maintenance workers switch tasks to become patrollers. Finally, once an ant is allocated a task outside the nest, it never returns to chores on the inside.
+   </p>
+   <p>
+    The foregoing ant colony example shows how interactions between various types of ants can give rise to patterns of global work allocation in the colony, emergent patterns that cannot be predicted or that cannot even arise for isolated ants. The next section presents an example of emergence in an artificial financial market.
+   </p>
+  </h2>
+  <h2 id="h129412">
+   <title>
+    Emergence in an artificial stock market
+   </title>
+   <p>
+    Around 1988, W. Brian Arthur, an economist from Stanford University, and John Holland, a computer scientist from the University of Michigan, hit upon the idea of creating an artificial stock market inside a computer, one that could be used to answer a number of questions that people in finance had wondered and worried about for decades. Among these questions are:
+   </p>
+   <list type="ul">
+    <item>
+     Does the average price of a stock settle down to its fundamental value, the value determined by the discounted stream of dividends that one can expect to receive by holding the stock indefinitely?
+    </item>
+    <item>
+     Is it possible to concoct technical trading schemes that systematically turn a profit greater than a simple buy-and-hold strategy?
+    </item>
+    <item>
+     Does the market eventually settle into a fixed pattern of buying and selling?
+    </item>
+   </list>
+   <p>
+    Arthur and Holland knew the conventional economist’s view that today’s stock price is simply the discounted expectation of tomorrow’s price plus dividend, given the information available about the stock today. This theoretical price-setting procedure is based on the assumption that there is a shared optimal method of processing the vast array of available information, such as past prices, trading volumes, and economic indicators. In reality, there exist many different technical analyses, based on different reasonable assumptions, that lead to divergent price forecasts.
+   </p>
+   <p>
+    The simple observation that there is no single, clearly best way to process information led Arthur and Holland to conclude that deductive methods for forecasting prices are, at best, an academic fiction. As soon as the possibility is acknowledged that not all traders in the market arrive at their forecasts in the same way, the deductive approach of classical finance theory begins to break down. Because traders must make assumptions about how other investors form expectations and how they behave, they must try to “psych out” the market. But this leads to a world of subjective beliefs—and to beliefs about those beliefs. In short, it leads to a world of induction rather than deduction.
+   </p>
+   <p>
+    To answer these uncertainties, Arthur and Holland, along with physicist Richard Palmer, finance theorist Blake LeBaron, and market trader Paul Tayler, built an artificial electronic market. This enabled them to perform experiments, manipulating individual trader strategies and various market parameters that would not be allowed on a real stock exchange.
+   </p>
+   <p>
+    This surrogate market consists of:
+   </p>
+   <list type="ul">
+    <item>
+     a fixed amount of stock in a single company;
+    </item>
+    <item>
+     a number of “traders” (computer programs) that can trade shares of this stock at each time period;
+    </item>
+    <item>
+     a “specialist” who sets the stock price endogenously by observing market supply and demand and by matching buy and sell orders;
+    </item>
+    <item>
+     an outside investment (“bonds”) in which traders can place money at a varying rate of interest;
+    </item>
+    <item>
+     a dividend stream for the stock that follows a random pattern.
+    </item>
+   </list>
+   <p>
+    As for the traders, the model assumes that each one summarizes recent market activity by a collection of descriptors, verbal characterizations such as “the market has gone up every day for the past week,” or “the market is nervous,” or “the market is lethargic today.” For compactness, these descriptors are labeled A, B, C, and so on. In terms of the descriptors, the traders decide whether to buy or sell by rules of the form: “If the market fulfills conditions A, B, and C, then BUY, but if conditions D, G, S, and K are fulfilled, then HOLD.” Each trader has a collection of rules, one of which is acted upon at each trading period.
+   </p>
+   <p>
+    As buying and selling go on in the market, the traders can reevaluate their set of rules in two different ways: by assigning higher weights (probabilities) to a rule that has proved profitable in the past; or by combining successful rules to form new rules that can then be tested in the market. This latter is carried out by a genetic algorithm, in imitation of the way that sexual reproduction combines genetic material to produce new and different offspring.
+   </p>
+   <p>
+    Initially, a set of predictors is assigned to each trader at random, along with a particular history of stock prices, interest rates, and dividends. The traders then select one of their rules, based on its weight, and use it to start the buying-and-selling process. As a result of what happens in the first round of trading, the traders modify their collection of weighted rules, generate new rules (possibly), and then choose the best rule for the next round of trading. And so the process goes, period after period, buying, selling, placing money in bonds, modifying and generating rules, estimating how good the rules are, and, in general, acting analogously to traders in real financial markets.
+   </p>
+   <p>
+    A typical moment in this artificial market is displayed in the . Moving clockwise from the upper left, in the first window the stock’s price is denoted by the black line, and the top of the gray region indicates the stock’s fundamental value. Thus, when the black line is much higher than the gray region, there exists a price “bubble”; when the black line sinks well into the gray region, the market has “crashed.” The upper right window displays the current relative wealth of the various traders, while the lower right window displays their current level of stock holdings. In the lower left window, gray indicates “sell” orders and black indicates “buy.” Because there must be both a buyer and a seller for any transaction, the lower of these two quantities indicates the trading volume.
+   </p>
+   <p>
+    After many periods of trading (and modification of the traders’ decision rules), what emerges is a kind of ecology of predictors, with different traders employing different rules to make their decisions. Furthermore, the stock price always settles down to a random fluctuation about its fundamental value. But within these fluctuations, price bubbles and crashes, psychological market “moods,” overreactions to price movements, and all the other things associated with speculative markets in the real world can be observed.
+   </p>
+   <p>
+    Also, as in real markets, the predictors in the artificial market continually coevolve, showing no evidence of settling down to a single best predictor for all occasions. Rather, the optimal way to proceed depends critically upon what everyone else is doing. In addition, mutually reinforcing trend-following or technical-analysis-like rules appear in the predictor population.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h129413">
+  <title>
+   The role of chaos and fractals
+  </title>
+  <p>
+   One of the most pernicious misconceptions about complex systems is that complexity and chaotic behaviour are synonymous. On the basis of the foregoing discussion of emergence, it is possible to put the role of
+   <xref articleid="22470">
+    chaos
+   </xref>
+   in complex systems into its proper perspective. Basically, if one focuses attention on the time evolution of an emergent property, such as the price movements of a stock or the daily changes in temperature, then that property may well display behaviour that is completely deterministic yet indistinguishable from a random process; in other words, it is chaotic. So chaos is an epiphenomenon, one that often goes hand-in-hand with complexity but does not necessarily follow from it in all cases. What is important from a system-theoretic standpoint are the interactions of the lower-level agents—traders, drivers, molecules—which create the emergent patterns, not the possibly chaotic behaviour that these patterns display. The following example illustrates the difference.
+  </p>
+  <h2 id="h129414">
+   <title>
+    Chaos at the El Farol bar
+   </title>
+   <p>
+    El Farol was a bar in Santa Fe, New Mexico, U.S., at which Irish music was played every Thursday evening. As a result, the same Irish economist, W. Brian Arthur, who created the artificial stock market described above, was fond of going to the bar each Thursday. But he was not fond of doing so amid a crowd of pushing and shoving drinkers. So Arthur’s problem each Thursday was to decide whether the crowd at El Farol would be too large for him to enjoy the music. Arthur attacked the question of whether to attend by constructing a simple model of the situation.
+   </p>
+   <p>
+    Assume, said Arthur, that there are 100 people in Santa Fe who would like to listen to the music at El Farol, but none of them wants to go if the bar is going to be too crowded. To be specific, suppose that all 100 people know the attendance at the bar for each of the past several weeks. For example, such a record might be 44, 78, 56, 15, 23, 67, 84, 34, 45, 76, 40, 56, 23, and 35 attendees. Each individual then independently employs some prediction procedure to estimate how many people will come to the bar on the following Thursday evening. Typical predictors might be:
+   </p>
+   <list type="ul">
+    <item>
+     the same number as last week (35);
+    </item>
+    <item>
+     a mirror image around 50 of last week’s attendance (65);
+    </item>
+    <item>
+     a rounded-up average of the past four weeks’ attendance (39);
+    </item>
+    <item>
+     the same as two weeks ago (23).
+    </item>
+   </list>
+   <p>
+    Suppose each person decides independently to go to the bar if their prediction is that fewer than 60 people will attend; otherwise, they stay home. Once each person’s forecast and decision to attend has been made, people converge on the bar, and the new attendance figure is published the next day in the newspaper. At this time, all the music lovers update the accuracies of the predictors in their particular set, and things continue for another round. This process creates what might be termed an ecology of predictors.
+   </p>
+   <p>
+    The problem faced by each person is then to forecast the attendance as accurately as possible, knowing that the actual attendance will be determined by the forecasts others make. This immediately leads to an “I-think-you-think-they-think” type of regress—a regress of a particularly nasty sort. For suppose that someone becomes convinced that 87 people will attend. If this person assumes other music lovers are equally smart, then it is natural to assume they will also see that 87 is a good forecast. But then they all stay home, negating the accuracy of that forecast! So no shared, or common, forecast can possibly be a good one; in short, deductive logic fails.
+   </p>
+   <p>
+    It did not take Arthur long to discover that it is difficult to formulate a useful model in conventional mathematical terms. So he decided to create the world of El Farol inside his computer. He hoped to obtain an insight into how humans reason when deductive logic offers few guidelines. As an economist, his interest was in self-referential problems—situations in which the forecasts made by economic agents act to create the world they are trying to forecast. Traditionally, economists depend on the idea of rational expectations, where homogeneous agents agree on the same forecasting model and know that others know that others know that, etc. The classical economist then asks which forecasting model would be consistent, on average, with the outcome that it creates. But how agents come up with this magical model is left unsaid. Moreover, if the agents use different models, a morass of technical—and conceptual—difficulties will arise.
+   </p>
+   <p>
+    Arthur’s experiments showed that, if the predictors are not too simplistic, the number of people who attend will fluctuate around an average of 60. And, in fact, whatever threshold level Arthur chose seemed always to be the long-run attendance average. In addition, the computational experiments turned up an even more intriguing pattern—at least for mathematicians: The number of people going to the bar each week is a purely deterministic function of the individual predictions, which themselves are deterministic functions of the past attendance. This means that there is no inherently random factor dictating how many people show up. Yet the actual number going to hear the music in any week looks more random than deterministic. The graph in the shows a typical record of attendance for a 100-week period when the threshold level was set at 60.
+   </p>
+   <p>
+    These experimental observations lead to fairly definite and specific mathematical conjectures:
+   </p>
+   <list type="ul">
+    <item>
+     <p>
+      Under suitable conditions (to be determined) on the set of predictors, the average number of people who actually go to the bar converges to the threshold value over time.
+     </p>
+    </item>
+    <item>
+     <p>
+      Under the same set of suitable conditions on the sets of predictors, the attendance is a “deterministically-random” process; that is, it is chaotic.
+     </p>
+    </item>
+   </list>
+   <p>
+    Here then is a prototypical example of a complex, adaptive system in which a global property (bar attendance) emerges from the individual decisions of lower-level agents (the 100 Irish-music fans). Moreover, the temporal fluctuation of the emergent property appears to display chaotic behaviour. But it is not hard to remove the chaos. For example, if every person always uses the rule, “Go to the bar regardless of the past record of attendance,” then the attendance will stay fixed at 100 for all time. This is certainly not chaotic behaviour.
+   </p>
+  </h2>
+  <h2 id="h129415">
+   <title>
+    Fractals
+   </title>
+   <p>
+    A common first step in analyzing a dynamical system is to determine which initial states exhibit similar behaviour. Because nearby states often lead to very similar behaviour, they can usually be grouped into continuous sets or graphical regions. If the system is not chaotic, this geometric decomposition of the space of initial states into discrete regions is rather straightforward, with the regional borders given by simple curves. But when the dynamical system is chaotic, the curves separating the regions are complicated, highly irregular objects termed
+    <xref articleid="35083">
+     fractals
+    </xref>
+    .
+   </p>
+   <p>
+    <assembly id="a19643" url="/assembly/view/19643">
+     <title>
+      weather model of Edward Lorenz
+     </title>
+     <media mediaid="26993" type="image" url="/93/26993-004-73EE20E7.jpg"/>
+     <caption>
+      The weather model of meteorologist Edward Lorenz The
+      <e type="italic">
+       x
+      </e>
+      -,
+      <e type="italic">
+       y
+      </e>
+      -, and
+      <e type="italic">
+       z
+      </e>
+      -axes correspond to components of the weather, while the graph indicates feasible weather patterns. The graph is a function of time, which means, in theory, that tracing the curve in one direction reveals past weather patterns, while tracing the curve in the other direction predicts future weather patterns. However, practically indistinguishable points may lead to completely different weather epochs, indicated by the two distinct “lobes.” This phenomenon, known as sensitivity to initial conditions, is what prevents precise weather forecasts more than a few days into the future.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    A characteristic feature of chaotic dynamical systems is the property of pathological sensitivity to initial positions. This means that starting the same process from two different—but frequently indistinguishable—initial states generally leads to completely different long-term behaviour. For instance, in American meteorologist Edward Lorenz’ weather model (see the
+    <assemblyref assemblyid="a19643">
+     figure
+    </assemblyref>
+    ), almost any two nearby starting points, indicating the current weather, will quickly diverge trajectories and will quite frequently end up in different “lobes,” which correspond to calm or stormy weather. The Lorenz model’s twin-lobed shape gave rise to the somewhat facetious “butterfly effect” metaphor: The flapping of a butterfly’s wings in China today may cause a tornado in Kansas tomorrow. More recent work in engineering, physics, biology, and other areas has shown the ubiquity of fractals throughout nature.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h129416">
+  <title>
+   The science of complexity
+  </title>
+  <p>
+   Recall that in the El Farol problem the Irish-music fans faced the question of how many people would appear at the bar in the coming week. On the basis of their prediction, each individual then chose to go to the bar or stay home, with the actual attendance published the next day. At that time, each person revised his or her set of predictors, using the most accurate predictor to estimate the attendance in the coming week. The key components making up the El Farol problem are exactly the key components in each and every complex, adaptive system, and a decent mathematical formalism to describe and analyze the El Farol problem would go a long way toward the creation of a viable theory of such processes. These key components are:
+  </p>
+  <list type="ul">
+   <item>
+    <p>
+     <e type="italic">
+      A medium-sized number of agents.
+     </e>
+     The El Farol problem postulates 100 Irish-music fans, each of whom acts independently in deciding to attend on Thursday evenings. In contrast to simple systems—like superpower conflicts, which tend to involve a small number of interacting agents—or large systems—like galaxies or containers of gas, which have a large enough collection of agents that statistical means can be used to study them—complex systems involve a medium-sized number of agents. Just like Goldilocks’s porridge, which was not too hot and not too cold, complex systems have a number of agents that is not too small and not too big but just right to create interesting patterns of behaviour.
+    </p>
+   </item>
+   <item>
+    <p>
+     <e type="italic">
+      Intelligent and adaptive agents.
+     </e>
+     Not only are there a medium-sized number of agents, but these agents are “intelligent” and adaptive. This means that they make decisions on the basis of rules and that they are ready to modify the rules on the basis of new information that becomes available. Moreover, the agents are able to generate new, original rules, rather than being constrained forever by a preselected set of rules. This means that an ecology of rules emerges, one that continues to evolve during the course of the process.
+    </p>
+   </item>
+   <item>
+    <p>
+     <e type="italic">
+      Local information.
+     </e>
+     In the real world of complex systems, no agent knows what all the other agents are doing. At most, each person gets information from a relatively small subset of the set of all agents and processes this “local” information to come to a decision as to how they will act. In the El Farol problem, for instance, the local information is as local as it can be, because each person knows only what he or she is doing; none has information about the actions taken by any other agent in the system. This is an extreme case, however; in most systems the agents are more like drivers in a transport system or traders in a market, each of whom has information about what a few of the other drivers or traders are doing.
+    </p>
+   </item>
+  </list>
+  <p>
+   So these are the components of all complex, adaptive systems—a medium-sized number of intelligent, adaptive agents interacting on the basis of local information. At present, there is no known mathematical structure within which comfortably to accommodate a description of complex systems such as the El Farol problem. This situation is analogous to that faced by gamblers in the 17th century, who sought a rational way to divide the stakes in a game of dice when the game had to be terminated prematurely (probably by the appearance of the police or, perhaps, the gamblers’ wives). The description and analysis of that very definite real-world problem led Pierre de Fermat and Blaise Pascal to create probability theory. At present, complex-system theory still awaits its Pascal and Fermat. The mathematical concepts and methods currently available were developed, by and large, to describe simple systems composed of material objects like planets and atoms. It is the development of a proper theory of complex systems that will be the capstone of the transition from the material to the informational science.
+  </p>
+  <signature>
+   John L. Casti
+  </signature>
+ </h1>
+ <h1 id="h129417">
+  <title>
+   Bibliography
+  </title>
+  <h2 id="h129418">
+   <title>
+    General works
+   </title>
+   <p>
+    <e type="smallcap">
+     John L. Casti
+    </e>
+    ,
+    <e type="italic">
+     Complexification
+    </e>
+    (1994), is a wide-ranging historical introduction to the interdisciplinary study of complexity, and
+    <e type="italic">
+     Would-be Worlds
+    </e>
+    (1997), contains a nontechnical overview of the growing role of computers in modeling complex dynamical systems and an examination of the fundamental principles of complexity.
+   </p>
+   <p>
+    <e type="smallcap">
+     Ian Stewart
+    </e>
+    ,
+    <e type="italic">
+     Does God Play Dice?
+    </e>
+    , 2nd ed. (1997), is an introduction to the mathematical properties of chaos.
+   </p>
+  </h2>
+  <h2 id="h129419">
+   <title>
+    Specialized works
+   </title>
+   <p>
+    <e type="smallcap">
+     Benoit B. Mandelbrot
+    </e>
+    ,
+    <e type="italic">
+     The Fractal Geometry of Nature
+    </e>
+    , updated and augmented (1983; originally published in French, 1975), is a lavishly illustrated introduction to mathematical fractals and fractal forms in nature.
+   </p>
+   <p>
+    <e type="smallcap">
+     John L. Casti
+    </e>
+    ,
+    <e type="italic">
+     Reality Rules: Picturing the World in Mathematics
+    </e>
+    , 2 vol. (1992, reissued 1997), is an introduction to creating mathematical models of complex dynamical systems from the social and natural sciences.
+   </p>
+   <p>
+    <e type="smallcap">
+     E. Atlee Jackson
+    </e>
+    ,
+    <e type="italic">
+     Perspectives of Nonlinear Dynamics
+    </e>
+    , 2 vol. (1989–90, reissued 1992), offers a fairly rigorous mathematical introduction to nonlinear dynamics.
+   </p>
+   <p>
+    <e type="smallcap">
+     John S. Nicolis
+    </e>
+    ,
+    <e type="italic">
+     Chaos and Information Processing
+    </e>
+    (1991), is a technical presentation of the author’s model of human cognition, based upon ideas from complex dynamical systems and information theory.
+   </p>
+   <signature>
+    John L. Casti
+   </signature>
+  </h2>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

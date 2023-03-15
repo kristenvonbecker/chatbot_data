@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="66633" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 01:08:19" url="/article/seismograph/66633" version="10">
+ <title>
+  seismograph
+ </title>
+ <p>
+  <e type="bold">
+   seismograph
+  </e>
+  , instrument that makes a record of
+  <xref articleid="66632">
+   seismic waves
+  </xref>
+  caused by an
+  <xref articleid="106195">
+   earthquake
+  </xref>
+  , explosion, or other
+  <xref articleid="110147">
+   Earth
+  </xref>
+  -shaking phenomenon. Seismographs are equipped with electromagnetic sensors that translate ground motions into electrical changes, which are processed and recorded by the instruments’ analog or digital circuits. The terms
+  <e type="italic">
+   seismograph
+  </e>
+  and
+  <e type="italic">
+   seismometer
+  </e>
+  are often used interchangeably; however, whereas both devices may detect and measure seismic waves, only a seismograph possesses the capacity to record the phenomena. A record produced by a seismograph on a display screen or
+  <xref articleid="58327">
+   paper
+  </xref>
+  printout is called a seismogram.
+ </p>
+ <p>
+  Although originally designed to locate natural earthquakes, seismographs have many other uses, such as
+  <xref articleid="110438">
+   petroleum
+  </xref>
+  exploration, investigation of Earth’s
+  <xref articleid="95973">
+   crust
+  </xref>
+  and lower layers, and monitoring of
+  <xref articleid="75659">
+   volcanic activity
+  </xref>
+  .
+ </p>
+ <h1 id="h6539">
+  <title>
+   Development of the first seismographs
+  </title>
+  <p>
+   An early seismic instrument called the seismoscope made no time record of ground oscillations but simply indicated that shaking had occurred. A Chinese scholar,
+   <xref articleid="473662">
+    Zhang Heng
+   </xref>
+   , invented such an instrument as early as 132
+   <e type="smallcap">
+    ce
+   </e>
+   . It was cylindrical in shape with eight
+   <xref articleid="31122">
+    dragon
+   </xref>
+   heads arranged around its upper circumference, each with a ball in its mouth. Around the lower circumference were eight frogs, each directly under a dragon head. When an earthquake occurred, balls were released from a dragon’s mouth, probably by an internal
+   <xref articleid="59060">
+    pendulum
+   </xref>
+   that moved back and forth according to the direction of vibration, and were caught by a
+   <xref articleid="35479">
+    frog’s
+   </xref>
+   mouth, which produced noise.
+  </p>
+  <p>
+   <assembly id="a210279" url="/assembly/view/210279">
+    <title>
+     Palmieri, Luigi: seismograph
+    </title>
+    <media mediaid="185366" type="image" url="/66/185366-004-F2A5578E.jpg"/>
+    <caption>
+     A sketch of Italian scientist Luigi Palmieri’s seismograph.
+    </caption>
+    <credit>
+     <e type="italic">
+      The Eruption of Vesuvius in 1872
+     </e>
+     by Luigi Palmieri (Asher and Company, London, 1873)
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a210279"/>
+   In 1855 Italian scientist Luigi Palmieri designed a seismograph that consisted of several U-shaped tubes filled with
+   <xref articleid="52102">
+    mercury
+   </xref>
+   and oriented toward the different points of the
+   <xref articleid="25014">
+    compass
+   </xref>
+   . When the ground shook, the motion of the mercury made an electrical contact that stopped a
+   <xref articleid="24419">
+    clock
+   </xref>
+   and simultaneously started a recording drum on which the motion of a float on the surface of mercury was registered. This device thus indicated time of occurrence and the relative intensity and duration of the ground motion.
+  </p>
+  <p>
+   The basic problem in measuring ground motions is to attain a steady point that remains fixed when the ground moves. Various types of pendulums have been used for that purpose. The simplest type is a common pendulum in which a heavy
+   <xref articleid="51285">
+    mass
+   </xref>
+   is suspended by a
+   <xref articleid="77246">
+    wire
+   </xref>
+   or rod from a fixed point (as in a clock). Other forms are the inverted pendulum, in which a heavy mass is fixed to the upper end of a vertical rod pointed at its lower end, and the horizontal pendulum, in which a rod with a mass on its end is suspended at two points so as to swing in a nearly horizontal plane instead of a vertical plane. After a series of earthquakes struck near Perthshire, Scotland, in 1839, a seismometer with an inverted pendulum was installed near Comrie in 1840.
+  </p>
+  <p>
+   The first true seismograph, according to Italian seismologists, was created in 1875 by Italian physicist Filippo Cecchi. The Cecchi seismograph also used pendulums, but it was the first to record the relative motion of the pendulums with respect to Earth’s ground motions as a function of time. The motions produced by seismic waves would activate a clock, and the recording surface (which tracked ground motion) advanced 1 cm (0.04 inch) per second, which would allow a reader to establish the timing of an earthquake’s onset as well as its duration.
+  </p>
+  <p>
+   <assembly id="a7339" url="/assembly/view/7339">
+    <title>
+     Milne, John: horizontal pendulum seismograph
+    </title>
+    <media mediaid="4061" type="image" url="/61/4061-004-0F121F2F.jpg"/>
+    <caption>
+     Horizontal pendulum seismograph, as invented by English seismologist John Milne in 1880. A boom (B), to which the mass (M) was attached, was suspended horizontally by a pivot (P) and a silk thread (T) fixed to a point above the pivot. A thin plate (C), in which a narrow slit was cut parallel to the boom, was attached to the end of the boom. A similar plate with a slit at right angles to the upper plate was fixed on the top of a box containing a recording drum (D). A ray of light from an oil lamp passed through both slits and formed a small spot of light on a sheet of light-sensitive graph paper (bromide paper) wrapped on the recording drum.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a7339"/>
+   Seismograph developments occurred rapidly in 1880 when Scottish physicist
+   <xref articleid="33389">
+    Sir James Alfred Ewing
+   </xref>
+   , Scottish engineer Thomas Gray, and English geologist
+   <xref articleid="52748">
+    John Milne
+   </xref>
+   , who were working in Japan at the time, began to study earthquakes. Following a severe earthquake that occurred at Yokohama near Tokyo in that year, they organized the Seismological Society of Japan. Under its auspices various devices, forerunners of today’s seismograph, were invented. Among the instruments constructed in that period was Milne’s famous horizontal pendulum seismograph. Milne successfully used that seismograph to record several earthquakes in Japan. Then, after returning to England, he established a small worldwide seismographic network using such instruments.
+  </p>
+  <p>
+   The horizontal pendulum seismograph was improved greatly after
+   <xref articleid="110199">
+    World War II
+   </xref>
+   . The Press-Ewing seismograph, developed in the United States for recording long-period
+   <xref articleid="473598">
+    waves
+   </xref>
+   , was widely used throughout the world. That device employed a Milne-type pendulum, but the pivot supporting the pendulum was replaced by an elastic wire to avoid friction.
+  </p>
+ </h1>
+ <h1 id="h6540">
+  <title>
+   Basic principles of the modern seismograph
+  </title>
+  <p>
+   <assembly id="a195397" url="/assembly/view/195397">
+    <title>
+     Learn how the Richter scale relies on vibration to logarithmically track earth tremors
+    </title>
+    <media mediaid="180907" thumburl="/07/180907-049-70A04E34.jpg" type="video" url=""/>
+    <caption>
+     The Richter scale and how it measures earthquake magnitude. The Richter scale calculates an earthquake’s magnitude (size) from the amplitude of the earthquake’s largest seismic wave recorded by a seismograph.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assembly id="a57321" url="/assembly/view/57321">
+    <title>
+     Anderson-Wood torsion pendulum seismograph
+    </title>
+    <media mediaid="66812" type="image" url="/12/66812-004-13F2C800.jpg"/>
+    <caption>
+     Schematic diagram of a 1924 Anderson-Wood torsion pendulum seismograph, the type used by seismologist Charles F. Richter to define his earthquake magnitude scale. A small copper cylinder (C) was attached to a tungsten wire (T) between the poles (N, S) of a U-shaped permanent magnet. In response to oscillations of the ground caused by an earthquake, the pendulum swung in a nearly horizontal plane around the wire, its own free oscillation being reduced, or damped, by the magnetic field. Magnification of its movements for recording purposes was made possible by use of a mirror (m).
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a195397"/>
+   <assemblyref assemblyid="a57321"/>
+   If a common pendulum is free to swing in one direction and if the ground moves rapidly in the direction of freedom of the pendulum while the pendulum is motionless, the pendulum will tend to remain in place through
+   <xref articleid="42378">
+    inertia
+   </xref>
+   . If the ground moves back and forth (oscillates) and if the period of ground motion (the time necessary for one complete oscillation) is sufficiently shorter than the period of free oscillation of the pendulum, the pendulum will lag, and the movement of the ground relative to the pendulum can be recorded. The magnitude of that movement is commonly amplified electrically. When the period of the pendulum is comparable to that of the ground motion, the seismograph will not exactly record Earth’s movement. The correction, however, can readily be computed mathematically.
+  </p>
+  <p>
+   The ground can move in any of three directions, two horizontal and one vertical. Because each kind of movement must be separately recorded, three pendulums, one for each direction, are needed for a complete seismograph.
+  </p>
+  <p>
+   In general, then, the seismograph is an instrument in which the relative motion of pendulum and ground is recorded. It is equally possible to take the
+   <xref articleid="473161">
+    ratio
+   </xref>
+   between the deflection of the pendulum and the
+   <xref articleid="74984">
+    velocity
+   </xref>
+   (or
+   <xref articleid="3469">
+    acceleration
+   </xref>
+   ) of the ground. That ratio is called the velocity (or acceleration) sensitivity of the seismograph.
+  </p>
+  <p>
+   If free oscillation of the pendulum is not minimized, it will mask the proper recording of seismic waves. The simplest way to reduce (damp out) the free oscillation of a pendulum is to suspend it in a viscous (thick) liquid of which the resisting force is proportional to the velocity of the pendulum. In practice, the required resisting force is exerted by a special device called a damper. In an electromagnetic damper, the resisting force is created by electrical currents induced in a copper plate moving in a strong
+   <xref articleid="50022">
+    magnetic field
+   </xref>
+   (
+   <e type="italic">
+    see
+   </e>
+   <xref articleid="28663">
+    damping
+   </xref>
+   ).
+  </p>
+  <p>
+   Various methods of recording pendulum motion have been developed. In the mechanical method (now of historical interest only), a sheet of smoked paper was wrapped around a rotating drum, so mounted as to move with Earth. A moving pen connected to the pendulum pressed lightly on the paper. The rotating drum shifted slightly with each revolution so that recorded lines were not superimposed on each other. The drum rotated without interruption; one sheet of paper usually lasted 24 hours. Though that method was simple and economical, the seismograph had to have a heavy mass to overcome the friction between pen and paper. In consequence, some mechanical seismographs weighed one ton or more. In the more-modern optical method, pendulum motion causes a
+   <xref articleid="52946">
+    mirror
+   </xref>
+   to move. Light is reflected by the mirror onto photosensitive paper wrapped on a drum. Thus, there is no friction to affect the pendulum.
+  </p>
+  <p>
+   In the electromagnetic method, widely used today, a coil fixed to the mass of the pendulum moves in a magnetic field and creates an electric current. When the current is amplified electronically, high magnification is obtainable. Certain short-period seismographs of that type used for the observation of microearthquakes attain a magnification as high as 1,000,000 or more. In ordinary seismographic observation, the time of initiation of ground oscillations is recorded. Marks are placed on the seismogram once a minute; an extra one identifies the hour.
+  </p>
+  <p>
+   <assembly id="a7340" url="/assembly/view/7340">
+    <title>
+     strain seismograph
+    </title>
+    <media mediaid="4062" type="image" url="/62/4062-004-39189FB2.jpg"/>
+    <caption>
+     Schematic diagram of a strain seismograph. A and B are two piers separated by a distance, which may be 20 metres (65 feet) or more. One end of a rod (R) is fixed to pier B and the other placed near pier A. Earth strains resulting from seismic waves produce variations in the separation of the two piers. Those variations are observable as changes in the distance between the free end of the rod and pier A.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a7340"/>
+   All the seismographs described so far measure oscillatory motions of the ground at a given point. The strain seismograph, in contrast, employs no pendulum, and its operation depends on changes in the distance between two points on the ground. That type of seismograph was devised in 1935 by American seismologist Hugo Benioff.
+  </p>
+  <p>
+   Strong-motion seismographs, called accelerographs, are designed particularly to register intense movements of the ground, mainly for engineering purposes—i.e., antiseismic construction in earthquake-prone areas such as Japan. Strong-motion seismographs employ
+   <xref articleid="3472">
+    accelerometers
+   </xref>
+   as sensors, record digitally directly on magnetic tape or memory chips, and can measure ground acceleration up to twice gravity. Networks of accelerographs are now operative in several earthquake regions (e.g., California, Japan, Taiwan, Mexico), offering continuous direct recording linked to computers and the
+   <xref articleid="1458">
+    Internet
+   </xref>
+   . Data on ground shaking are thus available within seconds of a local damaging earthquake.
+  </p>
+ </h1>
+ <h1 id="h6541">
+  <title>
+   Applications of the seismograph
+  </title>
+  <p>
+   <assembly id="a210259" url="/assembly/view/210259">
+    <title>
+     seismic wave: main types
+    </title>
+    <media mediaid="181991" type="image" url="/91/181991-004-95DB793C.jpg"/>
+    <caption>
+     Diagram showing the main types of seismic waves:
+     <e type="italic">
+      P
+     </e>
+     (primary),
+     <e type="italic">
+      S
+     </e>
+     (secondary), Love, and Rayleigh.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assembly id="a228728" url="/assembly/view/228728">
+    <title>
+     seismic waves: travel-time curve
+    </title>
+    <media mediaid="194656" type="image" url="/56/194656-004-565C0579.jpg"/>
+    <caption>
+     The relation between the arrival time of the
+     <e type="italic">
+      P
+     </e>
+     and
+     <e type="italic">
+      S
+     </e>
+     waves and the epicentral distance—i.e., the distance from the point of origin—is expressed by a travel-time curve in which the arrival time is read on the vertical axis and the epicentral distance on the horizontal axis.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a210259"/>
+   <assemblyref assemblyid="a228728"/>
+   A seismograph records oscillation of the ground caused by seismic waves that travel from their point of origin through Earth or along its surface. The seismogram of a nearby small earthquake has a simple pattern, showing the arrival of
+   <e type="italic">
+    P
+   </e>
+   waves (
+   <xref articleid="48885">
+    longitudinal waves
+   </xref>
+   , which
+   <xref articleid="75220">
+    vibrate
+   </xref>
+   in the direction of propagation),
+   <e type="italic">
+    S
+   </e>
+   waves (
+   <xref articleid="73227">
+    transverse waves
+   </xref>
+   —that is, waves that vibrate at right angles to the direction of propagation), and surface waves (compression waves with no vertical or longitudinal components). In the case of distant earthquakes or of nearby very large earthquakes, the seismogram pattern is more complicated because it shows various sorts of seismic waves that originate from one or many points but then may be reflected or refracted within Earth’s crust before reaching the seismograph. The relation between the arrival time of the
+   <e type="italic">
+    P
+   </e>
+   and
+   <e type="italic">
+    S
+   </e>
+   waves and the epicentral distance—i.e., the distance from the point of origin—is expressed by a time-distance curve, in which the arrival time is read on the vertical axis and the epicentral distance on the horizontal axis. If the arrival times of various seismic waves are read on the seismogram at a station and compared with the standard time-distance curves, the epicentral distance from that station (the distance of the centre of the earthquake from the recording station) can be determined. If the epicentral distance from at least three stations is known, the origin of the earthquake can be calculated by simple
+   <xref articleid="108709">
+    trigonometric methods
+   </xref>
+   .
+  </p>
+  <p>
+   The eruption of a
+   <xref articleid="108777">
+    volcano
+   </xref>
+   is commonly accompanied by many small earthquakes, especially when a volcano resumes activity after a long dormant period. Observation with sensitive seismographs therefore plays an important role in predicting volcanic activity.
+  </p>
+  <p>
+   Often a strong earthquake is preceded by small earthquakes. Observation of very small tremors with sensitive seismographs is helpful in predicting disastrous earthquakes.
+  </p>
+  <p>
+   Seismographs sometimes detect small and long-continuing oscillations of the ground, called microseisms, that do not originate as earthquakes. The occurrence of some microseisms is related to storms at sea.
+  </p>
+  <p>
+   Seismographs are used for detecting remote underground tests of
+   <xref articleid="110178">
+    nuclear weapons
+   </xref>
+   , in which the relatively faint seismic waves generated by an underground explosion must be distinguished from natural tremors. If the seismic waves generated by an explosive charge are recorded by sensitive seismographs installed at various points in the neighbourhood of the explosion, the underground structure of the site can be determined by analyzing the time-distance curves of the
+   <e type="italic">
+    P
+   </e>
+   waves, using both direct waves and those reflected or refracted at the boundaries of underground layers.
+  </p>
+  <p>
+   <assembly id="a195407" url="/assembly/view/195407">
+    <title>
+     seismic exploration
+    </title>
+    <media mediaid="112068" type="image" url="/68/112068-004-E93B9744.jpg"/>
+    <caption>
+     Geophysicists searching for oil by using seismic equipment. Sound impulses are put into the ground, and the echoes are recorded to image the subsurface rock layers and find petroleum traps.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a195407"/>
+   The depths of underground layers, their angle of inclination, and the speed of seismic waves in each layer can be also determined by using seismographs. Since the discovery of a large oil field in Texas by that method in 1923,
+   <xref articleid="66631">
+    seismic surveying
+   </xref>
+   has made rapid progress and is now used for oil and gas exploration. The improvement in the instruments and techniques achieved after
+   <xref articleid="110199">
+    World War II
+   </xref>
+   made it possible to determine the structure of Earth’s crust to a depth of 40–50 km (about 25–30 miles) by detonation of a small amount of explosive.
+  </p>
+  <p>
+   Ground motions caused by injecting
+   <xref articleid="570989">
+    fracking
+   </xref>
+   water into underground disposal wells and
+   <xref articleid="31672">
+    dynamite
+   </xref>
+   blasts in mines, quarries, and public works also can be measured by the seismograph. Preliminary examinations based on seismographic measurements make it possible to estimate the intensity of shocks and, thus, evaluate the amount of damage caused by a given amount of dynamite. Rock bursts, in which
+   <xref articleid="109695">
+    rocks
+   </xref>
+   are ejected suddenly in deep pits or tunnels, are caused by increase of stress in the surrounding rocks. Experience in mines shows that an increase of small shocks detectable by highly sensitive
+   <xref articleid="36478">
+    geophones
+   </xref>
+   —portable seismometers for field use—generally indicates a rock burst hazard.
+  </p>
+  <p>
+   <assembly id="a110063" url="/assembly/view/110063">
+    <title>
+     Buzz Aldrin on the Moon
+    </title>
+    <media mediaid="65041" type="image" url="/41/65041-004-C13941A2.jpg"/>
+    <caption>
+     Apollo 11 astronaut Buzz Aldrin setting up the Passive Seismic Experiments Package (PSEP) on the Moon, with the Lunar Module in the background. The PSEP was designed to detect seismic vibrations on the Moon’s surface.
+    </caption>
+    <credit>
+     NASA
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a110063"/>
+   Detection of vibrations on the lunar surface by seismographs is of fundamental importance in determining the internal structure, physical state, and tectonic (crustal) activity of the
+   <xref articleid="110148">
+    Moon
+   </xref>
+   . Moon seismographs were installed during the
+   <xref articleid="8019">
+    Apollo program
+   </xref>
+   starting in 1969. They contained three long-period seismometers and a single-component, short-period, vertical seismometer. Many moonquakes were recorded by those instruments. Similar instruments were first placed on
+   <xref articleid="110149">
+    Mars
+   </xref>
+   by the
+   <xref articleid="75342">
+    Viking
+   </xref>
+   2 lander in 1976 to determine the extent of seismic activity on that planet.
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

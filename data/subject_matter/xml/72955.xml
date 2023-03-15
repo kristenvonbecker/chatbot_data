@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="72955" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 01:49:42" url="/article/torque/72955" version="4">
+ <title>
+  torque
+ </title>
+ <p>
+  <assembly id="a7813" url="/assembly/view/7813">
+   <media mediaid="4702" type="image" url="/02/4702-004-BD64C5BD.jpg"/>
+   <caption>
+    Torque
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   torque
+  </e>
+  , also called
+  <e type="bold">
+   moment of a force
+  </e>
+  ,
+  <assemblyref assemblyid="a7813"/>
+  in physics, the tendency of a force to rotate the body to which it is applied. The torque, specified with regard to the axis of rotation, is equal to the magnitude of the component of the force vector lying in the plane perpendicular to the axis, multiplied by the shortest distance between the axis and the direction of the force component. Regardless of its orientation in space, the force vector can always be located in a plane parallel to the axis. In the figure, the force vector
+  <e type="bolditalic">
+   F
+  </e>
+  lies in the plane parallel to the line
+  <e type="italic">
+   OL
+  </e>
+  ; the component
+  <e type="bolditalic">
+   F
+  </e>
+  <sub>
+   <e type="italic">
+    L
+   </e>
+  </sub>
+  , being parallel to
+  <e type="italic">
+   OL
+  </e>
+  , has no moment about
+  <e type="italic">
+   OL
+  </e>
+  , while the component
+  <e type="bolditalic">
+   F
+  </e>
+  <sub>
+   <e type="italic">
+    P
+   </e>
+  </sub>
+  , lying in the plane perpendicular to
+  <e type="italic">
+   OL
+  </e>
+  , has a moment, or torque, about
+  <e type="italic">
+   OL
+  </e>
+  equal to
+  <e type="bolditalic">
+   F
+  </e>
+  <sub>
+   <e type="italic">
+    P
+   </e>
+  </sub>
+  ×
+  <e type="italic">
+   d
+  </e>
+  , in which
+  <e type="bolditalic">
+   d
+  </e>
+  , the shortest distance between
+  <e type="bolditalic">
+   F
+  </e>
+  <sub>
+   <e type="italic">
+    P
+   </e>
+  </sub>
+  and
+  <e type="italic">
+   OL
+  </e>
+  , is the moment arm or lever arm. Torque is measured in
+  <xref articleid="55617">
+   newton
+  </xref>
+  metres in
+  <xref articleid="42610">
+   SI
+  </xref>
+  units.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

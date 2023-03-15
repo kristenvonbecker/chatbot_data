@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="61433" articletypeid="1" language="en_us" lastupdate="2022-Jul-07 16:43:14" url="/article/prism/61433" version="4">
+ <title>
+  prism
+ </title>
+ <p>
+  <assembly id="a7013" url="/assembly/view/7013">
+   <title>
+    functions of a prism
+   </title>
+   <media mediaid="3629" type="image" url="/29/3629-004-A9AD610A.jpg"/>
+   <caption>
+    (Right) The reversal of light by a prism. (Left) The dispersion of white light into its component colours by a prism.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assembly id="a155316" url="/assembly/view/155316">
+   <title>
+    refraction of light through a prism
+   </title>
+   <media mediaid="149178" type="image" url="/78/149178-004-5C832426.jpg"/>
+   <caption>
+    White light entering a prism is bent, or refracted, and the light separates into its constituent wavelengths. Each wavelength of light has a different colour and bends at a different angle. The colours of white light always emerge through a prism in the same order: red, orange, yellow, green, blue, indigo, and violet.
+   </caption>
+   <credit>
+    © Matthias Kulka—The Image Bank/Getty Images
+   </credit>
+  </assembly>
+  <e type="bold">
+   prism
+  </e>
+  ,
+  <assemblyref assemblyid="a7013"/>
+  <assemblyref assemblyid="a155316"/>
+  in
+  <xref articleid="108567">
+   optics
+  </xref>
+  , a piece of
+  <xref articleid="36988">
+   glass
+  </xref>
+  or other transparent material cut with precise angles and plane faces, useful for analyzing and reflecting
+  <xref articleid="110443">
+   light
+  </xref>
+  . An ordinary triangular prism can separate white light into its constituent colours, called a spectrum. Each colour, or wavelength, making up the white light is bent, or refracted, a different amount; the shorter wavelengths (those toward the violet end of the spectrum) are bent the most, and the longer wavelengths (those toward the red end of the spectrum) are bent the least. Prisms of this kind are used in certain spectroscopes, instruments for analyzing light and for determining the identity and structure of materials that emit or absorb light.
+ </p>
+ <p>
+  Prisms can reverse the direction of light by internal reflection, and for this purpose they are useful in
+  <xref articleid="79240">
+   binoculars
+  </xref>
+  .
+ </p>
+ <p>
+  Prisms are made in many different forms and shapes, depending on the application. The Porro prism, for example, consists of two prisms arranged both to invert and to reverse an image and are used in many optical viewing instruments, such as
+  <xref articleid="59268">
+   periscopes
+  </xref>
+  , binoculars, and monoculars. The Nicol prism consists of two specially cut
+  <xref articleid="109693">
+   calcite
+  </xref>
+  prisms bonded together with an adhesive known as Canada balsam. This prism transmits waves vibrating in one direction only and thus produces a plane-
+  <xref articleid="60596">
+   polarized
+  </xref>
+  beam from ordinary light.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

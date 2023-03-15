@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="100957" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 03:09:41" url="/article/circuit-breaker/100957" version="2">
+ <title>
+  circuit breaker
+ </title>
+ <p>
+  <e type="bold">
+   circuit breaker
+  </e>
+  , automatic switch in an
+  <xref articleid="32272">
+   electric circuit
+  </xref>
+  . Its function is similar to that of a
+  <xref articleid="35709">
+   fuse
+  </xref>
+  —to open the circuit if abnormal current conditions occur, usually overloads—but it is not destroyed in operation and can be closed again. The simplest circuit breakers are operated by a
+  <xref articleid="68580">
+   solenoid
+  </xref>
+  that is activated by an excessive increase in current flow. Small circuit breakers are widely used in place of fuses to protect electrical systems in homes.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

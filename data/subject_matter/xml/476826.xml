@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="476826" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 06:18:20" url="/article/Curiosity/476826" version="13">
+ <title>
+  Curiosity
+ </title>
+ <p>
+  <assembly id="a128893" url="/assembly/view/128893">
+   <title>
+    Curiosity rover
+   </title>
+   <media mediaid="132317" type="image" url="/17/132317-004-4F649036.jpg"/>
+   <caption>
+    Artist’s conception of the Curiosity rover.
+   </caption>
+   <credit>
+    NASA/JPL-Caltech
+   </credit>
+  </assembly>
+  <e type="bold">
+   Curiosity
+  </e>
+  , also called
+  <e type="bold">
+   Mars Science Laboratory (MSL)
+  </e>
+  ,
+  <assemblyref assemblyid="a128893">
+  </assemblyref>
+  U.S. robotic vehicle, designed to explore the surface of
+  <xref articleid="110149">
+   Mars
+  </xref>
+  , which determined that Mars was once capable of supporting
+  <xref articleid="106478">
+   life
+  </xref>
+  . The rover was launched by an
+  <xref articleid="10113">
+   Atlas
+  </xref>
+  V rocket from Cape Canaveral, Florida, on November 26, 2011, and landed in Gale crater on Mars on August 6, 2012.
+ </p>
+ <p>
+  <assembly id="a172190" url="/assembly/view/172190">
+   <title>
+    surface of Mars
+   </title>
+   <media mediaid="161766" type="image" url="/66/161766-004-966CBE32.jpg"/>
+   <caption>
+    One of the first photographs of Mars taken by the Curiosity rover shortly after it landed on August 6, 2012.
+   </caption>
+   <credit>
+    NASA/JPL/Caltech
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a172190">
+  </assemblyref>
+  Curiosity is about 3 metres (10 feet) long and weighs about 900 kg (2,000 pounds), which makes it the longest and heaviest rover on Mars. (By contrast, the
+  <xref articleid="443595">
+   Mars Exploration Rovers
+  </xref>
+  , Spirit and Opportunity, are 1.6 metres [5.2 feet] long and weigh 174 kg [384 pounds].) Unlike previous rovers, Curiosity did not have its landing cushioned by air bags; rather, because of its large size, it was lowered to the surface by three tethers from the spacecraft’s body, called the sky crane.
+ </p>
+ <p>
+  The landing sequence was highly intricate. After a parachute significantly slowed the vehicle and after its heat shield—which had protected the rover during its entry into the atmosphere—was discarded, the spacecraft was eased toward the planet’s surface by rockets that stabilized the vehicle, allowing it to hover and protecting it from horizontal winds. Curiosity had also shed its protective shell on the way to the planet’s surface, and its mobility system—wheels and suspension—had already been released while still in the air. Curiosity was therefore ready to rove immediately after it landed, unlike the Mars Exploration Rovers, which had to wait for their lander “petals” that enclosed the rovers to open. Once touchdown of Curiosity had occurred, onboard computers released the tethers. The sky crane then pitched away and crashed far from Curiosity.
+ </p>
+ <p>
+  All told, there were 15 critical steps involved in the landing sequence, and all of them had to be executed flawlessly for the mission to succeed. This sequence took approximately seven minutes, an interval referred to in
+  <xref articleid="54947">
+   NASA
+  </xref>
+  circles as the “seven minutes of terror” because of fears that errors during this stage would compromise the entire mission and years of work.
+ </p>
+ <p>
+  Curiosity does not rely on
+  <xref articleid="106046">
+   solar cells
+  </xref>
+  for its energy needs but rather draws its electric power from a
+  <xref articleid="106047">
+   thermoelectric power generator
+  </xref>
+  , with the heat source being the radioactive decay of
+  <xref articleid="60467">
+   plutonium
+  </xref>
+  and the heat sink being Mars’s atmosphere. This internal power supply will allow Curiosity to continue operating through the Martian winter. Curiosity’s mission is planned to last one Martian year (687 Earth days).
+ </p>
+ <p>
+  Curiosity’s landing site, Gale crater, is at a low elevation; if Mars ever had surface water, it would have pooled there. Aeolis Mons (also called Mount Sharp), the crater’s central mountain, consists of many layers of sedimentary rock that were laid down over much of Mars’s geological history. In September 2012 Curiosity took pictures of water-transported gravel, meaning that at one time Gale crater was likely the floor of an ancient stream.
+ </p>
+ <p>
+  Curiosity found that early Mars could have supported life. It also found traces of organic molecules preserved in rock layers 3.5 billion years old and that the amount of methane in the Martian atmosphere varies with the seasons. As of 2020, Curiosity had traveled 21.8 km (13.5 miles) in Gale crater.
+ </p>
+ <p>
+  <assembly id="a155711" url="/assembly/view/155711">
+   <title>
+    Observe an animation of the Mars Science Laboratory displaying the entry, descent, and landing
+   </title>
+   <media mediaid="145466" thumburl="/66/145466-049-D150EB44.jpg" type="video" url=""/>
+   <caption>
+    Computer animation showing the entry, descent, and landing of the Mars Science Laboratory.
+   </caption>
+   <credit>
+    NASA/JPL
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a155711"/>
+  Curiosity carries several experiments that probe the Martian environment. A
+  <xref articleid="55406">
+   neutron
+  </xref>
+  -beam generator provided by the
+  <xref articleid="476601">
+   Russian Federal Space Agency
+  </xref>
+  can detect water ice down to two metres (six feet) below the surface. The Spanish Center for Astrobiology supplied Curiosity’s weather station. The largest experiment, the Sample Analysis at Mars, consists of a
+  <xref articleid="110406">
+   mass spectrometer
+  </xref>
+  , a
+  <xref articleid="36136">
+   gas chromatograph
+  </xref>
+  , and a
+  <xref articleid="47248">
+   laser
+  </xref>
+  spectrometer that search for
+  <xref articleid="20244">
+   carbon
+  </xref>
+  -containing compounds. Curiosity also has several cameras, one of which takes high-definition video at a rate of 10 frames per second.
+ </p>
+ <signature>
+  Erik Gregersen
+ </signature>
+ <signature>
+  Aaron Brown
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

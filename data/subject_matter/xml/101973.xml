@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="101973" articletypeid="1" language="en_us" lastupdate="2022-Apr-19 18:43:38" url="/article/number/101973" version="3">
+ <title>
+  number
+ </title>
+ <p>
+  <e type="bold">
+   number
+  </e>
+  , any of the positive or negative
+  <xref articleid="472596">
+   integers
+  </xref>
+  or any of the set of all real or
+  <xref articleid="25024">
+   complex numbers
+  </xref>
+  , the latter containing all numbers of the form
+  <e type="italic">
+   a
+  </e>
+  +
+  <e type="italic">
+   bi
+  </e>
+  , where
+  <e type="italic">
+   a
+  </e>
+  and
+  <e type="italic">
+   b
+  </e>
+  are real numbers and
+  <e type="italic">
+   i
+  </e>
+  denotes the square root of –1. (Numbers of the form
+  <e type="italic">
+   b
+  </e>
+  <e type="italic">
+   i
+  </e>
+  are sometimes called pure
+  <xref articleid="42170">
+   imaginary numbers
+  </xref>
+  to distinguish them from “mixed” complex numbers.) The real numbers consist of rational and irrational numbers. Rational numbers, such as 12,
+  <fraction>
+   <num>
+    13
+   </num>
+   <den>
+    5
+   </den>
+  </fraction>
+  , or –
+  <fraction>
+   <num>
+    4
+   </num>
+   <den>
+    11
+   </den>
+  </fraction>
+  , are those numbers that can be expressed as integers or as the quotient of integers, whereas the irrational numbers, such as
+  <sqroot>
+   2
+  </sqroot>
+  , are those that cannot be so expressed. All rational numbers are also algebraic numbers—i.e., they can be expressed as the root of some polynomial equation with rational coefficients. Although some irrational numbers, such as
+  <sqroot>
+   2
+  </sqroot>
+  , can be expressed as the solution of such a polynomial equation (in this case,
+  <e type="italic">
+   x
+  </e>
+  <sup>
+   2
+  </sup>
+  = 2), many cannot. Those that cannot are called transcendental numbers. Among the transcendental numbers are
+  <e type="italic">
+   e
+  </e>
+  (the base of the natural
+  <xref articleid="48759">
+   logarithm
+  </xref>
+  ),
+  <xref articleid="59879">
+   π
+  </xref>
+  , and certain combinations of these. The first number to be proved transcendental was
+  <e type="italic">
+   e
+  </e>
+  (by Charles Hermite in 1873), and π was shown to be transcendental in 1882 by Ferdinand von Lindemann.
+ </p>
+ <p>
+  Other classes of numbers include square numbers—i.e., those that are squares of integers; perfect numbers, those that are equal to the sum of their proper factors; random numbers, those that are representative of random selection procedures; and
+  <xref articleid="61382">
+   prime numbers
+  </xref>
+  , integers larger than 1 whose only positive divisors are themselves and 1.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

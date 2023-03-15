@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="101223" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 03:10:07" url="/article/form/101223" version="2">
+ <title>
+  form
+ </title>
+ <p>
+  <e type="bold">
+   form
+  </e>
+  , in crystallography, all
+  <xref articleid="110297">
+   crystal
+  </xref>
+  faces having similar symmetry. Those forms that enclose space are called closed forms; those that do not, open forms. The faces that comprise a form will be similar in appearance, even though of different shapes and sizes; this similarity may be evident from natural striations, etchings, or growths, or it may be apparent only after etching with acid.
+ </p>
+ <p>
+  The forms in all crystal systems except the isometric are similar and may be generally described as follows:
+ </p>
+ <list type="ul">
+  <item>
+   Pedion: a single face;
+  </item>
+  <item>
+   Pinacoid: pair of opposite faces parallel to two of the principal crystallographic axes;
+  </item>
+  <item>
+   Dome: two nonparallel faces symmetrical to a plane of symmetry;
+  </item>
+  <item>
+   Sphenoid: two nonparallel faces symmetrical to a 2- or 4-fold axis of symmetry;
+  </item>
+  <item>
+   Disphenoid: four-faced closed form in which the two faces of a sphenoid alternate above two faces of another sphenoid;
+  </item>
+  <item>
+   Prism: 3, 4, 6, 8, or 12 faces the intersection lines of which are parallel and (except for some monoclinic prisms) are parallel to a principal crystallographic axis;
+  </item>
+  <item>
+   Pyramid: 3, 4, 6, 8, or 12 nonparallel faces that meet in a point;
+  </item>
+  <item>
+   Scalenohedron: 8-faced (tetragonal) or 12-faced (hexagonal) closed form in which the faces are grouped in symmetrical pairs; in perfect crystals, each face is a scalene triangle;
+  </item>
+  <item>
+   Trapezohedron: 6-, 8-, 12-, or 24-faced closed form in which half the faces are offset above the other half; in well-developed crystals, each face is a trapezium;
+  </item>
+  <item>
+   Dipyramid: 6-, 8-, 12-, 16-, or 24-faced closed form in which the lower pyramid is a reflection of the upper;
+  </item>
+  <item>
+   Rhombohedron: closed form of six identical faces in which none of the intersection edges is perpendicular.
+  </item>
+ </list>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

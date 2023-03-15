@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="1488" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 19:57:08" url="/article/optical-storage/1488" version="4">
+ <title>
+  optical storage
+ </title>
+ <p>
+  <assembly id="a106454" url="/assembly/view/106454">
+   <title>
+    optical disc
+   </title>
+   <media mediaid="63480" type="image" url="/80/63480-004-FBBAF5F1.jpg"/>
+   <caption>
+    On optical discs such as compact discs (CDs) and digital videodiscs (DVDs), information is stored as a series of lands, or flat areas, and pits. A laser assembly reads the spinning disc, converting lands and pits into sequences of electric signals. When the beam hits a land, it is reflected onto a photodiode, which produces an electric signal. Laser beams are scattered by pits, so no signal is generated.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   optical storage
+  </e>
+  ,
+  <assemblyref assemblyid="a106454"/>
+  electronic storage medium that uses low-power laser beams to record and retrieve digital (binary) data. In optical-storage technology, a laser beam encodes digital data onto an optical, or laser, disk in the form of tiny pits arranged in a spiral track on the disk’s surface. A low-power laser scanner is used to “read” these pits, with variations in the intensity of reflected light from the pits being converted into electric signals. This technology is used in the
+  <xref articleid="25003">
+   compact disc
+  </xref>
+  , which records sound; in the
+  <xref articleid="1430">
+   CD-ROM
+  </xref>
+  (compact disc read-only memory), which can store text and images as well as sound; in WORM (write-once read-many), a type of disk that can be written on once and read any number of times; and in newer disks that are totally rewritable.
+ </p>
+ <p>
+  Optical storage provides greater memory capacity than magnetic storage because laser beams can be controlled and focused much more precisely than can tiny magnetic heads, thereby enabling the condensation of data into a much smaller space. An entire set of encyclopedias, for example, can be stored on a standard 12-centimetre (4.72-inch) optical disk. Besides higher capacity, optical-storage technology also delivers more authentic duplication of sounds and images. Optical disks are also inexpensive to make: the plastic disks are simply molds pressed from a master, as phonograph records are. The data on them cannot be destroyed by power outages or magnetic disturbances, the disks themselves are relatively impervious to physical damage, and unlike magnetic disks and tapes, they need not be kept in tightly sealed containers to protect them from contaminants. Optical-scanning equipment is similarly durable because it has relatively few moving parts.
+ </p>
+ <p>
+  Early optical disks were not erasable—i.e., data encoded onto their surfaces could be read but not erased or rewritten. This problem was solved in the 1990s with the development of WORM and of writable/rewritable disks. The chief remaining drawback to optical equipment is a slower rate of information retrieval compared with conventional magnetic-storage media. Despite its slowness, its superior capacity and recording characteristics make optical storage ideally suited to memory-intensive applications, especially those that incorporate still or animated graphics, sound, and large quantities of text. Multimedia encyclopedias, video games, training programs, and directories are commonly stored on optical media.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

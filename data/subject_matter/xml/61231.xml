@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="61231" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 00:37:07" url="/article/precession/61231" version="3">
+ <title>
+  precession
+ </title>
+ <p>
+  <e type="bold">
+   precession
+  </e>
+  , phenomenon associated with the action of a gyroscope or a spinning top and consisting of a comparatively slow rotation of the axis of rotation of a spinning body about a line intersecting the spin axis. The smooth, slow circling of a spinning top is precession, the uneven wobbling is nutation.
+ </p>
+ <p>
+  <assembly id="a7006" url="/assembly/view/7006">
+   <media mediaid="3600" type="image" url="/00/3600-004-51C5EE93.jpg"/>
+   <caption>
+    Precession
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  In the
+  <assemblyref assemblyid="a7006">
+   Figure
+  </assemblyref>
+  the disk of weight
+  <e type="italic">
+   W
+  </e>
+  and the attached shaft are rotating at high speed about the spin axis
+  <e type="italic">
+   AB.
+  </e>
+  The angular speed
+  <e type="italic">
+   ω,
+  </e>
+  which is clockwise viewed from
+  <e type="italic">
+   A,
+  </e>
+  can be indicated either by the curved arrow
+  <e type="italic">
+   ω
+  </e>
+  in the plane of the disk or by the vector
+  <e type="italic">
+   ω
+  </e>
+  ′ perpendicular to the disk and pointing to the right. The curved arrow
+  <e type="italic">
+   ω
+  </e>
+  and the vector
+  <e type="italic">
+   ω
+  </e>
+  ′ are analogous, respectively, to the rotation and advance of a right-hand screw in a nut; this is known as the right-hand rule. It is usually more convenient to represent rotations and turning moments (which tend to produce rotations) by vectors rather than by curved arrows.
+ </p>
+ <p>
+  The shaft and the stationary column
+  <e type="italic">
+   AC
+  </e>
+  are connected by a ball-and-socket joint at
+  <e type="italic">
+   A,
+  </e>
+  which permits the shaft to rotate about any line through
+  <e type="italic">
+   A
+  </e>
+  . In the arrangement shown in the Figure, the weight
+  <e type="italic">
+   W
+  </e>
+  creates a clockwise moment
+  <e type="italic">
+   WL
+  </e>
+  about
+  <e type="italic">
+   A,
+  </e>
+  which can be represented by a vector
+  <e type="italic">
+   M
+  </e>
+  of magnitude
+  <e type="italic">
+   WL,
+  </e>
+  acting at
+  <e type="italic">
+   A
+  </e>
+  and perpendicular to
+  <e type="italic">
+   AB
+  </e>
+  . Because of the moment, the shaft will precess (rotate slowly) about the axis of the column in a clockwise direction, viewed from
+  <e type="italic">
+   C
+  </e>
+  <e type="italic">
+   ;
+  </e>
+  the angular velocity of precession is indicated by the vector Ω. It should be noted that
+  <e type="italic">
+   ω
+  </e>
+  ′
+  <e type="italic">
+   ,
+  </e>
+  <e type="italic">
+   M,
+  </e>
+  and Ω
+  <e type="italic"/>
+  are at right angles to one another and that the spin vector
+  <e type="italic">
+   ω
+  </e>
+  ′ always rotates toward the moment vector
+  <e type="italic">
+   M
+  </e>
+  . It can be shown that Ω, the angular velocity of precession, does not depend on the angle
+  <e type="italic">
+   α
+  </e>
+  <e type="italic">
+   ,
+  </e>
+  which, in the case of a spinning top, is close to 180 degrees.
+ </p>
+ <p>
+  The precession of tops is frequently accompanied by a phenomenon known as nutation, which is evidenced by a wavelike motion of the end of the spin axis caused by variations in the angle
+  <e type="italic">
+   α
+  </e>
+  .
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

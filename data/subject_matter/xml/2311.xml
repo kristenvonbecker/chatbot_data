@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="2311" articletypeid="1" language="en_us" lastupdate="2021-Aug-12 14:09:52" url="/article/LED/2311" version="7">
+ <title>
+  LED
+ </title>
+ <p>
+  <e type="bold">
+   LED
+  </e>
+  , in full
+  <e type="bold">
+   light-emitting diode
+  </e>
+  , in electronics, a semiconductor device that emits infrared or visible light when charged with an electric current. Visible LEDs are used in many electronic devices as indicator lamps, in automobiles as rear-window and brake lights, and on billboards and signs as alphanumeric displays or even full-colour posters. Infrared LEDs are employed in autofocus cameras and television remote controls and also as light sources in fibre-optic telecommunication systems.
+ </p>
+ <p>
+  The familiar lightbulb gives off light through incandescence, a phenomenon in which the heating of a wire filament by an electric current causes the wire to emit photons, the basic energy packets of light. LEDs operate by electroluminescence, a phenomenon in which the emission of photons is caused by electronic excitation of a material. The material used most often in LEDs is gallium arsenide, though there are many variations on this basic compound, such as aluminum gallium arsenide or aluminum gallium indium phosphide. These compounds are members of the so-called III-V group of semiconductors—that is, compounds made of elements listed in columns III and V of the
+  <xref articleid="110603">
+   periodic table
+  </xref>
+  . By varying the precise composition of the semiconductor, the wavelength (and therefore the colour) of the emitted light can be changed. LED emission is generally in the visible part of the spectrum (i.e., with wavelengths from 0.4 to 0.7 micrometre) or in the near infrared (with wavelengths between 0.7 and 2.0 micrometres). The brightness of the light observed from an LED depends on the power emitted by the LED and on the relative sensitivity of the eye at the emitted wavelength. Maximum sensitivity occurs at 0.555 micrometre, which is in the yellow-orange and green region. The applied voltage in most LEDs is quite low, in the region of 2.0 volts; the current depends on the application and ranges from a few milliamperes to several hundred milliamperes.
+ </p>
+ <p>
+  The term
+  <e type="italic">
+   diode
+  </e>
+  refers to the twin-terminal structure of the light-emitting device. In a flashlight, for example, a wire filament is connected to a battery through two terminals, one (the anode) bearing the negative electric charge and the other (the cathode) bearing the positive charge. In LEDs, as in other semiconductor devices such as
+  <xref articleid="73201">
+   transistors
+  </xref>
+  , the “terminals” are actually two semiconductor materials of different composition and electronic properties brought together to form a junction. In one material (the negative, or
+  <e type="italic">
+   n
+  </e>
+  -type, semiconductor) the charge carriers are electrons, and in the other (the positive, or
+  <e type="italic">
+   p
+  </e>
+  -type, semiconductor) the charge carriers are “holes” created by the absence of electrons. Under the influence of an electric field (supplied by a battery, for instance, when the LED is switched on), current can be made to flow across the
+  <e type="italic">
+   p
+  </e>
+  -
+  <e type="italic">
+   n
+  </e>
+  junction, providing the electronic excitation that causes the material to luminesce.
+ </p>
+ <p>
+  In a typical LED structure, the clear epoxy dome serves as a structural element to hold the lead frame together, as a lens to focus the light, and as a refractive index match to permit more light to escape from the LED chip. The chip, typically 250 × 250 × 250 micrometres in dimension, is mounted in a reflecting cup formed in the lead frame. The
+  <e type="italic">
+   p
+  </e>
+  -
+  <e type="italic">
+   n
+  </e>
+  -type GaP:N layers represent nitrogen added to gallium phosphide to give green emission; the
+  <e type="italic">
+   p
+  </e>
+  -
+  <e type="italic">
+   n
+  </e>
+  -type GaAsP:N layers represent nitrogen added to gallium arsenide phosphide to give orange and yellow emission; and the
+  <e type="italic">
+   p
+  </e>
+  -type GaP:Zn,O layer represents zinc and oxygen added to gallium phosphide to give red emission. Two further enhancements, developed in the 1990s, are LEDs based on aluminum gallium indium phosphide, which emit light efficiently from green to red-orange, and also blue-emitting LEDs based on silicon carbide or gallium nitride. Blue LEDs can be combined on a cluster with other LEDs to give all colours, including white, for full-colour moving displays.
+ </p>
+ <p>
+  <assembly id="a166019" url="/assembly/view/166019">
+   <title>
+    digital clock
+   </title>
+   <media mediaid="80561" type="image" url="/61/80561-004-A2593E51.jpg"/>
+   <caption>
+    Light-emitting diode (LED) digital clock.
+   </caption>
+   <credit>
+    © Danilo Calilung/Corbis RF
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a166019"/>
+  Any LED can be used as a light source for a short-range fibre-optic transmission system—that is, over a distance of less than 100 metres (330 feet). For long-range fibre optics, however, the emission properties of the light source are selected to match the transmission properties of the optical fibre, and in this case the infrared LEDs are a better match than the visible-light LEDs. Glass optical fibres suffer their lowest transmission losses in the infrared region at wavelengths of 1.3 and 1.55 micrometres. To match these transmission properties, LEDs are employed that are made of gallium indium arsenide phosphide layered on a substrate of indium phosphide. The exact composition of the material may be adjusted to emit energy precisely at 1.3 or 1.55 micrometres.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

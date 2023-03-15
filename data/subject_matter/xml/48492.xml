@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="48492" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 23:24:44" url="/article/Lissajous-figure/48492" version="2">
+ <title>
+  Lissajous figure
+ </title>
+ <p>
+  <e type="bold">
+   Lissajous figure
+  </e>
+  , also called Lissajous curve, pattern produced by the combined effect of simple harmonic motion in two directions at right angles to each other. First studied by the American mathematician Nathaniel Bowditch in 1815, the curves were investigated independently by the French mathematician Jules-Antoine Lissajous in 1857–58. Lissajous used a narrow stream of sand pouring from the base of a compound pendulum to produce the curves.
+ </p>
+ <p>
+  The equations of a Lissajous curve are x = a cos ?(t-c), y = A cos ?(t-C), where a, A are the amplitudes, ?, ? determine the frequencies, and c, C the phase angles. For special values of these constants, the curve may consist of a straight-line segment, circle, ellipse, or other closed curve traversed repeatedly. In general, the curves traced out form an intricate and beautiful non-repeating pattern.
+ </p>
+ <p>
+  Of particular value in electronics, the curves can be made to appear on an oscilloscope, the shape of the curve serving to identify the characteristics of an unknown electric signal. For this purpose, one of the two curves is a signal of known characteristics. In general, the curves can be used to analyze the properties of any pair of simple harmonic motionsthat are at right angles to each other.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

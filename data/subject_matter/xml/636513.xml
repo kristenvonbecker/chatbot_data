@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="636513" articletypeid="1" language="en_us" lastupdate="2023-Feb-22 09:09:37" url="/article/significant-figures/636513" version="1">
+ <title>
+  significant figures
+ </title>
+ <p>
+  <e type="bold">
+   significant figures
+  </e>
+  , also called
+  <e type="bold">
+   significant digits
+  </e>
+  , any of the digits of a
+  <xref articleid="101973">
+   number
+  </xref>
+  beginning with the digit farthest to the left that is not zero and ending with the last digit farthest to the right that is either not zero or that is a zero but is considered to be exact. Significant figures are used to report a value, measured or calculated, to the correct number of decimal places or digits that will reflect the precision of the value.
+ </p>
+ <p>
+  <assembly id="a276114" url="/assembly/view/276114">
+   <title>
+    measurement
+   </title>
+   <media mediaid="203437" type="image" url="/37/203437-004-9DD506AB.jpg"/>
+   <caption>
+    Various measurement tools, including a level, protractor, rulers, calipers, and a set square.
+   </caption>
+   <credit>
+    © pirke/stock.adobe.com
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a276114"/>
+  The number of significant figures a value has depends on how it was measured, or how it was calculated. When a
+  <xref articleid="51691">
+   measurement
+  </xref>
+  is taken, the precision of that measurement is dependent on the equipment used to take the measurement. The measurement will have some digits that are certain and one digit that is uncertain, or estimated. The digits will be certain to the lowest increment division of the equipment used to take the measurement, and the estimated digit will be based on a best guess when the measurement is between two of the lowest increments of the equipment. If, for example, a measurement is taken with a metric ruler that has millimetre markings as the lowest increment, the number of millimetres of the measurement will be known for certain. One other digit will be estimated, since the measured quantity can be between two millimetre increments. If the item being measured falls exactly on a millimetre marking, then the estimated digit is written as a zero, to indicate that the digit of the measurement beyond the millimetre increments on the ruler is thought to be a zero, and not a nonzero estimated value.
+ </p>
+ <p>
+  The basic concept of significant figures in measurements relates to the fact that a measured value cannot be more precise than the equipment being used to make the measurement. It should be noted here that the equipment used to take a measurement does not determine the number of significant figures a measured value will have, only where the precision of a value must stop being written. Only one estimated value can ever be included in a measured quantity.
+ </p>
+ <h1 id="h354799">
+  <title>
+   Rules for significant figures
+  </title>
+  <p>
+   Determining the number of significant figures in measured quantities is essential when reporting the precision of measured values and the precision that can be reported when measured values are used in calculations. The rules for determining the number of significant figures are as follows:
+  </p>
+  <list type="ul">
+   <item>
+    All nonzero digits are significant.
+    <list type="ul">
+     <item>
+      For example, the value 211.8 has four significant figures.
+     </item>
+    </list>
+   </item>
+   <item>
+    All zeros that are found between nonzero digits are significant.
+    <list type="ul">
+     <item>
+      Thus, the number 20,007, with three 0s between the 2 and 7, has a total of five significant figures.
+     </item>
+    </list>
+   </item>
+   <item>
+    Leading zeros (to the left of the first nonzero digit) are not significant.
+    <list type="ul">
+     <item>
+      A value such as 0.0085, for example, has two significant figures because the 0s before the 8 are placeholders and are not significant.
+     </item>
+    </list>
+   </item>
+   <item>
+    Trailing zeros for a whole number that ends with a decimal point are significant.
+    <list type="ul">
+     <item>
+      For example, a value written as 320. shows the decimal point, which indicates that the 0 to the right of the 2 was measured; therefore, the value has a total of three significant figures. If the decimal point was not written, then 320 would have only two significant figures. In general, any confusion this may cause can be avoided by writing values such as these in scientific notation.
+     </item>
+    </list>
+   </item>
+   <item>
+    Trailing zeros to the right of the decimal place are significant.
+    <list type="ul">
+     <item>
+      This means a value such as 12.000 has a total of five significant figures, since the 0s after the decimal place have been measured to be zeros, indicating they are as significant as any other nonzero digit.
+     </item>
+    </list>
+   </item>
+   <item>
+    Exact numbers, and irrationally defined numbers like
+    <xref articleid="472292">
+     Euler’s number
+    </xref>
+    (
+    <e type="italic">
+     e
+    </e>
+    ) and
+    <xref articleid="59879">
+     pi
+    </xref>
+    (π), have an infinite number of significant figures.
+    <list type="ul">
+     <item>
+      In a defining expression like 1 metre = 100 centimetres, these values are considered exact and thus have an infinite number of significant figures. While π is usually written as 3.14 for ease of calculation, the π button on the calculator would be used in any calculations, and thus it is considered to be a value with infinite significant figures.
+     </item>
+    </list>
+   </item>
+   <item>
+    For any value written in scientific notation as
+    <e type="italic">
+     A
+    </e>
+    ×10
+    <sup>
+     <e type="italic">
+      x
+     </e>
+    </sup>
+    , the number of significant figures is determined by applying the above rules only to the value of
+    <e type="italic">
+     A
+    </e>
+    ; the
+    <e type="italic">
+     x
+    </e>
+    is considered an exact number and thus has an infinite number of significant figures.
+    <list type="ul">
+     <item>
+      For example, the value 4,500 can be written in scientific notation to reflect two, three, and four significant digits:
+     </item>
+     <item>
+      4.5 × 10
+      <sup>
+       3
+      </sup>
+      has two significant figures
+     </item>
+     <item>
+      4.50 × 10
+      <sup>
+       3
+      </sup>
+      has three significant figures
+     </item>
+     <item>
+      4.500 × 10
+      <sup>
+       3
+      </sup>
+      has four significant figures
+     </item>
+    </list>
+   </item>
+  </list>
+ </h1>
+ <h1 id="h354800">
+  <title>
+   Calculations with significant figures
+  </title>
+  <p>
+   For calculations involving measured quantities, the first step in determining the precision of the answer is to determine the number of significant figures in each of the measured quantities. Once done, the number of significant figures in a calculated value involving measurements is determined based on the mathematical operation being performed.
+  </p>
+  <p>
+   When two or more measured quantities are added or subtracted, the resulting value will have the same number of decimal places as the value with the fewest number of decimal places (the limiting value). So if the measured values of 22.35 and 47.773 are added, the limiting value of 22.35 has two decimal places, which means that the result of the addition will have only two decimal places.
+  </p>
+  <p>
+   When two or more measured quantities are being multiplied or divided, the answer will have the same number of total significant figures as the value with the fewest number of significant figures. So if the measured values of 2.445 and 31.7 are being multiplied, the resulting value will have three significant figures, since 2.445 has four significant figures, but 31.7 has only three significant figures.
+  </p>
+  <p>
+   When a value is to be rounded off, the rules for rounding are:
+  </p>
+  <list type="ul">
+   <item>
+    When the digit to the right of the one being rounded to is less than a 5, the remaining digit remains the same as the value rounds down.
+    <list type="ul">
+     <item>
+      For example, 33.742 is to be rounded to one decimal place. Here, the 7 in the first decimal place is followed by a 4, which is less than 5, which means that 33.742 rounded to one decimal place is 33.7. Note that only the 4 that is to the right of the 7 is looked at here; the 2 in the third decimal place is insignificant when rounding to one decimal place.
+     </item>
+    </list>
+   </item>
+   <item>
+    When the digit to the right of the one being rounded to is greater than 5, the value rounds up.
+    <list type="ul">
+     <item>
+      For example, 2.8763 is to be rounded to two decimal places. In this case, the 6 in the third decimal place is greater than 5, so the 7 in the second decimal place is rounded up to 8. This means that when rounded to two decimal places, 2.8763 rounds to 2.88. Again, the 3 in the fourth decimal place is insignificant when rounding to two decimal places.
+     </item>
+    </list>
+   </item>
+   <item>
+    When the digit to the right of the one being rounded to is exactly a 5 (which means no nonzero digit follows it), the value is rounded so that the final digit is an even number. This rule is designed to avoid always rounding up or always rounding down; it creates more balance when rounding.
+    <list type="ul">
+     <item>
+      Thus, 21.45 rounds to one decimal place to 21.4, while 36.75 would round to 36.8.
+     </item>
+     <item>
+      However, if a value such as 38.25003 is to be rounded to one decimal place, it rounds to 38.3. This is the only type of rounding where a digit farther than immediately to the right of the one being rounded to is ever considered. In this example, the digit looked at when rounding off to one decimal place is a 5. However, farther along the decimal portion of the value there is a nonzero digit. The number being rounded is therefore rounded up, as the 0.00003 indicates that the value of 0.05003 is larger than just the 0.05. For this reason, the value rounded to one decimal place is 38.3, not 38.2.
+     </item>
+    </list>
+   </item>
+  </list>
+ </h1>
+ <signature>
+  [ No Value! ]
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

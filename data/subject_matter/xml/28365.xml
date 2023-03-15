@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="28365" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:27:42" url="/article/cybernetics/28365" version="3">
+ <title>
+  cybernetics
+ </title>
+ <p>
+  <e type="bold">
+   cybernetics
+  </e>
+  ,
+  <xref articleid="26082">
+   control theory
+  </xref>
+  as it is applied to complex systems. Cybernetics is associated with models in which a monitor compares what is happening to a system at various sampling times with some standard of what should be happening, and a controller adjusts the system’s behaviour accordingly.
+ </p>
+ <p>
+  The term
+  <e type="italic">
+   cybernetics
+  </e>
+  comes from the ancient Greek word
+  <e type="italic">
+   kybernetikos
+  </e>
+  (“good at steering”), referring to the art of the helmsman. In the first half of the 19th century, the French physicist
+  <xref articleid="7234">
+   André-Marie Ampère
+  </xref>
+  , in his classification of the sciences, suggested that the still nonexistent science of the control of governments be called cybernetics. The term was soon forgotten, however, and it was not used again until the American mathematician
+  <xref articleid="76934">
+   Norbert Wiener
+  </xref>
+  published his book
+  <e type="italic">
+   Cybernetics
+  </e>
+  in 1948. In that book Wiener made reference to an 1868 article by the British physicist
+  <xref articleid="108468">
+   James Clerk Maxwell
+  </xref>
+  on governors and pointed out that the term
+  <e type="italic">
+   governor
+  </e>
+  is derived, via Latin, from the same Greek word that gives rise to
+  <e type="italic">
+   cybernetics
+  </e>
+  . The date of Wiener’s publication is generally accepted as marking the birth of cybernetics as an independent science.
+ </p>
+ <p>
+  Wiener defined cybernetics as “the science of control and communications in the animal and machine.” This definition relates cybernetics closely with the theory of automatic control and also with
+  <xref articleid="110578">
+   physiology
+  </xref>
+  , particularly the physiology of the
+  <xref articleid="110703">
+   nervous system
+  </xref>
+  . For instance, a “controller” might be the human
+  <xref articleid="16178">
+   brain
+  </xref>
+  , which might receive signals from a “monitor” (the
+  <xref articleid="109527">
+   eyes
+  </xref>
+  ) regarding the distance between a reaching hand and an object to be picked up. The information sent by the monitor to the controller is called feedback, and on the basis of this feedback the controller might issue instructions to bring the observed behaviour (the reach of the hand) closer to the desired behaviour (the picking up of the object). Indeed, some of the earliest work done in cybernetics was the study of control rules by which human action takes place, with the goal of constructing artificial limbs that could be tied in with the brain.
+ </p>
+ <p>
+  In subsequent years the computer and the areas of
+  <xref articleid="109827">
+   mathematics
+  </xref>
+  related to it (e.g., mathematical logic) had a great influence on the development of cybernetics—for the simple reason that computers can be used not only for automatic calculation but also for all conversions of information, including the various types of
+  <xref articleid="106312">
+   information processing
+  </xref>
+  used in control systems. This enhanced ability of computers has made possible two different views of cybernetics. The narrower view, common in Western countries, defines cybernetics as the science of the control of complex systems of various types—technical, biological, or social. In many Western countries particular emphasis is given to aspects of cybernetics used in the generation of control systems in technology and in living organisms. A broader view of cybernetics arose in Russia and the other Soviet republics and prevailed there for many years. In this broader definition, cybernetics includes not only the science of control but all forms of information processing as well. In this way
+  <xref articleid="109626">
+   computer science
+  </xref>
+  , considered a separate discipline in the West, is included as one of the component parts of cybernetics.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <h1 id="h235476">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Norbert Wiener
+   </e>
+   ,
+   <e type="italic">
+    Cybernetics
+   </e>
+   , 2nd ed. (1961), presents a very general discussion.
+   <e type="smallcap">
+    Constantin Virgil Negoita
+   </e>
+   ,
+   <e type="italic">
+    Cybernetics and Applied Systems
+   </e>
+   (1992), combines theory, applications, and methodology.
+  </p>
+  <signature>
+   EB Editors
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

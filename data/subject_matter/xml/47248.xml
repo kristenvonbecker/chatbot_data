@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="47248" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 23:17:42" url="/article/laser/47248" version="21">
+ <title>
+  laser
+ </title>
+ <p>
+  <assembly id="a90025" url="/assembly/view/90025">
+   <title>
+    laser components: cutaway view
+   </title>
+   <media mediaid="91946" type="image" url="/46/91946-004-058B2060.jpg"/>
+   <caption>
+    Basic laser components.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   laser
+  </e>
+  ,
+  <assemblyref assemblyid="a90025"/>
+  a device that stimulates atoms or molecules to emit
+  <xref articleid="110443">
+   light
+  </xref>
+  at particular wavelengths and amplifies that light, typically producing a very narrow beam of
+  <xref articleid="109464">
+   radiation
+  </xref>
+  . The emission generally covers an extremely limited range of visible,
+  <xref articleid="42403">
+   infrared
+  </xref>
+  , or
+  <xref articleid="74181">
+   ultraviolet
+  </xref>
+  wavelengths. Many different types of lasers have been developed, with highly varied characteristics.
+  <e type="italic">
+   Laser
+  </e>
+  is an acronym for “light amplification by the stimulated emission of radiation.”
+ </p>
+ <h1 id="h256336">
+  <title>
+   History
+  </title>
+  <p>
+   The laser is an outgrowth of a suggestion made by
+   <xref articleid="106018">
+    Albert Einstein
+   </xref>
+   in 1916 that under the proper circumstances atoms could release excess energy as light—either spontaneously or when stimulated by light. German physicist Rudolf Walther Ladenburg first observed stimulated emission in 1928, although at the time it seemed to have no practical use.
+  </p>
+  <p>
+   In 1951
+   <xref articleid="73080">
+    Charles H. Townes
+   </xref>
+   , then at Columbia University in New York City, thought of a way to generate stimulated emission at
+   <xref articleid="52523">
+    microwave
+   </xref>
+   frequencies. At the end of 1953, he demonstrated a working device that focused “excited” (
+   <e type="italic">
+    see below
+   </e>
+   <xref articleid="47248" refid="h256337">
+    Energy levels and stimulated emissions
+   </xref>
+   )
+   <xref articleid="7200">
+    ammonia
+   </xref>
+   molecules in a resonant microwave cavity, where they emitted a pure microwave frequency. Townes named the device a maser, for “microwave amplification by the stimulated emission of radiation.”
+   <xref articleid="61518">
+    Aleksandr Mikhaylovich Prokhorov
+   </xref>
+   and
+   <xref articleid="13644">
+    Nikolay Gennadiyevich Basov
+   </xref>
+   of the P.N. Lebedev Physical Institute in Moscow independently described the theory of maser operation. For their work all three shared the 1964
+   <xref articleid="56008">
+    Nobel Prize
+   </xref>
+   for Physics.
+  </p>
+  <p>
+   An intense burst of maser research followed in the mid-1950s, but masers found only a limited range of applications as low-noise microwave amplifiers and atomic clocks. In 1957 Townes proposed to his brother-in-law and former postdoctoral student at Columbia University,
+   <xref articleid="66093">
+    Arthur L. Schawlow
+   </xref>
+   (then at Bell Laboratories), that they try to extend maser action to the much shorter wavelengths of infrared or visible light. Townes also had discussions with a graduate student at Columbia University,
+   <xref articleid="543388">
+    Gordon Gould
+   </xref>
+   , who quickly developed his own laser ideas. Townes and Schawlow published their ideas for an “optical maser” in a seminal paper in the December 15, 1958, issue of
+   <e type="italic">
+    Physical Review
+   </e>
+   . Meanwhile, Gould coined the word
+   <e type="italic">
+    laser
+   </e>
+   and wrote a patent application. Whether Townes or Gould should be credited as the “inventor” of the laser thus became a matter of intense debate and led to years of litigation. Eventually, Gould received a series of four patents starting in 1977 that earned him millions of dollars in royalties.
+  </p>
+  <p>
+   <assembly id="a92028" url="/assembly/view/92028">
+    <title>
+     first gas laser
+    </title>
+    <media mediaid="96862" type="image" url="/62/96862-004-2E6177EA.jpg"/>
+    <caption>
+     Ali Javan, a researcher at Bell Telephone Laboratories, displaying the first gas laser, which used a mixture of helium and neon.
+    </caption>
+    <credit>
+     Authenticated News
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a92028"/>
+   The Townes-Schawlow proposal led several groups to try building a laser. The Gould proposal became the basis of a classified military contract. Success came first to
+   <xref articleid="50162">
+    Theodore H. Maiman
+   </xref>
+   , who took a different approach at Hughes Research Laboratories in Malibu, California. He fired bright pulses from a photographer’s flash lamp to excite
+   <xref articleid="82451">
+    chromium
+   </xref>
+   atoms in a crystal of synthetic
+   <xref articleid="64334">
+    ruby
+   </xref>
+   , a material he chose because he had studied carefully how it absorbed and emitted light and calculated that it should work as a laser. On May 16, 1960, he produced red pulses from a ruby rod about the size of a fingertip. In December 1960 Ali Javan, William Bennett, Jr., and Donald Herriott at Bell Labs built the first gas laser, which generated a continuous infrared beam from a mixture of
+   <xref articleid="1713">
+    helium
+   </xref>
+   and
+   <xref articleid="55272">
+    neon
+   </xref>
+   . In 1962 Robert N. Hall and coworkers at the
+   <xref articleid="36365">
+    General Electric
+   </xref>
+   Research and Development Center in Schenectady, New York, made the first semiconductor laser.
+  </p>
+  <p>
+   While lasers quickly caught the public imagination, perhaps for their similarity to the “heat rays” of
+   <xref articleid="66289">
+    science fiction
+   </xref>
+   , practical applications took years to develop. A young physicist named Irnee D’Haenens, while working with Maiman on the ruby laser, joked that the device was “a solution looking for a problem,” and the line lingered in the laser community for many years. Townes and Schawlow had expected laser beams to be used in basic research and to send signals through air or space. Gould envisioned more powerful beams capable of cutting and drilling many materials. A key early success came in late 1963 when two researchers at the
+   <xref articleid="52484">
+    University of Michigan
+   </xref>
+   , Emmett Leith and Juris Upatnieks, used lasers to make the first three-dimensional holograms (
+   <e type="italic">
+    see
+   </e>
+   <xref articleid="40823">
+    holography
+   </xref>
+   ).
+  </p>
+  <p>
+   <assemblyref assemblyid="a90025"/>
+   Helium-neon lasers were the first lasers with broad commercial applications. Because they could be adjusted to generate a visible red beam instead of an infrared beam, they found immediate use projecting straight lines for alignment, surveying, construction, and irrigation. Soon eye surgeons were using pulses from ruby lasers to weld detached retinas back in place without cutting into the eye. The first large-scale application for lasers was the laser scanner for automated checkout in supermarkets, which was developed in the mid-1970s and became common a few years later.
+   <xref articleid="25003">
+    Compact disc
+   </xref>
+   audio players and laser printers for personal computers soon followed.
+  </p>
+  <p>
+   Lasers have become standard tools in diverse applications. Laser pointers highlight presentation points in lecture halls, and laser target designators guide
+   <xref articleid="68251">
+    smart bombs
+   </xref>
+   to their targets. Lasers weld razor blades, write patterns on objects on production lines without touching them, remove unwanted hair, and bleach tattoos. Laser rangefinders in space probes profiled the surfaces of
+   <xref articleid="110149">
+    Mars
+   </xref>
+   and the asteroid
+   <xref articleid="32939">
+    Eros
+   </xref>
+   in unprecedented detail. In the laboratory, lasers have helped physicists to cool atoms to within a tiny fraction of a degree of
+   <xref articleid="3400">
+    absolute zero
+   </xref>
+   .
+  </p>
+ </h1>
+ <h1 id="h4058">
+  <title>
+   Fundamental principles
+  </title>
+  <h2 id="h256337">
+   <title>
+    Energy levels and stimulated emissions
+   </title>
+   <p>
+    Laser emission is shaped by the rules of
+    <xref articleid="110312">
+     quantum mechanics
+    </xref>
+    , which limit atoms and molecules to having discrete amounts of stored energy that depend on the nature of the atom or molecule. The lowest energy level for an individual atom occurs when its
+    <xref articleid="32316">
+     electron
+    </xref>
+    s are all in the nearest possible orbits to its
+    <xref articleid="56462">
+     nucleus
+    </xref>
+    (
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="32333">
+     electronic configuration
+    </xref>
+    ). This condition is called the ground state. When one or more of an atom’s electrons have absorbed energy, they can move to outer orbits, and the atom is then referred to as being “excited.” Excited states are generally not stable; as electrons drop from higher-energy to lower-energy levels, they emit the extra energy as light.
+   </p>
+   <p>
+    Einstein recognized that this emission could be produced in two ways. Usually, discrete packets of light known as
+    <xref articleid="59817">
+     photons
+    </xref>
+    are emitted spontaneously, without outside intervention. Alternatively, a passing photon could stimulate an atom or molecule to emit light—if the passing photon’s energy exactly matched the energy that an electron would release spontaneously when dropping to a lower-energy configuration. Which process dominates depends on the ratio of lower-energy to higher-energy configurations. Ordinarily, lower-energy configurations predominate. This means that a spontaneously emitted photon is more likely to be absorbed and raise an electron from a lower-energy configuration to a higher-energy configuration than to stimulate a higher-energy configuration to drop to a lower-energy configuration by emitting a second photon. As long as lower-energy states are more common, stimulated emission will die out.
+   </p>
+   <p>
+    However, if higher-energy configurations predominate (a condition known as
+    <xref articleid="60865">
+     population inversion
+    </xref>
+    ), spontaneously emitted photons are more likely to stimulate further emissions, generating a cascade of photons. Heat alone does not produce a population inversion; some process must selectively excite the atoms or molecules. Typically, this is done by illuminating the laser material with bright light or by passing an electric current through it.
+   </p>
+   <p>
+    <assembly id="a90015" url="/assembly/view/90015">
+     <title>
+      three-level laser
+     </title>
+     <media mediaid="95646" type="image" url="/46/95646-004-C63C64EA.jpg"/>
+     <caption>
+      A burst of energy excites electrons in more than half of the atoms from their ground state to a higher state, creating a population inversion. The electrons then drop into a long-lived state with slightly less energy, where they can be stimulated to quickly shed excess energy as a laser burst, returning the electrons to a stable ground state.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a90015"/>
+    The simplest conceivable system, such as the ammonia maser built by Townes, has only two energy levels. More useful laser systems involve three or four energy levels. In a three-level laser, the material is first excited to a short-lived high-energy state that spontaneously drops to a somewhat lower-energy state with an unusually long lifetime, called a
+    <xref articleid="52296">
+     metastable state
+    </xref>
+    . The metastable state is important because it traps and holds the excitation energy, building up a population inversion that can be further stimulated to emit radiation, dropping the species back to the ground state. The ruby laser developed by
+    <xref articleid="50162">
+     Theodore Maiman
+    </xref>
+    is an example of a three-level laser.
+   </p>
+   <p>
+    <assembly id="a90016" url="/assembly/view/90016">
+     <title>
+      four-level laser
+     </title>
+     <media mediaid="95647" type="image" url="/47/95647-004-0093B808.jpg"/>
+     <caption>
+      A sustained laser beam can be achieved by using atoms that have two relatively stable levels between their ground state and a higher-energy excited state. As in a three-level laser, the atoms first drop to a long-lived metastable state where they can be stimulated to emit excess energy. However, instead of dropping to the ground state, they stop at another state above the ground state from which they can more easily be excited back up to the higher metastable state, thereby maintaining the population inversion needed for continuous laser operation.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a90016"/>
+    Unfortunately, the three-level laser works only if the ground state is depopulated. As atoms or molecules emit light, they accumulate in the ground state, where they can absorb the stimulated emission and shut down laser action, so most three-level lasers can only generate pulses. This difficulty is overcome in the four-level laser, where an extra transition state is located between metastable and ground states. This allows many four-level lasers to emit a steady beam for days on end.
+   </p>
+  </h2>
+  <h2 id="h256338">
+   <title>
+    Laser elements
+   </title>
+   <p>
+    <assembly id="a144457" url="/assembly/view/144457">
+     <title>
+      laser
+     </title>
+     <media mediaid="92826" type="image" url="/26/92826-004-55DB8341.jpg"/>
+     <caption>
+      Laser producing a beam.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a144457"/>
+    Population inversions can be produced in a gas, liquid, or solid, but most laser media are gases or solids. Typically, laser gases are contained in cylindrical tubes and excited by an electric current or external light source, which is said to “pump” the laser. Similarly, solid-state lasers may use
+    <xref articleid="66711">
+     semiconductors
+    </xref>
+    or transparent
+    <xref articleid="110297">
+     crystals
+    </xref>
+    with small concentrations of light-emitting atoms.
+   </p>
+   <p>
+    <assembly id="a90017" url="/assembly/view/90017">
+     <title>
+      laser cavity
+     </title>
+     <media mediaid="95645" type="image" url="/45/95645-004-32D0C70A.jpg"/>
+     <caption>
+      Stimulated emission in a laser cavity.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a90017"/>
+    An optical resonator is needed to build up the light energy in the beam. The resonator is formed by placing a pair of mirrors facing each other so that light emitted along the line between the mirrors is reflected back and forth. When a population inversion is created in the medium, light reflected back and forth increases in intensity with each pass through the laser medium. Other light leaks around the mirrors without being amplified. In an actual laser cavity, one or both mirrors transmit a fraction of the incident light. The fraction of light transmitted—that is, the laser beam—depends on the type of laser. If the laser generates a continuous beam, the amount of light added by stimulated emission on each round trip between the mirrors equals the light emerging in the beam plus losses within the optical resonator.
+   </p>
+   <p>
+    The combination of laser medium and resonant cavity forms what often is called simply a laser but technically is a laser oscillator. Oscillation determines many laser properties, and it means that the device generates light internally. Without mirrors and a resonant cavity, a laser would just be an optical amplifier, which can amplify light from an external source but not generate a beam internally. Elias Snitzer, a researcher at American Optical, demonstrated the first optical amplifier in 1961, but such devices were little used until the spread of communications based on
+    <xref articleid="34170">
+     fibre optics
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h256339">
+   <title>
+    Laser beam characteristics
+   </title>
+   <p>
+    Laser light generally differs from other light in being focused in a narrow beam, limited to a narrow range of wavelengths (often called “monochromatic”), and consisting of waves that are in phase with each other. These properties arise from interactions between the process of stimulated emission, the resonant cavity, and the laser medium.
+   </p>
+   <p>
+    Stimulated emission produces a second photon identical to the one that stimulated the emission, so the new photon has the same phase, wavelength, and direction—that is, the two are coherent with respect to each other, with peaks and valleys in phase. Both the original and the new photon can then stimulate the emission of other identical photons. Passing the light back and forth through a resonant cavity enhances this uniformity, with the degree of coherence and the narrowness of the beam depending on the laser design.
+   </p>
+   <p>
+    Although a visible laser produces what looks like a point of light on the opposite wall of a room, the alignment, or collimation, of the beam is not perfect. The extent of beam spreading depends on both the distance between the laser mirrors and
+    <xref articleid="30419">
+     diffraction
+    </xref>
+    , which scatters light at the edge of an aperture. Diffraction is proportional to the laser wavelength divided by the size of the emitting aperture; the larger the aperture is, the more slowly the beam spreads. A red helium-neon laser emits from a one-millimetre aperture at a wavelength of 0.633 micrometre, generating a beam that diverges at an angle of about 0.057 degree, or one milliradian. Such a small angle of divergence will produce a one-metre spot at a distance of one kilometre. In contrast, a typical flashlight beam produces a similar one-metre spot within a few metres. Not all lasers produce tight beams, however. Semiconductor lasers emit light near one micrometre wavelength from an aperture of comparable size, so their divergence is 20 degrees or more, and external optics are needed to focus their beams.
+   </p>
+   <p>
+    The output wavelength depends on the laser material, the process of stimulated emission, and the optics of the laser resonator. For each transition between energy levels, a material can support stimulated emission over a limited range of wavelengths; the extent of that range varies with the nature of the material and the transition. The probability of stimulated emission varies with wavelength, and the process concentrates emission at wavelengths where that probability is the highest.
+   </p>
+   <p>
+    Resonant cavities support laser oscillation at wavelengths that meet a resonant condition—an integral number
+    <e type="italic">
+     N
+    </e>
+    of wavelengths λ must equal the distance light travels during a round trip between the mirrors. If the cavity length is
+    <e type="italic">
+     L
+    </e>
+    and the
+    <xref articleid="63034">
+     refractive index
+    </xref>
+    of the material in the laser cavity is
+    <e type="italic">
+     n
+    </e>
+    , the round-trip distance 2
+    <e type="italic">
+     L
+    </e>
+    must equal
+    <e type="italic">
+     N
+    </e>
+    λ/
+    <e type="italic">
+     n
+    </e>
+    , or 2
+    <e type="italic">
+     L
+    </e>
+    =
+    <e type="italic">
+     N
+    </e>
+    λ/
+    <e type="italic">
+     n
+    </e>
+    . Each resonance is called a longitudinal mode. Except in semiconductor lasers, cavities are thousands of wavelengths long, so the wavelengths of adjacent modes are closely spaced—and usually the laser simultaneously emits light on two or more wavelengths within 0.1 percent of each other. These beams are monochromatic for most practical applications; other optics can be added to limit laser oscillation to a single longitudinal mode and an even narrower range of wavelengths. The best laboratory lasers emit a range of wavelengths that differ by less than 0.0000001 percent.
+   </p>
+   <p>
+    The narrower the range of wavelengths, the more coherent the beam—meaning the more precisely every light wave in the beam is in exact synchronization with every other one. This is measured by a quantity called coherence length. If the centre of the range of wavelengths emitted is λ and the range of wavelengths emitted is Δλ, this coherence length equals λ
+    <sup>
+     2
+    </sup>
+    /2Δλ. Typical coherence lengths range from millimetres to metres. Such long coherence lengths are essential, for instance, to record holograms of three-dimensional objects.
+   </p>
+   <p>
+    Lasers can generate pulsed or continuous beams, with average powers ranging from microwatts to over a million
+    <xref articleid="76295">
+     watts
+    </xref>
+    in the most powerful experimental lasers. A laser is called continuous-wave if its output is nominally constant over an interval of seconds or longer; one example is the steady red beam from a laser pointer. Pulsed lasers concentrate their output energy into brief high-power bursts. These lasers can fire single pulses or a series of pulses at regular intervals. Instantaneous power can be extremely high at the peak of a very short pulse. Laboratory lasers have generated peak power exceeding 10
+    <sup>
+     15
+    </sup>
+    watts for intervals of about 10
+    <sup>
+     −12
+    </sup>
+    second.
+   </p>
+   <p>
+    Pulses can be compressed to extremely short duration, about 5 femtoseconds (5 × 10
+    <sup>
+     −15
+    </sup>
+    second) in laboratory experiments, in order to “freeze” the action during events that occur very rapidly, such as stages in
+    <xref articleid="110109">
+     chemical reactions
+    </xref>
+    . Laser pulses also can be focused to concentrate high powers on small spots, much as a magnifier focuses sunlight onto a small spot to ignite a piece of paper.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h256340">
+  <title>
+   Types of lasers
+  </title>
+  <p>
+   Crystals, glasses, semiconductors, gases, liquids, beams of high-energy electrons, and even gelatin doped with suitable materials can generate laser beams. In nature, hot gases near bright stars can generate strong stimulated emission at microwave frequencies, although these gas clouds lack resonant cavities, so they do not produce beams.
+  </p>
+  <p>
+   In crystal and glass lasers, such as Maiman’s first ruby laser, light from an external source excites atoms, known as
+   <xref articleid="30952">
+    dopants
+   </xref>
+   , that have been added to a host material at low concentrations. Important examples include glasses and crystals doped with the
+   <xref articleid="110615">
+    rare-earth element
+   </xref>
+   <xref articleid="55266">
+    neodymium
+   </xref>
+   and glasses doped with
+   <xref articleid="32865">
+    erbium
+   </xref>
+   or
+   <xref articleid="78098">
+    ytterbium
+   </xref>
+   , which can be drawn into fibres for use as fibre-optic lasers or amplifiers.
+   <xref articleid="72643">
+    Titanium
+   </xref>
+   atoms doped into synthetic sapphire can generate stimulated emission across an exceptionally broad range and are used in wavelength-tunable lasers.
+  </p>
+  <p>
+   Many different gases can function as laser media. The common helium-neon laser contains a small amount of
+   <xref articleid="55272">
+    neon
+   </xref>
+   and a much larger amount of
+   <xref articleid="1713">
+    helium
+   </xref>
+   . The helium atoms capture energy from electrons passing through the gas and transfer it to the neon atoms, which emit light. The best-known helium-neon lasers emit red light, but they also can be made to emit yellow, orange, green, or infrared light; typical powers are in the milliwatt range.
+   <xref articleid="9382">
+    Argon
+   </xref>
+   and
+   <xref articleid="46305">
+    krypton
+   </xref>
+   atoms that have been stripped of one or two electrons can generate milliwatts to watts of laser light at visible and ultraviolet wavelengths. The most powerful commercial gas laser is the
+   <xref articleid="20249">
+    carbon-dioxide
+   </xref>
+   laser, which can generate kilowatts of continuous power.
+  </p>
+  <p>
+   The most widely used lasers today are semiconductor diode lasers, which emit visible or infrared light when an electric current passes through them. The emission occurs at the interface (
+   <e type="italic">
+    see
+   </e>
+   <xref articleid="1095">
+    <e type="italic">
+     p
+    </e>
+    -
+    <e type="italic">
+     n
+    </e>
+    junction
+   </xref>
+   ) between two regions doped with different materials. The
+   <xref articleid="1095">
+    <e type="italic">
+     p
+    </e>
+    -
+    <e type="italic">
+     n
+    </e>
+    junction
+   </xref>
+   can act as a laser medium, generating stimulated emission and providing lasing action if it is inside a suitable cavity. Conventional edge-emitting semiconductor lasers have mirrors on opposite edges of the
+   <e type="italic">
+    p
+   </e>
+   -
+   <e type="italic">
+    n
+   </e>
+   junction, so light oscillates in the junction plane. Vertical-cavity surface-emitting lasers (VCSELs) have mirrors above and below the
+   <e type="italic">
+    p
+   </e>
+   -
+   <e type="italic">
+    n
+   </e>
+   junction, so light resonates perpendicular to the junction. The wavelength depends on the semiconductor compound.
+  </p>
+  <p>
+   A few other types of lasers are used in research. In dye lasers the laser medium is a
+   <xref articleid="110301">
+    liquid
+   </xref>
+   containing organic dye molecules that can emit light over a range of wavelengths; adjusting the laser cavity changes, or tunes, the output wavelength. Chemical lasers are gas lasers in which a chemical reaction generates the excited molecules that produce stimulated emission. In free-electron lasers stimulated emission comes from electrons passing through a magnetic field that periodically varies in direction and intensity, causing the electrons to accelerate and release light energy. Because the electrons do not transition between well-defined energy levels, some specialists question whether a free-electron laser should be called a laser, but the label has stuck. Depending on the energy of the electron beam and variations in the magnetic field, free-electron lasers can be tuned across a wide range of wavelengths. Both free-electron and chemical lasers can emit high powers.
+  </p>
+ </h1>
+ <h1 id="h256341">
+  <title>
+   Laser applications
+  </title>
+  <p>
+   Lasers deliver coherent, monochromatic, well-controlled, and precisely directed light beams. Although lasers make poor choices for general-purpose illumination, they are ideal for concentrating light in space, time, or particular wavelengths. For example, many people were first introduced to lasers by concerts in the early 1970s that incorporated laser light shows, in which moving laser beams of different colours projected changing patterns on planetarium domes, concert-hall ceilings, or outdoor clouds.
+  </p>
+  <p>
+   Most laser applications fall into one of a few broad categories: (1) transmission and processing of information, (2) precise delivery of energy, and (3) alignment, measurement, and imaging. These categories cover diverse applications, from pinpoint energy delivery for delicate surgery to heavy-duty welding and from the mundane alignment of suspended ceilings to laboratory measurements of atomic properties.
+  </p>
+  <h2 id="h256342">
+   <title>
+    Transmission and processing of information
+   </title>
+   <h3 id="h256343">
+    <title>
+     Laser scanners
+    </title>
+    <p>
+     <assembly id="a92034" url="/assembly/view/92034">
+      <title>
+       laser scanner
+      </title>
+      <media mediaid="96857" type="image" url="/57/96857-004-7C9CE6C0.jpg"/>
+      <caption>
+       Since their introduction in 1974, laser scanners for reading universal product codes (UPC), or bar codes, have become common in retail stores.
+      </caption>
+      <credit>
+       © 2006 Index Open
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a92034"/>
+     The ability to focus laser beams onto very small spots and to switch them on and off billions of times per second makes lasers important tools in
+     <xref articleid="110258">
+      telecommunications
+     </xref>
+     and
+     <xref articleid="106312">
+      information processing
+     </xref>
+     . In laser supermarket scanners, a rotating mirror scans a red beam while clerks move packages across the beam. Optical sensors detect light reflected from striped
+     <xref articleid="1590">
+      bar codes
+     </xref>
+     on packages, decode the symbol, and relay the information to a computer so that it can add the price to the bill.
+    </p>
+   </h3>
+   <h3 id="h256344">
+    <title>
+     Optical discs
+    </title>
+    <p>
+     <assembly id="a138693" url="/assembly/view/138693">
+      <title>
+       Study how an infrared laser scans the metallic reflective underside of a compact disc to read recorded sound
+      </title>
+      <media mediaid="24062" thumburl="/62/24062-049-E4ECD809.jpg" type="video" url=""/>
+      <caption>
+       An infrared laser is focused onto the metallic reflective layer of the disc, where a spiral track of “pits” and “lands” represents the zeros and ones of digital signals. The return signal is converted by a photodiode sensor into a digital electric signal, which is converted to analog form for reproduction of the original recorded sound. Optical recording, introduced by the Sony Corporation and Philips Electronics NV in 1982, allows accurate reproduction of sound over virtually the entire range of human hearing.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assembly id="a138692" url="/assembly/view/138692">
+      <title>
+       the laser scanning method employed in compact disc players
+      </title>
+      <media mediaid="24063" type="image" url="/63/24063-004-741588DD.jpg"/>
+      <caption>
+       An infrared laser is focused onto the metallic reflective layer of the disc, where a spiral track of “pits” and “lands” represents the zeros and ones of digital signals. The return signal is converted by a photodiode sensor into a digital electric signal, which is converted to analog form for reproduction of the original recorded sound. Optical recording, introduced by Sony Corporation and Philips Electronics NV in 1982, allows accurate reproduction of sound over virtually the entire range of human hearing.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a138693"/>
+     <assemblyref assemblyid="a138692"/>
+     Tiny, inexpensive semiconductor lasers read data from a growing variety of optical
+     <xref articleid="25003">
+      compact disc
+     </xref>
+     formats to play music, display video recordings, and read computer software. Audio compact discs, using infrared lasers, were introduced around 1980;
+     <xref articleid="1430">
+      CD-ROM
+     </xref>
+     s (compact disc read-only memory) for computer data soon followed. Newer optical drives use more powerful lasers to record data on light-sensitive discs called CD-R (recordable) or CD-RW (read/write), which can be played in ordinary CD-ROM drives. DVDs (digital video, or versatile, discs) work similarly, but they use a shorter-wavelength red laser to read smaller spots, so the discs can hold enough information to play a digitized motion picture. A new generation of discs called Blu-ray uses blue-light lasers to read and store data at an even higher density.
+    </p>
+   </h3>
+   <h3 id="h256345">
+    <title>
+     Fibre-optic communication systems
+    </title>
+    <p>
+     <assembly id="a92036" url="/assembly/view/92036">
+      <title>
+       fibre optic cable
+      </title>
+      <media mediaid="96858" type="image" url="/58/96858-004-F37FC4B8.jpg"/>
+      <caption>
+       Modern communication systems use fibre optic cables, which may have as many as a thousand individual fibres, because of a variety of benefits, such as greater data capacity, immunity to electro-magnetic interference, no risk of starting electrical fires, and improved security of communications.
+      </caption>
+      <credit>
+       © 2006 Index Open
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a92036"/>
+     Fibre-optic communication systems that transmit signals more than a few kilometres also use semiconductor laser beams. The optical signals are sent at infrared wavelengths of 1.3 to 1.6 micrometres, where glass fibres are most transparent. This technology has become the backbone of the global
+     <xref articleid="117784">
+      telecommunications network
+     </xref>
+     , and most
+     <xref articleid="110260">
+      telephone
+     </xref>
+     calls traveling beyond the confines of a single town go part of the way through optical fibres.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h256346">
+   <title>
+    Precise delivery of energy
+   </title>
+   <h3 id="h256347">
+    <title>
+     Industrial uses
+    </title>
+    <p>
+     Laser energy can be focused in space and concentrated in time so that it heats, burns away, or vaporizes many materials. Although the total energy in a laser beam may be small, the concentrated power on small spots or during short intervals can be enormous. Although lasers cost much more than mechanical
+     <xref articleid="31205">
+      drills
+     </xref>
+     or blades, their different properties allow them to perform otherwise difficult tasks. A laser beam does not deform flexible materials as a mechanical drill would, so it can drill holes in materials such as soft rubber nipples for baby
+     <xref articleid="15874">
+      bottles
+     </xref>
+     . Likewise, laser beams can drill or cut into extremely hard materials without dulling bits or blades. For example, lasers have drilled holes in diamond dies used for drawing wire.
+    </p>
+   </h3>
+   <h3 id="h256348">
+    <title>
+     Medical applications
+    </title>
+    <p>
+     <assembly id="a92509" url="/assembly/view/92509">
+      <title>
+       photodynamic therapy (PDT) fibre optic surgery
+      </title>
+      <media mediaid="96852" type="image" url="/52/96852-004-4324C2D1.jpg"/>
+      <caption>
+       A photosensitive drug absorbed by cancer cells can be activated by a laser beam guided through optical fibres to selectively destroy a tumour.
+      </caption>
+      <credit>
+       John Crawford—National Cancer Institute
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a92509"/>
+     Surgical removal of tissue with a laser is a physical process similar to industrial laser drilling.
+     <xref articleid="20249">
+      Carbon-dioxide
+     </xref>
+     lasers burn away tissue because their infrared beams are strongly absorbed by the water that makes up the bulk of living cells. A laser beam cauterizes the cuts, stopping
+     <xref articleid="106086">
+      bleeding
+     </xref>
+     in blood-rich tissues such as the female reproductive tract or the gums. Laser wavelengths near one micrometre can penetrate the
+     <xref articleid="109527">
+      eye
+     </xref>
+     , welding a detached
+     <xref articleid="63313">
+      retina
+     </xref>
+     back into place, or cutting internal membranes that often grow cloudy after
+     <xref articleid="20772">
+      cataract
+     </xref>
+     <xref articleid="70446">
+      surgery
+     </xref>
+     . Less-intense laser pulses can destroy abnormal
+     <xref articleid="15707">
+      blood vessels
+     </xref>
+     that spread across the retina in patients suffering from diabetes, delaying the blindness often associated with the disease. Ophthalmologists surgically correct visual defects by removing tissue from the
+     <xref articleid="26332">
+      cornea
+     </xref>
+     , reshaping the transparent outer layer of the eye with intense ultraviolet pulses.
+    </p>
+    <p>
+     Through the use of optical fibres similar to the tiny strands of glass that carry information in telephone systems, laser light can be delivered to places within the body that the beams could not otherwise reach. One important example involves threading a fibre through the
+     <xref articleid="74463">
+      urethra
+     </xref>
+     and into the
+     <xref articleid="45392">
+      kidney
+     </xref>
+     so that the end of the fibre can deliver intense laser pulses to
+     <xref articleid="45395">
+      kidney stones
+     </xref>
+     . The laser energy splits the stones into fragments small enough to pass through the urethra without requiring surgical incisions. Fibres also can be inserted through small incisions to deliver laser energy to precise spots in the knee joint during arthroscopic surgery.
+    </p>
+    <p>
+     Another medical application for lasers is in the treatment of skin conditions. Pulsed lasers can bleach certain types of tattoos as well as dark-red birthmarks called portwine stains. Cosmetic laser treatments include removing unwanted body hair and wrinkles.
+    </p>
+   </h3>
+   <h3 id="h256349">
+    <title>
+     High-energy lasers
+    </title>
+    <p>
+     <assembly id="a92039" url="/assembly/view/92039">
+      <title>
+       laser-activated fusion
+      </title>
+      <media mediaid="96856" type="image" url="/56/96856-004-AF810A00.jpg"/>
+      <caption>
+       Interior of the U.S. Department of Energy’s National Ignition Facility (NIF), located at Lawrence Livermore National Laboratory, Livermore, California. The NIF target chamber uses a high-energy laser to heat fusion fuel to temperatures sufficient for thermonuclear ignition. The facility is used for basic science, fusion energy research, and nuclear weapons testing.
+      </caption>
+      <credit>
+       U.S. Department of Energy
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a92039"/>
+     Scientists have shown that lasers can concentrate extremely high powers in either pulses or continuous beams. Major applications for these high-power levels are fusion research, nuclear weapons testing, and missile defense.
+    </p>
+    <p>
+     Extremely high temperatures and pressures are needed to force atomic nuclei to fuse together, releasing energy. In the 1960s physicists at the Lawrence Livermore National Laboratory in California calculated that intense laser pulses could produce those conditions by heating and compressing tiny pellets containing mixtures of hydrogen
+     <xref articleid="110412">
+      isotopes
+     </xref>
+     . They suggested using these “microimplosions” both to generate energy for civilian use and to simulate the implosion of a hydrogen bomb, which involves similar processes. Since then, Livermore has built a series of lasers to test and refine these theories, primarily for the U.S. government’s nuclear weapons program.
+    </p>
+    <p>
+     Military laser weapon research also dates back to the 1960s, but it attracted little attention until President
+     <xref articleid="62864">
+      Ronald Reagan
+     </xref>
+     launched the
+     <xref articleid="69901">
+      Strategic Defense Initiative
+     </xref>
+     in 1983. High-energy lasers offer a way to deliver destructive energy to targets at the speed of light, which is very attractive for fast-moving targets such as nuclear missiles. Military researchers have tested high-energy lasers for use as weapons on land, at sea, in the air, and in space, although no high-energy lasers have been placed in orbit. Experiments have shown that massive lasers can generate high powers; however, tests have also shown that the atmosphere distorts such powerful beams, causing them to spread out and miss their targets. These problems and the end of the
+     <xref articleid="24721">
+      Cold War
+     </xref>
+     slowed research on laser weapons, though interest continues in laser weapons to defend against smaller-scale missile attacks.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h256350">
+   <title>
+    Alignment, measurement, and imaging
+   </title>
+   <h3 id="h256351">
+    <title>
+     Surveying
+    </title>
+    <p>
+     Surveyors and construction workers use laser beams to draw straight lines through the air. The beam itself is not visible in the air except where scattered by dust or haze, but it projects a bright point on a distant object. Surveyors bounce the beam off a mirror to measure direction and angle. The beam can set an angle for grading irrigated land, and a rotating beam can define a smooth plane for construction workers installing walls or ceilings.
+    </p>
+    <p>
+     <assembly id="a70950" url="/assembly/view/70950">
+      <title>
+       Olympus Mons on Mars
+      </title>
+      <media mediaid="75420" type="image" url="/20/75420-004-A581C853.jpg"/>
+      <caption>
+       Olympus Mons, the highest point on Mars, in a computer-generated oblique view made by combining photos obtained by the Viking mission in the 1970s with topographic data gathered by Mars Global Surveyor a quarter century later. The image clearly shows the shield volcano’s relative flatness and gently sloping profile, the steep outward-facing cliff at its base (buried in places under lava that has flowed into the surrounding plains), and the complex caldera of intersecting craters at the summit.
+      </caption>
+      <credit>
+       NASA/JPL/MOLA Science Team
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a70950"/>
+     Pulsed laser radar can measure distance in the same manner as
+     <xref articleid="109463">
+      microwave radar
+     </xref>
+     by timing how long it takes a laser pulse to bounce back from a distant object. For instance, in 1969 laser radar precisely measured the distance from the Earth to the Moon, and in the 1970s military laser range finders were developed to measure the distance to battlefield targets accurately. Laser range finding is now widely used for remote sensing. Instruments flown on aircraft can profile the layers of foliage in a forest, and the Mars Global Surveyor (
+     <e type="italic">
+      see
+     </e>
+     <xref articleid="110149" refid="h54238">
+      Mars: Spacecraft exploration
+     </xref>
+     ) used a laser altimeter to map elevations on the Martian surface.
+    </p>
+   </h3>
+   <h3 id="h256352">
+    <title>
+     Interferometry and holography
+    </title>
+    <p>
+     The coherence of laser light is crucial for interferometry (
+     <e type="italic">
+      see
+     </e>
+     <xref articleid="57230">
+      optical interferometer)
+     </xref>
+     and
+     <xref articleid="40823">
+      holography
+     </xref>
+     , which depend on interactions between light waves to make extremely precise measurements and to record three-dimensional images. The result of adding light waves together depends on their relative phases. If the peaks of one align with the valleys of the other, they will interfere destructively to cancel each other out; if their peaks align, they will interfere constructively to produce a bright spot. This effect can be used for measurement by splitting a beam into two identical halves that follow different paths. Changing one path just half a wavelength from the other will shift the two out of phase, producing a dark spot. This technique has proved invaluable for precise measurements of very small distances.
+    </p>
+    <p>
+     <assembly id="a88729" url="/assembly/view/88729">
+      <title>
+       holography
+      </title>
+      <media mediaid="93301" type="image" url="/01/93301-004-7CC31938.jpg"/>
+      <caption>
+       Holography uses no camera. Instead, two beams of light from a single laser shine on a piece of film. One of the beams reflects from the object.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a88729"/>
+     Holograms are made by splitting a laser beam into two identical halves, using one beam to illuminate an object. This object beam then is combined with the other half—the reference beam—in the plane of a photographic plate, producing a random-looking pattern of light and dark zones that record the wave front of light from the object. Later, when laser light illuminates that pattern from the same angle as the reference beam, it is scattered to reconstruct an identical wave front of light, which appears to the viewer as a three-dimensional image of the object. Holograms now can be mass-produced by an embossing process, as used on credit cards, and do not have to be viewed in laser light.
+    </p>
+   </h3>
+   <h3 id="h256353">
+    <title>
+     Research tool
+    </title>
+    <p>
+     The ability to control laser
+     <xref articleid="76325">
+      wavelength
+     </xref>
+     and pulse duration precisely has proved invaluable for fundamental research in physics and other sciences. Lasers have been particularly important in
+     <xref articleid="110407">
+      spectroscopy
+     </xref>
+     , the study of the light absorbed and emitted when atoms and molecules make transitions between energy levels, which can reveal the inner workings of atoms. Lasers can concentrate much more power into a narrow range of wavelengths than other light sources, which makes them invaluable in analyzing fine spectroscopic details.
+    </p>
+    <p>
+     For example, simultaneously illuminating samples with laser beams coming from opposite directions can cancel the effects of the random motions of atoms or molecules in a gas. This technique has greatly improved the precision of the measurement of the
+     <xref articleid="64546">
+      Rydberg constant
+     </xref>
+     , which is critical in calculations of atomic properties, and it earned
+     <xref articleid="66093">
+      Arthur Schawlow
+     </xref>
+     a share of the 1981 Nobel Prize for Physics.
+     <xref articleid="15680">
+      Nicolaas Bloembergen
+     </xref>
+     shared the prize for developing other types of high-precision laser spectroscopy.
+    </p>
+    <p>
+     Since that early work, laser spectroscopy has expanded considerably. Laser pulses have been used to take snapshots of
+     <xref articleid="110109">
+      chemical reactions
+     </xref>
+     as they occur, on time scales faster than atomic vibrations in a molecule. These techniques have given chemists new ways to understand chemical physics, and they earned
+     <xref articleid="342631">
+      Ahmed Zewail
+     </xref>
+     the 1999 Nobel Prize for Chemistry. Thanks to his work, the Nobel Committee wrote, “we have reached the end of the road: no chemical reactions take place faster than this.”
+    </p>
+    <p>
+     Physicists also have used the subtle forces exerted by laser beams to slow and trap atoms, molecules, and small particles. Arthur Ashkin, a researcher at
+     <xref articleid="15241">
+      Bell Labs
+     </xref>
+     , showed that a tightly focused horizontal laser beam could trap atoms in the zone with highest light intensity, a technique called “optical tweezers” now used in a variety of research. Other research has shown that laser illumination can slow the motion of atoms if its wavelength is tuned to a point slightly off the wavelength of peak absorption. The atoms repeatedly absorb photons from the beam and then emit photons in random directions. The photon momentum slows the motion toward the laser beam. Placing the atoms at the junction of six laser beams aimed at right angles to each other slows their
+     <xref articleid="53289">
+      momentum
+     </xref>
+     in all directions, producing a clump of atoms less than 0.001 degree above
+     <xref articleid="3400">
+      absolute zero
+     </xref>
+     . Adding a magnetic field improves confinement and can reduce their
+     <xref articleid="71632">
+      temperature
+     </xref>
+     to less than one-millionth degree above absolute zero. These techniques have led to the creation of a new state of
+     <xref articleid="51438">
+      matter
+     </xref>
+     , called a
+     <xref articleid="345275">
+      Bose-Einstein condensate
+     </xref>
+     , and they earned
+     <xref articleid="110821">
+      Steven Chu
+     </xref>
+     ,
+     <xref articleid="110822">
+      Claude Cohen-Tannoudji
+     </xref>
+     , and
+     <xref articleid="110823">
+      William D. Phillips
+     </xref>
+     the 1997 Nobel Prize for Physics.
+    </p>
+    <signature>
+     Jeff Hecht
+    </signature>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h256354">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    James P. Harbison
+   </e>
+   and
+   <e type="smallcap">
+    Robert E. Nahory
+   </e>
+   ,
+   <e type="italic">
+    Lasers: Harnessing the Atom’s Light
+   </e>
+   (1998, reissued 2001), contains a nontechnical explanation of laser principles, a bit of history, and some applications.
+   <e type="smallcap">
+    Jeff Hecht
+   </e>
+   ,
+   <e type="italic">
+    Understanding Lasers: An Entry-Level Guide
+   </e>
+   , 2nd ed. (1994), is particularly suitable for hobbyists.
+   <e type="smallcap">
+    C. Breck Hitz
+   </e>
+   ,
+   <e type="smallcap">
+    J.J. Ewing
+   </e>
+   , and
+   <e type="smallcap">
+    Jeff Hecht
+   </e>
+   (eds.),
+   <e type="italic">
+    Introduction to Laser Technology
+   </e>
+   , 3rd ed. (2001), is an excellent introductory textbook.
+  </p>
+  <p>
+   <e type="smallcap">
+    Joan Lisa Bromberg
+   </e>
+   ,
+   <e type="italic">
+    The Laser in America, 1950–1970
+   </e>
+   (1991), shows the wide-ranging academic, industrial, and government research that led to the development of the laser and its applications and also presents an evenhanded account of the dispute over conceptual credit for the invention of the laser.
+   <e type="smallcap">
+    Theodore H. Maiman
+   </e>
+   ,
+   <e type="italic">
+    The Laser Odyssey
+   </e>
+   (2000), is a firsthand account by the builder of the first laser.
+   <e type="smallcap">
+    Charles H. Townes
+   </e>
+   ,
+   <e type="italic">
+    How the Laser Happened: Adventures of a Scientist
+   </e>
+   (1999, reissued 2002), presents the author’s claims to have invented the laser in addition to the maser.
+   <e type="smallcap">
+    Nick Taylor
+   </e>
+   ,
+   <e type="italic">
+    Laser: The Inventor, the Nobel Laureate, and the Thirty-Year Patent War
+   </e>
+   (2000), takes Gordon Gould’s side in the dispute over the invention of the laser.
+  </p>
+  <signature>
+   Jeff Hecht
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

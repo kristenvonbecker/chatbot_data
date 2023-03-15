@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="109823" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 04:31:39" url="/article/futures/109823" version="5">
+ <title>
+  futures
+ </title>
+ <p>
+  <e type="bold">
+   futures
+  </e>
+  , commercial contract calling for the purchase or sale of specified quantities of a commodity at specified future dates. The origin of futures contracts was in trade in agricultural commodities, and the term commodity is used to define the underlying asset even though the contract is frequently completely divorced from the product. It therefore differs from a simple forward purchase or sale in the cash market, which involves actual delivery of the commodity at the agreed time in the future.
+ </p>
+ <p>
+  From very early times, and in many lines of trade, buyers and sellers have found it advantageous to enter into contracts—termed futures contracts—calling for delivery of a commodity at a later date. Dutch whalers in the 16th century entered into forward sales contracts before sailing, partly to finance their voyage and partly to get a better price for their product. From early times, U.S. potato growers in Maine made forward sales of potatoes at planting time. The European futures markets arose out of import trade. Cotton importers in Liverpool, for example, entered forward contracts with U.S. exporters from about 1840. With the introduction of the fast transatlantic Cunard mail services, it became possible for cotton exporters in the United States to send samples to Liverpool in advance of the slow cargo ships, which carried the bulk of the cotton. Futures trading within the United States in the form of “to arrive” contracts appears to have commenced before the railroad days (1850s) in Chicago. Merchants in Chicago who bought wheat from outlying territories were not sure of the arrival time and quality of a delivery. The introduction of “to arrive” contracts enabled the sellers to get a better price for their product and buyers to avoid serious price risk.
+ </p>
+ <p>
+  Futures trading of this sort in grains, coffee, cotton, and oilseeds also arose in other centres such as Antwerp, Amsterdam, Bremen, Le Havre, Alexandria, and Ōsaka between the 17th and the middle of the 19th centuries. In the process of evolution, “to arrive” contracts became standardized with respect to grade and delivery period, with allowances for grade adjustment when the delivered grade happened to be different. These developments helped to enlarge the volume of trade, encouraging more trading by merchants who dealt in the physical commodity and also the entry of speculators, who were interested not in the commodity itself but in the favourable movement of its price in order to make profits. The larger volume of trading lowered the transaction costs, and by stages the trading became impersonal. The rise of the clearinghouse depersonalized the buyer-seller relations completely, giving rise to the present form of futures trading.
+ </p>
+ <h1 id="h27299">
+  <title>
+   Economic functions of the futures contract
+  </title>
+  <p>
+   Commodity futures markets provide insurance opportunities to merchants and processors against the risk of price fluctuation. In the case of a trader, an adverse price change brought by either supply or demand change affects the total value of his commitments; and the larger the value of his inventory, the larger the risk to which he is exposed. The futures market provides a mechanism for the trader to lower the per unit inventory risk on his commitments in the cash market (where actual physical delivery of the commodity must eventually be made) through what is known as hedging. A trader is termed a hedger if his commitments in the cash market are offset by opposite commitments in the futures market. An example would be that of a grain elevator operator who buys wheat in the country and at the same time sells a futures contract for the same quantity of wheat. When his wheat is delivered later to the terminal market or to the processor in a normal market, he buys back his futures contract. Any change of price that occurred during the interval should have been cancelled out by mutually compensatory movements in his cash and futures holdings. The hedger thus hopes to protect himself against loss resulting from price changes by transferring the risk to a speculator who relies upon his skill in forecasting price movements.
+  </p>
+  <p>
+   For a better understanding of the process involved, the distinctive features of the cash market and the futures market should be made clear. The cash market may be either a spot market concerned with immediate physical delivery of the specified commodity or a forward market, where the delivery of the specified commodity is made at some later date. Futures markets, on the other hand, generally permit trading in a number of grades of the commodity to protect hedger sellers from being “cornered” by speculator buyers who might otherwise insist on delivery of a particular grade whose stocks are small. Since a number of alternative grades can be tendered, the futures market is not suitable for the acquisition of the physical commodity. For this reason, physical delivery of the commodities in fulfillment of the futures contract generally does not take place, and the contract is usually settled between buyers and sellers by paying the difference between the buying and selling price. Several futures contracts in a commodity are traded during a year. Thus, five wheat contracts, July, September, December, March, and May, and six soybean contracts, September, November, January, March, May and July are traded on the Board of Trade of the City of Chicago. The length of these contracts is for a period of about 10 months, and a contract for “September wheat” or “September soybean” indicates the month the contract matures.
+  </p>
+  <p>
+   Though hedging is a form of insurance, it seldom provides perfect protection. The insurance is based on the fact that the cash and futures prices move together and are well correlated. The price spread between the cash and futures, however, is not invariant. The hedgers, therefore, run the risk that the price spread, known as the “basis,” could move against them. The possibility of such an unfavourable movement in the basis is known as basis risk. Thus hedgers, through their commitment in the futures market, substitute basis risk for the price risk they would have taken in carrying unhedged stocks. It must be emphasized, however, that risk reduction is not the final objective with merchants and processors; what they seek to do is to maximize profits.
+  </p>
+  <p>
+   The availability of capital for financing the holding of inventories depends on whether they are hedged or not. The bankers’ willingness to finance them increases with the proportion of the inventory that is hedged. For example, the banks may advance loans to the extent of only 50 percent of the value of unhedged inventories and 90 percent if they are all hedged, a difference explained by the fact that hedging reduces the risk on which the amount of the loan and the interest rate depend. Merchants and processors can therefore derive a twofold advantage from futures trading; they can insure against price decline and they can secure larger and cheaper loans from the banks.
+  </p>
+ </h1>
+ <h1 id="h27300">
+  <title>
+   The theory and practice of hedging
+  </title>
+  <p>
+   There are two rival hypotheses concerning the motives for and costs of hedging. The first of these, advanced by John Maynard Keynes and J.R. Hicks, suggests that risk reduction is the prime motive for hedging and that hedgers pay a risk premium to speculators for assuming risk. The Keynes-Hicks hypothesis states that under normal conditions in commodity markets, when demand, supply, and spot prices are expected to remain unchanged for some months to come and there is uncertainty in traders’ minds regarding these expectations, the futures price, say, for one month’s delivery is bound to be below the spot price that traders expect to prevail one month later. This condition exists because inventory holders would be ready to hedge themselves from the risk of price fluctuations by selling futures to speculators below the expected spot price. By selling futures below the expected spot price, according to the theory, inventory holders who hedge pay a risk premium to speculators.
+  </p>
+  <p>
+   The rival hypothesis of Holbrook Working maintains that hedging is done with the expectation of a profit from a favourable change in the spot-futures price relation, to simplify business decisions, and to cut costs, and not for the sake of reducing risk alone. Hedgers, according to Working, are arbitrageurs;
+   <e type="italic">
+    i.e.,
+   </e>
+   they take advantage of a temporary price difference between two markets to buy in one and sell in the other. They thus speculate on the basis and assume risk.
+  </p>
+  <p>
+   A compromise between these rival theories and a more balanced view regarding the need for hedging and the scope of hedging activities is that hedging is motivated by the desire to reduce risks, as suggested by the Keynes-Hicks theory, but that the levels of inventory held by merchants and processors are determined by expected hedging profits, as Working has emphasized.
+  </p>
+  <p>
+   There are two categories of hedgers in the futures market: they are called short and long hedgers. Short hedgers are merchants and processors who acquire inventories of the commodity in the spot market and who simultaneously sell an equivalent amount or less in the futures market. The hedgers in this case are said to be long on their spot transaction and short in the futures transaction. Wheat merchants or wheat flour mills who either have 100,000 bushels of wheat as inventory or have bought it for later delivery are said to short hedge if they sell 100,000 bushels of wheat in futures contracts. By holding inventories, both merchants and processors can make their purchases when it is most opportune and lower their transaction costs through fewer transactions. Another advantage to the processing firm in holding inventory is that it makes it possible to avoid interruption in production. It must be borne in mind that short hedgers do not normally deliver the physical commodity in fulfillment of the futures contract. They “lift the hedge” by repurchasing the futures contract at the prevailing futures price when they sell the raw material or the processed good in the spot market.
+  </p>
+  <p>
+   The merchants and processors do not generally hedge all their inventories for the sake of reduced risk. The decision on what part of inventories to hedge is based on their expectations relating to return from holding hedged and unhedged inventories in storage, given the cost incurred in both forms of inventory holding. The return per unit inventory to merchants and processors on their hedged inventories, when liquidated, is the change in the spot price less the change in the futures price and the storage costs. Their return on per unit unhedged inventory is the change in spot price less storage costs.
+  </p>
+  <p>
+   Long hedgers, in contrast, are merchants and processors who have made formal commitments to deliver a specified quantity of raw material or processed goods at a later date at a price currently agreed upon and who do not now have the stocks of the raw material necessary to fulfill their forward commitment. The parties who have made the commitment generally seek to hedge against the risk of price rise in the raw material between the time of making the forward contract and the time of acquiring the raw material stocks for fulfilling the contract. The hedging is done by buying futures contracts of the raw material equal in quantity to what is needed to fulfill the forward commitment.
+  </p>
+  <p>
+   The question arises under what circumstances the long hedger might prefer the purchase of futures to the alternative of immediately buying the raw material through spot or forward purchase to meet the obligations of his forward sale. He may prefer buying futures to buying in the cash market (spot or forward) if current cash prices are high because of scarcity. Generally there is an increase in the amount of long hedging when, as the season advances, spot prices rise, inventory holdings fall, and the new crop is not yet available. Long hedging is not as risk-reducing as it may appear at first sight. The long hedger processor, for example, who buys raw material futures to satisfy his forward commitment of the processed good may find that the raw material delivered to him in futures is not of suitable grade and quality to meet the obligations of the forward sale. Quite often, therefore, he may sell his futures contract and purchase raw material of the grade needed. If the spot price of the raw material moves unfavourably relative to the price of the processed good sold forward by him, the long hedger actually increases the risk by buying futures instead of buying the raw material in the cash market. Long hedging, unlike short hedging, may serve to increase risk, and the total risk on long hedging increases with the size of the commitment.
+  </p>
+  <p>
+   The volume of short hedging tends to be large when stocks in commercial hands are large and when the cash price is below the futures price; a reversal in this situation brings a decline. Conversely, the volume of long hedging is large when stocks are small and the cash price is above the futures price. Short hedging has a marked seasonal pattern, reaching a peak when commercial stocks are largest and the basis is favourable and then declining as the season advances. The seasonal pattern is less marked in long hedging. Generally there is an excess of short over long hedging during the bulk of the crop year.
+  </p>
+  <p>
+   Apart from hedgers, the futures market includes speculators, and these can also be classified in two categories, namely, long and short speculators. The long speculators are those who expect the price to rise above the current level and assume risks by purchasing futures contracts. Short speculators are those who expect the price to fall. They sell futures contracts. In a futures market the total short selling position, made up of short hedgers and short speculators, and the total long buying position, made up of long hedgers and long speculators, must always be equal. Any excess of short over long hedging must be balanced by an equal excess of long over short speculation. Since short hedging exceeds long hedging for most of the crop year, hedgers are generally short and speculators, therefore, are generally long.
+  </p>
+  <p>
+   Futures markets have flourished and become important in commodities where sizeable inventories have to be stored and carried forward for meeting the consumption needs of the entire season. Successful futures trading requires a large volume with low transaction costs and that spot and futures prices be well correlated in order to make hedging effective.
+  </p>
+ </h1>
+ <h1 id="h27301">
+  <title>
+   Important futures markets
+  </title>
+  <p>
+   Based on the number and volume of commodities in which active futures trading exists, the United States occupies first place. The Chicago Board of Trade, the largest of the world’s futures markets in terms of volume and value of business, is the centre for trading in wheat, corn, oats, rye, soybeans, soybean oil, and soybean meal. About 30 commodities in all are traded on organized exchanges in the United States. The wheat market in Minneapolis, the cotton and wool markets in New York City, and the markets in frozen pork bellies and live hogs in the midwestern United States are among them. The number of commodities in which futures trading takes place are far fewer outside the United States.
+  </p>
+  <p>
+   There are futures markets for wool in London, Paris, and Sydney; for cotton in Liverpool and Bombay; for sugar in London and Paris; for jute goods in Calcutta; for black pepper in Cochin, India; and for turmeric in Sāngli, India. As a result of government controls on futures markets and also of international commodity agreements, the volume of futures trading in several countries has been adversely affected. The commodity markets in Europe, with few exceptions, have been dormant since the end of World War II. Many of the Indian commodity markets, such as those in gur, jute, and oilseeds, which were once active, have met the same fate. The recurrent arguments in the United States, India, and elsewhere against the futures markets are that they encourage speculation and that the participation of speculators causes price instability. These arguments have led to the demand that markets be controlled or prohibited from functioning. To refute such allegations requires a comparison between price variations in the presence and absence of speculation, which is impossible for commodities that have futures markets, since it is not meaningful to say for these markets what the price would have been in the absence of speculation.
+  </p>
+  <signature>
+   Lalgudi Sivasubramanian Venkataramanan
+  </signature>
+ </h1>
+ <h1 id="h27302">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Glenn G. Munn
+   </e>
+   ,
+   <e type="smallcap">
+    F.L. Garcia
+   </e>
+   , and
+   <e type="smallcap">
+    Charles J. Woelfel
+   </e>
+   ,
+   <e type="italic">
+    Encyclopedia of Banking and Finance
+   </e>
+   , 9th ed., rev. and expanded (also published as
+   <e type="italic">
+    The St. James Encyclopedia of Banking &amp; Finance
+   </e>
+   , 1991), provides comprehensive definitions, many with bibliographies.
+   <e type="smallcap">
+    Edward I. Altman
+   </e>
+   and
+   <e type="smallcap">
+    Mary Jane McKinney
+   </e>
+   (eds.),
+   <e type="italic">
+    Handbook of Financial Markets and Institutions
+   </e>
+   , 6th ed. (1987), is a thorough compilation. Detailed information on a variety of markets is provided in
+   <e type="smallcap">
+    Francis A. Lees
+   </e>
+   and
+   <e type="smallcap">
+    Maximo Eng
+   </e>
+   ,
+   <e type="italic">
+    International Financial Markets: Development of the Present System and Future Prospects
+   </e>
+   (1975), a descriptive treatment;
+   <e type="smallcap">
+    Charles R. Geisst
+   </e>
+   ,
+   <e type="italic">
+    A Guide to the Financial Markets
+   </e>
+   , 2nd ed. (1989), for the general reader;
+   <e type="smallcap">
+    Frank J. Fabozzi
+   </e>
+   and
+   <e type="smallcap">
+    Frank G. Zarb
+   </e>
+   ,
+   <e type="italic">
+    Handbook of Financial Markets: Securities, Options, and Futures
+   </e>
+   , 2nd ed. (1986); and
+   <e type="smallcap">
+    Perry J. Kaufman
+   </e>
+   ,
+   <e type="italic">
+    Handbook of Futures Markets: Commodity, Financial, Stock Index, and Options
+   </e>
+   (1984), including the history, regulation, and mechanics of futures trading. Further discussion of financial futures is found in
+   <e type="smallcap">
+    Mark J. Powers
+   </e>
+   and
+   <e type="smallcap">
+    Mark G. Castelino
+   </e>
+   ,
+   <e type="italic">
+    Inside the Financial Futures Markets
+   </e>
+   , 3rd ed. (1991), an explanation of the exchanges and their functions; and
+   <e type="smallcap">
+    Nancy H. Rothstein
+   </e>
+   and
+   <e type="smallcap">
+    James M. Little
+   </e>
+   (eds.),
+   <e type="italic">
+    The Handbook of Financial Futures: A Guide for Investors and Professional Financial Managers
+   </e>
+   (1984), a discussion of the market’s development, organization, and regulation.
+  </p>
+  <p>
+   <e type="smallcap">
+    J.R. Hicks
+   </e>
+   ,
+   <e type="italic">
+    Value and Capital
+   </e>
+   , 2nd ed. (1946, reissued 1975), contains a short discussion of the theory of “normal backwardation,” also known as the Keynes-Hicks hypothesis.
+   <e type="smallcap">
+    Holbrook Working
+   </e>
+   , “New Concepts Concerning Futures, Markets, and Prices,”
+   <e type="italic">
+    American Economic Review
+   </e>
+   , 52(1):431–459 (June 1962), presents his theories on the role of hedging and the functions of futures markets. The instability of markets for primary commodities is the theme of the Argentinian economist
+   <e type="smallcap">
+    Raul Prebisch
+   </e>
+   ,
+   <e type="italic">
+    Towards a New Trade Policy for Development
+   </e>
+   (1964). Recent work on the specific methods and rules of the major world exchanges is included in
+   <e type="smallcap">
+    John Buckley
+   </e>
+   (ed.),
+   <e type="italic">
+    Guide to World Commodity Markets
+   </e>
+   , 5th ed. (1986). Basic works on commodity futures trading include
+   <e type="smallcap">
+    Gerald Gold
+   </e>
+   ,
+   <e type="italic">
+    Modern Commodity Futures Trading
+   </e>
+   , 7th rev. ed. (1975); and
+   <e type="smallcap">
+    Bruce G. Gould
+   </e>
+   ,
+   <e type="italic">
+    The Dow Jones-Irwin Guide to Commodities Trading
+   </e>
+   , rev. ed. (1981). See also
+   <e type="smallcap">
+    Barry P. Bosworth
+   </e>
+   and
+   <e type="smallcap">
+    Robert Z. Lawrence
+   </e>
+   ,
+   <e type="italic">
+    Commodity Prices and the New Inflation
+   </e>
+   (1982), comparing the experiences of the United States, West Germany, and Japan, and offering policy proposals; and
+   <e type="smallcap">
+    Robert L. Rothstein
+   </e>
+   ,
+   <e type="italic">
+    Global Bargaining
+   </e>
+   (1979), utilizing the 1974–77 United Nations conference on trade and development negotiations to develop an international commodity policy. An extensive summary of work on commodity futures trading is provided by
+   <e type="smallcap">
+    James B. Woy
+   </e>
+   ,
+   <e type="italic">
+    Commodity Futures Trading: A Bibliographic Guide
+   </e>
+   (1976).
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

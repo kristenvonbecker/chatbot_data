@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="35366" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 22:06:50" url="/article/frequency-meter/35366" version="1">
+ <title>
+  frequency meter
+ </title>
+ <p>
+  <e type="bold">
+   frequency meter
+  </e>
+  , device for measuring the repetitions per unit of time (customarily, a second) of a complete electromagnetic waveform. Various types of frequency meters are used. Many are instruments of the deflection type, ordinarily used for measuring low frequencies but capable of being used for frequencies as high as 900 Hz. These operate by balancing two opposing forces. Changes in the frequency to be measured cause a change in this balance that can be measured by the deflection of a pointer on a scale. Deflection-type meters are of two types, electrically resonant circuits and ratiometers.
+ </p>
+ <p>
+  An example of a simple electrically resonant circuit is a moving-coil meter. In one version, this device possesses two coils tuned to different frequencies and connected at right angles to one another in such a way that the whole element, with attached pointer, can move. Frequencies in the middle of the meter’s range cause the currents in the two coils to be approximately equal and the pointer to indicate the midpoint of a scale. Changes in frequency cause an imbalance in the currents in the two coils, causing them and, in turn, the pointer to move.
+ </p>
+ <p>
+  Another type of frequency meter, not of the deflection type, is the resonant-reed type, ordinarily used in ranges from 10 to 1,000 Hz, although special designs can operate at lower or higher frequencies. These work by means of specially tuned steel reeds that vibrate under the effect of electric current; only those reeds that are in resonance vibrate visibly, however.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

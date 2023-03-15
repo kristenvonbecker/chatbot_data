@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="26305" articletypeid="1" language="en_us" lastupdate="2022-Jul-28 07:58:21" url="/article/Coriolis-force/26305" version="5">
+ <title>
+  Coriolis force
+ </title>
+ <p>
+  <assembly id="a112174" url="/assembly/view/112174">
+   <title>
+    Coriolis force
+   </title>
+   <media mediaid="113711" type="image" url="/11/113711-004-08705491.jpg"/>
+   <caption>
+    As seen from a fixed point in space, a parcel of air would be moving in a straight line. This apparent force on the motion of a fluid (in this case, air) is called the Coriolis effect. As a result of the Coriolis effect, air tends to rotate counterclockwise around large-scale low-pressure systems and clockwise around large-scale high-pressure systems in the Northern Hemisphere. In the Southern Hemisphere, the flow direction is reversed.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   Coriolis force
+  </e>
+  , also called
+  <e type="bold">
+   Coriolis effect
+  </e>
+  ,
+  <assemblyref assemblyid="a112174"/>
+  in classical
+  <xref articleid="110307">
+   mechanics
+  </xref>
+  , an inertial force described by the 19th-century French engineer-mathematician
+  <xref articleid="26304">
+   Gustave-Gaspard Coriolis
+  </xref>
+  in 1835. Coriolis showed that, if the ordinary
+  <xref articleid="55622">
+   Newtonian laws of motion
+  </xref>
+  of bodies are to be used in a rotating frame of reference, an inertial force—acting to the right of the direction of body motion for counterclockwise rotation of the reference frame or to the left for clockwise rotation—must be included in the equations of motion.
+ </p>
+ <p>
+  The effect of the Coriolis force is an apparent deflection of the path of an object that moves within a rotating coordinate system. The object does not actually deviate from its path, but it appears to do so because of the motion of the coordinate system.
+ </p>
+ <p>
+  The Coriolis effect is most apparent in the path of an object moving longitudinally. On
+  <xref articleid="110147">
+   Earth
+  </xref>
+  an object that moves along a north-south path, or
+  <xref articleid="47303">
+   longitudinal
+  </xref>
+  line, will undergo apparent deflection to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. There are two reasons for this phenomenon: first, Earth rotates eastward; and second, the tangential velocity of a point on Earth is a function of latitude (the velocity is essentially zero at the poles and it attains a maximum value at the
+  <xref articleid="32837">
+   Equator
+  </xref>
+  ). Thus, if a cannon were fired northward from a point on the Equator, the projectile would land to the east of its due north path. This variation would occur because the projectile was moving eastward faster at the Equator than was its target farther north. Similarly, if the weapon were fired toward the Equator from the North Pole, the projectile would again land to the right of its true path. In this case, the target area would have moved eastward before the shell reached it because of its greater eastward velocity. An exactly similar displacement occurs if the projectile is fired in any direction.
+ </p>
+ <p>
+  The Coriolis deflection is therefore related to the motion of the object, the motion of Earth, and the latitude. For this reason, the magnitude of the effect is given by 2νω sin ϕ, in which ν is the velocity of the object, ω is the angular velocity of Earth, and ϕ is the latitude.
+ </p>
+ <p>
+  <assembly id="a164078" url="/assembly/view/164078">
+   <title>
+    density current: descent to an ocean layer of equal density
+   </title>
+   <media mediaid="152173" type="image" url="/73/152173-004-03DF0140.jpg"/>
+   <caption>
+    Behaviour of a density current as it descends to a layer of water whose density equals that of the current.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a164078"/>
+  The Coriolis effect has great significance in astrophysics and stellar dynamics, in which it is a controlling factor in the directions of rotation of sunspots. It is also significant in the
+  <xref articleid="106191">
+   earth sciences
+  </xref>
+  , especially
+  <xref articleid="472863">
+   meteorology
+  </xref>
+  ,
+  <xref articleid="98799">
+   physical geology
+  </xref>
+  , and
+  <xref articleid="56704">
+   oceanography
+  </xref>
+  , in that Earth is a rotating frame of reference, and motions over the surface of Earth are subject to acceleration from the force indicated. Thus, the Coriolis force figures prominently in studies of the dynamics of the
+  <xref articleid="126202">
+   atmosphere
+  </xref>
+  , in which it affects prevailing
+  <xref articleid="77159">
+   winds
+  </xref>
+  and the rotation of storms, and in the
+  <xref articleid="106293">
+   hydrosphere
+  </xref>
+  , in which it affects the rotation of the
+  <xref articleid="56692">
+   oceanic currents
+  </xref>
+  . It is also an important consideration in
+  <xref articleid="12015">
+   ballistics
+  </xref>
+  , particularly in the launching and orbiting of space vehicles. In modern
+  <xref articleid="108654">
+   physics
+  </xref>
+  , application of a quantity analogous to Coriolis force appears in electrodynamics wherever instantaneous voltages generated in rotating electrical machinery must be calculated relative to the moving reference frame: this compensation is called the Christoffel voltage.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

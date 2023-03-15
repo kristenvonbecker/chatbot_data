@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="74848" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 02:09:17" url="/article/variables-separation-of/74848" version="4">
+ <title>
+  separation of variables
+ </title>
+ <p>
+  <e type="bold">
+   separation of variables
+  </e>
+  , one of the oldest and most widely used techniques for solving some types of
+  <xref articleid="102198">
+   partial differential equations
+  </xref>
+  . A partial differential equation is called linear if the unknown
+  <xref articleid="35654">
+   function
+  </xref>
+  and its
+  <xref articleid="30012">
+   derivatives
+  </xref>
+  have no exponent greater than one and there are no cross-terms—i.e., terms such as
+  <e type="italic">
+   f
+  </e>
+  <e type="italic">
+   f
+  </e>
+  ′ or
+  <e type="italic">
+   f
+  </e>
+  ′
+  <e type="italic">
+   f
+  </e>
+  ′′ in which the function or its derivatives appear more than once. An equation is called homogeneous if each term contains the function or one of its derivatives. For example, the equation
+  <e type="italic">
+   f
+  </e>
+  ′ +
+  <e type="italic">
+   f
+  </e>
+  <sup>
+   2
+  </sup>
+  = 0 is homogeneous but not linear,
+  <e type="italic">
+   f
+  </e>
+  ′ +
+  <e type="italic">
+   x
+  </e>
+  <sup>
+   2
+  </sup>
+  = 0 is linear but not homogeneous, and
+  <e type="italic">
+   f
+  </e>
+  <sub>
+   <e type="italic">
+    x
+   </e>
+   <e type="italic">
+    x
+   </e>
+  </sub>
+  +
+  <e type="italic">
+   f
+  </e>
+  <sub>
+   <e type="italic">
+    y
+   </e>
+   <e type="italic">
+    y
+   </e>
+  </sub>
+  = 0 is both homogeneous and linear.
+ </p>
+ <p>
+  If a homogeneous linear equation in two variables has a solution
+  <e type="italic">
+   f
+  </e>
+  (
+  <e type="italic">
+   x
+  </e>
+  ,
+  <e type="italic">
+   y
+  </e>
+  ) that consists of a product of factors
+  <e type="italic">
+   g
+  </e>
+  (
+  <e type="italic">
+   x
+  </e>
+  ) and
+  <e type="italic">
+   h
+  </e>
+  (
+  <e type="italic">
+   y
+  </e>
+  ), each involving only a single variable, the solution of the equation can sometimes be found by substituting the product of these unknown factors in place of the unknown composite function, obtaining in some cases an ordinary differential equation for each variable. For example, if
+  <e type="italic">
+   f
+  </e>
+  (
+  <e type="italic">
+   x
+  </e>
+  ,
+  <e type="italic">
+   y
+  </e>
+  ) is to satisfy the equation
+  <e type="italic">
+   f
+  </e>
+  <sub>
+   <e type="italic">
+    x
+   </e>
+   <e type="italic">
+    x
+   </e>
+  </sub>
+  +
+  <e type="italic">
+   f
+  </e>
+  <sub>
+   <e type="italic">
+    y
+   </e>
+   <e type="italic">
+    y
+   </e>
+  </sub>
+  = 0, then by substituting
+  <e type="italic">
+   g
+  </e>
+  (
+  <e type="italic">
+   x
+  </e>
+  )
+  <e type="italic">
+   h
+  </e>
+  (
+  <e type="italic">
+   y
+  </e>
+  ) for
+  <e type="italic">
+   f
+  </e>
+  (
+  <e type="italic">
+   x
+  </e>
+  ,
+  <e type="italic">
+   y
+  </e>
+  ) the equation becomes
+  <e type="italic">
+   g
+  </e>
+  <sub>
+   <e type="italic">
+    x
+   </e>
+   <e type="italic">
+    x
+   </e>
+  </sub>
+  <e type="italic">
+   h
+  </e>
+  +
+  <e type="italic">
+   g
+  </e>
+  <e type="italic">
+   h
+  </e>
+  <sub>
+   <e type="italic">
+    y
+   </e>
+   <e type="italic">
+    y
+   </e>
+  </sub>
+  = 0, or −
+  <e type="italic">
+   g
+  </e>
+  <sub>
+   <e type="italic">
+    x
+   </e>
+   <e type="italic">
+    x
+   </e>
+  </sub>
+  /
+  <e type="italic">
+   g
+  </e>
+  =
+  <e type="italic">
+   h
+  </e>
+  <sub>
+   <e type="italic">
+    y
+   </e>
+   <e type="italic">
+    y
+   </e>
+  </sub>
+  /
+  <e type="italic">
+   h
+  </e>
+  . Because the left side of the latter equation depends only on the variable
+  <e type="italic">
+   x
+  </e>
+  and the right side only on
+  <e type="italic">
+   y
+  </e>
+  , the two sides can be equal only if they are both constant. Therefore, −
+  <e type="italic">
+   g
+  </e>
+  <sub>
+   <e type="italic">
+    x
+   </e>
+   <e type="italic">
+    x
+   </e>
+  </sub>
+  /
+  <e type="italic">
+   g
+  </e>
+  =
+  <e type="italic">
+   c
+  </e>
+  , or
+  <e type="italic">
+   g
+  </e>
+  <sub>
+   <e type="italic">
+    x
+   </e>
+   <e type="italic">
+    x
+   </e>
+  </sub>
+  +
+  <e type="italic">
+   c
+  </e>
+  <e type="italic">
+   g
+  </e>
+  = 0, which is an ordinary differential equation in one variable and which has the solutions
+  <e type="italic">
+   g
+  </e>
+  =
+  <e type="italic">
+   a
+  </e>
+  sin (
+  <e type="italic">
+   x
+  </e>
+  <e type="italic">
+   c
+  </e>
+  <sup>
+   1/2
+  </sup>
+  ) and
+  <e type="italic">
+   g
+  </e>
+  =
+  <e type="italic">
+   a
+  </e>
+  cos (
+  <e type="italic">
+   x
+  </e>
+  <e type="italic">
+   c
+  </e>
+  <sup>
+   1/2
+  </sup>
+  ). In a similar manner,
+  <e type="italic">
+   h
+  </e>
+  <sub>
+   <e type="italic">
+    y
+   </e>
+   <e type="italic">
+    y
+   </e>
+  </sub>
+  /
+  <e type="italic">
+   h
+  </e>
+  =
+  <e type="italic">
+   c
+  </e>
+  , and
+  <e type="italic">
+   h
+  </e>
+  =
+  <e type="italic">
+   e
+  </e>
+  <sup>
+   ±
+   <e type="italic">
+    y
+   </e>
+   <e type="italic">
+    c
+   </e>
+   <sup>
+    1/2
+   </sup>
+  </sup>
+  . Therefore,
+  <formula>
+   <e type="italic">
+    f
+   </e>
+   =
+   <e type="italic">
+    g
+   </e>
+   <e type="italic">
+    h
+   </e>
+   =
+   <e type="italic">
+    a
+   </e>
+   <e type="italic">
+    e
+   </e>
+   <sup>
+    ±
+    <e type="italic">
+     y
+    </e>
+    <e type="italic">
+     c
+    </e>
+    <sup>
+     1/2
+    </sup>
+   </sup>
+   sin (
+   <e type="italic">
+    x
+   </e>
+   <e type="italic">
+    c
+   </e>
+   <sup>
+    1/2
+   </sup>
+   )
+  </formula>
+  and
+  <formula>
+   <e type="italic">
+    a
+   </e>
+   <e type="italic">
+    e
+   </e>
+   <sup>
+    ±
+    <e type="italic">
+     y
+    </e>
+    <e type="italic">
+     c
+    </e>
+    <sup>
+     1/2
+    </sup>
+   </sup>
+   sin (
+   <e type="italic">
+    x
+   </e>
+   <e type="italic">
+    c
+   </e>
+   <sup>
+    1/2
+   </sup>
+   )
+  </formula>
+  are solutions of the original equation
+  <formula>
+   <e type="italic">
+    f
+   </e>
+   <sub>
+    <e type="italic">
+     x
+    </e>
+    <e type="italic">
+     x
+    </e>
+   </sub>
+   +
+   <e type="italic">
+    f
+   </e>
+   <sub>
+    <e type="italic">
+     y
+    </e>
+    <e type="italic">
+     y
+    </e>
+   </sub>
+   = 0.
+  </formula>
+  The constants
+  <e type="italic">
+   a
+  </e>
+  and
+  <e type="italic">
+   c
+  </e>
+  are arbitrary and will depend upon other auxiliary conditions (boundary and initial values) in the physical situation that the solution to the equation will have to satisfy. A sum of terms such as
+  <formula>
+   <e type="italic">
+    a
+   </e>
+   <e type="italic">
+    e
+   </e>
+   <sup>
+    ±
+    <e type="italic">
+     y
+    </e>
+    <e type="italic">
+     c
+    </e>
+    <sup>
+     1/2
+    </sup>
+   </sup>
+   sin (
+   <e type="italic">
+    x
+   </e>
+   <e type="italic">
+    c
+   </e>
+   <sup>
+    1/2
+   </sup>
+   )
+  </formula>
+  with different constants
+  <e type="italic">
+   a
+  </e>
+  and
+  <e type="italic">
+   c
+  </e>
+  will also satisfy the given differential equation, and, if the sum of an infinite number of terms is taken (called a Fourier series), solutions can be found that will satisfy a wider variety of auxiliary conditions, giving rise to the subject known as Fourier analysis, or harmonic analysis.
+ </p>
+ <p>
+  The method of separation of variables can also be applied to some equations with variable coefficients, such as
+  <formula>
+   <e type="italic">
+    f
+   </e>
+   <sub>
+    <e type="italic">
+     x
+    </e>
+    <e type="italic">
+     x
+    </e>
+   </sub>
+   +
+   <e type="italic">
+    x
+   </e>
+   <sup>
+    2
+   </sup>
+   <e type="italic">
+    f
+   </e>
+   <sub>
+    <e type="italic">
+     y
+    </e>
+   </sub>
+   = 0,
+  </formula>
+  and to higher-order equations and equations involving more variables.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

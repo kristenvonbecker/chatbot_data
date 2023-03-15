@@ -1,0 +1,2935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="110302" articletypeid="1" language="en_us" lastupdate="2022-Aug-01 11:13:52" url="/article/gas/110302" version="14">
+ <title>
+  gas
+ </title>
+ <p>
+  <e type="bold">
+   gas
+  </e>
+  , one of the three fundamental states of matter, with distinctly different properties from the liquid and solid states.
+ </p>
+ <h1 id="h51924">
+  <title>
+   Structure
+  </title>
+  <p>
+   The remarkable feature of gases is that they appear to have no structure at all. They have neither a definite size nor shape, whereas ordinary solids have both a definite size and a definite shape, and liquids have a definite size, or volume, even though they adapt their shape to that of the container in which they are placed. Gases will completely fill any closed container; their properties depend on the volume of a container but not on its shape.
+  </p>
+  <h2 id="h51925">
+   <title>
+    Kinetic-molecular picture
+   </title>
+   <p>
+    Gases nevertheless do have a structure of sorts on a molecular scale. They consist of a vast number of molecules moving chaotically in all directions and colliding with one another and with the walls of their container. Beyond this, there is no structure—the molecules are distributed essentially randomly in space, traveling in arbitrary directions at speeds that are distributed randomly about an average determined by the gas temperature. The pressure exerted by a gas is the result of the innumerable impacts of the molecules on the container walls and appears steady to human senses because so many collisions occur each second on all sections of the walls. More subtle properties such as heat conductivity, viscosity (resistance to flow), and diffusion are attributed to the molecules themselves carrying the mechanical quantities of energy, momentum, and mass, respectively. These are called transport properties, and the rate of transport is dominated by the collisions between molecules, which force their trajectories into tortuous shapes. The molecular collisions are in turn controlled by the forces between the molecules and are described by the laws of mechanics.
+   </p>
+   <p>
+    Thus, gases are treated as a large collection of tiny particles subject to the laws of physics. Their properties are attributed primarily to the motion of the molecules and can be explained by the kinetic theory of gases. It is not obvious that this should be the case, and for many years a static picture of gases was instead espoused, in which the pressure, for instance, was attributed to repulsive forces between essentially stationary particles pushing on the container walls. How the kinetic-molecular picture finally came to be universally accepted is a fascinating piece of scientific history and is discussed briefly below in the section
+    <xref articleid="110302" refid="h51942">
+     Kinetic theory of gases
+    </xref>
+    . Any theory of gas behaviour based on this kinetic model must also be a statistical one because of the enormous numbers of particles involved. The kinetic theory of gases is now a classical part of statistical physics and is indeed a sort of miniature display case for many of the fundamental concepts and methods of science. Such important modern concepts as distribution functions, cross sections, microscopic reversibility, and time-reversal invariance have their historical roots in kinetic theory, as does the entire atomistic view of matter.
+   </p>
+  </h2>
+  <h2 id="h51926">
+   <title>
+    Numerical magnitudes
+   </title>
+   <p>
+    When considering various physical phenomena, it is helpful for one to have some idea of the numerical magnitudes involved. In particular, there are several characteristics whose values should be known, at least within an order of magnitude (a factor of 10), in order for one to obtain a clear idea of the nature of gaseous molecules. These features include the size, average speed, and intermolecular separation at ordinary temperatures and pressures. In addition, other important considerations are how many collisions a typical molecule makes in one second under these conditions and how far such a typical molecule travels before colliding with another molecule. It has been established that molecules have sizes on the order of a few angstrom units (1 Å = 10
+    <sup>
+     −8
+    </sup>
+    centimetre [cm]) and that there are about 6 × 10
+    <sup>
+     23
+    </sup>
+    molecules in one mole, which is defined as the amount of a substance whose mass in grams is equal to its molecular weight (e.g., 1 mole of water, H
+    <sub>
+     2
+    </sub>
+    O, is 18.0152 grams). With this knowledge, one could calculate at least some of the gas values. It is interesting to see how the answers could be estimated from simple observations and then to compare the results to the accepted values that are based on more precise measurements and theories.
+   </p>
+   <h3 id="h51927">
+    <title>
+     Intermolecular separation and average speed
+    </title>
+    <p>
+     One of the easiest properties to work out is the average distance between molecules compared to their diameter; water will be used here for this purpose. Consider 1 gram of H
+     <sub>
+      2
+     </sub>
+     O at 100° C and atmospheric pressure, which are the normal boiling point conditions. The liquid occupies a volume of 1.04 cubic centimetres (cm
+     <sup>
+      3
+     </sup>
+     ); once converted to steam it occupies a volume of 1.67 × 10
+     <sup>
+      3
+     </sup>
+     cm
+     <sup>
+      3
+     </sup>
+     . Thus, the average volume occupied by one molecule in the gas is larger than the corresponding volume occupied in the liquid by a factor of 1.67 × 10
+     <sup>
+      3
+     </sup>
+     /1.04, or about 1,600. Since volume varies as the cube of distance, the ratio of the mean separation distance in the gas to that in the liquid is roughly equal to the cube root of 1,600, or about 12. If the molecules in the liquid are considered to be touching each other, the ratio of the intermolecular separation to the molecular diameter in ordinary gases is on the order of 10 under ordinary conditions. It should be noted that the actual separation and diameter cannot be determined in this way; only their ratio can be calculated.
+    </p>
+    <p>
+     It is also relatively simple to estimate the average speed of gas molecules. Consider a sound wave in a gas, which is just the propagation of a small pressure disturbance. If pressure is attributed to molecular impacts on a test surface, then surely a pressure disturbance cannot travel faster than the molecules themselves. In other words, the average molecular speed in a gas should be somewhat greater than the speed of sound in the gas. The speed of sound in air at ordinary temperatures is about 330 metres per second (m/s), so the molecular speed will be estimated here to be somewhat greater, say, about 5 × 10
+     <sup>
+      4
+     </sup>
+     centimetres per second (cm/s). This value depends on the particular gas and the temperature, but it will be sufficient for the kind of estimates sought here.
+    </p>
+   </h3>
+   <h3 id="h51928">
+    <title>
+     Mean-free path and collision rate
+    </title>
+    <p>
+     The average molecular speed, along with an observed rate of the diffusion of gases, can be used to estimate the length and tortuosity of the path traveled by a typical molecule. If a bottle of ammonia is opened in a closed room, at least a few minutes pass before the ammonia can be detected at a distance of just one metre. (Ammonia, NH
+     <sub>
+      3
+     </sub>
+     , is a gas; the familiar bottle of “ammonia” typically seen is actually a solution of the gas in water.) Yet, if the ammonia molecules traveled directly to an observer at a speed somewhat faster than that of sound, the odour should be detectable in only a few milliseconds. The explanation for the discrepancy is that the ammonia molecules collide with many air molecules, and their paths are greatly distorted as a result. For a quantitative estimate of the diffusion time, a more controlled system must be considered, because even gentle stray air currents in a closed room greatly speed up the spreading of the ammonia. To eliminate the effect of such air currents, a closed tube—say, a glass tube one centimetre in diameter and one metre in length—can be used. A small amount of ammonia gas is released at one end, and both ends are then closed. In order to measure how long it takes for the ammonia to travel to the other end, a piece of moist red litmus paper might be used as a detector; it will turn blue when the ammonia reaches it. This process takes quite a long time—about several hours—because diffusion occurs at such a slow rate. In this case, the time will be taken to be approximately 3 hours, or roughly 10
+     <sup>
+      4
+     </sup>
+     seconds (s). During this time interval, a typical ammonia molecule actually travels a distance of (5 × 10
+     <sup>
+      4
+     </sup>
+     cm/s)(10
+     <sup>
+      4
+     </sup>
+     s) = 5 × 10
+     <sup>
+      8
+     </sup>
+     cm = 5,000 kilometres (km), roughly the distance across the United States. In other words, such a molecule travels a total distance of five million metres in order to progress a net distance of only one metre.
+    </p>
+    <p>
+     The solution to a basic statistical problem can be used to estimate the number of collisions such a typical diffusing molecule experienced (
+     <e type="italic">
+      N
+     </e>
+     ) and the average distance traveled between collisions (
+     <e type="italic">
+      l
+     </e>
+     ), called the mean free path. The product of
+     <e type="italic">
+      N
+     </e>
+     and
+     <e type="italic">
+      l
+     </e>
+     must equal the total distance traveled—i.e.,
+     <e type="italic">
+      N
+     </e>
+     <e type="italic">
+      l
+     </e>
+     = 5 × 10
+     <sup>
+      8
+     </sup>
+     cm. This distance can be thought of as a chain 5,000 km long, made up of
+     <e type="italic">
+      N
+     </e>
+     links, each of length
+     <e type="italic">
+      l
+     </e>
+     . The statistical question then is as follows: If such a chain is randomly jumbled, how far apart will its ends be on the average? This end-to-end distance corresponds to the length of the diffusion tube (one metre). This is a venerable statistical problem that recurs in many applications. One of the more vivid ways of illustrating the concept is known as the “drunkard’s walk.” In this scenario a drunkard takes steps of length
+     <e type="italic">
+      l
+     </e>
+     but, because of inebriation, takes them in random directions. After
+     <e type="italic">
+      N
+     </e>
+     steps, how far will he be from his starting point? The answer is that his progress is proportional not to
+     <e type="italic">
+      N
+     </e>
+     but to
+     <e type="italic">
+      N
+     </e>
+     <sup>
+      1/2
+     </sup>
+     . For example, if the drunkard takes four steps, each of length
+     <e type="italic">
+      l
+     </e>
+     , he will end up at a distance of 2
+     <e type="italic">
+      l
+     </e>
+     from his starting point. Gas molecules move in three dimensions, whereas the drunkard moves in two dimensions; however, the result is the same. Thus, the square root of
+     <e type="italic">
+      N
+     </e>
+     multiplied by the length of the mean free path equals the length of the diffusion tube:
+     <e type="italic">
+      N
+     </e>
+     <sup>
+      1/2
+     </sup>
+     <e type="italic">
+      l
+     </e>
+     = 10
+     <sup>
+      2
+     </sup>
+     cm. From the equations for
+     <e type="italic">
+      N
+     </e>
+     <e type="italic">
+      l
+     </e>
+     and
+     <e type="italic">
+      N
+     </e>
+     <sup>
+      1/2
+     </sup>
+     <e type="italic">
+      l
+     </e>
+     , it can readily be calculated that
+     <e type="italic">
+      N
+     </e>
+     = 2.5 × 10
+     <sup>
+      13
+     </sup>
+     collisions and
+     <e type="italic">
+      l
+     </e>
+     = 2.0 × 10
+     <sup>
+      -5
+     </sup>
+     cm. The mean time between collisions, τ, is found by dividing the time of the diffusion experiment by the number of collisions during that time: τ = (10
+     <sup>
+      4
+     </sup>
+     )/(2.5 × 10
+     <sup>
+      13
+     </sup>
+     ) = 4 × 10
+     <sup>
+      -10
+     </sup>
+     seconds between collisions, corresponding to a collision frequency of 2.5 × 10
+     <sup>
+      9
+     </sup>
+     collisions per second. It is thus understandable that gases appear to be continuous fluids on ordinary scales of time and distance.
+    </p>
+   </h3>
+   <h3 id="h51929">
+    <title>
+     Molecular sizes
+    </title>
+    <p>
+     Molecular sizes can be estimated from the foregoing information on the intermolecular separation, speed, mean free path, and collision rate of gas molecules. It would seem logical that large molecules should have a better chance of colliding than do small molecules. The collision frequency and mean free path must therefore be related to molecular size. To find this relationship, consider a single molecule in motion; during a time interval
+     <e type="italic">
+      t
+     </e>
+     it will sweep out a certain volume, hitting any other molecules present in this so-called collision volume. If molecules are located by their centres and each molecule has a diameter
+     <e type="italic">
+      d
+     </e>
+     , then the collision volume will be a long cylinder of cross-sectional area π
+     <e type="italic">
+      d
+     </e>
+     <sup>
+      2
+     </sup>
+     . The cylinder must be sufficiently long to include enough molecules so that good statistics on the number of collisions are obtained, but otherwise the length does not matter. If the molecule is observed for a time
+     <e type="italic">
+      t
+     </e>
+     , then the length of the collision cylinder will be
+     <e type="italic">
+      v̄
+     </e>
+     <e type="italic">
+      t
+     </e>
+     , where
+     <e type="italic">
+      v̄
+     </e>
+     is the average speed of the molecule, and the volume of the cylinder will be (π
+     <e type="italic">
+      d
+     </e>
+     <sup>
+      2
+     </sup>
+     )(
+     <e type="italic">
+      v̄
+     </e>
+     <e type="italic">
+      t
+     </e>
+     ), the product of its cross-sectional area and its length. Every molecule in the cylinder will be struck within time
+     <e type="italic">
+      t
+     </e>
+     , so the number of molecules in the collision cylinder will equal the number of collisions that occur in time
+     <e type="italic">
+      t
+     </e>
+     . Each collision will put a kink in the cylinder, but this will not affect the results as long as the number of collisions is not too large. If the gas is uniform, the number of molecules per volume will be consistent throughout the entire gas. Suppose that there are
+     <e type="italic">
+      N
+     </e>
+     molecules in volume
+     <e type="italic">
+      V
+     </e>
+     ; then there will be (
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     )(π
+     <e type="italic">
+      d
+     </e>
+     <sup>
+      2
+     </sup>
+     )(
+     <e type="italic">
+      v̄
+     </e>
+     <e type="italic">
+      t
+     </e>
+     ) molecules in the collision volume; this is the number of collisions in time
+     <e type="italic">
+      t
+     </e>
+     . The mean free path is equal to the total length of the collision cylinder divided by the number of collisions that occur in it:
+     <formula>
+      <inlinemedia id="i15244" mediaid="15244" url="/44/15244-004-F54511AC.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Since
+     <e type="italic">
+      l
+     </e>
+     has been shown to be roughly 2.0 × 10
+     <sup>
+      -5
+     </sup>
+     cm,
+     <e type="italic">
+      d
+     </e>
+     could be calculated if
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     was known.
+    </p>
+    <p>
+     It is relatively easy to find (
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     )
+     <e type="italic">
+      d
+     </e>
+     <sup>
+      3
+     </sup>
+     , from which both
+     <e type="italic">
+      d
+     </e>
+     and
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     can be determined. Recall that the volume of one gram of steam is about 1,600 times larger than the volume of one gram of liquid water. In other words, there are roughly 1,600
+     <e type="italic">
+      N
+     </e>
+     molecules in a volume
+     <e type="italic">
+      V
+     </e>
+     of liquid, and, if the molecules are just touching (i.e., the separation distance between their centres is one molecular diameter), the volume
+     <e type="italic">
+      V
+     </e>
+     of the liquid is 1,600
+     <e type="italic">
+      N
+     </e>
+     <e type="italic">
+      d
+     </e>
+     <sup>
+      3
+     </sup>
+     . When this equation for volume is combined with the above expression for
+     <e type="italic">
+      l
+     </e>
+     , the following values are obtained:
+     <e type="italic">
+      d
+     </e>
+     = π(2.0 × 10
+     <sup>
+      -5
+     </sup>
+     )/1,600 = 3.9 × 10
+     <sup>
+      -8
+     </sup>
+     cm = 3.9 Å, and
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     = 1/π
+     <e type="italic">
+      d
+     </e>
+     <sup>
+      2
+     </sup>
+     <e type="italic">
+      l
+     </e>
+     = 1.0 × 10
+     <sup>
+      19
+     </sup>
+     molecules per cubic centimetre. Thus, a typical molecule is exceedingly small, and there is an impressively large number of them in one cubic centimetre of gas.
+    </p>
+    <p>
+     Between collisions, a gas molecule travels a distance of about
+     <e type="italic">
+      l
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     = (2.0 × 10
+     <sup>
+      -5
+     </sup>
+     )/(3.9 × 10
+     <sup>
+      -8
+     </sup>
+     ) = 500 times its diameter. Since it was calculated above that the average separation between molecules is about 10 times the molecular diameter, the mean free path is approximately 50 times greater than the mean molecular separation. Accordingly, a typical molecule passes roughly 50 other molecules before it hits one.
+    </p>
+   </h3>
+   <h3 id="h51930">
+    <title>
+     Summary of numerical magnitudes
+    </title>
+    <p>
+     The following is a summary of the above estimates of molecular quantities in a gas, with a little spread in the numbers to allow for molecules both smaller and larger than the typical ones used here—which are H
+     <sub>
+      2
+     </sub>
+     O, NH
+     <sub>
+      3
+     </sub>
+     , and the nitrogen (N
+     <sub>
+      2
+     </sub>
+     ) plus oxygen (O
+     <sub>
+      2
+     </sub>
+     ) mixture that is air—and to allow for the fact that some of these quantities depend on temperature and pressure. It is important to note that these estimates and calculations are rather simplified, although fundamentally correct, and that there may well be missing factors such as 3π/8 or
+     <sqroot>
+      2
+     </sqroot>
+     . The numerical estimates for gases at ordinary pressure and temperature are:
+     <formula>
+      <inlinemedia id="i15243" mediaid="15243" url="/43/15243-004-B834C215.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The general impression of gas molecules given by these numbers is that they are exceedingly small, that there are enormous numbers of them in even one cubic centimetre, that they are moving very fast, and that they collide many times in one second. Two other facts are especially important. The first is that the lengths involved, especially the mean free path, are minute compared with ordinary lengths, even with the diameter of a capillary tube. This means that gas behaviour and properties are dominated by collisions between molecules and that collisions with walls play only a secondary (though important) role. The second is that the mean free path is much larger than the molecular diameter. Thus, collisions between pairs of molecules are of paramount importance in determining ordinary gas behaviour, while collisions that involve three or more molecules at the same time can basically be ignored.
+    </p>
+    <p>
+     A cautious reader might feel a bit uneasy about the glibness of the preceding estimates, so a simple check will be made here by calculating the number of molecules in one mole of gas, a quantity known as Avogadro’s number. The number density of a gas was approximated to be about 1.0 × 10
+     <sup>
+      19
+     </sup>
+     molecules per cubic centimetre, and from experiment it is known that 1 mole of gas occupies a volume of about 25 litres (2.5 × 10
+     <sup>
+      4
+     </sup>
+     cubic centimetres) under ordinary conditions. Using these values, an estimate of Avogadro’s number is (1.0 × 10
+     <sup>
+      19
+     </sup>
+     )(2.5 × 10
+     <sup>
+      4
+     </sup>
+     ) = 2.5 × 10
+     <sup>
+      23
+     </sup>
+     molecules per mole. This deviates somewhat from the accepted value of 6.022 × 10
+     <sup>
+      23
+     </sup>
+     molecules per mole, but the order of magnitude is certainly correct. In point of historical fact, a value for Avogadro’s number as good as this estimate was not obtained until 1865, when Josef Loschmidt in Vienna made a calculation similar to the one here but based on gas viscosity rather than on gas diffusion. In the older German scientific literature, Avogadro’s number is often referred to as Loschmidt’s number for this reason. In current English-language scientific literature, Loschmidt’s number is usually taken to mean the number of gas molecules in one cubic centimetre at 0° C and one atmosphere pressure (2.687 × 10
+     <sup>
+      19
+     </sup>
+     molecules per cubic centimetre).
+    </p>
+    <p>
+     There are other ways by which molecular sizes and Avogadro’s number could have been estimated, such as from the spreading of a surface oil film on water or from the surface tension and the energy of evaporation of a liquid, but they will not be discussed here.
+    </p>
+    <p>
+     The foregoing picture of a gas as a collection of molecules dominated by binary molecular collisions is in reality only a limited view. Two limitations of the model are briefly discussed below.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h51931">
+   <title>
+    Free-molecule gas
+   </title>
+   <p>
+    The mean free path in a gas may easily be increased by decreasing the pressure. If the pressure is halved, the mean free path doubles in length. Thus, at low enough pressures the mean free path can become sufficiently large that collisions of the gas molecules with surfaces become more important than collisions with other gas molecules. In such a case, the molecules can be envisioned as moving freely through space until they encounter some solid surface; hence, they are termed free-molecule gases. Such gases are sometimes called Knudsen gases, after the Danish physicist Martin Knudsen, who studied them experimentally. Many of their properties are strikingly different from those of ordinary gases (also known as continuum gases). A radiometer is a four-vaned mill that depends essentially on free-molecule effects. A temperature difference in the free-molecule gas causes a thermomolecular pressure difference that drives the vanes. The radiometer will stop spinning if enough air leaks into its glass envelope. (It will also stop spinning if all the air is removed from the envelope.) The flight of objects at high altitudes, where the mean free path is very long, is also subject to free-molecule effects. Such effects can even occur at ordinary pressures if a significant physical dimension becomes small enough. Important examples are found in many chemical process industries, where reactions are forced by catalysts to proceed at reasonable speeds. Many of these catalysts are porous materials whose pore sizes are smaller than molecular mean free paths. The speed of the desired chemical reaction may be controlled by how fast the reactant gases diffuse into the porous catalyst and by how fast the product gases can diffuse out so more reactants can enter the pores.
+   </p>
+   <p>
+    There is a large transition region between free-molecule behaviour and continuum behaviour, where both molecule-molecule and molecule-surface collisions are significant. This region is rather difficult to describe theoretically and remains an active field of research.
+   </p>
+  </h2>
+  <h2 id="h51932">
+   <title>
+    Continuity of gaseous and liquid states
+   </title>
+   <p>
+    It may be somewhat surprising to learn that there is no fundamental distinction between a gas and a liquid. It was noted above that a gas occupies a volume about 1,600 times greater than that of an equal weight of liquid. The question arises as to the behaviour of a gas that has been compressed to 1/1,600 of its volume by application of sufficiently high pressure. If this compression is carried out above a specific temperature called the critical temperature, which is different for each gas, no phase change occurs, and the resulting substance is a gas that is just as dense as a liquid. If the compression is carried out at a fixed temperature below the critical temperature, an astonishing phenomenon occurs—at a particular pressure liquid suddenly forms. Attempts to compress the gas further simply increase the amount of liquid present and decrease the amount of gas, with the pressure remaining constant until all the gas has been converted to liquid. The applied pressure must subsequently rise a great deal to reduce the volume further, since liquids are much less compressible than gases.
+   </p>
+   <p>
+    The abrupt condensation of a gas to a liquid usually does not seem astonishing because it is so commonplace—nearly everyone has boiled water, for example, which is the reverse process. From the standpoint of the kinetic-molecular theory of gases, however, it is something of a mystery. Why does it occur so abruptly and only at temperatures below a critical temperature? Equations have been written down that describe condensation, but an explanation is still lacking in the sense that no one has been able to show that it must occur, given only the forces between the molecules and the fact that their motion is described by ordinary mechanics. Condensation, which is an example of a first-order phase transition, remains one of the outstanding unsolved problems of statistical physics.
+   </p>
+   <p>
+    The critical temperature marks the separation between an abrupt change and a continuous change. Other peculiar phenomena occur near the critical temperature. The densities of the coexisting liquid and gas (which is usually called a vapour in this case) become closer as the critical temperature is approached from below, and at the critical temperature they are identical. There is a unique point for every fluid, called the critical point. It is described by a critical temperature, a critical volume, and a critical pressure, at which liquid and vapour become identical. Above that temperature there is no distinction between gas and liquid; there is only a single fluid. Moreover, it is possible to pass continuously from an apparently definite gas or vapour to an apparently definite liquid with no abrupt condensation occurring. This can be accomplished by heating the vapour above the critical temperature while keeping the volume constant, then compressing it to a high density characteristic of a liquid, and finally cooling it at constant volume to its original temperature, where it is now clearly a liquid.
+   </p>
+   <p>
+    In short, gases and liquids are just the extreme stages of a fluid, with no fundamental distinction between the two. For this reason, an arbitrary decision has been made for the present discussion to define what is meant by the gaseous state. The definition will be based on the number density (i.e., molecules per unit volume): the number density of the fluid must be low enough that only collisions between two molecules at a time need to be considered. More specifically, the mean free path must be much larger than the molecular diameter. Such a fluid shall be termed a dilute gas.
+   </p>
+   <p>
+    A few brief historical remarks are in order before leaving the subject of the continuity of the gaseous and liquid states. The first extensive experimental study that clearly demonstrated the phenomena involved was performed on carbon dioxide, CO
+    <sub>
+     2
+    </sub>
+    . (Carbon dioxide, whose solid form is called dry ice, has a critical temperature of 31° C.) The experiment was conducted by Thomas Andrews at what is now the Queen’s University of Belfast in Northern Ireland, and its results were summarized in 1869 in a Bakerian lecture to the Royal Society of London entitled “On the Continuity of the Gaseous and Liquid States of Matter.” In 1873 a Dutch thesis was presented to the University of Leiden by Johannes D. van der Waals with virtually the same title (but in Dutch) as Andrews’ lecture. In his study van der Waals used some ingenious approximations to obtain a simple equation relating the pressure, temperature, and molar volume of a fluid, based on a model that considered molecules as hard spheres with weak long-range attractive forces between them. This equation can be used to locate the critical point of a system, and it is also consistent with the occurrence of condensation when supplemented with a thermodynamic condition. This is possibly one of the most-quoted but little-read theses in science. Nevertheless, van der Waals started a scientific trend that continues to the present. His pressure-volume-temperature relation, called an equation of state, is the standard equation of state for real gases in physical chemistry, and at least one new equation of state is proposed every year in an attempt to improve on its quantitative accuracy (which is not very good). It furnished the impetus for the development of theories of liquids and of solutions. The equation is compatible with a unifying idea called the principle of corresponding states. This principle states that, if the pressure (
+    <e type="italic">
+     p
+    </e>
+    ), volume (
+    <e type="italic">
+     V
+    </e>
+    ), and temperature (
+    <e type="italic">
+     T
+    </e>
+    ) of a gas are replaced, respectively, with the corresponding reduced variables—i.e., the pressure divided by the critical pressure (
+    <e type="italic">
+     p
+    </e>
+    /
+    <e type="italic">
+     p
+    </e>
+    <sub>
+     <e type="italic">
+      c
+     </e>
+    </sub>
+    ), the volume divided by the critical volume (
+    <e type="italic">
+     V
+    </e>
+    /
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      c
+     </e>
+    </sub>
+    ), and the temperature divided by the critical temperature (
+    <e type="italic">
+     T
+    </e>
+    /
+    <e type="italic">
+     T
+    </e>
+    <sub>
+     <e type="italic">
+      c
+     </e>
+    </sub>
+    )—all gases will behave in essentially the same manner.
+   </p>
+   <p>
+    The critical point has itself proved to be a rich and deep subject. The gas-liquid critical point turns out to be only one of many types of critical points, including those of a magnetic variety, with the common feature that long-range correlations develop regardless of the molecular details of the system. That is, any small part of a system near its critical point seems to “know” what quite distant parts are doing. The mathematical description of the behaviour of a system near its critical point also becomes rather unusual.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h51933">
+  <title>
+   Behaviour and properties
+  </title>
+  <p>
+   The enormous number of molecules in even a small volume of a dilute gas produces not complication, as might be expected, but rather simplification. The reason is that ordinarily only statistical averages are observed in the study of the behaviour and properties of gases, and statistical methods are quite accurate when large numbers are involved. Compared to the numbers of molecules involved, there are only a few properties of gases that warrant attention here, namely, pressure, density, temperature, internal energy, viscosity, heat conductivity, and diffusivity. (More subtle properties can be brought into view by the application of electric and magnetic fields, but they are of minor interest.)
+  </p>
+  <p>
+   It is a remarkable fact that these properties are not independent. If two are known, the rest can be determined from them. That is to say, for a given gas, the specification of only two properties—usually chosen to be temperature and density or temperature and pressure—fixes all the others. Thus, if the temperature and density of carbon dioxide are specified, the gas can have only one possible pressure, one internal energy, one viscosity, and so on. In order to determine the values of these other properties, they must either be measured or calculated from the known properties of the molecules themselves. Such calculations are the ultimate goal of statistical mechanics and kinetic theory, and dilute gases constitute the case for which the most progress toward that goal has been made.
+  </p>
+  <p>
+   In discussing the behaviour of gases, it is useful to separate the equilibrium properties and the nonequilibrium transport properties. By definition, a system in equilibrium can undergo no net change unless some external action is performed on it (e.g., pushing in a piston or adding heat). Its behaviour is steady with time, and no changes appear to be occurring, even though the molecules are in ceaseless motion. In contrast, the nonequilibrium properties describe how a system responds to some external action, such as the imposition of a temperature or pressure difference. Equilibrium behaviour is much easier to analyze, because any change that occurs on the molecular level must be compensated by some other change or changes on the molecular level in order for the system to remain in equilibrium.
+  </p>
+  <h2 id="h51934">
+   <title>
+    Equilibrium properties
+   </title>
+   <h3 id="h51935">
+    <title>
+     Ideal gas equation of state
+    </title>
+    <p>
+     <assembly id="a143732" url="/assembly/view/143732">
+      <title>
+       heated air expands
+      </title>
+      <media mediaid="103416" type="image" url="/16/103416-004-EDD8271C.jpg"/>
+      <caption/>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a143732"/>
+     Among the most obvious properties of a dilute gas, other than its low density compared with liquids and solids, are its great elasticity or compressibility and its large volume expansion on heating. These properties are nearly the same for all dilute gases, and virtually all such gases can be described quite accurately by the following universal equation of state:
+     <formula>
+      <inlinemedia id="i15261" mediaid="15261" url="/61/15261-004-3FA0AD0D.jpg"/>
+     </formula>
+    </p>
+    <p>
+     This expression is called the ideal, or perfect, gas equation of state, since all real gases show small deviations from it, although these deviations become less significant as the density is decreased. Here
+     <e type="italic">
+      p
+     </e>
+     is the pressure,
+     <e type="italic">
+      v
+     </e>
+     is the volume per mole, or molar volume,
+     <e type="italic">
+      R
+     </e>
+     is the universal gas constant, and
+     <e type="italic">
+      T
+     </e>
+     is the absolute thermodynamic temperature. To a rough degree, the expression is accurate within a few percent if the volume is more than 10 times the critical volume; the accuracy improves as the volume increases. The expression eventually fails at both high and low temperatures, owing to ionization at high temperatures and to condensation to a liquid or solid at low temperatures.
+    </p>
+    <p>
+     The ideal gas equation of state is an amalgamation of three ideal gas laws that were formulated independently. The first is Boyle’s law, which refers to the elastic properties of the gas; it was described by the Anglo-Irish scientist Robert Boyle in 1662 in his famous “ . . . Experiments . . . Touching the Spring of the Air . . . .” It states that the volume of a gas at constant temperature is inversely proportional to the pressure; i.e., if the pressure on a gas is doubled, for example, its volume decreases by one-half. The second, usually called Charles’s law, is concerned with the thermal expansion of the gas. It is named in honour of the French experimental physicist Jacques-Alexandre-César Charles for the work he carried out in about 1787. The law states that the volume of a gas at constant pressure is directly proportional to the absolute temperature; i.e., an increase of temperature of 1° C at room temperature causes the volume to increase by about 1 part in 300, or 0.3 percent. The third law embodied in equation (
+     <inlinemediaref inlinemediaid="i15261">
+      15
+     </inlinemediaref>
+     ) is based on the 1811 hypothesis of the Italian scientist Amedeo Avogadro—namely, that equal volumes of gases at the same temperature and pressure contain equal numbers of particles. The number of particles (or molecules) is proportional to the number of moles
+     <e type="italic">
+      n
+     </e>
+     , the constant of proportionality being Avogadro’s number,
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      0
+     </sub>
+     . Thus, at constant temperature and pressure the volume of a gas is proportional to the number of moles. If the total volume
+     <e type="italic">
+      V
+     </e>
+     contains
+     <e type="italic">
+      n
+     </e>
+     moles of gas, then only
+     <e type="italic">
+      v
+     </e>
+     =
+     <e type="italic">
+      V
+     </e>
+     /
+     <e type="italic">
+      n
+     </e>
+     appears in the equation of state. By measuring the quantity of gas in moles rather than grams, the constant
+     <e type="italic">
+      R
+     </e>
+     is made universal; if mass were measured in grams (and hence
+     <e type="italic">
+      v
+     </e>
+     in volume per gram), then
+     <e type="italic">
+      R
+     </e>
+     would have a different value for each gas.
+    </p>
+    <p>
+     The ideal gas law is easily extended to mixtures by letting
+     <e type="italic">
+      n
+     </e>
+     represent the total number of moles of all species present in volume
+     <e type="italic">
+      V
+     </e>
+     . That is, if there are
+     <e type="italic">
+      n
+     </e>
+     <sub>
+      1
+     </sub>
+     moles of species 1,
+     <e type="italic">
+      n
+     </e>
+     <sub>
+      2
+     </sub>
+     moles of species 2, etc., in the mixture, then
+     <e type="italic">
+      n
+     </e>
+     =
+     <e type="italic">
+      n
+     </e>
+     <sub>
+      1
+     </sub>
+     +
+     <e type="italic">
+      n
+     </e>
+     <sub>
+      2
+     </sub>
+     + · · · and
+     <e type="italic">
+      v
+     </e>
+     =
+     <e type="italic">
+      V
+     </e>
+     /
+     <e type="italic">
+      n
+     </e>
+     as before. This result can also be rewritten and reinterpreted in terms of the partial pressures of the different species, such that
+     <e type="italic">
+      p
+     </e>
+     <sub>
+      1
+     </sub>
+     =
+     <e type="italic">
+      n
+     </e>
+     <sub>
+      1
+     </sub>
+     <e type="italic">
+      R
+     </e>
+     <e type="italic">
+      T
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     is the partial pressure of species 1 and so on. The total pressure is then given as
+     <e type="italic">
+      p
+     </e>
+     =
+     <e type="italic">
+      p
+     </e>
+     <sub>
+      1
+     </sub>
+     +
+     <e type="italic">
+      p
+     </e>
+     <sub>
+      2
+     </sub>
+     + · · · . This rule is known as Dalton’s law of partial pressures in honour of the British chemist and physicist John Dalton, who formulated it about 1801.
+    </p>
+    <p>
+     A brief aside on units and temperature scales is in order. The (metric) unit of pressure in the scientific international system of units (known as the SI system) is newton per square metre (N/m
+     <sup>
+      2
+     </sup>
+     ), where one newton (N) is the force that gives a mass of one kilogram an acceleration of 1 m/s
+     <sup>
+      2
+     </sup>
+     . The unit N/m
+     <sup>
+      2
+     </sup>
+     is given the name pascal (Pa), where one standard atmosphere is exactly 101,325 Pa (approximately 14.7 pounds per square inch). The unit of volume in the SI system is the cubic metre (1 m
+     <sup>
+      3
+     </sup>
+     = 10
+     <sup>
+      6
+     </sup>
+     cm
+     <sup>
+      3
+     </sup>
+     ), and the unit of temperature is the kelvin (K). The Kelvin thermodynamic temperature scale is defined through the laws of thermodynamics so as to be absolute or universal, in the sense that its definition does not depend on the specific properties of any particular kind of matter. Its numerical values, however, are assigned by defining the triple point of water—i.e., the unique temperature at which ice, liquid water, and water vapour are all in equilibrium—to be exactly 273.16 K. The freezing point of water under one atmosphere of air then turns out to be (by measurement) 273.1500 K. The freezing point is 0° on the Celsius scale (or 32° on the Fahrenheit scale), by definition. The precise thermodynamic definition of the Kelvin scale and the rather peculiar number chosen to define its numerical values (i.e., 273.16) are historical choices made so that the ideal gas equation of state will have the simple mathematical form given by the right-hand side of equation (15).
+    </p>
+    <p>
+     The gas constant
+     <e type="italic">
+      R
+     </e>
+     is determined by measurement. The best value so far obtained is that of the U.S. National Institute of Standards and Technology—namely, 8.3144621 J/mol · Κ. Ηere the unit J is one of work or energy, one joule (J) being equal to one newton-metre.
+    </p>
+   </h3>
+   <h3 id="h51936">
+    <title>
+     Internal energy
+    </title>
+    <p>
+     Once the equation of state is known for an ideal gas, only its internal energy,
+     <e type="italic">
+      E
+     </e>
+     , needs to be determined in order for all other equilibrium properties to be deducible from the laws of thermodynamics. That is to say, if the equation of state and the internal energy of a fluid are known, then all the other thermodynamic properties (e.g., enthalpy, entropy, and free energy) are fixed by the condition that it must be impossible to construct perpetual motion machines from the fluid. Proofs of such statements are usually rather subtle and involved and constitute a large part of the subject of thermodynamics, but conclusions based on thermodynamic principles are among the most reliable results of science.
+    </p>
+    <p>
+     A thermodynamic result of relevance here is that the ideal gas equation of state requires that the internal energy depend on temperature alone, not on pressure or density. The actual relationship between
+     <e type="italic">
+      E
+     </e>
+     and
+     <e type="italic">
+      T
+     </e>
+     must be measured or calculated from known molecular properties by means of statistical mechanics. The internal energy is not directly measurable, but its behaviour can be determined from measurements of the molar heat capacity (i.e., the specific heat) of the gas. The molar heat capacity is the amount of energy required to raise the temperature of one mole of a substance by one degree; its units in the SI system are J/mol · K. A system with many kinds of motion on a molecular scale absorbs more energy than one with only a few kinds of motion. The interpretation of the temperature dependence of
+     <e type="italic">
+      E
+     </e>
+     is particularly simple for dilute gases, as is shown in the discussion of the kinetic theory of gases below. The following highlights only the major aspects.
+    </p>
+    <p>
+     Every gas molecule moves in three-dimensional space, and this translational motion contributes (3/2)
+     <e type="italic">
+      R
+     </e>
+     <e type="italic">
+      T
+     </e>
+     (per mole) to the internal energy
+     <e type="italic">
+      E
+     </e>
+     . For monatomic gases, such as helium, neon, argon, krypton, and xenon, this is the sole energy contribution. Gases that contain two or more atoms per molecule also contribute additional terms because of their internal motions:
+     <formula>
+      <inlinemedia id="i15260" mediaid="15260" url="/60/15260-004-5BDA6FF7.jpg"/>
+     </formula>
+     where
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       int
+      </e>
+     </sub>
+     may include contributions from molecular rotations and internal vibrations and occasionally from internal electronic excitations. Some of these internal motions may not contribute at ordinary temperatures because of special conditions imposed by quantum mechanics, however, so that the temperature dependence of
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       int
+      </e>
+     </sub>
+     can be rather complex.
+    </p>
+    <p>
+     The extension to gas mixtures is straightforward—the total internal energy
+     <e type="italic">
+      E
+     </e>
+     (per mole) is the weighted sum of the internal energies of each of the species:
+     <e type="italic">
+      n
+     </e>
+     <e type="italic">
+      E
+     </e>
+     =
+     <e type="italic">
+      n
+     </e>
+     <sub>
+      1
+     </sub>
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      1
+     </sub>
+     +
+     <e type="italic">
+      n
+     </e>
+     <sub>
+      2
+     </sub>
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      2
+     </sub>
+     + · · ·, where
+     <e type="italic">
+      n
+     </e>
+     =
+     <e type="italic">
+      n
+     </e>
+     <sub>
+      1
+     </sub>
+     +
+     <e type="italic">
+      n
+     </e>
+     <sub>
+      2
+     </sub>
+     + · · · .
+    </p>
+    <p>
+     It is the task of the kinetic theory of gases to account for these results concerning the equation of state and the internal energy of dilute gases.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h51937">
+   <title>
+    Transport properties
+   </title>
+   <p>
+    The following is a summary of the three main transport properties: viscosity, heat conductivity, and diffusivity. These properties correspond to the transfer of momentum, energy, and matter, respectively.
+   </p>
+   <h3 id="h51938">
+    <title>
+     Viscosity
+    </title>
+    <p>
+     All ordinary fluids exhibit viscosity, which is a type of internal friction. A continuous application of force is needed to keep a fluid flowing, just as a continuous force is needed to keep a solid body moving in the presence of friction. Consider the case of a fluid slowly flowing through a long capillary tube. A pressure difference of Δ
+     <e type="italic">
+      p
+     </e>
+     must be maintained across the ends to keep the fluid flowing, and the resulting flow rate is proportional to Δ
+     <e type="italic">
+      p
+     </e>
+     . The rate is inversely proportional to the viscosity (η) since the friction that opposes the flow increases as η increases. It also depends on the geometry of the tube, but this effect will not be considered here. The SI units of η are N · s/m
+     <sup>
+      2
+     </sup>
+     or Pa · s. An older unit of the centimetre-gram-second version of the metric system that is still often used is the poise (1 Pa · s = 10 poise). At 20° C the viscosity of water is 1.0 × 10
+     <sup>
+      -3
+     </sup>
+     Pa · s and that of air is 1.8 × 10
+     <sup>
+      -5
+     </sup>
+     Pa · s. To a rough approximation, liquids are about 100 times more viscous than gases.
+    </p>
+    <p>
+     There are three important properties of the viscosity of dilute gases that seem to defy common sense. All can be explained, however, by the kinetic theory (see below
+     <xref articleid="110302" refid="h51942">
+      Kinetic theory of gases
+     </xref>
+     ). The first property is the lack of a dependence on pressure or density. Intuition suggests that gas viscosity should increase with increasing density, inasmuch as liquids are much more viscous than gases, but gas viscosity is actually independent of density. This result can be illustrated by a pendulum swinging on a solid support. It eventually slows down owing to the viscous friction of the air. If a bell jar is placed over the pendulum and half the air is pumped out, the air remaining in the jar damps the pendulum just as fast as a full jar of air would have done. Robert Boyle noted this peculiar phenomenon in 1660, but his results were largely either ignored or forgotten. The Scottish chemist Thomas Graham studied the flow of gases through long capillaries, which he called transpiration, in 1846 and 1849, but it was not until 1877 that the German physicist O.E. Meyer pointed out that Graham’s measurements had shown the independence of viscosity on density. Prior to Meyer’s investigations, the kinetic theory had suggested the result, so he was looking for experimental proof to support the prediction. When James Clerk Maxwell discovered (in 1865) that his kinetic theory suggested this result, he found it difficult to believe and attempted to check it experimentally. He designed an oscillating disk apparatus (which is still much copied) to verify the prediction.
+    </p>
+    <p>
+     The second unusual property of viscosity is its relationship with temperature. One might expect the viscosity of a fluid to increase as the temperature is lowered, as suggested by the phrase “as slow as molasses in January.” The viscosity of a dilute gas behaves in exactly the opposite way: the viscosity increases as the temperature is raised. The rate of increase varies approximately as
+     <e type="italic">
+      T
+     </e>
+     <sup>
+      <e type="italic">
+       s
+      </e>
+     </sup>
+     , where
+     <e type="italic">
+      s
+     </e>
+     is between
+     <fraction>
+      <num>
+       1
+      </num>
+      <den>
+       2
+      </den>
+     </fraction>
+     and 1, and depends on the particular gas. This behaviour was clearly established in 1849 by Graham.
+    </p>
+    <p>
+     The third property pertains to the viscosity of mixtures. A viscous syrup, for example, can be made less so by the addition of a liquid with a lower viscosity, such as water. By analogy, one would expect that a mixture of carbon dioxide, which is fairly viscous, with a gas like hydrogen, which is much less viscous, would have a viscosity intermediate to that of carbon dioxide and hydrogen. Surprisingly, the viscosity of the mixture is even greater than that of carbon dioxide. This phenomenon was also observed by Graham in 1849.
+    </p>
+    <p>
+     Finally, there is no obvious correlation of gas viscosity with molecular weight. Heavy gases are often more viscous than light gases, but there are many exceptions, and no simple pattern is apparent.
+    </p>
+   </h3>
+   <h3 id="h51939">
+    <title>
+     Heat conduction
+    </title>
+    <p>
+     If a temperature difference is maintained across a fluid, a flow of energy through the fluid will result. The energy flow is proportional to the temperature difference according to Fourier’s law, where the constant of proportionality (aside from the geometric factors of the apparatus) is called the heat conductivity or thermal conductivity of the fluid, λ. Mechanisms other than conduction can transport energy, in particular convection and radiation; here it is assumed that these can be eliminated or adjusted for. The SI units for λ are J/m · s · K or watt per metre degree (W/m · K), but sometimes calories are used for the energy term instead of joules (one calorie = 4.184 J). At 20° C the thermal conductivity of water is 0.60 W/m · K, and that of many organic liquids is roughly only one-third as large. The thermal conductivity of air at 20° C is only about 2.5 × 10
+     <sup>
+      -2
+     </sup>
+     W/m · K. To a rough approximation, liquids conduct heat about 10 times better than do gases.
+    </p>
+    <p>
+     The properties of the thermal conductivity of dilute gases parallel those of viscosity in some respects. The most striking is the lack of dependence on pressure or density. Based on this fact, there seems to be no advantage to pumping out the inner chambers of thermos bottles. As far as conduction is concerned, it does not provide any benefits until practically all the air has been removed and free-molecule conduction is occurring. Convection, however, does depend on density, so some degree of insulation is provided by pumping out only some of the air.
+    </p>
+    <p>
+     The thermal conductivity of a dilute gas increases with increasing temperature, much like its viscosity. In this case, such behaviour does not seem particularly odd, probably because most people do not have a preconceived idea of how thermal conductivity should behave, unlike the situation with viscosity.
+    </p>
+    <p>
+     There are some differences in the behaviour of thermal conductivity and viscosity; one of the most notable has to do with mixtures. At first glance the thermal conductivity of a gaseous mixture seems to be as expected, since it falls between the conductivities of its components, but a closer look reveals an odd regularity. The conductivity of the mixture is always less than an average based on the number of moles (or molecules) of each component in the mixture. This appears to be related to the different effect that molecular weight has on thermal conductivity and viscosity. Light gases are usually better conductors than are heavy gases, whereas heavy gases are often (but not always) more viscous than are light gases. There also seems to be some correlation between molar heat capacity and thermal conductivity. The foregoing properties of thermal conductivity pose more puzzles that the kinetic theory of gases must address.
+    </p>
+   </h3>
+   <h3 id="h51940">
+    <title>
+     Diffusion
+    </title>
+    <p>
+     Diffusion in dilute gases is in some ways more complex, or at least more subtle, than either viscosity or thermal conductivity. First, a mixture is necessarily involved, inasmuch as a gas diffusing through itself makes no sense physically unless the molecules are in some way distinguishable from one another. Second, diffusion measurements are rather sensitive to the details of the experimental conditions. This sensitivity can be illustrated by the following considerations.
+    </p>
+    <p>
+     Light molecules have higher average speeds than do heavy molecules at the same temperature. This result follows from kinetic theory, as explained below, but it can also be seen by noting that the speed of sound is greater in a light gas than in a heavy gas. This is the basis of the well-known demonstration that breathing helium causes one to speak with a high-pitched voice. If a light and a heavy gas are interdiffusing, the light molecules should move into the heavy-gas region faster than the heavy molecules move into the light-gas region, thereby causing the pressure to rise in the heavy-gas region. If the diffusion takes place in a closed vessel, the pressure difference drives the heavy gas into the light-gas region at a faster rate than it would otherwise diffuse, and a steady state is quickly reached in which the number of heavy molecules traveling in one direction equals, on the average, the number of light molecules traveling in the opposite direction. This method, called equimolar countercurrent diffusion, is the usual manner in which gaseous diffusion measurements are now carried out.
+    </p>
+    <p>
+     The steady-state pressure difference that develops is almost unmeasurably small unless the diffusion occurs through a fine capillary or a fine-grained porous material. Nevertheless, experimenters have been able to devise clever schemes either to measure it or to prevent its development. The first to do the latter was Graham in 1831; he kept the pressure uniform by allowing the gas mixture to flow. The results of this work now appear in elementary textbooks as Graham’s law of diffusion. Most of these accounts are incorrect or incomplete or both, owing to the fact that the writers confuse the uniform-pressure experiment either with the equal countercurrent experiment or with the phenomenon of effusion (described below in the section
+     <xref articleid="110302" refid="h51942">
+      Kinetic theory of gases
+     </xref>
+     ). Graham also performed equal countercurrent experiments in 1863, using a long closed-tube apparatus he devised. This sort of apparatus is now usually called a Loschmidt diffusion tube after Loschmidt, who used a modified version of the tube in 1870 to make a series of accurate diffusion measurements on a number of gas pairs.
+    </p>
+    <p>
+     A quantitative description of diffusion follows. A composition difference in a two-component gas mixture causes a relative flow of the components that tends to make the composition uniform. The flow of one component is proportional to its concentration difference, and in an equal countercurrent experiment this is balanced by an equal and opposite flow of the other component. The constant of proportionality is the same for both components and is called the diffusion coefficient,
+     <e type="italic">
+      D
+     </e>
+     <sub>
+      12
+     </sub>
+     , for that gas pair. This relationship between the flow rate and the concentration difference is called Fick’s law of diffusion. The SI units for the diffusion coefficient are square metres per second (m
+     <sup>
+      2
+     </sup>
+     /s). Diffusion, even in gases, is an extremely slow process, as was pointed out above in estimating molecular sizes and collision rates. Gaseous diffusion coefficients at one atmosphere pressure and ordinary temperatures lie largely in the range of 10
+     <sup>
+      -5
+     </sup>
+     to 10
+     <sup>
+      -4
+     </sup>
+     m
+     <sup>
+      2
+     </sup>
+     /s, but diffusion coefficients for liquids and solutions lie in the range of only 10
+     <sup>
+      -10
+     </sup>
+     to 10
+     <sup>
+      -9
+     </sup>
+     m
+     <sup>
+      2
+     </sup>
+     /s. To a rough approximation, gases diffuse about 100,000 times faster than do liquids.
+    </p>
+    <p>
+     Diffusion coefficients are inversely proportional to total pressure or total molar density and are therefore reported by convention at a standard pressure of one atmosphere. Doubling the pressure of a diffusing mixture halves the diffusion coefficient, but the actual rate of diffusion remains unchanged. This seemingly paradoxical result occurs because doubling the pressure also doubles the concentration, according to the ideal gas equation of state, and hence doubles the concentration difference, which is the driving force for diffusion. The two effects exactly compensate.
+    </p>
+    <p>
+     Diffusion coefficients increase with increasing temperature at a rate that depends on whether the pressure or the total molar density is held constant as the temperature is changed. If the rate increases as
+     <e type="italic">
+      T
+     </e>
+     <sup>
+      <e type="italic">
+       s
+      </e>
+     </sup>
+     at constant molar density (where
+     <e type="italic">
+      s
+     </e>
+     usually lies between
+     <fraction>
+      <num>
+       1
+      </num>
+      <den>
+       2
+      </den>
+     </fraction>
+     and 1), then it will increase as
+     <e type="italic">
+      T
+     </e>
+     <sup>
+      1 +
+      <e type="italic">
+       s
+      </e>
+     </sup>
+     at constant pressure, according to the ideal gas equation of state.
+    </p>
+    <p>
+     Perhaps the most surprising property of gaseous diffusion coefficients is that they are virtually independent of the mixture’s composition, varying by at most a few percent over the whole composition range, even for very dissimilar gases. A trace of hydrogen, for example, diffuses through carbon dioxide at virtually the same rate that a trace of carbon dioxide diffuses through hydrogen. Liquid mixtures do not behave this way, and liquid diffusion coefficients may vary by as much as a factor of 10 from one end of the composition range to the other. The lack of composition dependence of gaseous diffusion coefficients is one of the odder properties to be explained by kinetic theory.
+    </p>
+   </h3>
+   <h3 id="h51941">
+    <title>
+     Thermal diffusion
+    </title>
+    <p>
+     If a temperature difference is applied to a uniform mixture of two gases, the mixture will partially separate into its components, with the heavier, larger molecules usually (but not invariably) concentrating at the lower temperature. This behaviour was predicted theoretically before it was observed experimentally, but a rather elaborate explanation was required because simple theory suggests no such phenomenon. It was predicted in 1911–12 by David Enskog in Sweden and independently in 1917 by Sydney Chapman in England, but the validity of their theoretical results was questioned until Chapman (who was an applied mathematician) enlisted the aid of the chemist F.W. Dootson to verify it experimentally.
+    </p>
+    <p>
+     Thermal diffusion can be used to separate isotopes. The amount of separation for any reasonable temperature difference is quite small for isotopes, but the effect can be amplified by combining it with slow thermal convection in a columnar arrangement devised in 1938 by Klaus Clusius and Gerhard Dickel in Germany. While the apparatus is quite simple, the theory of its operation is not: a long cylinder with a diameter of several centimetres is mounted vertically with an electrically heated hot wire along its central axis. The thermal diffusion occurs horizontally between the hot wire and the cold wall of the cylinder, and the convection takes place vertically to bring new gas regions into contact.
+    </p>
+    <p>
+     There is also an effect that is the inverse of thermal diffusion, called the diffusion thermoeffect, in which an imposed concentration difference causes a temperature difference to develop. That is, a diffusing gas mixture develops small temperature differences, on the order of 1° C, which die out as the composition approaches uniformity. The transport coefficient describing the diffusion thermoeffect must be equal to the coefficient describing thermal diffusion, according to the reciprocal relations central to the thermodynamics of irreversible processes.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h51942">
+  <title>
+   Kinetic theory of gases
+  </title>
+  <p>
+   The aim of kinetic theory is to account for the properties of gases in terms of the forces between the molecules, assuming that their motions are described by the laws of mechanics (usually classical Newtonian mechanics, although quantum mechanics is needed in some cases). The present discussion focuses on dilute ideal gases, in which molecular collisions of at most two bodies are of primary importance. Only the simplest theories are treated here in order to avoid obscuring the fundamental physics with complex mathematics.
+  </p>
+  <h2 id="h51943">
+   <title>
+    Ideal gas
+   </title>
+   <p>
+    The ideal gas equation of state can be deduced by calculating the pressure as caused by molecular impacts on a container wall. The internal energy and Dalton’s law of partial pressures also emerge from this calculation, along with some free-molecule phenomena. The calculation is significant because it is basically the same one used to explain all dilute-gas phenomena.
+   </p>
+   <h3 id="h51944">
+    <title>
+     Pressure
+    </title>
+    <p>
+     Newton’s second law of motion can be stated in not-so-familiar form as impulse equals change in momentum, where impulse is force multiplied by the time during which it acts. A molecule experiences a change in momentum when it collides with a container wall; during the collision an impulse is imparted by the wall to the molecule that is equal and opposite to the impulse imparted by the molecule to the wall. This is required by Newton’s third law. The sum of the impulses imparted by all the molecules to the wall is, in effect, the pressure. Consider a system of molecules of mass
+     <e type="italic">
+      m
+     </e>
+     traveling with a velocity
+     <e type="italic">
+      v
+     </e>
+     in an enclosed container. In order to arrive at an expression for the pressure, a calculation will be made of the impulse imparted to one of the walls by a single impact, followed by a calculation of how many impacts occur on that wall during a time
+     <e type="italic">
+      t
+     </e>
+     . Although the molecules are moving in all directions, only those with a component of velocity toward the wall can collide with it; call this component
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     , where
+     <e type="italic">
+      z
+     </e>
+     represents the direction directly toward the wall. Not all molecules have the same
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     , of course; perhaps only
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     out of a total of
+     <e type="italic">
+      N
+     </e>
+     molecules do. To find the total pressure, the contributions from molecules with all different values of
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     must be summed. A molecule approaches the wall with an initial momentum
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     , and after impact it moves away from the wall with an equal momentum in the opposite direction, -
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     . Thus, the total change in momentum is
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     - (-
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     ) = 2
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     , which is equal to the total impulse imparted to the wall.
+    </p>
+    <p>
+     The number of impacts on a small area
+     <e type="italic">
+      A
+     </e>
+     of the wall in time
+     <e type="italic">
+      t
+     </e>
+     is equal to the number of molecules that reach the wall in time
+     <e type="italic">
+      t
+     </e>
+     . Since the molecules are traveling at speed
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     , only those within a distance
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     <e type="italic">
+      t
+     </e>
+     and moving toward the wall will reach it in that time. Thus, the molecules that are traveling toward the wall and are within a volume
+     <e type="italic">
+      A
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     <e type="italic">
+      t
+     </e>
+     will strike the area
+     <e type="italic">
+      A
+     </e>
+     of the wall in time
+     <e type="italic">
+      t
+     </e>
+     . On the average, half of the molecules in this volume will be moving toward the wall. If
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     molecules with speed component
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     are present in the total volume
+     <e type="italic">
+      V
+     </e>
+     , then (1/2)(
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     /
+     <e type="italic">
+      V
+     </e>
+     )(
+     <e type="italic">
+      A
+     </e>
+     )(
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     <e type="italic">
+      t
+     </e>
+     ) molecules in the collision volume will hit, and each one contributes an impulse of 2
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     . The total impulse in time
+     <e type="italic">
+      t
+     </e>
+     is therefore (1/2)(
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     /
+     <e type="italic">
+      V
+     </e>
+     )(
+     <e type="italic">
+      A
+     </e>
+     )(
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     <e type="italic">
+      t
+     </e>
+     )(2
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     ) = (
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     /
+     <e type="italic">
+      V
+     </e>
+     )(
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     <sup>
+      2
+     </sup>
+     )(
+     <e type="italic">
+      A
+     </e>
+     <e type="italic">
+      t
+     </e>
+     ), which is equal to
+     <e type="italic">
+      F
+     </e>
+     <e type="italic">
+      t
+     </e>
+     , where
+     <e type="italic">
+      F
+     </e>
+     is the force on the wall due to the impacts. Equating these two expressions, the time factor
+     <e type="italic">
+      t
+     </e>
+     cancels out. Since pressure is defined as the force per unit area (
+     <e type="italic">
+      F
+     </e>
+     /
+     <e type="italic">
+      A
+     </e>
+     ), it follows that the contribution to the pressure from the molecules with speed
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     is thus (
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     /
+     <e type="italic">
+      V
+     </e>
+     )
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     <sup>
+      2
+     </sup>
+     . Because there are different values of
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     <sup>
+      2
+     </sup>
+     for different molecules, the average value, denoted
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        z
+       </e>
+      </sub>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     , is used to take into account the contributions from all the molecules. The pressure is thus given as
+     <e type="italic">
+      p
+     </e>
+     = (
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     )
+     <e type="italic">
+      m
+     </e>
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        z
+       </e>
+      </sub>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     .
+    </p>
+    <p>
+     Since the molecules are in random motion, this result is independent of the choice of axis. For any choice of (
+     <e type="italic">
+      x
+     </e>
+     ,
+     <e type="italic">
+      y
+     </e>
+     ,
+     <e type="italic">
+      z
+     </e>
+     ) axes, the magnitude of the velocity is
+     <e type="italic">
+      v
+     </e>
+     <sup>
+      2
+     </sup>
+     =
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       x
+      </e>
+     </sub>
+     <sup>
+      2
+     </sup>
+     +
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       y
+      </e>
+     </sub>
+     <sup>
+      2
+     </sup>
+     +
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     <sup>
+      2
+     </sup>
+     (which is just the Pythagorean theorem in three dimensions), and taking the average gives
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     =
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        x
+       </e>
+      </sub>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     +
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        y
+       </e>
+      </sub>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     +
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        z
+       </e>
+      </sub>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     . The gas is in equilibrium, so it must appear the same in any direction, and the average velocities are therefore the same in all directions—i.e.,
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        x
+       </e>
+      </sub>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     =
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        y
+       </e>
+      </sub>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     =
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        z
+       </e>
+      </sub>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     ; thus
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     = 3
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        z
+       </e>
+      </sub>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     . When the value (1/3)
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     is substituted for
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       z
+      </e>
+     </sub>
+     <sup>
+      2
+     </sup>
+     in the expression for pressure, the following equation is obtained:
+     <formula>
+      <inlinemedia id="i15259" mediaid="15259" url="/59/15259-004-4C5DCBCB.jpg"/>
+     </formula>
+    </p>
+    <p>
+     To rewrite this in molar units,
+     <e type="italic">
+      N
+     </e>
+     is set equal to
+     <e type="italic">
+      n
+     </e>
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      0
+     </sub>
+     —i.e., the product of the number of moles
+     <e type="italic">
+      n
+     </e>
+     and Avogadro’s number
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      0
+     </sub>
+     —to give
+     <formula>
+      <inlinemedia id="i15258" mediaid="15258" url="/58/15258-004-3BCBC6F8.jpg"/>
+     </formula>
+     where
+     <e type="italic">
+      M
+     </e>
+     =
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      0
+     </sub>
+     <e type="italic">
+      m
+     </e>
+     is the molecular weight of the gas and
+     <e type="italic">
+      v
+     </e>
+     is the volume per mole (
+     <e type="italic">
+      V
+     </e>
+     /
+     <e type="italic">
+      n
+     </e>
+     ). Since the ideal gas equation of state relates pressure, molar volume, and temperature as
+     <e type="italic">
+      p
+     </e>
+     <e type="italic">
+      v
+     </e>
+     =
+     <e type="italic">
+      R
+     </e>
+     <e type="italic">
+      T
+     </e>
+     , the temperature
+     <e type="italic">
+      T
+     </e>
+     must be related to the average kinetic energy of the molecules as
+     <formula>
+      <inlinemedia id="i15257" mediaid="15257" url="/57/15257-004-87CCC244.jpg"/>
+     </formula>
+    </p>
+    <p>
+     This expression is often written in molecular (rather than molar) terms as (1/2)[
+     <e type="italic">
+      m
+     </e>
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     ] = (3/2)
+     <e type="italic">
+      k
+     </e>
+     <e type="italic">
+      T
+     </e>
+     , where
+     <e type="italic">
+      k
+     </e>
+     =
+     <e type="italic">
+      R
+     </e>
+     /
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      0
+     </sub>
+     is called Boltzmann’s constant. If the gas is a mixture, the foregoing calculation shows that the impacts of the different species are simply added separately, and Dalton’s law of partial pressures follows directly.
+    </p>
+    <p>
+     The energy law given as equation (
+     <inlinemediaref inlinemediaid="i15260">
+      16
+     </inlinemediaref>
+     ) also follows from equation (
+     <inlinemediaref inlinemediaid="i15257">
+      19
+     </inlinemediaref>
+     ): the kinetic energy of translational motion per mole is (3/2)
+     <e type="italic">
+      R
+     </e>
+     <e type="italic">
+      T
+     </e>
+     . Any energy residing in the internal motions of the individual molecules is simply carried separately without contributing to the pressure.
+    </p>
+    <p>
+     Average molecular speeds can be calculated from the results of kinetic theory in terms of the so-called root-mean-square speed
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       rms
+      </e>
+     </sub>
+     . The
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       rms
+      </e>
+     </sub>
+     is the square root of the average of the squares of the speeds of the molecules: (
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     )
+     <sup>
+      1/2
+     </sup>
+     . From equation (
+     <inlinemediaref inlinemediaid="i15257">
+      19
+     </inlinemediaref>
+     ) the
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       rms
+      </e>
+     </sub>
+     is (3
+     <e type="italic">
+      R
+     </e>
+     <e type="italic">
+      T
+     </e>
+     /
+     <e type="italic">
+      M
+     </e>
+     )
+     <sup>
+      1/2
+     </sup>
+     . At 20° C the value for air (
+     <e type="italic">
+      M
+     </e>
+     = 29) is 502 m/s, a result very close to the rough estimate of 5 × 10
+     <sup>
+      2
+     </sup>
+     m/s given above.
+    </p>
+    <p>
+     Molecule-molecule collisions were not considered in the calculation of the expression for pressure even though many such collisions occur. Such collisions could be ignored because they are elastic; i.e., linear momentum is conserved in the collision, provided that no external forces act. Two molecules therefore continue to carry the same momentum to the wall even if they collide with one another before striking it. The ideal gas equation of state remains valid as the density is decreased, even holding for a free-molecule gas. The equation eventually fails as the density is increased, however, because other molecules exert forces and change the rate of collisions with the walls.
+    </p>
+    <p>
+     It was not until the mid- to late 19th century that kinetic theory was successfully applied to such calculations as gas pressure. Such notable scientists as Sir Isaac Newton and John Dalton had believed that gas pressure was caused by repulsions between molecules that pushed them against the container walls. For many reasons, the kinetic theory had overshadowed such static theories (and others such as vortex theories) by about 1860. It was not until 1875, however, that Maxwell actually proved that a static theory was in conflict with experiment.
+    </p>
+   </h3>
+   <h3 id="h51945">
+    <title>
+     Effusion
+    </title>
+    <p>
+     Consider the system described above in the calculation of gas pressure, but with the area
+     <e type="italic">
+      A
+     </e>
+     in the container wall replaced with a small hole. The number of molecules that escape through the hole in time
+     <e type="italic">
+      t
+     </e>
+     is equal to (1/2)(
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     )
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        z
+       </e>
+      </sub>
+     </overbar>
+     (
+     <e type="italic">
+      A
+     </e>
+     <e type="italic">
+      t
+     </e>
+     ). In this case, collisions between molecules are significant, and the result holds only for tiny holes in very thin walls (as compared to the mean free path), so that a molecule that approaches near the hole will get through without colliding with another molecule and being deflected away. The relationship between
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        z
+       </e>
+      </sub>
+     </overbar>
+     and the average speed
+     <e type="italic">
+      v̄
+     </e>
+     is rather straightforward:
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       <e type="italic">
+        z
+       </e>
+      </sub>
+     </overbar>
+     = (1/2)
+     <e type="italic">
+      v̄
+     </e>
+     .
+    </p>
+    <p>
+     If the rates for two different gases effusing through the same hole are compared, starting with the same gas density each time, it is found that much more light gas escapes than heavy gas and that more gas escapes at a high temperature than at a low temperature, other things being equal. In particular,
+     <formula>
+      <inlinemedia id="i15256" mediaid="15256" url="/56/15256-004-E8619BD5.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The last step follows from the energy formula, (1/2)
+     <e type="italic">
+      m
+     </e>
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     = (3/2)
+     <e type="italic">
+      k
+     </e>
+     <e type="italic">
+      T
+     </e>
+     , where (
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     )
+     <sup>
+      1/2
+     </sup>
+     is approximated to be
+     <e type="italic">
+      v
+     </e>
+     , even though
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     and (
+     <e type="italic">
+      v̄
+     </e>
+     )
+     <sup>
+      2
+     </sup>
+     actually differ by a numerical factor near unity (namely, 3π/8). This result was discovered experimentally in 1846 by Graham for the case of constant temperature and is known as Graham’s law of effusion. It can be used to measure molecular weights, to measure the vapour pressure of a material with a low vapour pressure, or to calculate the rate of evaporation of molecules from a liquid or solid surface.
+    </p>
+   </h3>
+   <h3 id="h51946">
+    <title>
+     Thermal transpiration
+    </title>
+    <p>
+     Suppose that two containers of the same gas but at different temperatures are connected by a tiny hole and that the gas is brought to a steady state. If the hole is small enough and the gas density is low enough that only effusion occurs, the equilibrium pressure will be greater on the high-temperature side. But, if the initial pressures on both sides are equal, gas will flow from the low-temperature side to the high-temperature side to cause the high-temperature pressure to increase. The latter situation is called thermal transpiration, and the steady-state result is called the thermomolecular pressure difference. These results follow simply from the effusion formula if the ideal gas law is used to replace
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     with
+     <e type="italic">
+      p
+     </e>
+     /
+     <e type="italic">
+      T
+     </e>
+     ;
+     <formula>
+      <inlinemedia id="i15255" mediaid="15255" url="/55/15255-004-60B4E758.jpg"/>
+     </formula>
+    </p>
+    <p>
+     When a steady state is reached, the effusion rates are equal, and thus
+     <formula>
+      <inlinemedia id="i15254" mediaid="15254" url="/54/15254-004-64A83CB8.jpg"/>
+     </formula>
+    </p>
+    <p>
+     This phenomenon was first investigated experimentally by Osborne Reynolds in 1879 in Manchester, Eng. Errors can result if a gas pressure is measured in a vessel at very low or very high temperature by connecting it via a fine tube to a manometer at room temperature. A continuous circulation of gas can be produced by connecting the two containers with another tube whose diameter is large compared with the mean free path. The pressure difference drives gas through this tube by viscous flow. A heat engine based on this circulating flow unfortunately has a low efficiency.
+    </p>
+   </h3>
+   <h3 id="h51947">
+    <title>
+     Viscosity
+    </title>
+    <p>
+     The kinetic-theory explanation of viscosity can be simplified by examining it in qualitative terms. Viscosity is caused by the transfer of momentum between two planes sliding parallel to one another but at different rates, and this momentum is transferred by molecules moving between the planes. Molecules from the faster plane move to the slower plane and tend to speed it up, while molecules from the slower plane travel to the faster plane and tend to slow it down. This is the mechanism by which one plane experiences the drag of the other. A simple analogy is two mail trains passing each other, with workers throwing mailbags between the trains. Every time a mailbag from the fast-moving train lands on the slow one, it imparts its momentum to the slow train, speeding it up a little; likewise each mailbag from the slow train that lands on the fast one slows it down a bit.
+    </p>
+    <p>
+     If the trains are too far apart, the mailbags cannot be passed between them. Similarly, the planes of a gas must be only about a mean free path apart in order for molecules to pass between them without being deflected by collisions. If one uses this approach, a simple calculation can be carried out, much as in the case of the gas pressure, with the result that
+     <formula>
+      <inlinemedia id="i15253" mediaid="15253" url="/53/15253-004-1403AE01.jpg"/>
+     </formula>
+     where
+     <e type="italic">
+      a
+     </e>
+     is a numerical constant of order unity, the term (
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     )
+     <e type="italic">
+      v̄
+     </e>
+     <e type="italic">
+      l
+     </e>
+     is a measure of the number of molecules contained in a small counting cylinder, and the mass
+     <e type="italic">
+      m
+     </e>
+     is a measure of the momentum carried between the sliding planes. The cross-sectional area of the counting cylinder and the relative speed of the sliding planes do not appear in the equation because they cancel one another when the drag force is divided by the area and speed of the planes in order to find η.
+    </p>
+    <p>
+     It can now be seen why η is independent of gas density or pressure. The term (
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     ) in equation (
+     <inlinemediaref inlinemediaid="i15253">
+      23
+     </inlinemediaref>
+     ) is the number of carriers of momentum, but
+     <e type="italic">
+      l
+     </e>
+     measures the number of collisions that interfere with these carriers and is inversely proportional to (
+     <e type="italic">
+      N
+     </e>
+     /
+     <e type="italic">
+      V
+     </e>
+     ). The two effects exactly cancel each other. Viscosity increases with temperature because the average velocity
+     <e type="italic">
+      v̄
+     </e>
+     does; that is, momentum is carried more quickly when the molecules move faster. Although
+     <e type="italic">
+      v̄
+     </e>
+     increases as
+     <e type="italic">
+      T
+     </e>
+     <sup>
+      1/2
+     </sup>
+     , η increases somewhat faster because the mean free path also increases with temperature, since it is harder to deflect a fast molecule than a slow one. This feature depends explicitly on the forces between the molecules and is difficult to calculate accurately, as is the value of the constant
+     <e type="italic">
+      a
+     </e>
+     , which turns out to be close to 1/2.
+    </p>
+    <p>
+     The behaviour of the viscosity of a mixture can also be explained by the foregoing calculation. In a mixture of a light gas and a viscous heavy gas, both types of molecules have the same average energy; however, most of the momentum is carried by the heavy molecules, which are therefore the main contributors to the viscosity. The light molecules are rather ineffective in deflecting the heavy molecules, so that the latter continue to carry virtually as much momentum as they would in the absence of light molecules. The addition of a light gas to a heavy gas therefore does not reduce the viscosity substantially and may in fact increase it because of the small extra momentum carried by the light molecules. The viscosity will eventually decrease when there are only a few heavy molecules remaining in a large sea of light molecules.
+    </p>
+    <p>
+     The main dependence of η on the molecular mass is through the product
+     <e type="italic">
+      v̄
+     </e>
+     <e type="italic">
+      m
+     </e>
+     in equation (
+     <inlinemediaref inlinemediaid="i15253">
+      23
+     </inlinemediaref>
+     ), which varies as
+     <e type="italic">
+      m
+     </e>
+     <sup>
+      1/2
+     </sup>
+     since
+     <e type="italic">
+      v̄
+     </e>
+     varies as 1/
+     <e type="italic">
+      m
+     </e>
+     <sup>
+      1/2
+     </sup>
+     . Owing to this effect, heavy gases tend to be more viscous than light gases, but this tendency is compensated for to some degree by the behaviour of
+     <e type="italic">
+      l
+     </e>
+     , which tends to be smaller for heavy molecules because they are usually larger than light molecules and therefore more likely to collide. The often confusing connection between viscosity and molecular weight can thus be accounted for by equation (
+     <inlinemediaref inlinemediaid="i15253">
+      23
+     </inlinemediaref>
+     ).
+    </p>
+    <p>
+     Finally, in a free-molecule gas there are no collisions with other molecules to impede the transport of momentum, and the viscosity thus increases linearly with pressure or density until the number of collisions becomes great enough so that the viscosity assumes the constant value given by equation (
+     <inlinemediaref inlinemediaid="i15253">
+      23
+     </inlinemediaref>
+     ). The nonideal behaviour of the gas that accompanies further increases in density eventually leads to an increase in viscosity, and the viscosity of an extremely dense gas becomes much like that of a liquid.
+    </p>
+   </h3>
+   <h3 id="h51948">
+    <title>
+     Thermal conductivity
+    </title>
+    <p>
+     The kinetic-theory explanation of heat conduction is similar to that for viscosity, but in this case the molecules carry net energy from a region of higher energy (i.e., temperature) to one of lower energy (temperature). Internal molecular motions must be accounted for because, though they do not transport momentum, they do transport energy. Monatomic gases, which carry only their kinetic energy of translational motion, are the simplest case. The resulting expression for thermal conductivity is
+     <formula>
+      <inlinemedia id="i15252" mediaid="15252" url="/52/15252-004-DCFFC38A.jpg"/>
+     </formula>
+     which has the same basic form as equation (
+     <inlinemediaref inlinemediaid="i15253">
+      23
+     </inlinemediaref>
+     ) for viscosity, with (3
+     <e type="italic">
+      k
+     </e>
+     /2) replacing
+     <e type="italic">
+      m
+     </e>
+     . The (3
+     <e type="italic">
+      k
+     </e>
+     /2) is the heat capacity per molecule and is the conversion factor from an energy difference to a temperature difference.
+    </p>
+    <p>
+     It can be shown from equation (
+     <inlinemediaref inlinemediaid="i15252">
+      24
+     </inlinemediaref>
+     ) that the independence of density and the increase with temperature is the same for thermal conductivity as it is for viscosity. The dependence on molecular mass is different, however, with λ varying as 1/
+     <e type="italic">
+      m
+     </e>
+     <sup>
+      1/2
+     </sup>
+     owing to the factor
+     <e type="italic">
+      v̄
+     </e>
+     . Thus, light gases tend to be better conductors of heat than are heavy gases, and this tendency is usually augmented by the behaviour of
+     <e type="italic">
+      l
+     </e>
+     .
+    </p>
+    <p>
+     The behaviour of the thermal conductivity of mixtures may be qualitatively explained. Adding heavy gas to light gas reduces the thermal conductivity because the heavy molecules carry less energy and also interfere with the energy transport of the light molecules.
+    </p>
+    <p>
+     The similar behaviour of λ and η suggests that their ratio might provide information about the constants
+     <e type="italic">
+      a
+     </e>
+     and
+     <e type="italic">
+      a
+     </e>
+     ′. The ratio of
+     <e type="italic">
+      a
+     </e>
+     ′/
+     <e type="italic">
+      a
+     </e>
+     is given as
+     <formula>
+      <inlinemedia id="i15251" mediaid="15251" url="/51/15251-004-043EAD50.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Although simple theory suggests that this ratio should be about one, both experiment and more refined theory give a value close to 5/2. This means that molecules do not “forget” their past history in every collision, but some persistence of their precollision velocities occurs. Molecules transport both energy and momentum from a somewhat greater distance than just one mean free path, but this distance is greater for energy than for momentum. This is plausible, for molecules with higher kinetic energies might be expected to have greater persistences.
+    </p>
+    <p>
+     Attempts to calculate the constants
+     <e type="italic">
+      a
+     </e>
+     and
+     <e type="italic">
+      a
+     </e>
+     ′ by tracing collision histories to find the “persistence of velocities” have not met with much success. The molecular “memory” fades slowly, too many previous collisions have to be traced, and the calculations become almost hopelessly complicated. A different theoretical approach is needed, which was finally supplied about 1916–17 independently by Enskog and Chapman. Their theory also shows that the same value of
+     <e type="italic">
+      l
+     </e>
+     applies to both η and λ, a fact that is not obvious in the simple theory described here.
+    </p>
+    <p>
+     The thermal conductivity of polyatomic molecules is accounted for by simply adding on a contribution for the energy carried by the internal molecular motions:
+     <formula>
+      <inlinemedia id="i15250" mediaid="15250" url="/50/15250-004-56B928A9.jpg"/>
+     </formula>
+     where
+     <e type="italic">
+      c
+     </e>
+     <sub>
+      <e type="italic">
+       int
+      </e>
+     </sub>
+     is the contribution of the internal motions to the heat capacity (per molecule) and is easily found by subtracting (3
+     <e type="italic">
+      k
+     </e>
+     /2) from the total measured heat capacity. As might be expected, the constant
+     <e type="italic">
+      a
+     </e>
+     ″ is only about half as large as
+     <e type="italic">
+      a
+     </e>
+     ′.
+    </p>
+    <p>
+     The pressure or density dependence of λ must be similar to that of η—an initial linear increase in the free-molecule region, followed by a constant value in the dilute-gas region and finally an increase in the dense-fluid region.
+    </p>
+   </h3>
+   <h3 id="h51949">
+    <title>
+     Diffusion and thermal diffusion
+    </title>
+    <p>
+     Both of these properties present difficulties for the simple mean free path version of kinetic theory. In the case of diffusion it must be argued that collisions of the molecules of species 1 with other species 1 molecules do not inhibit the interdiffusion of species 1 and 2, and similarly for 2–2 collisions. If this is not assumed, the calculated value of the diffusion coefficient for the 1–2 gas pair,
+     <e type="italic">
+      D
+     </e>
+     <sub>
+      12
+     </sub>
+     , depends strongly on the mixture composition instead of being virtually independent of it, as is shown by experiment. The neglect of 1–1 and 2–2 collisions can be rationalized by noting that the flow of momentum is not disturbed by such like-molecule collisions owing to the conservation of momentum, but it can be contended that the argument was simply invented to make the theory agree with experiment. A more charitable view is that the experimental results demonstrate that collisions between like molecules have little affect on
+     <e type="italic">
+      D
+     </e>
+     <sub>
+      12
+     </sub>
+     . It is one of the triumphs of the accurate kinetic theory of Enskog and Chapman that this result clearly emerges.
+    </p>
+    <p>
+     If 1–1 and 2–2 collisions are ignored, a simple calculation gives a result much like those for η and λ:
+     <formula>
+      <inlinemedia id="i15249" mediaid="15249" url="/49/15249-004-3F1F6317.jpg"/>
+     </formula>
+     where
+     <e type="italic">
+      a
+     </e>
+     <sub>
+      12
+     </sub>
+     is a numerical constant,
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       12
+      </sub>
+     </overbar>
+     is an average relative speed for 1–2 collisions given by
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       12
+      </sub>
+     </overbar>
+     <sup>
+      2
+     </sup>
+     = (1/2)(
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       1
+      </sub>
+     </overbar>
+     <sup>
+      2
+     </sup>
+     +
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sub>
+       2
+      </sub>
+     </overbar>
+     <sup>
+      2
+     </sup>
+     ), and
+     <e type="italic">
+      l
+     </e>
+     <sub>
+      12
+     </sub>
+     is a mean free path for 1–2 collisions that is inversely proportional to the total molecular number density, (
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      1
+     </sub>
+     +
+     <e type="italic">
+      N
+     </e>
+     <sub>
+      2
+     </sub>
+     )/
+     <e type="italic">
+      V
+     </e>
+     . Thus,
+     <e type="italic">
+      D
+     </e>
+     <sub>
+      12
+     </sub>
+     is inversely proportional to gas density or pressure, unlike η and λ, but the concentration difference is proportional to pressure, with the two effects canceling one another, as pointed out previously. The actual transport of molecules is therefore independent of pressure. The numerical value of
+     <e type="italic">
+      a
+     </e>
+     <sub>
+      12
+     </sub>
+     , as obtained by refined calculations, is close to 3/5.
+    </p>
+    <p>
+     The pressure dependence of
+     <e type="italic">
+      p
+     </e>
+     <e type="italic">
+      D
+     </e>
+     <sub>
+      12
+     </sub>
+     should be qualitatively similar to that of η and λ—an initial linear increase in the free-molecule region, a constant value in the dilute-gas region, and finally an increase in the dense-fluid region.
+    </p>
+    <p>
+     Thermal diffusion presents special difficulties for kinetic theory. The transport coefficients η, λ, and
+     <e type="italic">
+      D
+     </e>
+     <sub>
+      12
+     </sub>
+     are always positive regardless of the nature of the intermolecular forces that produce the collisions—the mere existence of collisions suffices to account for their important features. The transport coefficient that describes thermal diffusion, however, depends critically on the nature of the intermolecular forces and the collisions and can be positive, negative, or zero. Its dependence on composition is also rather complicated. There have been a number of attempts to explain thermal diffusion with a simple mean free path model, but none has been satisfactory. No simple physical explanation of thermal diffusion has been devised, and recourse to the accurate, but complicated, kinetic theory is necessary.
+    </p>
+   </h3>
+   <h3 id="h51950">
+    <title>
+     Boltzmann equation
+    </title>
+    <p>
+     The simple mean free path description of gas transport coefficients accounts for the major observed phenomena, but it is quantitatively unsatisfactory with respect to two major points: the values of numerical constants such as
+     <e type="italic">
+      a
+     </e>
+     ,
+     <e type="italic">
+      a
+     </e>
+     ′,
+     <e type="italic">
+      a
+     </e>
+     ″, and
+     <e type="italic">
+      a
+     </e>
+     <sub>
+      12
+     </sub>
+     and the description of the molecular collisions that define a mean free path. Indeed, collisions remain a somewhat vague concept except when they are considered to take place between molecules modeled as hard spheres. Improvement has required a different, somewhat indirect, and more mathematical approach through a quantity called the velocity distribution function. This function describes how molecular velocities are distributed on the average: a few very slow molecules, a few very fast ones, and most near some average value—namely,
+     <e type="italic">
+      v
+     </e>
+     <sub>
+      <e type="italic">
+       rms
+      </e>
+     </sub>
+     = (
+     <overbar>
+      <e type="italic">
+       v
+      </e>
+      <sup>
+       2
+      </sup>
+     </overbar>
+     )
+     <sup>
+      1/2
+     </sup>
+     = (3
+     <e type="italic">
+      k
+     </e>
+     <e type="italic">
+      T
+     </e>
+     /2)
+     <sup>
+      1/2
+     </sup>
+     . If this function is known, all gas properties can be calculated by using it to obtain various averages. For example, the average momentum carried in a certain direction would give the viscosity. The velocity distribution for a gas at equilibrium was suggested by Maxwell in 1859 and is represented by the familiar bell-shaped curve that describes the normal, or Gaussian, distribution of random variables in large populations. Attempts to support more definitively this result and to extend it to nonequilibrium gases led to the formulation of the Boltzmann equation, which describes how collisions and external forces cause the velocity distribution to change. This equation is difficult to solve in any general sense, but some progress can be made by assuming that the deviations from the equilibrium distribution are small and are proportional to the external influences that cause the deviations, such as temperature, pressure, and composition differences. Even the resulting simpler equations remained unsolved for nearly 50 years until the work of Enskog and Chapman, with a single notable exception. The one case that was solvable dealt with molecules that interact with forces that fall off as the fifth power of their separation (i.e., as 1/
+     <e type="italic">
+      r
+     </e>
+     <sup>
+      5
+     </sup>
+     ), for which Maxwell found an exact solution. Unfortunately, thermal diffusion happens to be exactly zero for molecules subject to this force law, so that phenomenon was missed.
+    </p>
+    <p>
+     It was later discovered that it is possible to use the solutions for the 1/
+     <e type="italic">
+      r
+     </e>
+     <sup>
+      5
+     </sup>
+     Maxwell model as a starting point and then calculate successive corrections for more general interactions. Although the calculations quickly increase in complexity, the improvement in accuracy is rapid, unlike the persistence-of-velocities corrections applied in mean free path theory. This refined version of kinetic theory is now highly developed, but it is quite mathematical and is not described here.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h51951">
+   <title>
+    Deviations from the ideal model
+   </title>
+   <p>
+    Deviations from ideal gas behaviour occur both at low densities, where molecule-surface collisions become important, and at high densities, where a description in terms of only two-body collisions becomes inadequate. The low-density case can be handled in principle by including both molecule-surface and molecule-molecule collisions in the Boltzmann equation. Since this branch of the subject is now quite advanced and mathematical in character, only the high-density case will be discussed here.
+   </p>
+   <h3 id="h51952">
+    <title>
+     Equation of state
+    </title>
+    <p>
+     To a first approximation, molecule-molecule collisions do not affect the ideal gas equation of state,
+     <e type="italic">
+      p
+     </e>
+     <e type="italic">
+      v
+     </e>
+     =
+     <e type="italic">
+      R
+     </e>
+     <e type="italic">
+      T
+     </e>
+     , but real gases at nonzero densities show deviations from this equation that are due to interactions among the molecules. Ever since the great advance made by van der Waals in 1873, an accurate universal formula relating
+     <e type="italic">
+      p
+     </e>
+     ,
+     <e type="italic">
+      v
+     </e>
+     , and
+     <e type="italic">
+      T
+     </e>
+     has been sought. No completely satisfactory equation of state has been found, though important advances occurred in the 1970s and ’80s. The only rigorous theoretical result available is an infinite-series expansion in powers of 1/
+     <e type="italic">
+      v
+     </e>
+     , known as the virial equation of state:
+     <formula>
+      <inlinemedia id="i15248" mediaid="15248" url="/48/15248-004-EC967FC1.jpg"/>
+     </formula>
+     where
+     <e type="italic">
+      B
+     </e>
+     (
+     <e type="italic">
+      T
+     </e>
+     ),
+     <e type="italic">
+      C
+     </e>
+     (
+     <e type="italic">
+      T
+     </e>
+     ), . . . are called the second, third, . . . virial coefficients and depend only on the temperature and the particular gas. The virtue of this equation is that there is a rigorous connection between the virial coefficients and intermolecular forces, and experimental values of
+     <e type="italic">
+      B
+     </e>
+     (
+     <e type="italic">
+      T
+     </e>
+     ) were an early source (and still a useful one) of quantitative information on intermolecular forces. The drawback of the virial equation of state is that it is an infinite series and becomes essentially useless at high densities, which in practice are those greater than about the critical density. Also, the equation is wanting in that it does not predict condensation.
+    </p>
+    <p>
+     The most practical approaches to the equation of state for real fluids remain the versions of the principle of corresponding states first proposed by van der Waals.
+    </p>
+   </h3>
+   <h3 id="h51953">
+    <title>
+     Transport properties
+    </title>
+    <p>
+     Despite many attempts, there is still no satisfactory theory of the transport properties of dense fluids. Even the extension of the Boltzmann equation to include collisions of more than two bodies is not entirely clear. An important advance was made in 1921 by Enskog, but it is restricted to hard spheres and has not been extended to real molecules except in an empirical way to fit experimental measurements.
+    </p>
+    <p>
+     Attempts to develop a virial type of expansion in 1/
+     <e type="italic">
+      v
+     </e>
+     for the transport coefficients have failed in a surprising way. A formal theory was formulated, but, when the virial coefficients were evaluated for the tractable case of hard spheres, an infinite result was obtained for the coefficient of the 1/
+     <e type="italic">
+      v
+     </e>
+     <sup>
+      2
+     </sup>
+     term. This is a signal that a virial expansion is not accurate in a mathematical sense, and subsequent research showed that the error arose from a neglected term of the form (1/
+     <e type="italic">
+      v
+     </e>
+     <sup>
+      2
+     </sup>
+     )ln(1/
+     <e type="italic">
+      v
+     </e>
+     ). It remains unknown how many similar problematic mathematical terms exist in the theory. Transport coefficients of dense fluids are usually described by some empirical extension of the Enskog hard-sphere theory or more commonly by some version of a principle of corresponding states. Much work clearly remains to be done.
+    </p>
+    <signature>
+     Edward A. Mason
+    </signature>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h51954">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   Three excellent introductions to the kinetic theory of gases at an elementary level are
+   <e type="smallcap">
+    Joel H. Hildebrand
+   </e>
+   ,
+   <e type="italic">
+    An Introduction to Molecular Kinetic Theory
+   </e>
+   (1963, reissued 1966);
+   <e type="smallcap">
+    Sidney Golden
+   </e>
+   ,
+   <e type="italic">
+    Elements of the Theory of Gases
+   </e>
+   (1964); and
+   <e type="smallcap">
+    Gerhard L. Salinger
+   </e>
+   and
+   <e type="smallcap">
+    Francis W. Sears
+   </e>
+   ,
+   <e type="italic">
+    Thermodynamics, Kinetic Theory, and Statistical Thermodynamics
+   </e>
+   (1975). An accessible popular work that touches some of these issues is
+   <e type="smallcap">
+    Hans Christian von Baeyer
+   </e>
+   ,
+   <e type="italic">
+    Warmth Disperses and Time Passes: A History of Heat
+   </e>
+   (1999; originally published as
+   <e type="italic">
+    Maxwell’s Demon: Why Warmth Disperses and Time Passes
+   </e>
+   , 1998).
+  </p>
+  <p>
+   Books that focus on historical development include
+   <e type="smallcap">
+    Stephen Brush
+   </e>
+   (ed.),
+   <e type="italic">
+    Kinetic Theory
+   </e>
+   , 3 vol. (1965–72), a set of famous historical papers along with introductory commentaries and summaries by the editor;
+   <e type="smallcap">
+    Stephen Brush
+   </e>
+   ,
+   <e type="italic">
+    The Kind of Motion We Call Heat: A History of the Kinetic Theory of Gases in the 19th Century
+   </e>
+   , 2 vol. (1976, reissued 1986), a thorough historical account without much mathematics, and
+   <e type="italic">
+    Statistical Physics and the Atomic Theory of Matter: From Boyle and Newton to Landau and Onsager
+   </e>
+   (1983), which requires a thorough scientific background;
+   <e type="smallcap">
+    Elizabeth Garber
+   </e>
+   ,
+   <e type="smallcap">
+    Stephen Brush
+   </e>
+   , and
+   <e type="smallcap">
+    C.W.F. Everitt
+   </e>
+   (eds.),
+   <e type="italic">
+    Maxwell on Molecules and Gases
+   </e>
+   (1986), a compilation of early writings on the kinetic theory of gases by the English physicist James Clerk Maxwell; and
+   <e type="smallcap">
+    J.S. Rowlinson
+   </e>
+   (ed.),
+   <e type="italic">
+    J.D. van der Waals: On the Continuity of the Gaseous and Liquid States
+   </e>
+   (1988), a translation of the seminal 1873 thesis by the Dutch physicist J.D. van der Waals, with an excellent introduction by the editor that surveys modern developments in the theory of liquids and solutions.
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="53960" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 23:55:16" url="/article/motion-equation-of/53960" version="6">
+ <title>
+  equation of motion
+ </title>
+ <p>
+  <e type="bold">
+   equation of motion
+  </e>
+  , mathematical formula that describes the position, velocity, or acceleration of a body relative to a given frame of reference. Newton’s second law, which states that the force
+  <e type="italic">
+   F
+  </e>
+  acting on a body is equal to the mass
+  <e type="italic">
+   m
+  </e>
+  of the body multiplied by the acceleration
+  <e type="italic">
+   a
+  </e>
+  of its centre of mass,
+  <e type="italic">
+   F
+  </e>
+  =
+  <e type="italic">
+   ma,
+  </e>
+  is the basic equation of motion in classical mechanics. If the force acting on a body is known as a function of time, the velocity and position of the body as functions of time can, theoretically, be derived from Newton’s equation by a process known as integration. For example, a falling body accelerates at a constant rate,
+  <e type="italic">
+   g
+  </e>
+  . Acceleration is the rate of change of velocity with respect to time, so that by integration the velocity
+  <e type="italic">
+   v
+  </e>
+  in terms of time
+  <e type="italic">
+   t
+  </e>
+  is given by
+  <e type="italic">
+   v
+  </e>
+  =
+  <e type="italic">
+   gt
+  </e>
+  . Velocity is the time rate of change of position
+  <e type="italic">
+   S,
+  </e>
+  and, consequently, integration of the velocity equation yields
+  <e type="italic">
+   S
+  </e>
+  =
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    2
+   </den>
+  </fraction>
+  <e type="italic">
+   gt
+  </e>
+  <sup>
+   2
+  </sup>
+  .
+ </p>
+ <p>
+  If the force acting on a body is specified as a function of position or velocity, the integration of Newton’s equation may be more difficult. When a body is constrained to move in a specified manner on a fixed path, it may be possible to derive the position-time equation; from this equation the velocity-time and acceleration-time equations can, theoretically, be obtained by a process known as differentiation.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

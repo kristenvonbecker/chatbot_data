@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="489776" articletypeid="1" language="en_us" lastupdate="2021-Aug-06 11:41:17" url="/article/Venn-diagram/489776" version="6">
+ <title>
+  Venn diagram
+ </title>
+ <p>
+  <e type="bold">
+   Venn diagram
+  </e>
+  , graphical method of representing
+  <xref articleid="20789">
+   categorical propositions
+  </xref>
+  and testing the validity of categorical
+  <xref articleid="70701">
+   syllogisms
+  </xref>
+  , devised by the English logician and philosopher
+  <xref articleid="489299">
+   John Venn
+  </xref>
+  (1834–1923). Long recognized for their pedagogical value, Venn diagrams have been a standard part of the curriculum of introductory
+  <xref articleid="110686">
+   logic
+  </xref>
+  since the mid-20th century.
+ </p>
+ <p>
+  Venn introduced the diagrams that bear his name as a means of representing relations of inclusion and exclusion between classes, or sets. Venn diagrams consist of two or three intersecting circles, each representing a class and each labeled with an uppercase letter. Lowercase
+  <e type="italic">
+   x
+  </e>
+  ’s and shading are used to indicate the existence and nonexistence, respectively, of some (at least one) member of a given class.
+ </p>
+ <p>
+  Two-circle Venn diagrams are used to represent categorical propositions, whose logical relations were first studied systematically by
+  <xref articleid="108312">
+   Aristotle
+  </xref>
+  . Such propositions consist of two terms, or class nouns, called the subject (S) and the predicate (P); the quantifier
+  <e type="italic">
+   all, no,
+  </e>
+  or
+  <e type="italic">
+   some
+  </e>
+  ; and the copula
+  <e type="italic">
+   are
+  </e>
+  or
+  <e type="italic">
+   are not
+  </e>
+  . The proposition “All S are P,” called the universal affirmative, is represented by shading the part of the circle labeled S that does not intersect the circle labeled P, indicating that there is nothing that is an S that is not also a P. “No S are P,” the universal negative, is represented by shading the intersection of S and P; “Some S are P,” the particular affirmative, is represented by placing an
+  <e type="italic">
+   x
+  </e>
+  in the intersection of S and P; and “Some S are not P,” the particular negative, is represented by placing an
+  <e type="italic">
+   x
+  </e>
+  in the part of S that does not intersect P.
+  <formula>
+   <inlinemedia id="i143080" mediaid="143080" url="/80/143080-004-A107EAB1.jpg"/>
+  </formula>
+ </p>
+ <p>
+  Three-circle diagrams, in which each circle intersects the other two, are used to represent categorical syllogisms, a form of
+  <xref articleid="29720">
+   deductive
+  </xref>
+  argument consisting of two categorical premises and a categorical conclusion. A common practice is to label the circles with capital (and, if necessary, also lowercase) letters corresponding to the subject term of the conclusion, the predicate term of the conclusion, and the middle term, which appears once in each premise. If, after both premises are diagrammed (the universal premise first, if both are not universal), the conclusion is also represented, the syllogism is valid; i.e., its conclusion follows necessarily from its premises. If not, it is invalid.
+ </p>
+ <p>
+  Three examples of categorical syllogisms are the following.
+ </p>
+ <quote>
+  <p>
+   All Greeks are human. No humans are immortal. Therefore, no Greeks are immortal.
+  </p>
+  <p>
+   Some mammals are carnivores. All mammals are animals. Therefore, some animals are carnivores.
+  </p>
+  <p>
+   Some sages are not seers. No seers are soothsayers. Therefore, some sages are not soothsayers.
+  </p>
+ </quote>
+ <p>
+  To diagram the premises of the first syllogism, one shades the part of G (“Greeks”) that does not intersect H (“humans”) and the part of H that intersects I (“immortal”). Because the conclusion is represented by the shading in the intersection of G and I, the syllogism is valid.
+  <formula>
+   <inlinemedia id="i143079" mediaid="143079" url="/79/143079-004-9B28CE41.jpg"/>
+  </formula>
+ </p>
+ <p>
+  To diagram the second premise of the second example—which, because it is universal, must be diagrammed first—one shades the part of M (“mammals”) that does not intersect A (“animals”). To diagram the first premise, one places an
+  <e type="italic">
+   x
+  </e>
+  in the intersection of M and C. Importantly, the part of M that intersects C but does not intersect A is unavailable, because it was shaded in the diagramming of the first premise; thus, the
+  <e type="italic">
+   x
+  </e>
+  must be placed in the part of M that intersects both A and C. In the resulting diagram the conclusion is represented by the appearance of an
+  <e type="italic">
+   x
+  </e>
+  in the intersection of A and C, so the syllogism is valid.
+  <formula>
+   <inlinemedia id="i143078" mediaid="143078" url="/78/143078-004-8B22E711.jpg"/>
+  </formula>
+ </p>
+ <p>
+  To diagram the universal premise in the third syllogism, one shades the part of Se (“seers”) that intersects So (“soothsayers”). To diagram the particular premise, one places an
+  <e type="italic">
+   x
+  </e>
+  in Sa (“sages”) on that part of the boundary of So that does not adjoin a shaded area, which by definition is empty. In this way one indicates that the Sa that is not an Se may or may not be an So (the sage that is not a seer may or may not be a soothsayer). Because there is no
+  <e type="italic">
+   x
+  </e>
+  that appears in Sa and not in So, the conclusion is not represented, and the syllogism is invalid.
+  <formula>
+   <inlinemedia id="i143077" mediaid="143077" url="/77/143077-004-739AFD24.jpg"/>
+  </formula>
+ </p>
+ <p>
+  Venn’s
+  <e type="italic">
+   Symbolic Logic
+  </e>
+  (1866) contains his fullest development of the method of Venn diagrams. The bulk of that work, however, was devoted to defending the algebraic interpretation of
+  <xref articleid="61566">
+   propositional logic
+  </xref>
+  introduced by the English mathematician
+  <xref articleid="80664">
+   George Boole
+  </xref>
+  .
+ </p>
+ <signature>
+  Brian Duignan
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

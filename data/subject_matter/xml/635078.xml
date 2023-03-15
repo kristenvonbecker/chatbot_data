@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="635078" articletypeid="1" language="en_us" lastupdate="2023-Mar-04 12:51:34" url="/article/24-hour-clock/635078" version="6">
+ <title>
+  24-hour clock
+ </title>
+ <p>
+  <e type="bold">
+   24-hour clock
+  </e>
+  ,
+  <xref articleid="108686">
+   time
+  </xref>
+  convention that begins the day at 00:00 and ends at 23:59, although 24:00 can be used to refer to 00:00 of the following day. The 24-hour clock is the international standard format for time (ISO 8601) and is currently the most widespread time notation worldwide. Professionals in areas as diverse as medicine and aviation widely make use of it, even in cultural contexts that are accustomed to the
+  <xref articleid="635939">
+   12-hour clock
+  </xref>
+  , which divides the day into two 12-hour periods,
+  <e type="smallcap">
+   am
+  </e>
+  and
+  <e type="smallcap">
+   pm
+  </e>
+  .
+ </p>
+ <h1 id="h352687">
+  <title>
+   History
+  </title>
+  <p>
+   The ancient Egyptians are seen as the originators of the 24-hour day. The New Kingdom, which lasted from 1550 to 1070
+   <e type="smallcap">
+    bce
+   </e>
+   , saw the introduction of a time system using 24 stars, 12 of which were used to mark the passage of the night. Hours were of different length, however, as summer hours were longer than winter hours. The ancient Greek astronomer
+   <xref articleid="40534">
+    Hipparchus
+   </xref>
+   later suggested splitting the day into 24 equinoctial hours. The medieval Muslims were especially interested in
+   <xref articleid="70362">
+    sundials
+   </xref>
+   and invented the now-ubiquitous sundial with the
+   <xref articleid="629132">
+    gnomon
+   </xref>
+   (the vertical needle of the dial) parallel to the polar axis of Earth. The 13th-century scholar Abū al-Ḥasan al-Marrakushi is credited with introducing equal hours, at least for astronomical purposes. Despite these efforts, variable-length, or seasonal, hours purportedly persisted until the 14th century in Europe.
+  </p>
+  <p>
+   With the advent of mechanical
+   <xref articleid="24419">
+    clocks
+   </xref>
+   in the early 14th century, sundials with equal hours gradually came into general use in parts of Europe. The 24-hour dial became quite established in Italy in the 15th century, thereby underlining its allegiance to the 24-hour day. The so-called Italian hours referred to the 24-hour period lasting from sunset or 30 minutes after dusk until the following sunset. In countries such as England, however, time was measured by means of two periods of 1 to 12 shown on the dial. The Italian 24-hour dial was soon used in neighbouring countries as well, but the 24-hour clock system was considered impractical for striking clocks, which had to be moved ahead during the first six months of the year and moved back later. The double-XII sundial (a 12-hour system), on the other hand, allowed hours to be counted from noon, rather than from dawn. Noon was purportedly simpler to identify because of the position of the shadow it cast. Until the 19th century, sundials of both time conventions were still used to reset mechanical clocks.
+  </p>
+  <p>
+   <assembly id="a270926" url="/assembly/view/270926">
+    <title>
+     Sir Sandford Fleming
+    </title>
+    <media mediaid="189573" type="image" url="/73/189573-004-7DD2F181.jpg"/>
+    <caption>
+     Canadian civil engineer and scientist Sir Sandford Fleming.
+    </caption>
+    <credit>
+     From
+     <e type="italic">
+      A Pioneer of Imperial Federation in Canada
+     </e>
+     by Sir Frederick Young (London, 1902)
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a270926"/>
+   Railway engineer
+   <xref articleid="34544">
+    Sir Sandford Fleming
+   </xref>
+   was an important advocate for the 24-hour clock in the 1800s, having missed a train in Ireland due to a misprinted schedule that listed
+   <e type="smallcap">
+    pm
+   </e>
+   rather than
+   <e type="smallcap">
+    am
+   </e>
+   . He also supported the adoption of
+   <xref articleid="69397">
+    standard time zones
+   </xref>
+   and a
+   <xref articleid="38001">
+    prime meridian
+   </xref>
+   . This initiative was taken further by
+   <xref articleid="64512">
+    Lewis Rutherfurd
+   </xref>
+   at the International Meridian Conference in 1884, who wished for a 24-hour universal day based on the initial meridian, namely
+   <xref articleid="37998">
+    Greenwich
+   </xref>
+   . This would give rise to
+   <xref articleid="26164">
+    Coordinated Universal Time
+   </xref>
+   (known as UTC) or
+   <xref articleid="38000">
+    Greenwich Mean Time
+   </xref>
+   (GMT). The global expansion of the 24-hour clock was allegedly pioneered by the
+   <xref articleid="19919">
+    Canadian Pacific Railway
+   </xref>
+   , which began to use it in 1886. Several countries officially adopted it, starting with Italy in 1893, followed by Denmark in 1916 and Greece the following year. Several other European and Latin American countries started using it by the early 1920s, whereas Turkey and Germany would adopt it in 1925 and 1927, respectively. As regards the military, the French Army and
+   <xref articleid="64284">
+    British Royal Navy
+   </xref>
+   began to use it in 1909 and 1915, respectively, while Canada adopted it in 1917. The
+   <xref articleid="16514">
+    British Army
+   </xref>
+   embraced the system in 1918, while the
+   <xref articleid="74339">
+    U.S. Navy
+   </xref>
+   adopted it in 1920, becoming the first U.S. organization to do so. The U.S. Army, however, did not start using it before 1942.
+  </p>
+ </h1>
+ <h1 id="h352688">
+  <title>
+   Military time
+  </title>
+  <p>
+   The 24-hour clock is closely related to the military in the United States, with which it is often associated, as testified by the term
+   <e type="italic">
+    military time
+   </e>
+   . In this context, four numbers precede a letter which represents a given time zone. Z, for instance, represents UTC or GMT, used by countries such as the U.K., Ireland, and Portugal during
+   <xref articleid="29565">
+    Daylight Savings Time
+   </xref>
+   , while A refers to UTC+1 or Central European Time (CET), used by France, Italy, and other nations. During oral communication, code words from the NATO Phonetic Alphabet are used to prevent misunderstandings, as exemplified by Zulu for Z and Alpha for A. The designation J, on the other hand, refers to the time where the person is making the utterance and is thus strictly dependent on their location. A full hour is represented by means of the term
+   <e type="italic">
+    hundred
+   </e>
+   , as exemplified by
+   <e type="italic">
+    zero six hundred hours
+   </e>
+   for 06:00 or
+   <e type="italic">
+    twenty-three hundred hours
+   </e>
+   for 23:00. This is omitted on other occasions, as exemplified by
+   <e type="italic">
+    zero seven thirty hours
+   </e>
+   for 07:30 and by
+   <e type="italic">
+    seventeen forty-five hours
+   </e>
+   for 17:45.
+  </p>
+  <p>
+   This chart converts times from the 24-hour clock to the
+   <xref articleid="635939">
+    12-hour clock
+   </xref>
+   :
+  </p>
+  <table>
+   <thead>
+    <tr>
+     <td>
+      24-hour clock
+     </td>
+     <td>
+      12-hour clock
+     </td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td>
+      00:00
+     </td>
+     <td>
+      12
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      01:00
+     </td>
+     <td>
+      1
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      02:00
+     </td>
+     <td>
+      2
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      03:00
+     </td>
+     <td>
+      3
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      04:00
+     </td>
+     <td>
+      4
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      05:00
+     </td>
+     <td>
+      5
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      06:00
+     </td>
+     <td>
+      6
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      07:00
+     </td>
+     <td>
+      7
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      08:00
+     </td>
+     <td>
+      8
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      09:00
+     </td>
+     <td>
+      9
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      10:00
+     </td>
+     <td>
+      10
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      11:00
+     </td>
+     <td>
+      11
+      <e type="smallcap">
+       am
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      12:00
+     </td>
+     <td>
+      12
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      13:00
+     </td>
+     <td>
+      1
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      14:00
+     </td>
+     <td>
+      2
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      15:00
+     </td>
+     <td>
+      3
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      16:00
+     </td>
+     <td>
+      4
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      17:00
+     </td>
+     <td>
+      5
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      18:00
+     </td>
+     <td>
+      6
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      19:00
+     </td>
+     <td>
+      7
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      20:00
+     </td>
+     <td>
+      8
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      21:00
+     </td>
+     <td>
+      9
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      22:00
+     </td>
+     <td>
+      10
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      23:00
+     </td>
+     <td>
+      11
+      <e type="smallcap">
+       pm
+      </e>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </h1>
+ <signature>
+  [ No Value! ]
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

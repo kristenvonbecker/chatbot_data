@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="67869" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 01:15:11" url="/article/simple-harmonic-motion/67869" version="3">
+ <title>
+  simple harmonic motion
+ </title>
+ <p>
+  <e type="bold">
+   simple harmonic motion
+  </e>
+  , in
+  <xref articleid="108654">
+   physics
+  </xref>
+  , repetitive movement back and forth through an equilibrium, or central, position, so that the maximum displacement on one side of this position is equal to the maximum displacement on the other side. The time interval of each complete vibration is the same. The
+  <xref articleid="34834">
+   force
+  </xref>
+  responsible for the motion is always directed toward the equilibrium position and is directly proportional to the distance from it. That is,
+  <e type="italic">
+   F
+  </e>
+  = −
+  <e type="italic">
+   kx
+  </e>
+  , where
+  <e type="italic">
+   F
+  </e>
+  is the force,
+  <e type="italic">
+   x
+  </e>
+  is the displacement, and
+  <e type="italic">
+   k
+  </e>
+  is a constant. This relation is called
+  <xref articleid="40985">
+   Hooke’s law
+  </xref>
+  .
+ </p>
+ <p>
+  A specific example of a simple harmonic oscillator is the vibration of a mass attached to a vertical spring, the other end of which is fixed in a ceiling. At the maximum displacement −
+  <e type="italic">
+   x,
+  </e>
+  the spring is under its greatest tension, which forces the mass upward. At the maximum displacement +
+  <e type="italic">
+   x,
+  </e>
+  the spring reaches its greatest compression, which forces the mass back downward again. At either position of maximum displacement, the force is greatest and is directed toward the equilibrium position, the velocity (
+  <e type="italic">
+   v
+  </e>
+  ) of the mass is zero, its acceleration is at a maximum, and the mass changes direction. At the equilibrium position, the velocity is at its maximum and the acceleration (
+  <e type="italic">
+   a
+  </e>
+  ) has fallen to zero. Simple harmonic motion is characterized by this changing acceleration that always is directed toward the equilibrium position and is proportional to the displacement from the equilibrium position. Furthermore, the interval of time for each complete vibration is constant and does not depend on the size of the maximum displacement. In some form, therefore, simple harmonic motion is at the heart of timekeeping.
+ </p>
+ <p>
+  To express how the displacement of the mass changes with time, one can use
+  <xref articleid="55622">
+   Newton’s second law
+  </xref>
+  ,
+  <e type="italic">
+   F
+  </e>
+  =
+  <e type="italic">
+   ma
+  </e>
+  , and set
+  <e type="italic">
+   ma
+  </e>
+  = −
+  <e type="italic">
+   kx
+  </e>
+  . The acceleration
+  <e type="italic">
+   a
+  </e>
+  is the second derivative of
+  <e type="italic">
+   x
+  </e>
+  with respect to time
+  <e type="italic">
+   t
+  </e>
+  , and one can solve the resulting differential equation with
+  <e type="italic">
+   x
+  </e>
+  =
+  <e type="italic">
+   A
+  </e>
+  cos ω
+  <e type="italic">
+   t
+  </e>
+  , where
+  <e type="italic">
+   A
+  </e>
+  is the maximum displacement and ω is the angular frequency in radians per second. The time it takes the mass to move from
+  <e type="italic">
+   A
+  </e>
+  to −
+  <e type="italic">
+   A
+  </e>
+  and back again is the time it takes for ω
+  <e type="italic">
+   t
+  </e>
+  to advance by 2π. Therefore, the period
+  <e type="italic">
+   T
+  </e>
+  it takes for the mass to move from
+  <e type="italic">
+   A
+  </e>
+  to −
+  <e type="italic">
+   A
+  </e>
+  and back again is ω
+  <e type="italic">
+   T
+  </e>
+  = 2π, or
+  <e type="italic">
+   T
+  </e>
+  = 2π/ω. The frequency of the vibration in cycles per second is 1/
+  <e type="italic">
+   T
+  </e>
+  or ω/2π.
+ </p>
+ <p>
+  Many physical systems exhibit simple harmonic motion (assuming no energy loss): an oscillating pendulum, the
+  <xref articleid="32316">
+   electrons
+  </xref>
+  in a wire carrying
+  <xref articleid="5927">
+   alternating current
+  </xref>
+  , the vibrating particles of the medium in a
+  <xref articleid="109557">
+   sound
+  </xref>
+  wave, and other assemblages involving relatively small oscillations about a position of stable equilibrium.
+ </p>
+ <p>
+  The motion is called harmonic because musical instruments make such vibrations that in turn cause corresponding sound waves in air. Musical sounds are actually a combination of many simple harmonic waves corresponding to the many ways in which the vibrating parts of a musical instrument oscillate in sets of superimposed simple harmonic motions, the frequencies of which are multiples of a lowest fundamental frequency. In fact, any regularly repetitive motion and any wave, no matter how complicated its form, can be treated as the sum of a series of simple harmonic motions or waves, a discovery first published in 1822 by the French mathematician Joseph Fourier.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

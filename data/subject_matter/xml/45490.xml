@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="45490" articletypeid="1" language="en_us" lastupdate="2021-Nov-16 15:44:08" url="/article/kinetic-energy/45490" version="9">
+ <title>
+  kinetic energy
+ </title>
+ <p>
+  <e type="bold">
+   kinetic energy
+  </e>
+  , form of
+  <xref articleid="32627">
+   energy
+  </xref>
+  that an object or a particle has by reason of its motion. If
+  <xref articleid="77472">
+   work
+  </xref>
+  , which transfers energy, is done on an object by applying a net
+  <xref articleid="34834">
+   force
+  </xref>
+  , the object speeds up and thereby gains kinetic energy. Kinetic energy is a property of a moving object or particle and depends not only on its motion but also on its
+  <xref articleid="51285">
+   mass
+  </xref>
+  . The kind of motion may be translation (or motion along a path from one place to another), rotation about an axis, vibration, or any combination of motions.
+ </p>
+ <p>
+  Translational kinetic energy of a body is equal to one-half the product of its mass,
+  <e type="italic">
+   m
+  </e>
+  , and the square of its velocity,
+  <e type="italic">
+   v
+  </e>
+  , or
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    2
+   </den>
+  </fraction>
+  <e type="italic">
+   mv
+  </e>
+  <sup>
+   2
+  </sup>
+  .
+ </p>
+ <p>
+  This formula is valid only for low to relatively high speeds; for extremely high-speed particles it yields values that are too small. When the speed of an object approaches that of
+  <xref articleid="471069">
+   light
+  </xref>
+  (3 × 10
+  <sup>
+   8
+  </sup>
+  metres per second, or 186,000 miles per second), its mass increases, and the laws of
+  <xref articleid="109465">
+   relativity
+  </xref>
+  must be used.
+  <xref articleid="110309" refid="h77443">
+   Relativistic kinetic energy
+  </xref>
+  is equal to the increase in the mass of a particle over that which it has at rest multiplied by the square of the speed of light.
+ </p>
+ <p>
+  <assembly id="a174512" url="/assembly/view/174512">
+   <title>
+    Uncover the forces of potential energy, kinetic energy, and friction behind a grandfather clock’s pendulum
+   </title>
+   <media mediaid="161914" thumburl="/14/161914-049-BAB034A5.jpg" type="video" url=""/>
+   <caption>
+    Changes in potential and kinetic energy as a pendulum swings.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a174512"/>
+  The unit of energy in the
+  <xref articleid="52350">
+   metre
+  </xref>
+  -
+  <xref articleid="45447">
+   kilogram
+  </xref>
+  -
+  <xref articleid="66514">
+   second
+  </xref>
+  system is the
+  <xref articleid="44023">
+   joule
+  </xref>
+  . A two-kilogram mass (something weighing 4.4 pounds on
+  <xref articleid="110147">
+   Earth
+  </xref>
+  ) moving at a speed of one metre per second (slightly more than two
+  <xref articleid="52657">
+   miles
+  </xref>
+  per hour) has a kinetic energy of one joule. In the centimetre-gram-second system the unit of energy is the
+  <xref articleid="32887">
+   erg
+  </xref>
+  , 10
+  <sup>
+   −7
+  </sup>
+  joule, equivalent to the kinetic energy of a
+  <xref articleid="53915">
+   mosquito
+  </xref>
+  in flight. Other units of energy also are used, in specific contexts, such as the still smaller unit, the
+  <xref articleid="32330">
+   electron volt
+  </xref>
+  , on the
+  <xref articleid="110411">
+   atomic
+  </xref>
+  and
+  <xref articleid="108593">
+   subatomic
+  </xref>
+  scale.
+ </p>
+ <p>
+  For a rotating body, the
+  <xref articleid="42379">
+   moment of inertia
+  </xref>
+  ,
+  <e type="italic">
+   I
+  </e>
+  , corresponds to mass, and the angular velocity (omega),
+  <e type="italic">
+   ω
+  </e>
+  , corresponds to linear, or translational, velocity. Accordingly, rotational kinetic energy is equal to one-half the product of the moment of inertia and the square of the angular velocity, or
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    2
+   </den>
+  </fraction>
+  <e type="italic">
+   Iω
+  </e>
+  <sup>
+   2
+  </sup>
+  .
+ </p>
+ <p>
+  The total kinetic energy of a body or a system is equal to the sum of the kinetic energies resulting from each type of motion.
+  <e type="italic">
+   See
+  </e>
+  <xref articleid="110307" refid="h77555">
+   mechanics: Rotation about a moving axis
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="631222" articletypeid="1" language="en_us" lastupdate="2023-Feb-03 14:29:05" url="/article/neural-oscillation/631222" version="6">
+ <title>
+  neural oscillation
+ </title>
+ <p>
+  <e type="bold">
+   neural oscillation
+  </e>
+  , synchronized rhythmic patterns of electrical activity produced by
+  <xref articleid="55388">
+   neurons
+  </xref>
+  in the
+  <xref articleid="16178">
+   brain
+  </xref>
+  ,
+  <xref articleid="69137">
+   spinal cord
+  </xref>
+  , and
+  <xref articleid="11379">
+   autonomic nervous system
+  </xref>
+  .
+ </p>
+ <p>
+  Oscillations, in general, are a reflection of a balanced interaction between two or more forces. In the brain, they typically reflect competition between excitation and inhibition. Balance between the two is relative, and, within the oscillation cycle, excitation and inhibition prevail at different phases. This has two major effects. First, oscillations are energetically the most efficient way of synchronizing neurons and forming neuronal assemblies, and, thus, many excitatory neurons can be synchronized in a limited phase range, sending messages to downstream structures within the “sending” phase. Second, in its “receiving” (or perturbation) phase, the network can respond most effectively to upstream inputs.
+ </p>
+ <p>
+  The first brain pattern observed by recording electrical activity from the scalp (
+  <xref articleid="32300">
+   electroencephalogram
+  </xref>
+  , EEG) was an oscillation (alpha rhythm), detected by German psychiatrist Hans Berger in the 1920s. The first neuronal population pattern that emerges during development is also a rhythm, known as delta brush.
+ </p>
+ <h1 id="h340026">
+  <title>
+   Types of brain rhythms
+  </title>
+  <p>
+   There are at least 10 discrete brain rhythms, covering more than four orders of magnitude in frequency, from approximately 0.02 to 600 hertz (Hz). Different brain structures and brain states have different preferred subsets of oscillations. Most oscillations are short-lived (less than a second), while others can be sustained for longer periods.
+  </p>
+  <p>
+   Traditionally, the frequency bands are denoted by Greek letters. They do indicate not a logical order of frequencies but roughly the order of their discoveries. Alpha oscillations (8–12 Hz) are most prominent above the occipital cortical area when the
+   <xref articleid="109527">
+    eyes
+   </xref>
+   are closed. Large-amplitude theta oscillations (4–10 Hz) dominate the hippocampal-entorhinal system during spatial navigation and
+   <xref articleid="109427">
+    memory
+   </xref>
+   processing. Delta waves (0.5–1.5 Hz), the largest-amplitude waves in the neocortex (the cerebral cortex region associated with sight and
+   <xref articleid="39709">
+    hearing
+   </xref>
+   ), are present during non-
+   <xref articleid="635837">
+    REM
+   </xref>
+   <xref articleid="109539">
+    sleep
+   </xref>
+   . Beta rhythms (13–30 Hz) are present throughout the motor system in the absence of movement, while transient beta oscillations (or sleep spindles) are present in the thalamocortical system during the early stages of sleep. Gamma oscillations (30–120 Hz) are present in nearly all structures and all brain states, although they dominate in the aroused, attentive brain. The transient ripple pattern (130–200 Hz), most prominent in the
+   <xref articleid="474694">
+    hippocampus
+   </xref>
+   , serves to transfer memories and action plans from the hippocampus to the neocortex. These and other rhythms can temporally coexist in the same or in different structures and interact with each other.
+  </p>
+ </h1>
+ <h1 id="h340027">
+  <title>
+   Hierarchy of brain rhythms
+  </title>
+  <p>
+   Various constellation of multiple brain oscillations, rather than particular rhythms, are associated with brain state changes, such as stages of sleep and the arousal levels of waking. The individual frequency bands, measured by EEG, form a geometric progression on a linear frequency scale or a linear progression on a natural logarithmic scale. Because the centre frequencies of the neighbouring bands have a noninteger number relationship with each other, they cannot entrain each other for a long period. Instead, the oscillatory interference between them gives rise to a perpetual fluctuation between unstable and transiently stable states. This explains the ever-changing landscape of the EEG.
+  </p>
+  <p>
+   The different rhythms are bound by a hierarchical relationship and expressed by cross-frequency phase modulation between the various oscillations. The phase of a slow oscillation modulates the amplitude of a faster rhythm. In turn, the phase of the faster rhythm modulates the amplitude of an even faster one, and so on. For example, spikes of local neurons are phase-locked to the troughs of ripple oscillation. The probability of ripple occurrence is modulated by the phase of thalamocortical sleep spindles. The spindle events, in turn, are phase-modulated by cortical delta oscillations, which are nested in the brain-wide infra-slow oscillations (~0.1 Hz). Fast oscillations are local, whereas slower oscillations can recruit increasingly larger brain volume. Their interactions allow local computation to be broadcast globally and allow global brain states to control local computation in multiple brain areas.
+  </p>
+ </h1>
+ <h1 id="h340028">
+  <title>
+   Mechanisms of network oscillations
+  </title>
+  <p>
+   Two aspects of neuronal oscillations can be distinguished: the mechanism of rhythm generation and the substrate of current generation. Although individual neurons can oscillate in isolation, network rhythms typically arise from interactions of many irregularly firing neurons within and across brain structures; they are emergent patterns and their frequency is determined by the various neuronal time constants. In the case of gamma rhythm, these correspond to the time constant of the neuronal membrane and fast inhibitory and fast excitatory
+   <xref articleid="62891">
+    receptors
+   </xref>
+   . The phase-entrained neurons give rise to coherent fluctuation of their membrane potentials, and their summed vector in the extracellular space can be detected by
+   <xref articleid="32299">
+    electrodes
+   </xref>
+   and conveniently used to monitor dynamic changes of neuronal populations.
+  </p>
+  <p>
+   Oscillations in the same frequency band can be generated by different mechanisms in different structures (e.g., hippocampal and midline theta oscillations). Oscillations per se do not serve special cognitive or motor functions. Instead, the benefits of a particular oscillation depend on the brain system by which it is supported. For example, the meaning of gamma oscillations in the sensory
+   <xref articleid="471169">
+    olfactory bulb
+   </xref>
+   is different from those in prefrontal circuits serving cognitive functions.
+  </p>
+ </h1>
+ <h1 id="h340029">
+  <title>
+   Preservation across species
+  </title>
+  <p>
+   A remarkable aspect of brain rhythms is their evolutionarily conserved nature. Every known oscillation in one species is also found in virtually all other
+   <xref articleid="105972">
+    mammals
+   </xref>
+   . The frequency bands, the temporal aspects of oscillatory activity (e.g., duration and temporal evolution), and their behavioral correlations are conserved, despite a 17,000-fold increase in brain volume from the small
+   <xref articleid="73283">
+    tree shrew
+   </xref>
+   to large-brain
+   <xref articleid="105982">
+    cetaceans
+   </xref>
+   . The preservation of brain oscillations and their cross-frequency coupling effects across species suggest a fundamental role for temporal coordination of neuronal activity.
+  </p>
+ </h1>
+ <h1 id="h340030">
+  <title>
+   Role in neural syntax
+  </title>
+  <p>
+   Brain oscillations can segregate and group neuronal activity to decompose and package neuronal information for communication between brain areas. Because all neuronal oscillations are based on inhibition, they can parse and concatenate neuronal messages, a prerequisite for any coding mechanism. Gamma waves combine neurons into assemblies, which can be conceived as a neuronal “letter.” The hierarchical nature of cross-frequency-coupled rhythms can serve as a mechanism for combining neuronal letters into neuronal words and words into sentences, so that unbounded combinatorial information can be generated from spike patterns. Neuronal oscillators are pulsatile and can readily entrain one another, facilitating the effectiveness of message exchange between brain areas.
+  </p>
+ </h1>
+ <h1 id="h340031">
+  <title>
+   Neural oscillations in disease
+  </title>
+  <p>
+   Every
+   <xref articleid="109830">
+    mental disorder
+   </xref>
+   is associated with some kind of rhythm alteration. Fast ripples and hypersynchrony are indicative of
+   <xref articleid="32798">
+    epilepsy
+   </xref>
+   , gamma oscillations are diminished in
+   <xref articleid="66141">
+    schizophrenia
+   </xref>
+   ,
+   <xref articleid="29988">
+    depression
+   </xref>
+   is characterized by changes in sleep spindles, and enhanced beta oscillations in motor areas are diagnostic in
+   <xref articleid="471308">
+    Parkinson disease
+   </xref>
+   . However, the relationship between disease and oscillations is complex. Altered coupling between different oscillatory patterns and changes across different structures are more important than increased or decreased amplitude in a particular frequency band.
+  </p>
+  <signature>
+   Gyorgy Buzsaki
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

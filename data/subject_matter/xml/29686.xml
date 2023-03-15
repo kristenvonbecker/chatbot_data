@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="29686" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:32:15" url="/article/decay-constant/29686" version="4">
+ <title>
+  decay constant
+ </title>
+ <p>
+  <e type="bold">
+   decay constant
+  </e>
+  , proportionality between the size of a population of radioactive atoms and the rate at which the population decreases because of radioactive decay. Suppose
+  <e type="italic">
+   N
+  </e>
+  is the size of a population of radioactive atoms at a given time
+  <e type="italic">
+   t
+  </e>
+  , and
+  <e type="italic">
+   d
+  </e>
+  <e type="italic">
+   N
+  </e>
+  is the amount by which the population decreases in time
+  <e type="italic">
+   d
+  </e>
+  <e type="italic">
+   t
+  </e>
+  ; then the rate of change is given by the equation
+  <e type="italic">
+   d
+  </e>
+  <e type="italic">
+   N
+  </e>
+  /
+  <e type="italic">
+   d
+  </e>
+  <e type="italic">
+   t
+  </e>
+  = −λ
+  <e type="italic">
+   N
+  </e>
+  , where λ is the decay constant.
+  <xref articleid="42523">
+   Integration
+  </xref>
+  of this equation yields
+  <e type="italic">
+   N
+  </e>
+  =
+  <e type="italic">
+   N
+  </e>
+  <sub>
+   0
+  </sub>
+  <e type="italic">
+   e
+  </e>
+  <sup>
+   −λ
+   <e type="italic">
+    t
+   </e>
+  </sup>
+  , where
+  <e type="italic">
+   N
+  </e>
+  <sub>
+   0
+  </sub>
+  is the size of an initial population of radioactive atoms at time
+  <e type="italic">
+   t
+  </e>
+  = 0. This shows that the population decays
+  <xref articleid="33449">
+   exponentially
+  </xref>
+  at a rate that depends on the decay constant. The time required for half of the original population of radioactive atoms to decay is called the
+  <xref articleid="38880">
+   half-life
+  </xref>
+  . The relationship between the half-life,
+  <e type="italic">
+   T
+  </e>
+  <sub>
+   1/2
+  </sub>
+  , and the decay constant is given by
+  <e type="italic">
+   T
+  </e>
+  <sub>
+   1/2
+  </sub>
+  = 0.693/λ.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

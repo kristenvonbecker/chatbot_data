@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="108691" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 04:05:15" url="/article/topology/108691" version="11">
+ <title>
+  topology
+ </title>
+ <p>
+  <e type="bold">
+   topology
+  </e>
+  , branch of mathematics, sometimes referred to as “rubber sheet geometry,” in which two objects are considered equivalent if they can be continuously deformed into one another through such motions in space as bending, twisting, stretching, and shrinking while disallowing tearing apart or gluing together parts. The main topics of interest in topology are the properties that remain unchanged by such continuous deformations. Topology, while similar to
+  <xref articleid="126112">
+   geometry
+  </xref>
+  , differs from geometry in that geometrically equivalent objects often share numerically measured quantities, such as lengths or angles, while topologically equivalent objects resemble each other in a more qualitative sense.
+ </p>
+ <p>
+  The area of topology dealing with abstract objects is referred to as general, or point-set, topology. General topology overlaps with another important area of topology called algebraic topology. These areas of specialization form the two major subdisciplines of topology that developed during its relatively modern history.
+ </p>
+ <h1 id="h258070">
+  <title>
+   Basic concepts of general topology
+  </title>
+  <h2 id="h258071">
+   <title>
+    Simply connected
+   </title>
+   <p>
+    <assembly id="a90816" url="/assembly/view/90816">
+     <media mediaid="96258" type="image" url="/58/96258-004-7747AF96.jpg"/>
+     <caption>
+      The torus is not simply connected. While the small loop
+      <e type="italic">
+       c
+      </e>
+      can be shrunk to a point without breaking the loop or the torus, loops
+      <e type="italic">
+       a
+      </e>
+      and
+      <e type="italic">
+       b
+      </e>
+      cannot because they encompass the torus’s central hole.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    In some cases, the objects considered in topology are ordinary objects residing in three- (or lower-) dimensional space. For example, a simple loop in a plane and the boundary edge of a square in a plane are topologically equivalent, as may be observed by imagining the loop as a rubber band that can be stretched to fit tightly around the square. On the other hand, the surface of a sphere is not topologically equivalent to a torus, the surface of a solid doughnut ring. To see this, note that any small loop lying on a fixed sphere may be continuously shrunk, while being kept on the sphere, to any arbitrarily small diameter. An object possessing this property is said to be simply connected, and the property of being simply connected is indeed a property retained under a continuous deformation. However, some loops on a torus cannot be shrunk, as shown in the
+    <assemblyref assemblyid="a90816">
+     figure
+    </assemblyref>
+    .
+   </p>
+   <p>
+    Many results of topology involve objects as simple as those mentioned above. The importance of topology as a branch of mathematics, however, arises from its more general consideration of objects contained in higher-dimensional spaces or even abstract objects that are sets of elements of a very general nature. To facilitate this generalization, the notion of topological equivalence must be clarified.
+   </p>
+  </h2>
+  <h2 id="h258072">
+   <title>
+    Topological equivalence
+   </title>
+   <p>
+    The motions associated with a continuous deformation from one object to another occur in the context of some surrounding space, called the ambient space of the deformation. When a continuous deformation from one object to another can be performed in a particular ambient space, the two objects are said to be isotopic with respect to that space. For example, consider an object that consists of a circle and an isolated point inside the circle. Let a second object consist of a circle and an isolated point outside the circle, but in the same plane as the circle. In a two-dimensional ambient space these two objects cannot be continuously deformed into each other because it would require cutting the circles open to allow the isolated points to pass through. However, if three-dimensional space serves as the ambient space, a continuous deformation can be performed—simply lift the isolated point out of the plane and reinsert it on the other side of the circle to accomplish the task. Thus, these two objects are isotopic with respect to three-dimensional space, but they are not isotopic with respect to two-dimensional space.
+   </p>
+   <p>
+    <assembly id="a92307" url="/assembly/view/92307">
+     <media mediaid="96928" type="image" url="/28/96928-004-128DC38C.jpg"/>
+     <caption>
+      In knot theory, knots are formed by seamlessly merging the ends of a segment to form a closed loop. Knots are then characterized by the number of times and the manner in which the segment crosses itself. After the basic loop, the simplest knot is the trefoil knot, which is the only knot, other than its mirror image, that can be formed with exactly three crossings.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    The notion of objects being isotopic with respect to a larger ambient space provides a definition of extrinsic topological equivalence, in the sense that the space in which the objects are embedded plays a role. The example above motivates some interesting and entertaining extensions. One might imagine a pebble trapped inside a spherical shell. In three-dimensional space the pebble cannot be removed without cutting a hole through the shell, but by adding an abstract fourth dimension it can be removed without any such surgery. Similarly, a closed loop of rope that is tied as a trefoil, or overhand,
+    <xref articleid="45804">
+     knot
+    </xref>
+    (
+    <e type="italic">
+     see
+    </e>
+    <assemblyref assemblyid="a92307">
+     figure
+    </assemblyref>
+    ) in three-dimensional space can be untied in an abstract four-dimensional space.
+   </p>
+  </h2>
+  <h2 id="h258073">
+   <title>
+    Homeomorphism
+   </title>
+   <p>
+    An intrinsic definition of topological equivalence (independent of any larger ambient space) involves a special type of function known as a
+    <xref articleid="40877">
+     homeomorphism
+    </xref>
+    . A function
+    <e type="italic">
+     h
+    </e>
+    is a homeomorphism, and objects
+    <e type="italic">
+     X
+    </e>
+    and
+    <e type="italic">
+     Y
+    </e>
+    are said to be homeomorphic, if and only if the function satisfies the following conditions.
+   </p>
+   <list type="ul">
+    <item>
+     (1)
+     <e type="italic">
+      h
+     </e>
+     is a one-to-one correspondence between the elements of
+     <e type="italic">
+      X
+     </e>
+     and
+     <e type="italic">
+      Y
+     </e>
+     ;
+    </item>
+    <item>
+     (2)
+     <e type="italic">
+      h
+     </e>
+     is continuous: nearby points of
+     <e type="italic">
+      X
+     </e>
+     are mapped to nearby points of
+     <e type="italic">
+      Y
+     </e>
+     and distant points of
+     <e type="italic">
+      X
+     </e>
+     are mapped to distant points of
+     <e type="italic">
+      Y
+     </e>
+     —in other words, “neighbourhoods” are preserved;
+    </item>
+    <item>
+     (3) there exists a continuous inverse function
+     <e type="italic">
+      h
+     </e>
+     <sup>
+      −1
+     </sup>
+     : thus,
+     <e type="italic">
+      h
+     </e>
+     <sup>
+      −1
+     </sup>
+     <e type="italic">
+      h
+     </e>
+     (
+     <e type="italic">
+      x
+     </e>
+     ) =
+     <e type="italic">
+      x
+     </e>
+     for all
+     <e type="italic">
+      x
+     </e>
+     ∊
+     <e type="italic">
+      X
+     </e>
+     and
+     <e type="italic">
+      h
+     </e>
+     <e type="italic">
+      h
+     </e>
+     <sup>
+      −1
+     </sup>
+     (
+     <e type="italic">
+      y
+     </e>
+     ) =
+     <e type="italic">
+      y
+     </e>
+     for all
+     <e type="italic">
+      y
+     </e>
+     ∊
+     <e type="italic">
+      Y
+     </e>
+     —in other words, there exists a function that “undoes” (is the inverse of) the homeomorphism, so that for any
+     <e type="italic">
+      x
+     </e>
+     in
+     <e type="italic">
+      X
+     </e>
+     or any
+     <e type="italic">
+      y
+     </e>
+     in
+     <e type="italic">
+      Y
+     </e>
+     the original value can be restored by combining the two functions in the proper order.
+    </item>
+   </list>
+   <p>
+    The notion of two objects being homeomorphic provides the definition of intrinsic topological equivalence and is the generally accepted meaning of topological equivalence. Two objects that are isotopic in some ambient space must also be homeomorphic. Thus, extrinsic topological equivalence implies intrinsic topological equivalence.
+   </p>
+  </h2>
+  <h2 id="h258074">
+   <title>
+    Topological structure
+   </title>
+   <p>
+    In its most general setting, topology involves objects that are abstract sets of elements. To discuss properties such as
+    <xref articleid="26063">
+     continuity
+    </xref>
+    of functions between such abstract sets, some additional structure must be imposed on them.
+   </p>
+   <h3 id="h258075">
+    <title>
+     Topological space
+    </title>
+    <p>
+     One of the most basic structural concepts in topology is to turn a set
+     <e type="italic">
+      X
+     </e>
+     into a topological space by specifying a collection of subsets
+     <e type="italic">
+      T
+     </e>
+     of
+     <e type="italic">
+      X
+     </e>
+     . Such a collection must satisfy three axioms: (1) the set
+     <e type="italic">
+      X
+     </e>
+     itself and the empty set are members of
+     <e type="italic">
+      T
+     </e>
+     , (2) the intersection of any finite number of sets in
+     <e type="italic">
+      T
+     </e>
+     is in
+     <e type="italic">
+      T
+     </e>
+     , and (3) the union of any collection of sets in
+     <e type="italic">
+      T
+     </e>
+     is in
+     <e type="italic">
+      T
+     </e>
+     . The sets in
+     <e type="italic">
+      T
+     </e>
+     are called open sets and
+     <e type="italic">
+      T
+     </e>
+     is called a topology on
+     <e type="italic">
+      X
+     </e>
+     . For example, the real number line becomes a topological space when its topology is specified as the collection of all possible unions of open intervals—such as (−5, 2), (1/2, π), (0,
+     <sqroot>
+      2
+     </sqroot>
+     ), …. (An analogous process produces a topology on a
+     <xref articleid="52354">
+      metric space
+     </xref>
+     .) Other examples of topologies on sets occur purely in terms of
+     <xref articleid="109532">
+      set theory
+     </xref>
+     . For example, the collection of all subsets of a set
+     <e type="italic">
+      X
+     </e>
+     is called the discrete topology on
+     <e type="italic">
+      X
+     </e>
+     , and the collection consisting only of the empty set and
+     <e type="italic">
+      X
+     </e>
+     itself forms the indiscrete, or trivial, topology on
+     <e type="italic">
+      X
+     </e>
+     . A given topological space gives rise to other related topological spaces. For example, a subset
+     <e type="italic">
+      A
+     </e>
+     of a topological space
+     <e type="italic">
+      X
+     </e>
+     inherits a topology, called the relative topology, from
+     <e type="italic">
+      X
+     </e>
+     when the open sets of
+     <e type="italic">
+      A
+     </e>
+     are taken to be the intersections of
+     <e type="italic">
+      A
+     </e>
+     with open sets of
+     <e type="italic">
+      X
+     </e>
+     . The tremendous variety of topological spaces provides a rich source of examples to motivate general theorems, as well as counterexamples to demonstrate false conjectures. Moreover, the generality of the axioms for a topological space permit mathematicians to view many sorts of mathematical structures, such as collections of functions in
+     <xref articleid="111001">
+      analysis
+     </xref>
+     , as topological spaces and thereby explain associated phenomena in new ways.
+    </p>
+    <p>
+     A topological space may also be defined by an alternative set of axioms involving closed sets, which are complements of open sets. In early consideration of topological ideas, especially for objects in
+     <e type="italic">
+      n
+     </e>
+     -dimensional Euclidean space, closed sets had arisen naturally in the investigation of convergence of infinite sequences (
+     <e type="italic">
+      see
+     </e>
+     <xref articleid="42391">
+      infinite series
+     </xref>
+     ). It is often convenient or useful to assume extra axioms for a topology in order to establish results that hold for a significant class of topological spaces but not for all topological spaces. One such axiom requires that two distinct points should belong to disjoint open sets. A topological space satisfying this axiom has come to be called a
+     <xref articleid="384375">
+      Hausdorff space
+     </xref>
+     .
+    </p>
+   </h3>
+   <h3 id="h258076">
+    <title>
+     Continuity
+    </title>
+    <p>
+     <assembly id="a90822" url="/assembly/view/90822">
+      <media mediaid="96259" type="image" url="/59/96259-004-15E11611.jpg"/>
+      <caption>
+       The topological concept of a continuous function A function
+       <e type="italic">
+        f
+       </e>
+       from a topological space
+       <e type="italic">
+        X
+       </e>
+       to a topological space
+       <e type="italic">
+        Y
+       </e>
+       is continuous at
+       <e type="italic">
+        p
+       </e>
+       ∊
+       <e type="italic">
+        X
+       </e>
+       if, for any neighbourhood
+       <e type="italic">
+        V
+       </e>
+       of
+       <e type="italic">
+        f
+       </e>
+       (
+       <e type="italic">
+        p
+       </e>
+       ), there exists a neighbourhood
+       <e type="italic">
+        U
+       </e>
+       of
+       <e type="italic">
+        p
+       </e>
+       such that
+       <e type="italic">
+        f
+       </e>
+       (
+       <e type="italic">
+        U
+       </e>
+       ) ⊆
+       <e type="italic">
+        V
+       </e>
+       .
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     An important attribute of general topological spaces is the ease of defining continuity of functions. A function
+     <e type="italic">
+      f
+     </e>
+     <xref articleid="50703">
+      mapping
+     </xref>
+     a topological space
+     <e type="italic">
+      X
+     </e>
+     into a topological space
+     <e type="italic">
+      Y
+     </e>
+     is defined to be continuous if, for each open set
+     <e type="italic">
+      V
+     </e>
+     of
+     <e type="italic">
+      Y
+     </e>
+     , the subset of
+     <e type="italic">
+      X
+     </e>
+     consisting of all points
+     <e type="italic">
+      p
+     </e>
+     for which
+     <e type="italic">
+      f
+     </e>
+     (
+     <e type="italic">
+      p
+     </e>
+     ) belongs to
+     <e type="italic">
+      V
+     </e>
+     is an open set of
+     <e type="italic">
+      X
+     </e>
+     . Another version of this definition is easier to visualize, as shown in the
+     <assemblyref assemblyid="a90822">
+      figure
+     </assemblyref>
+     . A function
+     <e type="italic">
+      f
+     </e>
+     from a topological space
+     <e type="italic">
+      X
+     </e>
+     to a topological space
+     <e type="italic">
+      Y
+     </e>
+     is continuous at
+     <e type="italic">
+      p
+     </e>
+     ∊
+     <e type="italic">
+      X
+     </e>
+     if, for any neighbourhood
+     <e type="italic">
+      V
+     </e>
+     of
+     <e type="italic">
+      f
+     </e>
+     (
+     <e type="italic">
+      p
+     </e>
+     ), there exists a neighbourhood
+     <e type="italic">
+      U
+     </e>
+     of
+     <e type="italic">
+      p
+     </e>
+     such that
+     <e type="italic">
+      f
+     </e>
+     (
+     <e type="italic">
+      U
+     </e>
+     ) ⊆
+     <e type="italic">
+      V
+     </e>
+     . These definitions provide important generalizations of the usual notion of continuity studied in analysis and also allow for a straightforward generalization of the notion of homeomorphism to the case of general topological spaces. Thus, for general topological spaces, invariant properties are those preserved by homeomorphisms.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h258077">
+  <title>
+   Algebraic topology
+  </title>
+  <p>
+   The idea of associating algebraic objects or structures with topological spaces arose early in the history of topology. The basic incentive in this regard was to find topological invariants associated with different structures. The simplest example is the Euler characteristic, which is a number associated with a surface. In 1750 the Swiss mathematician
+   <xref articleid="33216">
+    Leonhard Euler
+   </xref>
+   proved the polyhedral formula
+   <e type="italic">
+    V
+   </e>
+   –
+   <e type="italic">
+    E
+   </e>
+   +
+   <e type="italic">
+    F
+   </e>
+   = 2, or Euler characteristic, which relates the numbers
+   <e type="italic">
+    V
+   </e>
+   and
+   <e type="italic">
+    E
+   </e>
+   of vertices and edges, respectively, of a network that divides the surface of a polyhedron (being topologically equivalent to a sphere) into
+   <e type="italic">
+    F
+   </e>
+   simply connected faces. This simple formula motivated many topological results once it was generalized to the analogous Euler-Poincaré characteristic χ =
+   <e type="italic">
+    V
+   </e>
+   –
+   <e type="italic">
+    E
+   </e>
+   +
+   <e type="italic">
+    F
+   </e>
+   = 2 – 2
+   <e type="italic">
+    g
+   </e>
+   for similar networks on the surface of a
+   <e type="italic">
+    g
+   </e>
+   -holed torus. Two homeomorphic surfaces will have the same Euler-Poincaré characteristic, and so two surfaces with different Euler-Poincaré characteristics cannot be topologically equivalent. However, the primary algebraic objects used in algebraic topology are more intricate and include such structures as abstract
+   <xref articleid="38224">
+    groups
+   </xref>
+   ,
+   <xref articleid="384393">
+    vector spaces
+   </xref>
+   , and sequences of groups. Moreover, the language of algebraic topology has been enhanced by the introduction of
+   <xref articleid="109826" refid="h35463">
+    category theory
+   </xref>
+   , in which very general mappings translate topological spaces and continuous functions between them to the associated algebraic objects and their natural mappings, which are called
+   <xref articleid="384388">
+    homomorphisms
+   </xref>
+   .
+  </p>
+  <h2 id="h258078">
+   <title>
+    Fundamental group
+   </title>
+   <p>
+    A very basic algebraic structure called the fundamental group of a topological space was among the algebraic ideas studied by the French mathematician
+    <xref articleid="60534">
+     Henri Poincaré
+    </xref>
+    in the late 19th century. This group essentially consists of curves in the space that are combined by an operation arising in a geometric way. While this group was well understood even in the early days of algebraic topology for
+    <xref articleid="25004">
+     compact
+    </xref>
+    two-dimensional surfaces, some questions related to it still remain unanswered, especially for certain compact
+    <xref articleid="50543">
+     manifolds
+    </xref>
+    , which generalize surfaces to higher dimensions.
+   </p>
+   <p>
+    The most famous of these questions, called the Poincaré conjecture, asks if a compact three-dimensional manifold with trivial fundamental group is necessarily homeomorphic to the three-dimensional sphere (the set of points in four-dimensional space that are equidistant from the origin), as is known to be true for the two-dimensional case. Much research in algebraic topology has been related in some way to this conjecture since it was posed by Poincaré in 1904. One such research effort concerned a conjecture on the geometrization of three-dimensional manifolds that was posed in the 1970s by the American mathematician
+    <xref articleid="100009">
+     William Thurston
+    </xref>
+    . Thurston’s conjecture implies the Poincaré conjecture, and in recognition of his work toward proving these conjectures, the Russian mathematician Grigori Perelman was awarded a
+    <xref articleid="34216">
+     Fields Medal
+    </xref>
+    at the 2006 International Congress of Mathematicians.
+   </p>
+   <p>
+    The fundamental group is the first of what are known as the
+    <xref articleid="40914">
+     homotopy
+    </xref>
+    groups of a topological space. These groups, as well as another class of groups called homology groups, are actually invariant under mappings called homotopy retracts, which include homeomorphisms. Homotopy theory and homology theory are among the many specializations within algebraic topology.
+   </p>
+  </h2>
+  <h2 id="h258079">
+   <title>
+    Differential topology
+   </title>
+   <p>
+    Many tools of algebraic topology are well-suited to the study of manifolds. In the field of differential topology an additional structure involving “smoothness,” in the sense of differentiability (
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="111001" refid="h218271">
+     analysis: Formal definition of the derivative
+    </xref>
+    ), is imposed on manifolds. Since early investigation in topology grew from problems in analysis, many of the first ideas of algebraic topology involved notions of smoothness. Results from differential topology and geometry have found application in modern physics.
+   </p>
+  </h2>
+  <h2 id="h258080">
+   <title>
+    Knot theory
+   </title>
+   <p>
+    <assembly id="a92308" url="/assembly/view/92308">
+     <media mediaid="96929" type="image" url="/29/96929-004-35638E53.jpg"/>
+     <caption>
+      Mathematical knots Knots are characterized by the number of times and the manner in which the strand crosses itself. A basic loop, which has no crossings and forms only one distinct “knot,” is the simplest knot in knot theory. The number of distinct knots greatly increases with the number of crossings; only those with seven or fewer crossings are shown here.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a92308"/>
+    Another branch of algebraic topology that is involved in the study of three-dimensional manifolds is
+    <xref articleid="397159">
+     knot theory
+    </xref>
+    , the study of the ways in which knotted copies of a circle can be embedded in three-dimensional space. Knot theory, which dates back to the late 19th century, gained increased attention in the last two decades of the 20th century when its potential applications in physics, chemistry, and biomedical engineering were recognized.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h258081">
+  <title>
+   History of topology
+  </title>
+  <p>
+   Mathematicians associate the emergence of topology as a distinct field of mathematics with the 1895 publication of
+   <e type="italic">
+    Analysis Situs
+   </e>
+   by the Frenchman
+   <xref articleid="60534">
+    Henri Poincaré
+   </xref>
+   , although many topological ideas had found their way into mathematics during the previous century and a half. The Latin phrase
+   <e type="italic">
+    analysis situs
+   </e>
+   may be translated as “analysis of position” and is similar to the phrase
+   <e type="italic">
+    geometria situs
+   </e>
+   , meaning “geometry of position,” used in 1735 by the Swiss mathematician
+   <xref articleid="33216">
+    Leonhard Euler
+   </xref>
+   to describe his solution to the
+   <xref articleid="384377">
+    Königsberg bridge problem
+   </xref>
+   . Euler’s work on this problem also is cited as the beginning of
+   <xref articleid="37754">
+    graph theory
+   </xref>
+   , the study of networks of vertices connected by edges, which shares many ideas with topology.
+  </p>
+  <p>
+   During the 19th century two distinct movements developed that would ultimately produce the sibling specializations of algebraic topology and general topology. The first was characterized by attempts to understand the topological aspects of surfacelike objects that arise by combining elementary shapes, such as polygons or polyhedra. One early contributor to combinatorial topology, as this subject was eventually called, was the German mathematician Johann Listing, who published
+   <e type="italic">
+    Vorstudien zur Topologie
+   </e>
+   (1847; “Introductory Studies in Topology”), which is often cited as the first print occurrence of the term
+   <e type="italic">
+    topology
+   </e>
+   . In 1851 the German mathematician
+   <xref articleid="63646">
+    Bernhard Riemann
+   </xref>
+   considered surfaces related to
+   <xref articleid="25024">
+    complex number
+   </xref>
+   theory and, hence, utilized combinatorial topology as a tool for analyzing functions. The German geometers
+   <xref articleid="53115">
+    August Möbius
+   </xref>
+   and
+   <xref articleid="45733">
+    Felix Klein
+   </xref>
+   published works on “one-sided” surfaces in 1858 and 1882, respectively. Möbius’s example, now known as the
+   <xref articleid="53117">
+    Möbius strip
+   </xref>
+   , may be constructed by gluing together the ends of a long rectangular strip of paper that has been given a half twist. Surfaces containing subsets homeomorphic to the Möbius strip are called nonorientable surfaces and play an important role in the classification of two-dimensional surfaces. Klein provided an example of a one-sided surface that is closed, that is, without any one-dimensional boundaries. This example, now called the
+   <xref articleid="45736">
+    Klein bottle
+   </xref>
+   , cannot exist in three-dimensional space without intersecting itself and, thus, was of interest to mathematicians who previously had considered surfaces only in three-dimensional space.
+  </p>
+  <p>
+   Work by many mathematicians, including the four mentioned above, preceded the 1895 publication of
+   <e type="italic">
+    Analysis Situs
+   </e>
+   , in which Poincaré established a basic context for using algebraic ideas in combinatorial topology. Combinatorial topology continued to be developed, especially by the German-born American mathematician Max Dehn and the Danish mathematician Poul Heegaard, who jointly presented one of the first classification theorems for two-dimensional surfaces in 1907. Soon thereafter the importance of associating algebraic structures with topological objects was clearly established by, for example, the Dutch mathematician
+   <xref articleid="16672">
+    L.E.J. Brouwer
+   </xref>
+   and his
+   <xref articleid="384373">
+    fixed point theorem
+   </xref>
+   . Although the phrase
+   <e type="italic">
+    algebraic topology
+   </e>
+   was first used somewhat later in 1936 by the Russian-born American mathematician Solomon Lefschetz, research in this major area of topology was well under way much earlier in the 20th century.
+  </p>
+  <p>
+   Simultaneous with the early development of combinatorial topology, 19th-century analysts, such as the French mathematician
+   <xref articleid="21867">
+    Augustin Cauchy
+   </xref>
+   and the German mathematician
+   <xref articleid="76438">
+    Karl Weierstrass
+   </xref>
+   , investigated Fourier series, in which sequences of functions converged to other functions in a sense similar to convergence of sequences of points in space. From another point of view, mathematicians such as the German
+   <xref articleid="20082">
+    Georg Cantor
+   </xref>
+   and the French
+   <xref articleid="80726">
+    Émile Borel
+   </xref>
+   studied the relationship between Fourier series and
+   <xref articleid="109532">
+    set theory
+   </xref>
+   . Two initiatives arose from these efforts: establishing a rigorous mathematical setting for major problems of analysis and providing a general setting for mathematical ideas related to convergence of sequences. In 1899 the German mathematician
+   <xref articleid="40439">
+    David Hilbert
+   </xref>
+   proposed an axiomatic setting for general geometry beyond what the ancient Greeks had considered. In 1905 the French mathematician
+   <xref articleid="35221">
+    Maurice Fréchet
+   </xref>
+   proposed a consistent scheme of axioms for convergence in an abstract set and also axioms for a
+   <xref articleid="52354">
+    metric space
+   </xref>
+   , which is a set supplied with a distance function (or “metric”). In 1910 Hilbert suggested axioms for neighbourhoods of points in an abstract set, thereby generalizing properties of small disks centred at points in the plane. Finally, the German mathematician Felix Hausdorff in his
+   <e type="italic">
+    Grundzüge der Mengenlehre
+   </e>
+   (1914; “Elements of Set Theory”) proposed the foundational axiomatic relationships among the metric, limit, and neighbourhood approaches for general spaces (
+   <e type="italic">
+    see
+   </e>
+   <xref articleid="384375">
+    Hausdorff space
+   </xref>
+   ). Although it was not until 1925 that the Russian mathematician Pavel Alexandrov introduced the modern axioms for a topology on an abstract set, the field of general topology was born in Hausdorff’s work.
+  </p>
+  <p>
+   During the period up to the 1960s, research in the field of general topology flourished and settled many important questions. The notion of
+   <xref articleid="2749">
+    dimension
+   </xref>
+   and its meaning for general topological spaces was satisfactorily addressed with the introduction of an inductive theory of dimension.
+   <xref articleid="25004">
+    Compactness
+   </xref>
+   , a property that generalizes closed and bounded subsets of
+   <e type="italic">
+    n
+   </e>
+   -dimensional Euclidean space, was successfully extended to topological spaces through a definition involving “covers” of a space by collections of open sets, and many problems involving compactness were solved during this period. The metrization problem, which sought a topological description of the spaces for which the topology could be induced by a metric, was settled following considerable work on the notion of paracompactness, a property that generalizes compactness.
+  </p>
+  <p>
+   <assembly id="a85014" url="/assembly/view/85014">
+    <title>
+     Zermelo-Fraenkel axioms
+    </title>
+    <media mediaid="78246" type="image" url="/46/78246-004-10DAA5A8.jpg"/>
+    <caption>
+     Zermelo-Fraenkel axioms.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   Since the 1960s, research in general topology has moved into several new areas that involve intricate mathematical tools, including set theoretic methods. In the late 1960s researchers worked to generalize some of the topological properties of infinite-dimensional
+   <xref articleid="384376">
+    Hilbert space
+   </xref>
+   . These efforts foreshadowed a new area of topology now referred to as infinite-dimensional topology. Another major area of modern interest is set theoretic topology, in which the connection between topological spaces and notions from set theory and logic is studied. Some of the problems in this area involve topological propositions that are independent of and yet consistent with the usually assumed axioms of set theory (
+   <e type="italic">
+    see
+   </e>
+   the
+   <assemblyref assemblyid="a85014">
+    table
+   </assemblyref>
+   ). The resulting arguments, referred to as forcing theory, have yielded provisional truth of some major longstanding topological conjectures.
+  </p>
+  <signature>
+   Stephan C. Carlson
+  </signature>
+ </h1>
+ <h1 id="h69136">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Colin C. Adams
+   </e>
+   ,
+   <e type="italic">
+    The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots
+   </e>
+   (1994, reissued 2001), is an accessible, entertaining, and wonderfully illustrated introduction to topological ideas and the modern methods of knot theory.
+   <e type="smallcap">
+    Stephan C. Carlson
+   </e>
+   ,
+   <e type="italic">
+    Topology of Surfaces, Knots, and Manifolds: A First Undergraduate Course
+   </e>
+   (2001), provides a reader-friendly textbook covering elementary combinatorial topology, graph theory, and knot theory.
+   <e type="smallcap">
+    Jeffrey R. Weeks
+   </e>
+   ,
+   <e type="italic">
+    The Shape of Space
+   </e>
+   , 2nd ed. (2002), is an intriguing mind-stretching dose of two- and three-dimensional geometry and topology that includes applications of topology to cosmology.
+   <e type="smallcap">
+    I.M. James
+   </e>
+   (ed.),
+   <e type="italic">
+    History of Topology
+   </e>
+   (1999), contains 40 informative articles, some written by well-known topologists of the past and others by current experts. The articles span topology from its beginnings to the modern day, highlighting the individuals involved, and include extensive bibliographies.
+   <e type="smallcap">
+    Stephen Willard
+   </e>
+   ,
+   <e type="italic">
+    General Topology
+   </e>
+   (1970, reissued 2004), while dated, is a lively introduction to point-set topology and contains thorough historical notes.
+   <e type="smallcap">
+    William S. Massey
+   </e>
+   ,
+   <e type="italic">
+    Algebraic Topology: An Introduction
+   </e>
+   (1967, reissued with corrections 1989), provides a well-balanced first course in algebraic topology, with good use of geometric motivation.
+   <e type="smallcap">
+    James R. Munkres
+   </e>
+   ,
+   <e type="italic">
+    Topology
+   </e>
+   , 2nd ed. (2000), offers a well-designed two-part topology text covering both point-set and algebraic topology.
+   <e type="smallcap">
+    Lynn A. Steen
+   </e>
+   and
+   <e type="smallcap">
+    J. Arthur Seebach, Jr.
+   </e>
+   ,
+   <e type="italic">
+    Counterexamples in Topology
+   </e>
+   , 2nd ed. (1978, reissued 1995), is the perfect companion to any book on topology, offering nearly 150 categorized examples.
+  </p>
+  <signature>
+   Stephan C. Carlson
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

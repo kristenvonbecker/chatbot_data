@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="59593" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 00:27:37" url="/article/phase/59593" version="3">
+ <title>
+  phase
+ </title>
+ <p>
+  <e type="bold">
+   phase
+  </e>
+  , in mechanics of vibrations, the fraction of a period (i.e., the time required to complete a full cycle) that a point completes after last passing through the reference, or zero, position. For example, the reference position for the hands of a clock is at the numeral 12, and the minute hand has a period of one hour. At a quarter past the hour the minute hand has a phase of one-quarter period, having passed through a phase angle of 90°, or
+  <e type="italic">
+   π
+  </e>
+  /2 radians. In this example the motion of the minute hand is a uniform circular motion, but the concept of phase also applies to simple harmonic motion such as that experienced by waves and vibrating bodies.
+ </p>
+ <p>
+  If the position
+  <e type="italic">
+   y
+  </e>
+  of a point or particle changes according to a simple harmonic law, then it will change in time
+  <e type="italic">
+   t
+  </e>
+  according to the product of the amplitude, or maximum displacement,
+  <e type="italic">
+   r,
+  </e>
+  of the particle and a sine or cosine function composed of its angular speed, symbolized by the Greek letter omega (
+  <e type="italic">
+   ω
+  </e>
+  ), the time
+  <e type="italic">
+   t,
+  </e>
+  and what is called the angle, symbolized by the Greek letter epsilon (
+  <e type="italic">
+   ε
+  </e>
+  ):
+  <e type="italic">
+   y
+  </e>
+  =
+  <e type="italic">
+   r
+  </e>
+  sin (
+  <e type="italic">
+   ωt
+  </e>
+  +
+  <e type="italic">
+   ε
+  </e>
+  ). The angle (
+  <e type="italic">
+   ωt
+  </e>
+  +
+  <e type="italic">
+   ε
+  </e>
+  ) is called the phase angle at time
+  <e type="italic">
+   t,
+  </e>
+  which at zero time is equal to
+  <e type="italic">
+   ε
+  </e>
+  . Phase itself is a fractional value—the ratio of elapsed time
+  <e type="italic">
+   t
+  </e>
+  to the period
+  <e type="italic">
+   T,
+  </e>
+  or
+  <e type="italic">
+   t
+  </e>
+  /
+  <e type="italic">
+   T
+  </e>
+  —and is equal to the ratio of the phase angle to the angle of the complete cycle, 360°, or 2
+  <e type="italic">
+   π
+  </e>
+  radians. Thus, phase for uniform circular or harmonic motion has the value (
+  <e type="italic">
+   ωt
+  </e>
+  +
+  <e type="italic">
+   ε
+  </e>
+  )/2
+  <e type="italic">
+   π
+  </e>
+  . Applying this expression to the example of the moving minute hand cited above,
+  <e type="italic">
+   ε
+  </e>
+  is zero (zero phase angle at zero time), angular speed is 2
+  <e type="italic">
+   π
+  </e>
+  radians per hour, and time
+  <e type="italic">
+   t
+  </e>
+  is
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    4
+   </den>
+  </fraction>
+  hour, giving a phase of
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    4
+   </den>
+  </fraction>
+  .
+ </p>
+ <p>
+  When comparing the phases of two or more periodic motions, such as waves, the motions are said to be in phase when corresponding points reach maximum or minimum displacements simultaneously. If the crests of two waves pass the same point or line at the same time, then they are in phase for that position; however, if the crest of one and the trough of the other pass at the same time, the phase angles differ by 180°, or
+  <e type="italic">
+   π
+  </e>
+  radians, and the waves are said to be out of phase (by 180° in this case).
+ </p>
+ <p>
+  <assembly id="a61682" url="/assembly/view/61682">
+   <media mediaid="3466" type="image" url="/66/3466-004-AC6EA57D.jpg"/>
+   <caption/>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  The measurement of phase difference is of central importance in alternating-current technology. In the
+  <assemblyref assemblyid="a61682">
+   diagram
+  </assemblyref>
+  , two curves represent the voltage (
+  <e type="italic">
+   E
+  </e>
+  ) and the current (
+  <e type="italic">
+   I
+  </e>
+  ) in an alternating-current (AC) circuit with pure inductance. The difference in phase angle between the voltage and the current is 90°, and the current is said to lag one-quarter cycle in phase. This lag may be seen from the diagram. In AC power transmission the terms multiphase and polyphase are applied to currents that are out of phase with one another. In a two-phase system there are two currents with a phase-angle difference of 90°; in a three-phase system the currents differ in phase angle by 120°.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

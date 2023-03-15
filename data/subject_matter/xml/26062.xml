@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="26062" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:19:16" url="/article/continued-fraction/26062" version="4">
+ <title>
+  continued fraction
+ </title>
+ <p>
+  <e type="bold">
+   continued fraction
+  </e>
+  , expression of a number as the sum of an integer and a quotient, the denominator of which is the sum of an integer and a quotient, and so on. In general,
+ </p>
+ <p>
+  <inlinemedia id="i16079" mediaid="16079" url="/79/16079-004-B794BEAC.jpg"/>
+ </p>
+ <p>
+  where
+  <e type="italic">
+   a
+  </e>
+  <sub>
+   0
+  </sub>
+  ,
+  <e type="italic">
+   a
+  </e>
+  <sub>
+   1
+  </sub>
+  ,
+  <e type="italic">
+   a
+  </e>
+  <sub>
+   2
+  </sub>
+  , … and
+  <e type="italic">
+   b
+  </e>
+  <sub>
+   0
+  </sub>
+  ,
+  <e type="italic">
+   b
+  </e>
+  <sub>
+   1
+  </sub>
+  ,
+  <e type="italic">
+   b
+  </e>
+  <sub>
+   2
+  </sub>
+  , … are all integers.
+ </p>
+ <p>
+  In a simple continued fraction (SCF), all the
+  <e type="italic">
+   b
+  </e>
+  <sub>
+   <e type="italic">
+    i
+   </e>
+  </sub>
+  are equal to 1 and all the
+  <e type="italic">
+   a
+  </e>
+  <sub>
+   <e type="italic">
+    i
+   </e>
+  </sub>
+  are positive integers. An SCF is written, in the compact form, [
+  <e type="italic">
+   a
+  </e>
+  <sub>
+   0
+  </sub>
+  ;
+  <e type="italic">
+   a
+  </e>
+  <sub>
+   1
+  </sub>
+  ,
+  <e type="italic">
+   a
+  </e>
+  <sub>
+   2
+  </sub>
+  ,
+  <e type="italic">
+   a
+  </e>
+  <sub>
+   3
+  </sub>
+  , …]. If the number of terms
+  <e type="italic">
+   a
+  </e>
+  <sub>
+   <e type="italic">
+    i
+   </e>
+  </sub>
+  is finite, the SCF is said to terminate, and it represents a rational number; for example,
+  <fraction>
+   <num>
+    802
+   </num>
+   <den>
+    251
+   </den>
+  </fraction>
+  = [3; 5, 8, 6]. If the number of these terms is infinite, the SCF does not terminate, and it represents an irrational number; for example,
+  <sqroot>
+   23
+  </sqroot>
+  = [4;
+  <overbar>
+   1, 3, 1, 8
+  </overbar>
+  ], in which the bar spans a sequence of terms that repeats indefinitely. A nonterminating SCF in which a sequence of terms recurs represents an irrational number that is a root of a quadratic equation with rational coefficients. Nonterminating SCFs that represent numbers such as π or
+  <e type="italic">
+   e
+  </e>
+  can be evaluated after any given number of terms to obtain a rational approximation to the irrational quantity.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

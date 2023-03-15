@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="105917" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 03:20:05" url="/article/artificial-life/105917" version="3">
+ <title>
+  artificial life
+ </title>
+ <p>
+  <e type="bold">
+   artificial life
+  </e>
+  , also called
+  <e type="bold">
+   A-life
+  </e>
+  or
+  <e type="bold">
+   alife
+  </e>
+  , computer simulation of life, often used to study essential properties of living systems (such as
+  <xref articleid="106075">
+   evolution
+  </xref>
+  and adaptive behaviour). Artificial life became a recognized discipline in the 1980s, in part through the impetus of American computer scientist Christopher Langton, who named the field and in 1987 organized the first International Conference on the Synthesis and Simulation of Living Systems, or Artificial Life 1, at the Los Alamos National Laboratory in New Mexico. Langton characterized artificial life as “locating life-as-we-know-it within the larger picture of life-as-it-could-be,” a concept that brought together people interested in computer models of adaptive and self-organizing systems, not just in biology but also in economics, social science, and physical chemistry.
+ </p>
+ <p>
+  Life on Earth is incredibly complex. Millions of species, constructed from a vast array of different chemicals, interact in innumerable ways. It is difficult to extract any general principles of biological design from among life’s messy details or to distinguish what is fundamental to life as a general phenomenon from what is merely an accident of how life evolved on Earth. The evolutionary clock cannot be turned back to see which features always appear, nor are any alien ecosystems available for comparison. A-life seeks to illuminate this problem by simulating lifelike processes within computers. By creating highly simplified artificial “aliens” and comparing their development and behaviour to real biology, it is often possible to discover something of life’s essential character.
+ </p>
+ <h1 id="h285656">
+  <title>
+   From automatons and speculation to computers
+  </title>
+  <p>
+   <assembly id="a4357" url="/assembly/view/4357">
+    <media mediaid="13285" type="image" url="/85/13285-004-716B0EAE.jpg"/>
+    <caption>
+     Android of a child writing by Pierre Jaquet-Droz,
+     <e type="italic">
+      c.
+     </e>
+     1772; in the Musée d’Art et d’Histoire, Neuchâtel, Switz.
+    </caption>
+    <credit>
+     Courtesy of Musée d'Art et d'Histoire, Neuchatel, Switz.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a4357"/>
+   The field of A-life brought coherence to something that has fascinated scientists and artists alike for centuries. Early efforts at artificial life centred on creating lifelike
+   <xref articleid="11374">
+    automatons
+   </xref>
+   , devices that appear to operate on their own after being set in motion. Efforts began in the ancient Greek world with
+   <xref articleid="9301">
+    Archytas of Tarentum
+   </xref>
+   (400–350
+   <e type="smallcap">
+    bce
+   </e>
+   ) and
+   <xref articleid="40189">
+    Heron of Alexandria
+   </xref>
+   (1st century
+   <e type="smallcap">
+    ce
+   </e>
+   ), continued with the Arab inventor
+   <xref articleid="471728">
+    al-Jazari
+   </xref>
+   (
+   <e type="italic">
+    c.
+   </e>
+   1206), and were picked up by numerous individuals in the West, such as the 18th-century French inventor
+   <xref articleid="74908">
+    Jacques de Vaucanson
+   </xref>
+   . Although production of automatons declined in the 19th century, speculation about the nature of life did not, as evinced by English novelist
+   <xref articleid="67263">
+    Mary Wollstonecraft Shelley
+   </xref>
+   ’s
+   <e type="italic">
+    Frankenstein; or, The Modern Prometheus
+   </e>
+   (1818), by the idea of
+   <xref articleid="63935">
+    robots
+   </xref>
+   as envisioned in Czech writer Karel Capek’s play
+   <e type="italic">
+    R.U.R.
+   </e>
+   (1920), and by the feedback-driven artworks of the
+   <xref articleid="28365">
+    cybernetics
+   </xref>
+   movement in the 1950s and beyond.
+  </p>
+  <p>
+   One of the earliest people to study artificial life in its more modern, computational form was British mathematician
+   <xref articleid="73839">
+    Alan M. Turing
+   </xref>
+   , who speculated in the 1940s and ’50s about what today might be called
+   <xref articleid="126495">
+    neural networks
+   </xref>
+   (a topic of interest to artificial life as well as to
+   <xref articleid="9711">
+    artificial intelligence
+   </xref>
+   ) and explored the question of how a featureless, spherical egg can spontaneously give rise to a far more structured
+   <xref articleid="32514">
+    embryo
+   </xref>
+   . About the same time, Hungarian-born American mathematician
+   <xref articleid="75728">
+    John von Neumann
+   </xref>
+   , another pioneer of computing (
+   <e type="italic">
+    see
+   </e>
+   <xref articleid="117728" refid="h216044">
+    computer: ENIAC
+   </xref>
+   ), was exploring the notion of self-replication—systems that can make copies of themselves—in
+   <xref articleid="471999">
+    cellular automatons
+   </xref>
+   .
+  </p>
+ </h1>
+ <h1 id="h285657">
+  <title>
+   Modern A-life
+  </title>
+  <p>
+   Like Mary Shelley, modern A-life researchers inquire into the essential nature of life: What is it? What is necessary for it to exist and propagate? How can complex living organisms arise from the interaction of
+   <xref articleid="36352">
+    genes
+   </xref>
+   and environment? What are the mechanisms by which organisms respond intelligently and adapt to changes in their environment, both during their lifetimes and through the generations?
+  </p>
+  <p>
+   The subject most frequently tackled today is evolution: What are the principles by which life bootstraps itself into ever-increasing complexity, variety, and competence? This is of interest not only to biologists but also to engineers, who wish to emulate evolution’s remarkable ability to create complex yet robust structures that require no ongoing human intervention.
+  </p>
+  <p>
+   A common computational model for such research is the genetic algorithm, in which simple lists of symbols, representing the genes needed to define an artificial creature (or a more obviously useful structure, such as an aircraft wing), are gradually improved using a process analogous to
+   <xref articleid="55046">
+    natural selection
+   </xref>
+   . Genetic algorithms can solve difficult practical problems, but the A-life researcher is usually more interested in learning why it sometimes goes wrong—for example, a population may tend to follow a “dead-end path” that can never mutate into a truly optimal solution—and what needs to be done to prevent this from happening. It is then possible to look at real evolutionary processes to see if these insights from computer science reveal something new about biology.
+  </p>
+  <p>
+   Another common A-life research interest is collective behaviour. Many communal “animals,” including ants and even the individual cells that make up an organism, appear to behave in highly intelligent ways. Simple life-forms show what seems to be intelligent coordinated behaviour, such as the building of a complex nest or the care of young, yet have no teacher or supervisor telling them what to do. A-life researchers, in conjunction with biologists, have been able to show that such behaviour can and does arise “from the bottom up” by combining remarkably straightforward rules. An ant nest emerges from simple processes without requiring an overall blueprint and without any individual ant needing to understand what part it plays in the whole enterprise.
+  </p>
+  <p>
+   The process of abstracting biology into the more general topic of complex adaptive systems meshes with a number of other developments in science and technology, such as
+   <xref articleid="105912">
+    complexity
+   </xref>
+   and
+   <xref articleid="22470">
+    chaos theory
+   </xref>
+   , as well as the networking theories inspired by the
+   <xref articleid="1458">
+    Internet
+   </xref>
+   . Collectively, these developing fields may form part of a general paradigm shift in both scientific and popular thought away from the linear, comparatively predictable world of, say, planetary orbits, and the top-down hierarchies of traditional forms of organization (businesses, governments, or artifacts) toward a more bottom-up, self-organizing, and emergent way of looking at the world.
+  </p>
+  <p>
+   A-life also raises ontological questions. One of its fundamental tenets is that life is a process, a spatiotemporal pattern, not the substrate on which that process takes place. The human body, for instance, maintains its appearance and properties even though the material of which it is made is constantly being replaced. This “process view” explains how life can be emulated in a computer, since the same processes can occur in other virtual substrates made from abstract symbols and rules for their interaction. So far, most experiments have involved simplified imitations of life, and many researchers have been content to look no further. But among the philosophical issues raised by A-life research is the question of whether such processes, when they occur in the silicon memory of a computer instead of the carbon chemistry of an animal, might actually be alive.
+  </p>
+  <signature>
+   Steve Grand
+  </signature>
+ </h1>
+ <h1 id="h285658">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Steven Levy
+   </e>
+   ,
+   <e type="italic">
+    Artificial Life: The Quest for a New Creation
+   </e>
+   (1992), was one of the first general overviews of the field.
+   <e type="smallcap">
+    Margaret A. Boden
+   </e>
+   (ed.),
+   <e type="italic">
+    The Philosophy of Artificial Life
+   </e>
+   (1996), describes some key techniques and principles in the words of practitioners.
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

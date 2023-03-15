@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="39893" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 22:35:17" url="/article/heliostat/39893" version="3">
+ <title>
+  heliostat
+ </title>
+ <p>
+  <e type="bold">
+   heliostat
+  </e>
+  , instrument used in solar telescopes to orient and focus sunlight along a fixed direction. A typical heliostat consists of a flat plane mirror and a curved parabolic mirror. The plane mirror is mounted along an axis parallel (i.e., equatorial) to Earth and rotated slowly by a motor to reflect light from the Sun. The parabolic mirror focuses the reflected rays into the telescope along a fixed direction while the Sun traverses the sky. Therefore, as the telescope’s field of view rotates, different celestial objects move quickly into view.
+ </p>
+ <p>
+  Portable heliostats are useful in studying solar eclipses because they eliminate the need to mount telescopes equatorially. Larger models, installed at permanent positions around the world, have also been employed to track both the Sun and the stars.
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="24635">
+   coelostat
+  </xref>
+  ;
+  <xref articleid="67640">
+   siderostat
+  </xref>
+  .
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

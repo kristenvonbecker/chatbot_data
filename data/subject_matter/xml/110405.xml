@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="110405" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 04:41:17" url="/article/chromatography/110405" version="15">
+ <title>
+  chromatography
+ </title>
+ <p>
+  <e type="bold">
+   chromatography
+  </e>
+  , technique for separating the components, or solutes, of a mixture on the basis of the relative amounts of each solute distributed between a moving fluid stream, called the mobile phase, and a contiguous stationary phase. The mobile phase may be either a
+  <xref articleid="110301">
+   liquid
+  </xref>
+  or a
+  <xref articleid="110302">
+   gas
+  </xref>
+  , while the stationary phase is either a
+  <xref articleid="68592">
+   solid
+  </xref>
+  or a liquid.
+ </p>
+ <p>
+  <assembly id="a245184" url="/assembly/view/245184">
+   <title>
+    Learn about the technique of chromatography
+   </title>
+   <media mediaid="214812" thumburl="/12/214812-049-7DAAD5D0.jpg" type="video" url=""/>
+   <caption>
+    Overview of the chemical technique of chromatography.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a245184"/>
+  Kinetic molecular motion continuously exchanges solute
+  <xref articleid="53247">
+   molecules
+  </xref>
+  between the two phases. If, for a particular solute, the distribution favours the moving fluid, the molecules will spend most of their time migrating with the stream and will be transported away from other species whose molecules are retained longer by the stationary phase. For a given species, the ratio of the times spent in the moving and stationary regions is equal to the ratio of its concentrations in these regions, known as the partition coefficient. (The term
+  <e type="italic">
+   adsorption isotherm
+  </e>
+  is often used when a solid phase is involved.) A mixture of solutes is introduced into the system in a confined region or narrow zone (the origin), whereupon the different species are transported at different rates in the direction of fluid flow. The driving force for solute migration is the moving fluid, and the resistive force is the solute affinity for the stationary phase; the combination of these forces, as manipulated by the analyst, produces the separation.
+ </p>
+ <p>
+  Chromatography is one of several
+  <xref articleid="110404">
+   separation
+  </xref>
+  techniques defined as differential migration from a narrow initial zone.
+  <xref articleid="32340">
+   Electrophoresis
+  </xref>
+  is another member of this group. In this case, the driving force is an
+  <xref articleid="32278">
+   electric field
+  </xref>
+  , which exerts different forces on solutes of different
+  <xref articleid="42688">
+   ionic
+  </xref>
+  charge. The resistive force is the
+  <xref articleid="75513">
+   viscosity
+  </xref>
+  of the nonflowing
+  <xref articleid="473351">
+   solvent
+  </xref>
+  . The combination of these forces yields ion mobilities peculiar to each solute.
+ </p>
+ <p>
+  Chromatography has numerous applications in
+  <xref articleid="110576">
+   biological
+  </xref>
+  and
+  <xref articleid="108655">
+   chemical
+  </xref>
+  fields. It is widely used in biochemical research for the separation and identification of
+  <xref articleid="110804">
+   chemical compounds
+  </xref>
+  of biological origin. In the
+  <xref articleid="110438">
+   petroleum
+  </xref>
+  industry the technique is employed to analyze complex mixtures of
+  <xref articleid="41720">
+   hydrocarbons
+  </xref>
+  .
+ </p>
+ <p>
+  As a separation method, chromatography has a number of advantages over older techniques—crystallization, solvent extraction, and
+  <xref articleid="30650">
+   distillation
+  </xref>
+  , for example. It is capable of separating all the components of a multicomponent chemical mixture without requiring an extensive foreknowledge of the identity, number, or relative amounts of the substances present. It is versatile in that it can deal with molecular species ranging in size from
+  <xref articleid="106000">
+   viruses
+  </xref>
+  composed of millions of
+  <xref articleid="110411">
+   atoms
+  </xref>
+  to the smallest of all molecules—
+  <xref articleid="110604">
+   hydrogen
+  </xref>
+  —which contains only two; furthermore, it can be used with large or small amounts of material. Some forms of chromatography can detect substances present at the attogram (10
+  <sup>
+   −18
+  </sup>
+  gram) level, thus making the method a superb trace analytical technique extensively used in the detection of chlorinated
+  <xref articleid="59408">
+   pesticides
+  </xref>
+  in biological materials and the environment, in forensic science, and in the detection of both therapeutic and abused drugs. Its resolving power is unequaled among separation methods.
+ </p>
+ <h1 id="h80505">
+  <title>
+   History
+  </title>
+  <h2 id="h80506">
+   <title>
+    Early developments
+   </title>
+   <p>
+    The first purely pragmatic application of chromatography was that of the early
+    <xref articleid="108379">
+     dye
+    </xref>
+    chemists, who tested their dye mixtures by dipping strings or pieces of cloth or filter paper into a dye vat. The dye solution migrated up the inserted material by capillary action, and the dye components produced bands of different colour. In the 19th century, several German chemists carried out deliberate experiments to explore the phenomenon. They observed, for example, the development of concentric coloured rings by dropping solutions of inorganic compounds onto the centre of a piece of filter paper; a treatise was published in 1861 by Friedrich Goppelsröder describing the method and giving it the name “capillary analysis.”
+   </p>
+   <p>
+    The discovery of chromatography, however, is generally attributed to the Russian botanist
+    <xref articleid="73644">
+     Mikhail S. Tsvet
+    </xref>
+    (also spelled Tswett), because in 1901 he recognized the physicochemical basis of the separation and applied it in a rational and organized way to the separation of
+    <xref articleid="108554">
+     plant
+    </xref>
+    pigments, particularly the
+    <xref articleid="20446">
+     carotenoids
+    </xref>
+    and the
+    <xref articleid="82254">
+     chlorophylls
+    </xref>
+    . Tsvet described a technique that is used today in essentially the same form. He packed a vertical
+    <xref articleid="36988">
+     glass
+    </xref>
+    column with an adsorptive material, such as
+    <xref articleid="5953">
+     alumina
+    </xref>
+    ,
+    <xref articleid="67757">
+     silica
+    </xref>
+    , or powdered
+    <xref articleid="111132">
+     sugar
+    </xref>
+    , added a solution of the plant pigments to the top of the column, and washed the pigments through the column with an organic solvent. The pigments separated into a series of discrete coloured bands on the column, divided by regions entirely free of pigments. Because Tsvet worked with coloured substances, he called the method chromatography (from Greek words meaning colour writing). Tsvet’s development of chromatographic procedures was generally unknown to chemists in the Western world because he published either in German botanical journals or in Russian works. In 1931 chromatography emerged from its relative obscurity when the German chemist Richard Kuhn and his student, the French chemist Edgar Lederer, reported the use of this method in the resolution of a number of biologically important materials. In 1941 two British chemists,
+    <xref articleid="51156">
+     Archer J.P. Martin
+    </xref>
+    and
+    <xref articleid="70753">
+     Richard L.M. Synge
+    </xref>
+    , began a study of the
+    <xref articleid="7182">
+     amino acid
+    </xref>
+    composition of
+    <xref articleid="77439">
+     wool
+    </xref>
+    . Their initial efforts, in which they used a technique called liquid-liquid countercurrent distribution, failed to give them adequate separation; they conceived, therefore, of an alternative method, in which one liquid was firmly bound to a finely granulated solid packed in a glass tube and a second liquid, immiscible with the first, was percolated through it. Silica gel served as the granular solid, and Martin and Synge pictured the gel as composed of water tightly bonded to the crystals of silica; the mobile phase was
+    <xref articleid="82250">
+     chloroform
+    </xref>
+    . Their work with this technique was remarkably successful. Although their method was mechanically identical with Tsvet’s approach, it was innovative in that it involved the concept of a stationary liquid (water) supported on an inert solid (silica), with the result that the solute molecules partitioned between the stationary liquid and a separate mobile liquid phase (chloroform). The technique came to be called partition chromatography. At that time, Martin and Synge suggested that the moving phase could well be a gas. It is a historical oddity that this idea was overlooked for nearly a decade, possibly because of the war, until Martin in collaboration with the British chemist Anthony T. James initiated studies of gas-liquid partition chromatography. In 1952 Martin and Synge were awarded the Nobel Prize for their work, perhaps not so much for the newness of the technique but for a model that suggested other systems, a mathematical theory, and an applicability to amino acid and
+    <xref articleid="59174">
+     peptide
+    </xref>
+    separations with far-reaching impact on biochemical studies.
+   </p>
+   <p>
+    The initial partition-chromatography system presented difficulties because of lack of reproducibility in the properties of the silica gel and lack of uniformity in the packing of columns. Partly for this reason, Martin and his coworkers worked out a new procedure in which the stationary medium was a sheet of filter paper. The paper was thought of as water bonded to cellulose, providing another partition method. The technique gave the desired reproducibility, and beginning in the 1940s paper chromatography found wide application in the analysis of biologically important compounds, such as amino acids,
+    <xref articleid="69640">
+     steroids
+    </xref>
+    ,
+    <xref articleid="110799">
+     carbohydrates
+    </xref>
+    , and
+    <xref articleid="79196">
+     bile
+    </xref>
+    pigments. In this field it replaced, to a large extent, the column technique initiated by Tsvet.
+   </p>
+   <p>
+    Motivated probably by the same drawbacks to column chromatography, two Soviet pharmacists, Nikolay A. Izmaylov and Maria S. Shrayber, distributed the support material as a thin film on a glass plate. The plate and support material could then be manipulated in a fashion similar to that of paper chromatography. The results of the Soviet studies were reported in 1938, but the potential of the method was not widely realized until 1956, when the German chemist Egon Stahl began intensive research on its application. This system became known as thin-layer chromatography (TLC).
+   </p>
+   <p>
+    Still another chromatographic technique, gas chromatography, was first carried out in Austria in 1944 by the chemist Erika Cremer, who used a solid stationary phase. The first extensive exploitation of the method was made by Martin and James in 1952, when they reported the elution gas chromatography of organic acids and
+    <xref articleid="7181">
+     amines
+    </xref>
+    . In this work, small particles of support material were coated with a nonvolatile liquid and packed into a heated glass tube. Mixtures injected into the inlet of the tube and driven through by compressed gas appeared in well-separated zones. This development was immediately recognized by
+    <xref articleid="110438">
+     petroleum
+    </xref>
+    chemists as a simple and rapid method of analysis of the complex hydrocarbon mixtures encountered in petroleum products.
+    <xref articleid="16530">
+     British Petroleum
+    </xref>
+    and
+    <xref articleid="64279">
+     Shell Oil Company
+    </xref>
+    laboratories immediately began basic research in their own laboratories. Instrument companies, sensing an extensive market, also made major contributions.
+   </p>
+  </h2>
+  <h2 id="h80507">
+   <title>
+    Subsequent developments
+   </title>
+   <p>
+    In 1957, while doing a theoretical study of gas chromatographic columns, Marcel J.E. Golay, as a consultant for the Perkin-Elmer Corporation, concluded that a very long column (90 to 180 metres [300 to 600 feet]) of narrow-diameter tubing (internal diameter of 0.25 millimetres [0.0098 inch]) with its wall coated with a thin film of liquid would yield superior separations. Fortunately, at about this same time, detectors with extremely low limits of detection became available, which could sense the small sample sizes required by these new columns. These capillary, or Golay, columns, now called open-tubular columns and characterized by their open design and an internal diameter of less than one millimetre, had an explosive impact on chromatographic methodology. It is now possible to separate hundreds of components of a mixture in a single chromatographic experiment.
+   </p>
+   <p>
+    Molecular sieves are porous substances that trap a mobile-phase gas. Large
+    <xref articleid="53247">
+     molecules
+    </xref>
+    cannot enter the pores, and so they flow largely unimpeded through the system. Small molecules are interrupted in their migration as they meander in and out of the pores by diffusion. Molecules of intermediate sizes show different rates of migration, depending on their size. In 1959 Per Flodin and Jerker Porath in Sweden developed
+    <xref articleid="22028">
+     cellulose
+    </xref>
+    polymeric materials that acted as molecular sieves for substances dispersed in liquids. This extended the molecular weight range of chromatography to polypeptides,
+    <xref articleid="110575">
+     proteins
+    </xref>
+    , and high-molecular-weight
+    <xref articleid="60700">
+     polymers
+    </xref>
+    . The generic term for such separations is size-exclusion chromatography.
+   </p>
+   <p>
+    In 1964 the American chemist J. Calvin Giddings, referring to a theory largely worked out for gas chromatography, summarized the necessary conditions that would give liquid chromatography the resolving power achievable in gas chromatography—that is, very small particles with a thin film of stationary phase in small-diameter columns. The development of the technique now termed high-performance liquid chromatography (HPLC) depended on (1) the development of pumps that would deliver a steady stream of liquid at high pressure to the column to force the liquid through the narrow interstitial channels of the packed columns at reasonable rates, and (2) detectors that would sense the small sample sizes mandated. At first, only adsorptive solids were used as the stationary phase, because liquid coatings were swept away by the mobile phase. Previously gas chromatography had employed chemical bonding of an organic stationary phase to solids to reduce adsorptive activity; István Halász of Germany exploited these reactions to cause a separation based on liquid solution effects in the bonded molecular layers. These and similar reactions were employed to give firmly attached molecules that acted as a thin film of solvent in liquid systems. These bonded phases gave high-performance liquid chromatography such scope and versatility that the technique is now the dominant method for separations.
+   </p>
+   <p>
+    Ion exchangers are natural substances—for example, certain
+    <xref articleid="109692">
+     clays
+    </xref>
+    —or deliberately synthesized resins containing positive
+    <xref articleid="42688">
+     ions
+    </xref>
+    (cation exchangers) or negative ions (anion exchangers) that exchange with those ions in solution having a greater affinity for the exchanger. This selective affinity of the solid is called ion, or ion-exchange, chromatography. The first such chromatographic separations were reported in 1938 by T.I. Taylor and Harold C. Urey, who used a
+    <xref articleid="78326">
+     zeolite
+    </xref>
+    . The method received much attention in 1942 during the
+    <xref articleid="50535">
+     Manhattan Project
+    </xref>
+    as a means of separating the
+    <xref articleid="110615">
+     rare earths
+    </xref>
+    and
+    <xref articleid="110617">
+     transuranium elements
+    </xref>
+    ,
+    <xref articleid="110414">
+     fission
+    </xref>
+    products of
+    <xref articleid="74425">
+     uranium
+    </xref>
+    , and other elements produced by thermonuclear explosions. Ion-exchange chromatography can be applied to organic ion separations and has particular importance for the separation of amino and
+    <xref articleid="110801">
+     nucleic acids
+    </xref>
+    .
+   </p>
+   <p>
+    As early as 1879, the solubility of solids in gases at high pressure had been observed. In 1958 the British scientist
+    <xref articleid="600447">
+     James Lovelock
+    </xref>
+    suggested that gases above their critical temperature (i.e., the temperature above which the appearance of a liquid phase cannot be produced by increasing the pressure) might be used at high pressure as mobile phases. A substance in this state is termed a supercritical fluid. At very high pressure, the density of the fluid can be 90 percent or more of the liquid density. The German chemist Ernst Klesper and his colleagues working at Johns Hopkins University were the first to report separation of the
+    <xref articleid="60888">
+     porphyrins
+    </xref>
+    with dense gases in 1962.
+    <xref articleid="20249">
+     Carbon dioxide
+    </xref>
+    at 400 atmospheres is a typical supercritical-fluid mobile phase. (One atmosphere equals 760 millimetres, or 29.92 inches, of
+    <xref articleid="52102">
+     mercury
+    </xref>
+    ; standard sea-level pressure is one atmosphere.) In an extreme case, Giddings and his group used gases at pressures of up to 2,000 atmospheres to chromatograph
+    <xref articleid="20446">
+     carotenoids
+    </xref>
+    , sugars,
+    <xref articleid="56458">
+     nucleosides
+    </xref>
+    , amino acids, and polymers. Supercritical-fluid chromatography bridges a gap between gas chromatography and liquid chromatography. In gas chromatography, concentration of solutes in the gas phase is achieved with increased temperature. Supercritical-fluid chromatography achieves this result with increased pressure so that thermally unstable compounds may be analyzed. Additional advantages include increased speed and resolution.
+   </p>
+   <p>
+    A technique exhibiting great selectivity, affinity chromatography, was first described by Pedro Cuatrecasas and his coworkers in 1968. In these separations, a biomolecule such as an
+    <xref articleid="32739">
+     enzyme
+    </xref>
+    binds to a substrate attached to the solid phase while other components are eluted. The retained molecule can subsequently be eluted by changing the chemical conditions of the separation.
+   </p>
+   <p>
+    Another separation technique is based on the fact that the velocity of a fluid through a tube is not uniform. In the region immediately adjacent to the wall the fluid is nearly stationary. At distances farther from the wall, the velocity increases, reaching a maximum value at the centre of the channel. In 1966 Giddings conceived the idea that a field,
+    <xref articleid="32278">
+     electrical
+    </xref>
+    or
+    <xref articleid="106265">
+     gravitational
+    </xref>
+    , might be used to selectively attract particles to the wall, where they will move slowly through the system. Diffusion away from the high concentrations at the wall into faster inner streams would enhance migration. The net effect would yield differential migration. A thermal gradient between two walls has also been used. This technique is called field-flow fractionation. It has been termed one-phase chromatography because there is no stationary phase. Its main applications are to polymers and particulate matter. The method has been used to separate biological
+    <xref articleid="106125">
+     cells
+    </xref>
+    , subcellular particles,
+    <xref articleid="106000">
+     viruses
+    </xref>
+    , liposomes, protein aggregates, fly ash,
+    <xref articleid="24793">
+     colloids
+    </xref>
+    , and
+    <xref articleid="59993">
+     pigments
+    </xref>
+    .
+   </p>
+   <p>
+    The battery of chromatographic techniques, along with field-flow fractionation, provides separations from the level of
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    molecules to particulates, encompassing a 10
+    <sup>
+     15
+    </sup>
+    -fold mass range. An analogous mass range is one of grains of sand to boulders.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h80508">
+  <title>
+   Methods
+  </title>
+  <p>
+   Chromatographic methods are classified according to the following criteria: (1) geometry of the system, (2) mode of operation, (3) retention mechanism, and (4) phases involved.
+  </p>
+  <h2 id="h80509">
+   <title>
+    Geometry
+   </title>
+   <h3 id="h80510">
+    <title>
+     Column chromatography
+    </title>
+    <p>
+     The mobile and stationary phases of chromatographic systems are arranged in such a way that migration is along a coordinate much longer than its width. There are two basic geometries: columnar and planar. In column chromatography the stationary phase is contained in a tube called the column. A packed column contains particles that either constitute or support the stationary phase, and the mobile phase flows through the channels of the interstitial spaces. Theory has shown that performance is enhanced if very small particles are used, which simultaneously ensures the additional desired feature that these channels be very narrow. The effect of mobile-phase mass transfer on band (peak) broadening will then be reduced (
+     <e type="italic">
+      see below
+     </e>
+     discussions of mass transfer and peak broadening in
+     <xref articleid="110405" refid="h80525">
+      Efficiency and resolution
+     </xref>
+     and
+     <xref articleid="110405" refid="h80528">
+      Theoretical considerations
+     </xref>
+     ). Constructing the stationary phase as a thin layer or film will reduce band broadening due to stationary-phase mass transfer. Porous particles, either as adsorbents or as supports for
+     <xref articleid="110301">
+      liquids
+     </xref>
+     , may have deep pores, with some extending through the entire particle. This contributes to band broadening. Use of microparticles alleviates this because the channels are shortened. An alternate packing method is to coat impermeable macroparticles, such as
+     <xref articleid="36988">
+      glass
+     </xref>
+     beads, with a thin layer of microparticles. These are the porous-layer, superficially porous, or pellicular packings. As the particle size is reduced, however, the diameter of the column must also be decreased. As a result, the amount of stationary phase is less and the sample size must be reduced. Detection methods must therefore respond to very small amounts of solutes, and large pressures are required to force the mobile phase through the column. The extreme cases are known as microbore columns; an example is a column 35 centimetres (14 inches) long of 320-micrometre (1 micrometre = 10
+     <sup>
+      −4
+     </sup>
+     centimetre) inside diameter packed with particles of 2-micrometre diameter.
+    </p>
+    <p>
+     A second column geometry involves coating the stationary phase onto the inside wall of a small-diameter stainless
+     <xref articleid="110660">
+      steel
+     </xref>
+     or fused
+     <xref articleid="67757">
+      silica
+     </xref>
+     tube. These are open tubular columns. The coating may be a liquid or a solid. For gaseous mobile phases, the superior performance is due to the length and the thin film of the stationary phase. The columns are highly permeable to gases and do not require excessive driving pressures. Columns in which a liquid mobile phase is used are much shorter and require large driving pressures.
+    </p>
+   </h3>
+   <h3 id="h80511">
+    <title>
+     Planar chromatography
+    </title>
+    <p>
+     In this geometry the stationary phase is configured as a thin two-dimensional sheet. In paper chromatography a sheet or a narrow strip of paper serves as the stationary phase. In thin-layer chromatography a thin film of a stationary phase of solid particles bound together for mechanical strength with a binder, such as
+     <xref articleid="18627">
+      calcium
+     </xref>
+     sulfate, is coated on a glass plate or plastic sheet. One edge of the sheet is dipped in a reservoir of the mobile phase, which, driven by capillary action, moves through the bed perpendicular to the surface of the mobile phase. This capillary motion is rapid compared to solute diffusion in the mobile phase at right angles to the migration path, and so the solute is confined to a narrow path.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h80512">
+   <title>
+    Mode of operation
+   </title>
+   <h3 id="h80513">
+    <title>
+     Development chromatography
+    </title>
+    <p>
+     In terms of operation, in development chromatography the mobile phase flow is stopped before solutes reach the end of the bed of stationary phase. The mobile phase is called the developer, and the movement of the liquid along the bed is referred to as development. With glass columns of diameter in the centimetre range and large samples (cubic-centimetre range), the bed is extruded from the column, the solute zones carved out, and solutes recovered by solvent extraction. Although this is easily done with coloured solutes, colourless solutes require some manner of detection, such as
+     <xref articleid="74181">
+      ultraviolet light
+     </xref>
+     absorption or
+     <xref articleid="472350">
+      fluorescence
+     </xref>
+     or the streaking of the column with a reagent that reacts with the solute to form a coloured product.
+    </p>
+    <p>
+     Planar systems involve placing the samples (in the 10
+     <sup>
+      −3
+     </sup>
+     cubic-centimetre range) as spots at an edge of the stationary bed parallel to the developer. Solute zones are located by light irradiation or by spraying the bed with a colour-producing reagent. Migration is reported in terms of the
+     <e type="italic">
+      R
+     </e>
+     <sub>
+      <e type="italic">
+       f
+      </e>
+     </sub>
+     value, the distance moved by the centre of the zone relative to the distance moved by the mobile phase front, where both are measured from the origin. Use of the solvent front as a reference point is frequently inconvenient. A standard solute is often included, and the migration of the solutes relative to the standard reported as the relative
+     <e type="italic">
+      R
+     </e>
+     value. If larger samples are required for subsequent manipulation, either simultaneous separations are performed or the sample is applied as a streak across the stationary phase. The final spot or band is carved or cut from the chromatogram. In one type of planar chromatography, the mixture is placed at one corner of a square bed, plate, or sheet and developed, the mobile phase is evaporated, and the plate is rotated 90° so that the spots become the origins for a second development with a different developer. This is termed two-dimensional planar chromatography.
+    </p>
+   </h3>
+   <h3 id="h80514">
+    <title>
+     Elution chromatography
+    </title>
+    <p>
+     <assembly id="a3123" url="/assembly/view/3123">
+      <title>
+       elution chromatography
+      </title>
+      <media mediaid="5690" type="image" url="/90/5690-004-DD3C9A4C.jpg"/>
+      <caption>
+       Peak shape, peak width, and plate height parameters in elution chromatography.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a3123"/>
+     This method, employed with columns, involves solute migration through the entire system and solute detection as it emerges from the column. The detector continuously monitors the amount of solute in the emerging mobile-phase stream—the eluate—and transduces the signal, most often to a voltage, which is registered as a peak on a strip-chart recorder. The recorder trace where solute is absent is the baseline. A plot of the solute concentration along the migration coordinate of development chromatograms yields a similar solute peak. Collectively the plots are the concentration profiles; ideally they are Gaussian (
+     <xref articleid="56135">
+      normal
+     </xref>
+     , bell, or error curves). The signal intensity may also be digitized and stored in a computer memory for recall later. Solute behaviour is reported in terms of the retention time, which is the time required for a solute to migrate, or elute, from the column, measured from the instant the sample is injected into the mobile phase stream to the point at which the peak maximum occurs. The adjusted retention time is measured from the appearance of an unretained solute at the outlet. The dependence of these times on flow rate is removed by reporting the retention volumes, which are calculated as the retention times multiplied by the volumetric flow rate of the mobile phase.
+    </p>
+    <p>
+     The spots on the developed planar bed, the series of peaks on the paper produced by the recorder, or the printout of the computer data are various forms of chromatograms.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h80515">
+   <title>
+    Retention mechanism
+   </title>
+   <p>
+    Classification in terms of the retention mechanism is approximate, because the retention actually is a mixture of mechanisms. If the partition coefficient is constant as the amount of solute is varied, the separation is referred to as linear chromatography. This condition is highly desirable because solute zones approach symmetrical Gaussian distributions. If the system is nonlinear, solute zones are asymmetrical. In the most common asymmetrical case, a zone “tails” into a following solute zone to contaminate it.
+   </p>
+   <p>
+    In adsorption chromatography solute
+    <xref articleid="53247">
+     molecules
+    </xref>
+    bond directly to the surface of the stationary phase. Stationary phases may contain a variety of adsorption sites differing in the tenacity with which they bind the molecules and in their relative abundance. The net effect determines the adsorbent activity. Partition chromatography utilizes a support material coated with a stationary-phase liquid. Examples are (1) water held by
+    <xref articleid="22028">
+     cellulose
+    </xref>
+    ,
+    <xref articleid="58327">
+     paper
+    </xref>
+    , or silica, or (2) a thin film coated or bonded to a solid. The solid support ideally is inactive in the retention of solutes, but it actually is not; retention is mostly due to solute solution in the stationary liquid phase.
+   </p>
+   <p>
+    As mentioned above, the stationary phase in size-exclusion chromatography consists of molecules of the mobile phase trapped in the porous structure of a solid. Solute molecules are retained when they diffuse into and out of these pores. The time they remain in the pores is a function of their size, which determines the depth of penetration. There is a certain molecular size that represents the “just excluded” case. Molecules of this size and larger are excluded from the pores and are not separated. They appear first in elution chromatography. At the other end of the size spectrum, there is a certain size for which all molecules of this magnitude and smaller penetrate all the pores. These molecules also are not separated; they elute last. Gel-filtration chromatography refers to size-exclusion methods employing water as the mobile phase; gel-permeation chromatography makes use of an organic mobile phase.
+   </p>
+   <p>
+    Very specific intermolecular interactions, “lock and key,” are known in biochemistry. Examples include enzyme-
+    <xref articleid="110575">
+     protein
+    </xref>
+    ,
+    <xref articleid="7823">
+     antigen
+    </xref>
+    -
+    <xref articleid="7812">
+     antibody
+    </xref>
+    , and
+    <xref articleid="110803">
+     hormone
+    </xref>
+    -
+    <xref articleid="62891">
+     receptor
+    </xref>
+    binding. A structural feature of an enzyme will attach to a specific structural feature of a protein. Affinity chromatography exploits this feature by binding a
+    <xref articleid="48212">
+     ligand
+    </xref>
+    with the desired interactive capability to a support such as a gel used in gel-filtration chromatography. The ligand retards a solute with the compatible structural feature and passes all other solutes in the mixture. The solute is then eluted by a mobile-phase change such as incorporating a competing solute, changing the acidity, or changing the ionic strength of the eluent.
+   </p>
+   <p>
+    There is no stationary phase in field-flow fractionation; the different-velocity streams or layers of the mobile phase with the solute distributed between them produce the separation.
+   </p>
+  </h2>
+  <h2 id="h80516">
+   <title>
+    Phases
+   </title>
+   <h3 id="h80517">
+    <title>
+     Gas chromatography
+    </title>
+    <p>
+     Classification by phases gives the physical state of the mobile phase followed by the state of the stationary phase. Gas chromatography employing a gaseous fluid as the mobile phase, called the carrier gas, is subdivided into gas-solid chromatography and gas-liquid chromatography. The carrier gases used, such as
+     <xref articleid="1713">
+      helium
+     </xref>
+     ,
+     <xref articleid="110604">
+      hydrogen
+     </xref>
+     , and
+     <xref articleid="55947">
+      nitrogen
+     </xref>
+     , have very weak intermolecular interactions with solutes. Molecular sieves are used in gas size-exclusion chromatography applied to gases of low molecular weight. Adsorption on solids tends to give nonlinear systems. Gas-liquid chromatography employs a liquid stationary phase where solution forces provide retention. At ordinary pressures the solutes in the
+     <xref articleid="110302">
+      gas
+     </xref>
+     phase behave as a mixture of ideal gases. All interactions responsible for selective retention occur in the stationary phase. Thus, a wide variety of liquid stationary phases have been employed; hundreds have been reported.
+    </p>
+    <p>
+     A basic rule in organic chemistry is that “like dissolves like.” Thus, the polar solvent
+     <xref articleid="76210">
+      water
+     </xref>
+     dissolves the polar solute ethanol but not the
+     <xref articleid="41720">
+      hydrocarbon
+     </xref>
+     octane. The nonpolar solvent
+     <xref articleid="78683">
+      benzene
+     </xref>
+     will dissolve octane but not ethanol. Polar stationary phases will retain polar solutes and pass those that are nonpolar. The order of emergence is reversed with nonpolar stationary phases. Lutz Rohrschneider of Germany initiated studies that led to a standard set of solute species, solvent probes, which helped order stationary phases in terms of polarity and intermolecular interactions present.
+    </p>
+    <p>
+     In gas chromatography the retention of solutes is most often referred to the behaviour of the straight-chain hydrocarbons; i.e., relative retention volumes are used. On a logarithmic scale this becomes the retention index (RI) introduced by the Swiss chemist Ervin sz. Kováts. The RI values of the solvent probes serve as the basis for the classification method introduced by Rohrschneider. Similar schemes have been suggested for liquid systems.
+    </p>
+    <p>
+     Gas-phase intermolecular interactions occur and are exploited in supercritical-fluid chromatography. Examples of interactive gases used at high pressure are
+     <xref articleid="20249">
+      carbon dioxide
+     </xref>
+     ,
+     <xref articleid="55956">
+      nitrous oxide
+     </xref>
+     ,
+     <xref articleid="7200">
+      ammonia
+     </xref>
+     , hydrocarbons,
+     <xref articleid="70248">
+      sulfur
+     </xref>
+     hexafluoride, and
+     <xref articleid="110612">
+      halogenated
+     </xref>
+     <xref articleid="52328">
+      methanes
+     </xref>
+     .
+    </p>
+    <p>
+     Mixtures of solutes that have a wide boiling point or polarity range or have a large variety of functional groups pose a particular problem. At low column-operating temperatures, the solutes with high volatility (or, more precisely, solutes with a large numerical value for the liquid solution activity coefficient) appear early on the chromatogram as well-resolved peaks. Solutes with low volatility progress slowly through the column, with ample opportunity for the peak broadening. These solutes appear as very low, broad peaks that may be overlooked. An increase in column temperature increases the concentration of the solutes in the gas phase. The solutes of high volatility, however, now spending most of their time in the mobile-gas phase, migrate rapidly through the column to appear as unresolved peaks. The succeeding solutes are adequately resolved. This is termed the general elution problem. A simple solution is to increase the column temperature during the course of the separation. The well-resolved, highly volatile solutes are removed from the column at the lower temperatures before the low-volatility solutes leave the origin at the column inlet. This technique is termed temperature-programmed gas chromatography.
+    </p>
+   </h3>
+   <h3 id="h80518">
+    <title>
+     Liquid chromatography
+    </title>
+    <p>
+     This form of chromatography employs a
+     <xref articleid="110301">
+      liquid
+     </xref>
+     mobile phase. Liquid-solid chromatography utilizes a solid stationary phase, and the major mechanism of retention is adsorption. Popular adsorbents are
+     <xref articleid="67757">
+      silica
+     </xref>
+     and
+     <xref articleid="5953">
+      alumina
+     </xref>
+     , which both retain polar compounds. If a polar mobile phase is used, the solutes are rapidly swept from the bed. Thus, the preferred mobile phase is a nonpolar or slightly polar solvent. The American chemist Lloyd R. Snyder arranged solvents in an eluotropic strength scale based on the chromatographic behaviour of selected solutes on silica. Normal-phase chromatography involves a polar stationary phase and a less polar mobile phase.
+    </p>
+    <p>
+     Liquid-liquid chromatography employs liquid mobile and stationary phases. High-performance liquid chromatography uses small particles with
+     <xref articleid="53247">
+      molecules
+     </xref>
+     bonded to their surface to give a thin film that has liquidlike properties. A number of bonding agents are available. A nonpolar molecule can be bonded to the solid and a polar mobile phase used. This method is termed reverse-phase liquid chromatography. The partition coefficient depends on the identity of both mobile and stationary phases. In this case, however, the number of stationary phases is limited, while there is a large number of liquids and combinations of them used for the mobile phase. Mobile phases of constant composition are called isocratic.
+    </p>
+    <p>
+     The general elution problem encountered in liquid chromatography involves samples that contain both weakly and strongly retained solvents. This is handled in a manner analogous to the temperature programming used in gas chromatography. In a process termed gradient elution, the concentration of well-retained solutes in the mobile phase is increased by constantly changing the composition, and hence the polarity, of the mobile phase during the separation.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h80519">
+  <title>
+   Sample recovery
+  </title>
+  <p>
+   Sample recovery from development chromatograms has been described—that is, detection followed by carving zones from an extruded column or carving or cutting zones from the planar stationary-phase bed. In elution chromatography successive samples of the effluent are collected in tubes held in a mechanically driven rotating tray called a fraction collector. Analogous arrangements exist to condense and trap solutes from effluent gas streams. Large samples can be used to prepare relatively large amounts of pure solutes for further manipulation; this is the realm of preparative-scale chromatography.
+  </p>
+ </h1>
+ <h1 id="h80520">
+  <title>
+   Methods of detection
+  </title>
+  <p>
+   High-resolution
+   <xref articleid="36136">
+    gas
+   </xref>
+   or
+   <xref articleid="110301">
+    liquid
+   </xref>
+   elution chromatography of multicomponent samples deals with small amounts of solutes emerging from the column where they are to be detected. Refinement of chromatographic methods is inseparable from refinement of detectors that accurately sense solutes in the presence of the mobile phase. Detectors may be classified as general detectors in which all solutes are sensed regardless of their identity, or as specific detectors, which sense a limited number of solutes—for example, those containing
+   <xref articleid="110612">
+    halogens
+   </xref>
+   or
+   <xref articleid="55947">
+    nitrogen
+   </xref>
+   . Detectors may be nondestructive, whereby sensing does not alter the nature of the solutes, as in the case of
+   <xref articleid="110443">
+    light
+   </xref>
+   absorption, so they may be collected for further use. Destructive detectors, on the other hand, destroy the solutes. Detectors include not only the component that senses the solutes but also those that perform the associated transduction,
+   <xref articleid="106023">
+    electronic
+   </xref>
+   amplification, and final readout.
+  </p>
+  <h2 id="h80521">
+   <title>
+    Detector characteristics
+   </title>
+   <p>
+    There are three essential detector characteristics. The first is the lower limit of detection, the smallest amount of solute measured in terms of
+    <xref articleid="53235">
+     moles
+    </xref>
+    (mass-sensitive detectors) or moles per litre (concentration-sensitive detectors) that can be detected; this entails distinguishing a signal from the random noise inherent in all electronic systems. A second is the sensitivity, which is the change in signal intensity per unit change in the amount of solute. The third is the linear range—i.e., the range of solute amount where the signal intensity is directly proportional to the amount of solute; doubling the amount doubles the signal intensity. Solutes may respond differently to a detector. For example, if equal amounts of
+    <xref articleid="52328">
+     methane
+    </xref>
+    (containing one
+    <xref articleid="20244">
+     carbon
+    </xref>
+    ) and
+    <xref articleid="33118">
+     ethane
+    </xref>
+    (two carbons) enter a flame-ionization detector, the peak for ethane will be twice the size of that for methane. The detector acts as a “carbon counter.” A response factor may be determined for each solute to accommodate this. The perfect detector ideally has “zero volume”; that is, only an infinitesimal amount of solute enters the sensing region, produces a signal, and exits before the next infinitesimal amount enters the detector chamber. In the worst case, a solute enters the detector chamber and remains there producing a signal while the next portion of the solute enters behind it. This invites the possibility of a solute still being present and producing a signal as a succeeding solute of a different kind enters the sensing region, thereby undoing the separation achieved by the column. In addition, the readout system should have an instantaneous response time. Mechanical systems such as strip-chart recorders have an inertia, so that if an electrical pulse enters the circuit a small but finite time is required for the recorder pen to reach its final position. The dead-band is that region of the signal in which the system does not respond to small changes in the amount of solute; there is “slack” in the system. Such imprecision becomes insignificant, however, if sample injection is not instantaneous. The injected sample must not reside in a prechamber that slowly feeds it onto the column. The chromatogram should report everything that happens, from sample injection to the final data presentation. The most challenging detection problem is a sample containing a wide variety of solutes that covers a large range of concentrations and produces very closely spaced, narrow peaks.
+   </p>
+  </h2>
+  <h2 id="h80522">
+   <title>
+    Gas chromatographic detectors
+   </title>
+   <p>
+    Gas chromatographic detectors sense the solute vapours in the mobile phase as they emerge from the column. Thermal-conductivity detectors compare the heat-conducting ability of the exit gas stream to that of a reference stream of pure carrier gas. To accomplish this, the gas streams are passed over heated filaments in thermal-conductivity cells. Measured changes in filament resistance of the cells reflect temperature changes caused by increments in thermal conductivity. This resistance change is monitored and registered continuously on a recorder. An alternate type of detector is the flame-ionization detector, in which the gas stream is mixed with hydrogen and burned. Positive ions and
+    <xref articleid="32316">
+     electrons
+    </xref>
+    are produced in the flame when organic substances are present. The
+    <xref articleid="42688">
+     ions
+    </xref>
+    are collected at electrodes and produce a small, measurable current. The flame-ionization detector is highly sensitive to hydrocarbons, but it will not detect carrier gases, such as nitrogen, or highly oxidized materials, such as
+    <xref articleid="20249">
+     carbon dioxide
+    </xref>
+    ,
+    <xref articleid="20252">
+     carbon monoxide
+    </xref>
+    ,
+    <xref articleid="473414">
+     sulfur dioxide
+    </xref>
+    , and water. In another device, the electron-capture detector, a stream of electrons from a
+    <xref articleid="110413">
+     radioactive
+    </xref>
+    source is produced in a potential field. Materials in the gas stream containing atoms of certain types capture electrons from the stream and measurably reduce the current. The most important of the capturing atoms are the halogens—
+    <xref articleid="34677">
+     fluorine
+    </xref>
+    ,
+    <xref articleid="82243">
+     chlorine
+    </xref>
+    ,
+    <xref articleid="16596">
+     bromine
+    </xref>
+    , and
+    <xref articleid="42681">
+     iodine
+    </xref>
+    . This type of detector, therefore, is particularly useful with chlorinated
+    <xref articleid="59408">
+     pesticides
+    </xref>
+    . Certain elements will emit light of distinctive wavelength when excited in a flame. The flame photometric detector measures the intensity of light with a photometric circuit. Solute species containing halogens,
+    <xref articleid="70248">
+     sulfur
+    </xref>
+    , or
+    <xref articleid="59785">
+     phosphorus
+    </xref>
+    can be burned to produce ionic species containing these elements and the ions sensed by electrochemical means.
+   </p>
+  </h2>
+  <h2 id="h80523">
+   <title>
+    Liquid chromatographic detectors
+   </title>
+   <p>
+    Liquid chromatographic detectors suitable for high-performance columns require clever technology. If the solutes contain structural features that absorb light at certain wavelengths, the decrease in the intensity of the transmitted beam of light compared to the intensity of the incident beam can be used to monitor the effluent stream. In order for the solute to be detected, it must contain light-absorbing groups, the excitation source must contain light of a wavelength peculiar to this group, and the photoelectric sensor must respond to this wavelength. Also, the mobile phase must be transparent at this wavelength. The scope of solute species detected can be enlarged by reacting a light-insensitive solute with a reagent that contains a light-sensitive group and passing the product through the detector. Solutes may contain groups that absorb light at one wavelength and reemit light of a different wavelength. The fluorescence detector responds to these substances. Light bends or
+    <xref articleid="63033">
+     refracts
+    </xref>
+    on passing through an interface between air and a liquid or liquid solution. The degree of refraction depends on the nature of the liquid or the composition of the solution. The refractive index detector compares the refraction of the pure mobile phase with that of the column effluent.
+   </p>
+  </h2>
+  <h2 id="h80524">
+   <title>
+    Chromatography–mass spectrometry methods
+   </title>
+   <p>
+    The
+    <xref articleid="110406">
+     mass spectrometer
+    </xref>
+    is an analytical instrument that bombards molecules with a stream of electrons in a chamber at extremely low pressure to produce a stream of charged fragments that differ in mass. The population of the fragments and the ratio of mass to charge is characteristic of the target molecule. Each fragment is deflected differently in a magnetic field to produce a pattern, the mass spectrum, which can be used to identify the target. The system is a very specific identifying detector when coupled with chromatography. The spectrum can be stored in a computer and compared with entries in a mass spectrum library. For some time the problem with gaseous effluents had been to match the column effluent at one atmosphere pressure to the high-vacuum inlet of the mass spectrometer, while the problem with liquid chromatography had been the large amount of mobile phase entering the ionization chamber of the spectrometer. These incompatibility problems have finally been overcome, and the mass spectrometer is now used in both gas and liquid chromatography. The technology of mass spectrometry is as great, if not greater, than that of chromatography.
+   </p>
+   <p>
+    If mass spectral data are lacking, solutes in a sample are identified by comparing their behaviour with that of known compounds. In gas chromatography this is best done by determining the retention index of the unknown solute and comparing it with the tabulated data for known compounds on the stationary phase used. Methods exist for estimating the effect of temperature and temperature programming on the retention index.
+   </p>
+   <p>
+    The area enclosed by a peak, suitably adjusted for the detector response factor for that solute, is proportional to the amount of solute producing the peak. The area is frequently approximated from the peak width and height. Modern electronic integrators will, when properly instructed, ignore electronic noise, compensate for baseline drift, start integration when a peak appears, integrate, and stop the process when the peak exits the detector. Integration, a process of summation, is accomplished by opening and closing a narrow electronic window, registering the signal intensity, repeating the process, and then summing the stored signals to produce a number proportional to the area. The integrator will also sense the peak maximum. The chromatogram is a printed tape with the retention times and peak areas. Programs exist that will incorporate the response factor and calculate the relative peak areas, which give the percentage composition of the sample. Stored mass spectral data may be manipulated to produce the same data. Peak heights are used as quantitative measures for narrow peaks for which the area is difficult to determine accurately.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h80525">
+  <title>
+   Efficiency and resolution
+  </title>
+  <p>
+   There are two features of the concentration profile important in determining the efficiency of a column and its subsequent ability to separate or resolve solute zones. Peak maximum, the first, refers to the location of the maximum concentration of a peak. To achieve satisfactory resolution, the maxima of two adjacent peaks must be disengaged. Such disengagement depends on the identity of the solute and the selectivity of the stationary and mobile phases.
+  </p>
+  <p>
+   The second feature important to efficiency and resolution is the width of the peak. Peaks in which the maxima are widely disengaged still may be so broad that the solutes are incompletely resolved. For this reason, peak width is of major concern in chromatography.
+  </p>
+  <h2 id="h80526">
+   <title>
+    Column efficiency
+   </title>
+   <p>
+    <assemblyref assemblyid="a3123"/>
+    The efficiency of a column is reported as the number of theoretical plates (plate number),
+    <e type="italic">
+     N
+    </e>
+    , a concept Martin borrowed from his experience with fractional distillation:
+    <formula>
+     <inlinemedia id="i17205" mediaid="17205" url="/05/17205-004-2D5890F8.jpg"/>
+    </formula>
+    where
+    <e type="italic">
+     t
+    </e>
+    <sub>
+     <e type="italic">
+      r
+     </e>
+    </sub>
+    is the retention time measured from the instant of injection and
+    <e type="italic">
+     w
+    </e>
+    is the peak width obtained by drawing tangents to the sides of the Gaussian curve at the inflection points and extrapolating the tangents to intercept the baseline. The distance between the intercepts is the peak width. If the peak is a Gaussian distribution, statistical methods show that its width may be determined from the
+    <xref articleid="69393">
+     standard deviation
+    </xref>
+    , σ, by the formula
+    <e type="italic">
+     w
+    </e>
+    = 4σ. Poor chromatograms are those with early peaks (small
+    <e type="italic">
+     t
+    </e>
+    <sub>
+     <e type="italic">
+      r
+     </e>
+    </sub>
+    ) that are broad (large
+    <e type="italic">
+     w
+    </e>
+    ), hence giving small
+    <e type="italic">
+     N
+    </e>
+    values, while excellent chromatograms are those with late-appearing peaks (large
+    <e type="italic">
+     t
+    </e>
+    <sub>
+     <e type="italic">
+      r
+     </e>
+    </sub>
+    ) that are still very narrow (small
+    <e type="italic">
+     w
+    </e>
+    ), thereby producing a large
+    <e type="italic">
+     N
+    </e>
+    . The number of theoretical plates is a measure of the “goodness” of the column. Plate numbers may range from 100 to 10
+    <sup>
+     6
+    </sup>
+    . The peak width determined from the chromatogram includes contributions from the sample-injection technique, extraneous tubing, and the detector. These are extra column contributions to peak broadening. Although very important, they are not part of the chromatographic process and will be ignored here. The plate number depends on the length of the column. The extreme value of 10
+    <sup>
+     6
+    </sup>
+    plates was obtained with an open tubular gas chromatographic column 1.6 kilometres (1 mile) long. A more appropriate parameter for measuring efficiency is the height equivalent to a theoretical plate (or plate height), HETP (or
+    <e type="italic">
+     h
+    </e>
+    ), which is
+    <e type="italic">
+     L
+    </e>
+    /
+    <e type="italic">
+     N
+    </e>
+    ,
+    <e type="italic">
+     L
+    </e>
+    being the length of the column. Efficient columns have small
+    <e type="italic">
+     h
+    </e>
+    values (
+    <e type="italic">
+     see below
+    </e>
+    <xref articleid="110405" refid="h80530">
+     Plate height
+    </xref>
+    ).
+   </p>
+  </h2>
+  <h2 id="h80527">
+   <title>
+    Resolution
+   </title>
+   <p>
+    In general, resolution is the ability to separate two signals. In terms of chromatography, this is the ability to separate two peaks. Resolution,
+    <e type="italic">
+     R
+    </e>
+    , is given by
+    <formula>
+     <inlinemedia id="i17204" mediaid="17204" url="/04/17204-004-3CEEF994.jpg"/>
+    </formula>
+    where
+    <e type="italic">
+     t
+    </e>
+    <sub>
+     <e type="italic">
+      r
+     </e>
+     1
+    </sub>
+    and
+    <e type="italic">
+     t
+    </e>
+    <sub>
+     <e type="italic">
+      r
+     </e>
+     2
+    </sub>
+    and
+    <e type="italic">
+     w
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     w
+    </e>
+    <sub>
+     2
+    </sub>
+    are the times and widths, respectively, of the two immediately adjacent peaks. If the peaks are sufficiently close, which is the pertinent problem,
+    <e type="italic">
+     w
+    </e>
+    is nearly the same for both peaks and resolution may be expressed as
+   </p>
+   <p>
+    <inlinemedia id="i17203" mediaid="17203" url="/03/17203-004-C86E4F63.jpg"/>
+   </p>
+   <p>
+    If the distance between the peaks is 4σ, then
+    <e type="italic">
+     R
+    </e>
+    is 1 and 2.5 percent of the area of the first peak overlaps 2.5 percent of the area of the second peak. A resolution of unity is minimal for quantitative analysis using peak areas.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h80528">
+  <title>
+   Theoretical considerations
+  </title>
+  <h2 id="h80529">
+   <title>
+    Retention
+   </title>
+   <p>
+    The rates of migration of substances in chromatographic procedures depend on the relative affinity of the substances for the stationary and the mobile phases. Those solutes attracted more strongly to the stationary phase are held back relative to those solutes attracted more strongly to the mobile phase. The forces of attraction are usually selective—that is to say, stronger for one solute than another. At least one of the two phases must exert a selective effect, and very often both phases are selective, as in liquid and supercritical-fluid chromatography. In gas chromatography, the mobile phase is ordinarily a gas that exerts essentially no attractive force on the solutes at all. In this case, the mobile phase is entirely nonselective.
+   </p>
+   <p>
+    The forces attracting solutes to the two phases are the normal forces existing between
+    <xref articleid="53247">
+     molecules
+    </xref>
+    —intermolecular forces. There are five major classes of these forces: (1) the universal, but weak, interaction between all electrons in neighbouring atoms and molecules, called dispersion forces, (2) the induction effect, by which polar molecules (those having an asymmetrical distribution of electrons) bring about a charge asymmetry in other molecules, (3) an orientation effect, caused by the mutual attraction of polar molecules resulting from alignment of dipoles (positive charges separated from negative charges), (4)
+    <xref articleid="472561">
+     hydrogen bonding
+    </xref>
+    between dipolar molecules bearing electron-pair-accepting hydrogen atoms, and (5) acid-base interactions in the Lewis acid-base sense—i.e., the affinity of electron-accepting species (Lewis acids) to electron donors (Lewis bases). The interplay of these forces and temperature are reflected in the partition coefficient and determine the order on polarity and eluotropic strength scales. In the special case of
+    <xref articleid="42688">
+     ions
+    </xref>
+    , a strong electrostatic force exists in addition to the other forces; this electrostatic force attracts each ion to ions of opposite charge. This is an important element of ion-exchange chromatography.
+   </p>
+  </h2>
+  <h2 id="h80530">
+   <title>
+    Plate height
+   </title>
+   <p>
+    In chromatography, peak width increases in proportion to the square root of the distance that the peak has migrated. Mathematically, this is equivalent to saying that the square of the
+    <xref articleid="69393">
+     standard deviation
+    </xref>
+    is equal to a constant times the distance traveled. The height equivalent to a theoretical plate, as discussed above, is defined as the proportionality constant relating the standard deviation and the distance traveled. Thus, the defining equation of the height equivalent to a theoretical plate is as follows: HETP = σ
+    <sup>
+     2
+    </sup>
+    /
+    <e type="italic">
+     L
+    </e>
+    , in which σ is the standard deviation and
+    <e type="italic">
+     L
+    </e>
+    the distance traveled. The use of the plate height is superior to the use of peak width in evaluating various chromatographic systems, because it is constant for the chromatographic run, and it is nearly constant from solute to solute.
+   </p>
+   <p>
+    In elution chromatography, in which the peak develops on a time scale, an equivalent form of the above equation is HETP =
+    <e type="italic">
+     L
+    </e>
+    σ
+    <sub>
+     <e type="italic">
+      t
+     </e>
+    </sub>
+    <sup>
+     2
+    </sup>
+    /
+    <e type="italic">
+     t
+    </e>
+    <sub>
+     <e type="italic">
+      r
+     </e>
+    </sub>
+    <sup>
+     2
+    </sup>
+    , in which
+    <e type="italic">
+     L
+    </e>
+    is now the column length,
+    <e type="italic">
+     t
+    </e>
+    <sub>
+     <e type="italic">
+      r
+     </e>
+    </sub>
+    the time of retention of the peak by the column, and σ
+    <sub>
+     <e type="italic">
+      t
+     </e>
+    </sub>
+    the standard deviation of the peak measured in units of time; this form is another expression of the equation HETP =
+    <e type="italic">
+     L
+    </e>
+    /
+    <e type="italic">
+     N
+    </e>
+    given above (
+    <e type="italic">
+     see above
+    </e>
+    <xref articleid="110405" refid="h80526">
+     Column efficiency
+    </xref>
+    ).
+   </p>
+   <p>
+    During a chromatographic separation, three basic processes contribute to plate height (HETP): (1) Molecular diffusion, in which solute molecules diffuse outward from the centre of the zone. This effect is inversely proportional to the average linear flow velocity,
+    <e type="italic">
+     u
+    </e>
+    , because rapid flow reduces the time for diffusion. Mathematically, the contribution to plate height of this factor is expressed as
+    <e type="italic">
+     B
+    </e>
+    /
+    <e type="italic">
+     u
+    </e>
+    , in which
+    <e type="italic">
+     B
+    </e>
+    is a constant. (2) Eddy diffusion, in which solute is carried at unequal rates through the tortuous pathways of the granular bed of the packing particles. The contribution to plate height is a constant factor,
+    <e type="italic">
+     A
+    </e>
+    , independent of velocity. (3) Nonequilibrium or mass transfer, in which the slowness of diffusion in and out of the stationary and mobile phases causes fluctuations in the times of residence of the solute in the two phases and a consequent peak broadening. The effect is proportional to velocity and is expressed as
+    <e type="italic">
+     C
+    </e>
+    <sub>
+     <e type="italic">
+      s
+     </e>
+    </sub>
+    <e type="italic">
+     u
+    </e>
+    and
+    <e type="italic">
+     C
+    </e>
+    <sub>
+     <e type="italic">
+      m
+     </e>
+    </sub>
+    <e type="italic">
+     u
+    </e>
+    , in which
+    <e type="italic">
+     C
+    </e>
+    <sub>
+     <e type="italic">
+      s
+     </e>
+    </sub>
+    and
+    <e type="italic">
+     C
+    </e>
+    <sub>
+     <e type="italic">
+      m
+     </e>
+    </sub>
+    are constants relating to the stationary and mobile phases, respectively.
+   </p>
+   <p>
+    A function of chromatographic theory has been twofold: (1) to evaluate
+    <e type="italic">
+     B
+    </e>
+    ,
+    <e type="italic">
+     A
+    </e>
+    ,
+    <e type="italic">
+     C
+    </e>
+    <sub>
+     <e type="italic">
+      m
+     </e>
+    </sub>
+    , and
+    <e type="italic">
+     C
+    </e>
+    <sub>
+     <e type="italic">
+      s
+     </e>
+    </sub>
+    , in terms of underlying diffusivity and flow processes, and (2) to assemble them into a total plate height equation.
+   </p>
+   <p>
+    The general equation used is HETP =
+    <e type="italic">
+     A
+    </e>
+    +
+    <e type="italic">
+     B
+    </e>
+    /
+    <e type="italic">
+     u
+    </e>
+    +
+    <e type="italic">
+     C
+    </e>
+    <sub>
+     <e type="italic">
+      s
+     </e>
+    </sub>
+    <e type="italic">
+     u
+    </e>
+    . This is inadequate at high velocities, however, and is replaced by the equation
+    <formula>
+     <inlinemedia id="i17202" mediaid="17202" url="/02/17202-004-1BE01E3D.jpg"/>
+    </formula>
+    Knowledge of the component terms in such equations allows one to optimize chromatographic operating conditions.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h80531">
+  <title>
+   Applications
+  </title>
+  <p>
+   Chromatographic methods will separate ionic species, inorganic or organic, and molecular species ranging in size from the lightest and smallest,
+   <xref articleid="1713">
+    helium
+   </xref>
+   and
+   <xref articleid="110604">
+    hydrogen
+   </xref>
+   , to particulate matter such as single
+   <xref articleid="106125">
+    cells
+   </xref>
+   . No single configuration will accomplish this, however. Little preknowledge of the constituents of a mixture is required. At its best, chromatography will separate several hundreds of components of unknown identity and unknown concentrations, leaving the components unchanged. Amounts in the parts per billion range can be detected with some detectors. The solutes can range from polar to nonpolar—i.e., water-soluble to hydrocarbon-soluble.
+  </p>
+  <p>
+   Substances of low critical temperature or low molecular weight, such as the gases at laboratory conditions showing dispersive or London intermolecular forces only, are separated with molecular sieves or gas-solid techniques. Gas-liquid chromatography is applicable to species with high critical temperatures and normal boiling points as high as 400 °C. Substances that are solids at normal laboratory conditions with molecular weights below 1,000 are best separated with liquid-solid or liquid-liquid systems. Lower members of the molecular weight scale range are amenable to supercritical-fluid separations. Size-exclusion methods are involved at molecular weights above 1,000. Field-flow fractionation extends the size range to colloids and microscopic particles.
+  </p>
+  <p>
+   Separations are fast, ranging from analysis times of a few minutes to several hours. The prechromatographic world would have considered a time of several hours to separate multicomponent mixtures to be miraculously fast. Now several hours is considered excessive, and there is much emphasis on increasing speed.
+  </p>
+  <signature>
+   J. Calvin Giddings
+  </signature>
+  <signature>
+   Roy A. Keller
+  </signature>
+ </h1>
+ <h1 id="h80532">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   Chromatography is introduced in
+   <e type="smallcap">
+    Colin F. Poole
+   </e>
+   and
+   <e type="smallcap">
+    Sheila A. Schuette
+   </e>
+   ,
+   <e type="italic">
+    Contemporary Practice of Chromatography
+   </e>
+   (1984); and
+   <e type="smallcap">
+    E. Heftmann
+   </e>
+   (ed.),
+   <e type="italic">
+    Chromatography: Fundamentals and Applications of Chromatographic and Electrophoretic Methods,
+   </e>
+   2 vol. (1983). The history of chromatography is chronicled in
+   <e type="smallcap">
+    L.S. Ettre
+   </e>
+   , “Evolution of Liquid Chromatography,” in
+   <e type="smallcap">
+    Csaba Horváth
+   </e>
+   (ed.),
+   <e type="italic">
+    High-Performance Liquid Chromatography
+   </e>
+   , vol. 1 (1980), pp. 1–74; and
+   <e type="smallcap">
+    L.S. Ettre
+   </e>
+   and
+   <e type="smallcap">
+    A. Zlatkis
+   </e>
+   (eds.),
+   <e type="italic">
+    75 Years of Chromatography: A Historical Dialogue
+   </e>
+   (1979). Discussions of specific methods of chromatography include
+   <e type="smallcap">
+    Robert L. Grob
+   </e>
+   and
+   <e type="smallcap">
+    Eugene F. Barry
+   </e>
+   (eds.),
+   <e type="italic">
+    Modern Practice of Gas Chromatography,
+   </e>
+   4th ed. (2004);
+   <e type="smallcap">
+    Milton L. Lee
+   </e>
+   ,
+   <e type="smallcap">
+    Frank J. Yang
+   </e>
+   , and
+   <e type="smallcap">
+    Keith D. Bartle
+   </e>
+   ,
+   <e type="italic">
+    Open Tubular Column Gas Chromatography
+   </e>
+   (1984);
+   <e type="smallcap">
+    Roger M. Smith
+   </e>
+   ,
+   <e type="italic">
+    Gas and Liquid Chromatography in Analytical Chemistry
+   </e>
+   (1988);
+   <e type="smallcap">
+    Lloyd R. Snyder
+   </e>
+   ,
+   <e type="smallcap">
+    Joseph J. Kirkland
+   </e>
+   , and
+   <e type="smallcap">
+    John W. Dolan
+   </e>
+   ,
+   <e type="italic">
+    Introduction to Modern Liquid Chromatography,
+   </e>
+   3rd ed. (2009);
+   <e type="smallcap">
+    R.P.W. Scott
+   </e>
+   ,
+   <e type="italic">
+    Liquid Chromatography Detectors,
+   </e>
+   2nd rev. ed. (1986);
+   <e type="smallcap">
+    Joseph Sherma
+   </e>
+   and
+   <e type="smallcap">
+    Bernard Fried
+   </e>
+   (eds.),
+   <e type="italic">
+    Handbook of Thin-Layer Chromatography,
+   </e>
+   3rd ed. rev. and expanded (2003);
+   <e type="smallcap">
+    Joseph C. Touchstone
+   </e>
+   ,
+   <e type="italic">
+    Practice of Thin Layer Chromatography,
+   </e>
+   3rd ed. (1992);
+   <e type="smallcap">
+    Frank J. Yang
+   </e>
+   (ed.),
+   <e type="italic">
+    Microbore Column Chromatography: A Unified Approach to Chromatography
+   </e>
+   (1988);
+   <e type="smallcap">
+    Milos V. Novotny
+   </e>
+   and
+   <e type="smallcap">
+    Daido Ishii
+   </e>
+   (eds.),
+   <e type="italic">
+    Microcolumn Separations: Columns, Instrumentation, and Ancillary Techniques
+   </e>
+   (1985);
+   <e type="smallcap">
+    André M. Striegel
+   </e>
+   <e type="italic">
+    et al.
+   </e>
+   ,
+   <e type="italic">
+    Modern Size-Exclusion Liquid Chromatography: Practice of Gel Permeation and Gel Filtration Chromatography
+   </e>
+   , 2nd ed. (2009);
+   <e type="smallcap">
+    Hamish Small
+   </e>
+   ,
+   <e type="italic">
+    Ion Chromatography
+   </e>
+   (1989);
+   <e type="smallcap">
+    Roger M. Smith
+   </e>
+   (ed.),
+   <e type="italic">
+    Supercritical Fluid Chromatography
+   </e>
+   (1989);
+   <e type="smallcap">
+    A.F. Bergold
+   </e>
+   <e type="italic">
+    et al.
+   </e>
+   , “High Performance Affinity Chromatography,” in
+   <e type="smallcap">
+    Csaba Horváth
+   </e>
+   (ed.),
+   <e type="italic">
+    High-Performance Liquid Chromatography,
+   </e>
+   vol. 5 (1988), pp. 95–209; and
+   <e type="smallcap">
+    Josef Janča
+   </e>
+   ,
+   <e type="italic">
+    Field-Flow Fractionation,
+   </e>
+   trans. from Czech (1987).
+   <e type="italic">
+    Advances in Chromatography
+   </e>
+   (1965– ) is a multivolume series on various topics of chromatography. Periodicals include
+   <e type="italic">
+    Journal of Chromatography A
+   </e>
+   (weekly),
+   <e type="italic">
+    Journal of Chromatography B
+   </e>
+   (semimonthly),
+   <e type="italic">
+    Chromatographia
+   </e>
+   (monthly), and
+   <e type="italic">
+    LC GC: The Magazine of Separation Science
+   </e>
+   (monthly).
+  </p>
+  <signature>
+   Roy A. Keller
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

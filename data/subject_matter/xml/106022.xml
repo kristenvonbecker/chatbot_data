@@ -1,0 +1,4564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="106022" articletypeid="1" language="en_us" lastupdate="2023-Mar-03 17:55:29" url="/article/electromagnetic-radiation/106022" version="18">
+ <title>
+  electromagnetic radiation
+ </title>
+ <p>
+  <e type="bold">
+   electromagnetic radiation
+  </e>
+  , in classical physics, the flow of
+  <xref articleid="32627">
+   energy
+  </xref>
+  at the universal
+  <xref articleid="471069">
+   speed of light
+  </xref>
+  through free space or through a material medium in the form of the
+  <xref articleid="32278">
+   electric
+  </xref>
+  and
+  <xref articleid="50022">
+   magnetic fields
+  </xref>
+  that make up electromagnetic waves such as
+  <xref articleid="473149">
+   radio waves
+  </xref>
+  ,
+  <xref articleid="110443">
+   visible light
+  </xref>
+  , and
+  <xref articleid="35974">
+   gamma rays
+  </xref>
+  . In such a wave, time-varying electric and magnetic fields are mutually linked with each other at right angles and perpendicular to the direction of motion. An electromagnetic wave is characterized by its intensity and the frequency ν of the time variation of the electric and magnetic fields.
+ </p>
+ <p>
+  In terms of the modern
+  <xref articleid="110312">
+   quantum theory
+  </xref>
+  , electromagnetic radiation is the flow of
+  <xref articleid="59817">
+   photons
+  </xref>
+  (also called light quanta) through space. Photons are packets of energy
+  <e type="italic">
+   h
+  </e>
+  ν that always move with the universal speed of light. The symbol
+  <e type="italic">
+   h
+  </e>
+  is
+  <xref articleid="60293">
+   Planck’s constant
+  </xref>
+  , while the value of ν is the same as that of the frequency of the electromagnetic wave of classical theory. Photons having the same energy
+  <e type="italic">
+   h
+  </e>
+  ν are all alike, and their number density corresponds to the intensity of the radiation. Electromagnetic radiation exhibits a multitude of phenomena as it interacts with charged particles in
+  <xref articleid="110411">
+   atoms
+  </xref>
+  ,
+  <xref articleid="53247">
+   molecules
+  </xref>
+  , and larger objects of matter. These phenomena as well as the ways in which electromagnetic radiation is created and observed, the manner in which such radiation occurs in nature, and its technological uses depend on its frequency ν. The spectrum of frequencies of electromagnetic radiation extends from very low values over the range of radio waves,
+  <xref articleid="106102">
+   television
+  </xref>
+  waves, and
+  <xref articleid="52523">
+   microwaves
+  </xref>
+  to visible light and beyond to the substantially higher values of
+  <xref articleid="74181">
+   ultraviolet light
+  </xref>
+  ,
+  <xref articleid="77656">
+   X-rays
+  </xref>
+  , and gamma rays.
+ </p>
+ <p>
+  The basic properties and behaviour of electromagnetic radiation are discussed in this article, as are its various forms, including their sources, distinguishing characteristics, and practical applications. The article also traces the development of both the classical and quantum theories of radiation.
+ </p>
+ <h1 id="h59188">
+  <title>
+   General considerations
+  </title>
+  <h2 id="h59189">
+   <title>
+    Occurrence and importance
+   </title>
+   <p>
+    <assembly id="a107905" url="/assembly/view/107905">
+     <title>
+      photosynthesis
+     </title>
+     <media mediaid="94122" type="image" url="/22/94122-004-5EC15559.jpg"/>
+     <caption>
+      Diagram of photosynthesis showing how water, light, and carbon dioxide are absorbed by a plant to produce oxygen, sugars, and more carbon dioxide.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a107905"/>
+    Close to 0.01 percent of the mass/energy of the entire
+    <xref articleid="74362">
+     universe
+    </xref>
+    occurs in the form of electromagnetic radiation. All human life is immersed in it, and modern communications technology and medical services are particularly dependent on one or another of its forms. In fact, all living things on Earth depend on the electromagnetic radiation received from the
+    <xref articleid="110144">
+     Sun
+    </xref>
+    and on the transformation of solar energy by
+    <xref articleid="108553">
+     photosynthesis
+    </xref>
+    into
+    <xref articleid="108554">
+     plant
+    </xref>
+    life or by biosynthesis into
+    <xref articleid="78449">
+     zooplankton
+    </xref>
+    , the basic step in the
+    <xref articleid="34795">
+     food chain
+    </xref>
+    in
+    <xref articleid="108518">
+     oceans
+    </xref>
+    . The
+    <xref articleid="109527">
+     eyes
+    </xref>
+    of many animals, including those of humans, are adapted to be sensitive to and hence to see the most abundant part of the Sun’s electromagnetic radiation—namely,
+    <xref articleid="110443">
+     light
+    </xref>
+    , which comprises the visible portion of its wide range of frequencies. Green plants also have high sensitivity to the maximum intensity of solar electromagnetic radiation, which is absorbed by a substance called
+    <xref articleid="82254">
+     chlorophyll
+    </xref>
+    that is essential for plant growth via photosynthesis.
+   </p>
+   <p>
+    Practically all the fuels that modern society uses—
+    <xref articleid="110439">
+     gas
+    </xref>
+    ,
+    <xref articleid="110438">
+     oil
+    </xref>
+    , and
+    <xref articleid="110442">
+     coal
+    </xref>
+    —are stored forms of energy received from the Sun as electromagnetic radiation millions of years ago. Only the energy from
+    <xref articleid="106041">
+     nuclear reactors
+    </xref>
+    does not originate from the Sun.
+   </p>
+   <p>
+    Everyday life is pervaded by artificially made electromagnetic radiation: food is heated in
+    <xref articleid="52524">
+     microwave ovens
+    </xref>
+    ,
+    <xref articleid="110741">
+     airplanes
+    </xref>
+    are guided by
+    <xref articleid="109463">
+     radar
+    </xref>
+    waves,
+    <xref articleid="106102">
+     television
+    </xref>
+    sets receive electromagnetic waves transmitted by broadcasting stations, and
+    <xref articleid="42403">
+     infrared
+    </xref>
+    waves from heaters provide warmth. Infrared waves also are given off and received by automatic self-focusing
+    <xref articleid="18803">
+     cameras
+    </xref>
+    that electronically measure and set the correct distance to the object to be photographed. As soon as the Sun sets,
+    <xref articleid="42238">
+     incandescent
+    </xref>
+    or
+    <xref articleid="34676">
+     fluorescent lights
+    </xref>
+    are turned on to provide artificial illumination, and cities glow brightly with the colourful fluorescent and
+    <xref articleid="55272">
+     neon
+    </xref>
+    lamps of advertisement signs. Familiar too is
+    <xref articleid="74181">
+     ultraviolet radiation
+    </xref>
+    , which the eyes cannot see but whose effect is felt as pain from
+    <xref articleid="70342">
+     sunburn
+    </xref>
+    . Ultraviolet light represents a kind of electromagnetic radiation that can be harmful to
+    <xref articleid="106478">
+     life
+    </xref>
+    . Such is also true of
+    <xref articleid="77656">
+     X-rays
+    </xref>
+    , which are important in
+    <xref articleid="110314">
+     medicine
+    </xref>
+    as they allow physicians to observe the inner parts of the body but exposure to which should be kept to a minimum. Less familiar are
+    <xref articleid="35974">
+     gamma rays
+    </xref>
+    , which come from
+    <xref articleid="56446">
+     nuclear reactions
+    </xref>
+    and
+    <xref articleid="110413">
+     radioactive
+    </xref>
+    decay and are part of the harmful high-energy radiation of radioactive materials and
+    <xref articleid="110178">
+     nuclear weapons
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h59190">
+   <title>
+    The electromagnetic spectrum
+   </title>
+   <p>
+    <assembly id="a1367" url="/assembly/view/1367">
+     <title>
+      electromagnetic spectrum
+     </title>
+     <media mediaid="276" type="image" url="/76/276-004-404D8CFF.jpg"/>
+     <caption>
+      Figure 1: Electromagnetic spectrum. The small visible range (shaded) is shown enlarged at the right.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    The brief account of familiar phenomena given above surveyed electromagnetic radiation from low frequencies of ν (
+    <xref articleid="473149">
+     radio waves
+    </xref>
+    ) to exceedingly high values of ν (
+    <xref articleid="35974">
+     gamma rays
+    </xref>
+    ). Going from the ν values of radio waves to those of visible
+    <xref articleid="110443">
+     light
+    </xref>
+    is like comparing the thickness of this page with the distance of
+    <xref articleid="110147">
+     Earth
+    </xref>
+    from the
+    <xref articleid="110144">
+     Sun
+    </xref>
+    , which represents an increase by a factor of a million billion. Similarly, going from the ν values of visible light to the very much larger ones of gamma rays represents another increase in frequency by a factor of a million billion. This extremely large range of ν values, called the electromagnetic spectrum, is shown in
+    <assemblyref assemblyid="a1367">
+     Figure 1
+    </assemblyref>
+    , together with the common names used for its various parts, or regions.
+   </p>
+   <p>
+    The number ν is shared by both the classical and the modern interpretation of electromagnetic radiation. In classical language, ν is the frequency of the temporal changes in an electromagnetic wave. The frequency of a wave is related to its speed
+    <e type="italic">
+     c
+    </e>
+    and wavelength λ in the following way. If 10 complete waves pass by in one second, one observes 10 wriggles, and one says that the frequency of such a wave is ν = 10 cycles per second (10 hertz [Hz]). If the wavelength of the wave is, say, λ = 3 cm, then it is clear that a wave train 30 cm long has passed in that one second to produce the 10 wriggles that were observed. Thus, the speed of the wave is 30 cm per second, and one notes that in general the speed is
+    <e type="italic">
+     c
+    </e>
+    = λν. The speed of electromagnetic radiation of all kinds is the same universal constant that is defined to be exactly
+    <e type="italic">
+     c
+    </e>
+    = 299,792,458 metres per second (186,282 miles per second). The wavelengths of the classical electromagnetic waves in free space calculated from
+    <e type="italic">
+     c
+    </e>
+    = λν are also shown on the spectrum in
+    <assemblyref assemblyid="a1367">
+     Figure 1
+    </assemblyref>
+    , as is the energy
+    <e type="italic">
+     h
+    </e>
+    ν of modern-day
+    <xref articleid="59817">
+     photons
+    </xref>
+    . Commonly used as the unit of energy is the
+    <xref articleid="32330">
+     electron volt
+    </xref>
+    (eV), which is the energy that can be given to an
+    <xref articleid="32316">
+     electron
+    </xref>
+    by a one-
+    <xref articleid="75698">
+     volt
+    </xref>
+    <xref articleid="106044">
+     battery
+    </xref>
+    . It is clear that the range of wavelengths λ and of photon energies
+    <e type="italic">
+     h
+    </e>
+    ν are equally as large as the spectrum of ν values.
+   </p>
+   <p>
+    Because the wavelengths and energy quanta
+    <e type="italic">
+     h
+    </e>
+    ν of electromagnetic radiation of the various parts of the spectrum are so different in magnitude, the sources of the radiations, the interactions with matter, and the detectors employed are correspondingly different. This is why the same electromagnetic radiation is called by different names in various regions of the spectrum.
+   </p>
+   <p>
+    <assembly id="a1368" url="/assembly/view/1368">
+     <title>
+      radiation fields
+     </title>
+     <media mediaid="277" type="image" url="/77/277-004-93FD6138.jpg"/>
+     <caption>
+      Figure 2: Radiation fields in which vectors {E vector} and {B vector} are perpendicular to each other and to the direction of propagation (see text).
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    In spite of these obvious differences of scale, all forms of electromagnetic radiation obey certain general rules that are well understood and that allow one to calculate with very high precision their properties and interactions with charged particles in
+    <xref articleid="110411">
+     atoms
+    </xref>
+    ,
+    <xref articleid="53247">
+     molecules
+    </xref>
+    , and large objects. Electromagnetic radiation is, classically speaking, a wave of
+    <xref articleid="32278">
+     electric
+    </xref>
+    and
+    <xref articleid="50022">
+     magnetic fields
+    </xref>
+    propagating at the speed of light
+    <e type="italic">
+     c
+    </e>
+    through empty space. In this wave the electric and magnetic fields change their magnitude and direction each second. This rate of change is the frequency ν measured in cycles per second—namely, in hertz. The electric and magnetic fields are always perpendicular to each other and at right angles to the direction of propagation, as shown in
+    <assemblyref assemblyid="a1368">
+     Figure 2
+    </assemblyref>
+    . There is as much energy carried by the electric component of the wave as by the magnetic component, and the energy is proportional to the square of the field strength.
+   </p>
+  </h2>
+  <h2 id="h59191">
+   <title>
+    Generation of electromagnetic radiation
+   </title>
+   <p>
+    Electromagnetic radiation is produced whenever a charged particle, such as an electron, changes its velocity—i.e., whenever it is accelerated or decelerated. The energy of the electromagnetic radiation thus produced comes from the charged particle and is therefore lost by it. A common example of this phenomenon is the oscillating charge or current in a radio
+    <xref articleid="7759">
+     antenna
+    </xref>
+    . The antenna of a radio transmitter is part of an electric resonance circuit in which the charge is made to oscillate at a desired frequency. An electromagnetic wave so generated can be received by a similar antenna connected to an oscillating electric circuit in the tuner that is tuned to that same frequency. The electromagnetic wave in turn produces an oscillating motion of charge in the receiving antenna. In general, one can say that any system which emits electromagnetic radiation of a given frequency can absorb radiation of the same frequency.
+   </p>
+   <p>
+    Such human-made transmitters and receivers become smaller with decreasing wavelength of the electromagnetic wave and prove impractical in the millimetre range. At even shorter wavelengths down to the wavelengths of
+    <xref articleid="77656">
+     X-rays
+    </xref>
+    , which are one million times smaller, the oscillating charges arise from moving charges in molecules and atoms.
+   </p>
+   <p>
+    One may classify the generation of electromagnetic radiation into two categories: (1) systems or processes that produce radiation covering a broad continuous spectrum of frequencies and (2) those that emit (and absorb) radiation of discrete frequencies that are characteristic of particular systems. The Sun with its continuous spectrum is an example of the first, while a radio transmitter tuned to one frequency exemplifies the second category.
+   </p>
+   <h3 id="h59913">
+    <title>
+     Continuous spectra of electromagnetic radiation
+    </title>
+    <p>
+     Such spectra are emitted by any warm substance.
+     <xref articleid="39732">
+      Heat
+     </xref>
+     is the irregular motion of electrons, atoms, and molecules; the higher the
+     <xref articleid="71632">
+      temperature
+     </xref>
+     , the more rapid the motion. Since electrons are much lighter than atoms, irregular thermal motion produces irregular oscillatory charge motion, which reflects a continuous spectrum of frequencies. Each oscillation at a particular frequency can be considered a tiny “antenna” that emits and receives electromagnetic radiation. As a piece of
+     <xref articleid="42794">
+      iron
+     </xref>
+     is heated to increasingly high temperatures, it first glows red, then yellow, and finally white. In short, all the colours of the visible spectrum are represented. Even before the iron begins to glow red, one can feel the emission of
+     <xref articleid="42403">
+      infrared waves
+     </xref>
+     by the heat sensation on the skin. A white-hot piece of iron also emits
+     <xref articleid="74181">
+      ultraviolet radiation
+     </xref>
+     , which can be detected by a photographic film.
+    </p>
+    <p>
+     Not all materials heated to the same temperature emit the same amount and spectral distribution of electromagnetic waves. For example, a piece of
+     <xref articleid="36988">
+      glass
+     </xref>
+     heated next to iron looks nearly colourless, but it feels hotter to the skin (it emits more infrared rays) than does the iron. This observation illustrates the rule of reciprocity: a body radiates strongly at those frequencies that it is able to absorb, because for both processes it needs the tiny antennas of that range of frequencies. Glass is transparent in the visible range of light because it lacks possible electronic absorption at these particular frequencies. As a consequence, glass cannot glow red because it cannot absorb red. On the other hand, glass is a better emitter/absorber in the infrared than iron or any other metal that strongly reflects such lower-frequency electromagnetic waves. This selective emissivity and absorptivity is important for understanding the
+     <xref articleid="37976">
+      greenhouse effect
+     </xref>
+     (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="106022" refid="h59195">
+      The greenhouse effect of the atmosphere
+     </xref>
+     ) and many other phenomena in nature. The
+     <xref articleid="73778">
+      tungsten
+     </xref>
+     filament of a lightbulb has a temperature of 2,500 K (4,040 °F) and emits large amounts of visible light but relatively little infrared because
+     <xref articleid="52266">
+      metals
+     </xref>
+     , as mentioned above, have small emissivities in the infrared range. This is of course fortunate, since one wants light from a lightbulb but not much heat. The light emitted by a candle originates from very hot
+     <xref articleid="20244">
+      carbon
+     </xref>
+     soot particles in the flame, which strongly absorb and thus emit visible light. By contrast, the gas flame of a kitchen range is pale, even though it is hotter than a candle flame, because of the absence of soot. Light from the
+     <xref articleid="110472">
+      stars
+     </xref>
+     originates from the high temperature of the gases at their surface. A wide spectrum of radiation is emitted from the Sun’s surface, the temperature of which is about 5,800 K. The radiation output is 60 million watts for every square metre of solar surface, which is equivalent to the amount produced by an average-size commercial power-generating station that can supply electric power for about 30,000 households.
+    </p>
+    <p>
+     The spectral composition of a heated body depends on the materials of which the body consists. That is not the case for an ideal radiator or absorber. Such an ideal object absorbs and thus emits radiation of all frequencies equally and fully. A radiator/absorber of this kind is called a
+     <xref articleid="15527">
+      blackbody
+     </xref>
+     , and its radiation spectrum is referred to as
+     <xref articleid="636104">
+      blackbody radiation
+     </xref>
+     , which depends on only one parameter, its temperature. Scientists devise and study such ideal objects because their properties can be known exactly. This information can then be used to determine and understand why real objects, such as a piece of iron or glass, a cloud, or a star, behave differently.
+    </p>
+    <p>
+     A good approximation of a blackbody is a piece of
+     <xref articleid="110442">
+      coal
+     </xref>
+     or, better yet, a cavity in a piece of coal that is visible through a small opening. There is one property of blackbody radiation which is familiar to everyone but which is actually quite mysterious. As the piece of coal is heated to higher and higher temperatures, one first observes a dull red glow, followed by a change in colour to bright red; as the temperature is increased further, the colour changes to yellow and finally to white. White is not itself a colour but rather the visual effect of the combination of all primary colours. The fact that white glow is observed at high temperatures means that the colour blue has been added to the ones observed at lower temperatures. This colour change with temperature is mysterious because one would expect, as the energy (or temperature) is increased, just more of the same and not something entirely different. For example, as one increases the power of a radio amplifier, one hears the music louder but not at a higher pitch.
+    </p>
+    <p>
+     The change in colour or frequency distribution of the electromagnetic radiation coming from heated bodies at different temperatures remained an enigma for centuries. The solution of this mystery by the German physicist
+     <xref articleid="470918">
+      Max Planck
+     </xref>
+     initiated the era of modern physics at the beginning of the 20th century. He explained the phenomenon by proposing that the tiny antennas in the heated body are quantized, meaning that they can emit electromagnetic radiation only in finite energy quanta of size
+     <e type="italic">
+      h
+     </e>
+     ν. The universal constant
+     <e type="italic">
+      h
+     </e>
+     is called
+     <xref articleid="60293">
+      Planck’s constant
+     </xref>
+     in his honour. For blue light
+     <e type="italic">
+      h
+     </e>
+     ν = 3 eV, whereas
+     <e type="italic">
+      h
+     </e>
+     ν = 1.8 eV for red light. Since high-frequency antennas of vibrating charges in solids have to emit larger energy quanta
+     <e type="italic">
+      h
+     </e>
+     ν than lower-frequency antennas, they can only do so when the temperature, or the thermal atomic motion, becomes high enough. Hence, the average pitch, or peak frequency, of blackbody electromagnetic radiation increases with temperature.
+    </p>
+    <p>
+     <assembly id="a66143" url="/assembly/view/66143">
+      <title>
+       X-ray tube
+      </title>
+      <media mediaid="72253" type="image" url="/53/72253-004-3BFE4550.jpg"/>
+      <caption>
+       An X-ray tube. Electrons “boil” off the cathode when the filament is heated by a current. A high voltage between cathode and anode causes the electrons to accelerate toward the anode, which rotates to avoid overheating of the target. When the electrons strike the anode’s target area, X-rays are emitted.
+      </caption>
+      <credit>
+       © Merriam-Webster Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a66143"/>
+     The many tiny antennas in a heated chunk of material are, as noted above, to be identified with the accelerating and decelerating charges in the heat motion of the atoms of the material. There are other sources of continuous spectra of electromagnetic radiation that are not associated with heat but still come from accelerated or decelerated charges. X-rays are, for example, produced by abruptly stopping rapidly moving electrons. This deceleration of the charges produces
+     <xref articleid="16345">
+      bremsstrahlung
+     </xref>
+     (“braking radiation”). In an X-ray tube, electrons moving with an energy of
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      max
+     </sub>
+     = 10,000 to 50,000 eV (10–50 keV) are made to strike a piece of metal. The electromagnetic radiation produced by this sudden deceleration of electrons is a continuous spectrum extending up to the maximum photon energy
+     <e type="italic">
+      h
+     </e>
+     ν =
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      max
+     </sub>
+     .
+    </p>
+    <p>
+     By far the brightest continuum spectra of electromagnetic radiation come from
+     <xref articleid="70743">
+      synchrotron radiation
+     </xref>
+     sources. These are not well known because they are predominantly used for research and sometimes for commercial and medical applications. Because any change in motion is an acceleration, circulating currents of electrons produce electromagnetic radiation. When these circulating electrons move at
+     <xref articleid="109465">
+      relativistic
+     </xref>
+     speeds (i.e., those approaching the speed of light), the brightness of the radiation increases enormously. This radiation was first observed at the
+     <xref articleid="36365">
+      General Electric Company
+     </xref>
+     in 1947 in an electron synchrotron (hence the name of this radiation), which is a type of
+     <xref articleid="108531">
+      particle accelerator
+     </xref>
+     that forces relativistic
+     <xref articleid="32316">
+      electrons
+     </xref>
+     into circular orbits by using powerful magnetic fields. The intensity of synchrotron radiation is further increased more than a thousandfold by wigglers and undulators that move the beam of relativistic electrons to and fro by means of other magnetic fields.
+    </p>
+    <p>
+     The conditions for generating bremsstrahlung as well as synchrotron radiation exist in nature in various forms. Acceleration and capture of charged particles by the gravitational field of a star,
+     <xref articleid="15483">
+      black hole
+     </xref>
+     , or
+     <xref articleid="110642">
+      galaxy
+     </xref>
+     is a source of energetic cosmic X-rays.
+     <xref articleid="35974">
+      Gamma rays
+     </xref>
+     are produced in other kinds of cosmic objects—namely,
+     <xref articleid="70402">
+      supernovae
+     </xref>
+     ,
+     <xref articleid="55410">
+      neutron stars
+     </xref>
+     , and
+     <xref articleid="62185">
+      quasars
+     </xref>
+     .
+    </p>
+   </h3>
+   <h3 id="h59914">
+    <title>
+     Discrete-frequency sources and absorbers of electromagnetic radiation
+    </title>
+    <p>
+     These are commonly encountered in everyday life. Familiar examples of discrete-frequency electromagnetic radiation include the distinct colours of lamps filled with different fluorescent gases that are characteristic of advertisement signs, the colours of dyes and pigments, the bright yellow of
+     <xref articleid="68498">
+      sodium lamps
+     </xref>
+     , the blue-green hue of
+     <xref articleid="52104">
+      mercury lamps
+     </xref>
+     , and the specific colours of
+     <xref articleid="47248">
+      lasers
+     </xref>
+     .
+    </p>
+    <p>
+     <assembly id="a206855" url="/assembly/view/206855">
+      <title>
+       Balmer series of hydrogen lines
+      </title>
+      <media mediaid="96903" type="image" url="/03/96903-004-E3150A2B.jpg"/>
+      <caption>
+       The Balmer series of atomic hydrogen. These lines are emitted when the electron in the hydrogen atom transitions from the
+       <e type="italic">
+        n
+       </e>
+       = 3 or greater orbital down to the
+       <e type="italic">
+        n
+       </e>
+       = 2 orbital. The wavelengths of these lines are given by 1/λ =
+       <e type="italic">
+        R
+        <sub>
+         H
+        </sub>
+       </e>
+       (1/4 − 1/
+       <e type="italic">
+        n
+       </e>
+       <sup>
+        2
+       </sup>
+       ), where λ is the wavelength,
+       <e type="italic">
+        R
+        <sub>
+         H
+        </sub>
+       </e>
+       is the Rydberg constant, and
+       <e type="italic">
+        n
+       </e>
+       is the level of the original orbital.
+      </caption>
+      <credit>
+       Photo: Arthur L. Schawlow, Stanford University, and Theodore W. Hansch, Max Planck Institute for Quantum Optics; Scale: Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a206855"/>
+     Sources of electromagnetic radiation of specific frequency are typically atoms or molecules. Every atom or molecule can have certain discrete internal energies, which are called quantum states. An atom or molecule can therefore change its internal energy only by discrete amounts. By going from a higher to a lower energy state, a quantum
+     <e type="italic">
+      h
+     </e>
+     ν of electromagnetic radiation is emitted of a magnitude that is precisely the energy difference between the higher and lower state. Absorption of a quantum
+     <e type="italic">
+      h
+     </e>
+     ν takes the atom from a lower to a higher state if
+     <e type="italic">
+      h
+     </e>
+     ν matches the energy difference. All like atoms are identical, but each
+     <xref articleid="110602">
+      chemical element
+     </xref>
+     of the
+     <xref articleid="110603">
+      periodic table
+     </xref>
+     has its own specific set of possible internal energies. Therefore, by measuring the characteristic and discrete electromagnetic radiation that is either emitted or absorbed by
+     <xref articleid="110411">
+      atoms
+     </xref>
+     or
+     <xref articleid="53247">
+      molecules
+     </xref>
+     , one can identify which kind of atom or molecule is giving off or absorbing the radiation. This provides a means of determining the chemical composition of substances. Since one cannot subject a piece of a distant star to conventional chemical analysis, studying the emission or absorption of starlight is the only way to determine the composition of stars or of interstellar gases and dust.
+    </p>
+    <p>
+     The Sun, for example, not only emits the continuous spectrum of radiation that originates from its hot surface but also emits discrete radiation quanta
+     <e type="italic">
+      h
+     </e>
+     ν that are characteristic of its atomic composition. Many of the elements can be detected at the solar surface, but the most abundant is
+     <xref articleid="1713">
+      helium
+     </xref>
+     . This is so because helium is the end product of the
+     <xref articleid="110415">
+      nuclear fusion
+     </xref>
+     reaction that is the fundamental energy source of the Sun. This particular element was named helium (from the Greek word
+     <e type="italic">
+      helios,
+     </e>
+     meaning “Sun”) because its existence was first discovered by its characteristic absorption energies in the Sun’s spectrum. The helium of the cooler outer parts of the solar atmosphere absorbs the characteristic light frequencies from the lower and hotter regions of the Sun.
+    </p>
+    <p>
+     The characteristic and discrete energies
+     <e type="italic">
+      h
+     </e>
+     ν found as emission and absorption of electromagnetic radiation by atoms and molecules extend to X-ray energies. As high-energy electrons strike the piece of metal in an X-ray tube, electrons are knocked out of the inner energy shell of the atoms. These vacancies are then filled by electrons from the second or third shell; emitted in the process are X-rays having
+     <e type="italic">
+      h
+     </e>
+     ν values that correspond to the energy differences of the shells. One therefore observes not only the continuous spectrum of the
+     <xref articleid="16345">
+      bremsstrahlung
+     </xref>
+     discussed above but also X-ray emissions of discrete energies
+     <e type="italic">
+      h
+     </e>
+     ν that are characteristic of the specific elemental composition of the metal struck by the energetic electrons in the X-ray tube.
+    </p>
+    <p>
+     The discrete electromagnetic radiation energies
+     <e type="italic">
+      h
+     </e>
+     ν emitted or absorbed by all substances reflect the discreteness of the internal energies of all material things. This means that window
+     <xref articleid="36988">
+      glass
+     </xref>
+     and
+     <xref articleid="76210">
+      water
+     </xref>
+     are transparent to visible light; they cannot absorb these visible light quanta because their internal energies are such that no energy difference between a higher and a lower internal state matches the energy
+     <e type="italic">
+      h
+     </e>
+     ν of visible light. shows as an example the coefficient of absorption of water as a function of frequency ν of electromagnetic radiation. Above the scale of frequencies, the corresponding scales of photon energy
+     <e type="italic">
+      h
+     </e>
+     ν and wavelength λ are given. An absorption coefficient α = 10
+     <sup>
+      −4
+     </sup>
+     cm
+     <sup>
+      −1
+     </sup>
+     means that the intensity of electromagnetic radiation is only one-third its original value after passing through 100 metres of water. When α = 1 cm
+     <sup>
+      −1
+     </sup>
+     , only a layer 1 cm thick is needed to decrease the intensity to one-third its original value, and, for α = 10
+     <sup>
+      3
+     </sup>
+     cm, a layer of water having the thickness of a thin sheet of paper is sufficient to attenuate electromagnetic radiation by that much. The transparency of water to visible light, marked by the vertical dashed lines, is a remarkable feature that is significant for
+     <xref articleid="106478">
+      life
+     </xref>
+     on
+     <xref articleid="110147">
+      Earth
+     </xref>
+     .
+    </p>
+    <p>
+     All things look so different and have different colours because of their different sets of internal discrete energies, which determine their interaction with electromagnetic radiation. The words
+     <e type="italic">
+      looking
+     </e>
+     and
+     <e type="italic">
+      colours
+     </e>
+     are associated with the human detectors of electromagnetic radiation, the
+     <xref articleid="109527">
+      eyes
+     </xref>
+     . Since there are instruments available for detecting electromagnetic radiation of any frequency, one can imagine that things “look” different at different energies of the spectrum because different materials have their own characteristic sets of discrete internal energies. Even the
+     <xref articleid="56462">
+      nuclei
+     </xref>
+     of atoms are composites of other elementary particles and thus can be excited to many discrete internal energy states. Since nuclear energies are much larger than atomic energies, the energy differences between internal energy states are substantially larger, and the corresponding electromagnetic radiation quanta
+     <e type="italic">
+      h
+     </e>
+     ν emitted or absorbed when nuclei change their energies are even bigger than those of X-rays. Such quanta given off or absorbed by atomic nuclei are called gamma rays (
+     <e type="italic">
+      see above
+     </e>
+     <xref articleid="106022" refid="h59190">
+      The electromagnetic spectrum
+     </xref>
+     ).
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h59192">
+   <title>
+    Properties and behaviour
+   </title>
+   <h3 id="h59915">
+    <title>
+     Scattering, reflection, and refraction
+    </title>
+    <p>
+     If a charged particle interacts with an electromagnetic wave, it experiences a force proportional to the strength of the
+     <xref articleid="32278">
+      electric field
+     </xref>
+     and thus is forced to change its motion in accordance with the frequency of the electric field wave. In doing so, it becomes a source of electromagnetic radiation of the same frequency, as described in the previous section. The energy for the work done in accelerating the charged particle and emitting this secondary radiation comes from and is lost by the primary wave. This process is called
+     <xref articleid="66058">
+      scattering
+     </xref>
+     .
+    </p>
+    <p>
+     Since the energy density of the electromagnetic radiation is proportional to the square of the electric field strength and the field strength is caused by acceleration of a charge, the energy radiated by such a charge oscillator increases with the square of the acceleration. On the other hand, the acceleration of an oscillator depends on the frequency of the back-and-forth oscillation. The acceleration increases with the square of the frequency. This leads to the important result that the electromagnetic energy radiated by an oscillator increases very rapidly—namely, with the square of the square or, as one says, with the fourth power of the frequency. Doubling the frequency thus produces an increase in radiated energy by a factor of 16.
+    </p>
+    <p>
+     <assembly id="a143980" url="/assembly/view/143980">
+      <title>
+       Rayleigh scattering
+      </title>
+      <media mediaid="141156" type="image" url="/56/141156-004-695FE91E.jpg"/>
+      <caption>
+       Rayleigh scattering seen over the ocean.
+      </caption>
+      <credit>
+       Rodrigo Nuno Bragança da Cunha
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a143980"/>
+     This rapid increase in scattering with the frequency of electromagnetic radiation can be seen on any sunny day: it is the reason the sky is blue and the setting Sun is red. The higher-frequency blue light from the Sun is scattered much more by the atoms and molecules of Earth’s
+     <xref articleid="126202">
+      atmosphere
+     </xref>
+     than is the lower-frequency red light. Hence, the light of the setting Sun, which passes through a thick layer of atmosphere, has much more red than yellow or blue light, while light scattered from the sky contains much more blue than yellow or red light.
+    </p>
+    <p>
+     The process of scattering, or reradiating part of the electromagnetic wave by a charge oscillator, is fundamental to understanding the interaction of electromagnetic radiation with
+     <xref articleid="68592">
+      solids
+     </xref>
+     ,
+     <xref articleid="110301">
+      liquids
+     </xref>
+     , or any matter that contains a very large number of charges and thus an enormous number of charge oscillators. This also explains why a substance that has charge oscillators of certain frequencies absorbs and emits radiation of those frequencies.
+    </p>
+    <p>
+     <assembly id="a91336" url="/assembly/view/91336">
+      <title>
+       law of refraction
+      </title>
+      <media mediaid="96591" type="image" url="/91/96591-004-959BC455.jpg"/>
+      <caption>
+       The law of refraction, or Snell’s law, predicts the angle at which a light ray will bend, or refract, as it passes from one medium to another.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a91336"/>
+     When electromagnetic radiation falls on a large collection of individual small charge oscillators, as in a piece of glass or metal or a brick wall, all of these oscillators perform oscillations in unison, following the beat of the electric wave. As a result, all the oscillators emit secondary radiation in unison (or coherently), and the total secondary radiation coming from the solid consists of the sum of all these secondary coherent electromagnetic waves. This sum total yields radiation that is reflected from the surface of the solid and radiation that goes into the solid at a certain angle with respect to the normal of (i.e., a line perpendicular to) the surface. The latter is the
+     <xref articleid="63033">
+      refracted
+     </xref>
+     radiation that may be attenuated (absorbed) on its way through the solid.
+    </p>
+   </h3>
+   <h3 id="h59916">
+    <title>
+     Superposition and interference
+    </title>
+    <p>
+     When two electromagnetic waves of the same frequency superpose in space, the resultant electric and
+     <xref articleid="50022">
+      magnetic field
+     </xref>
+     strength of any point of space and time is the sum of the respective fields of the two waves. When one forms the sum, both the magnitude and the direction of the fields need be considered, which means that they sum like
+     <xref articleid="218451">
+      vectors
+     </xref>
+     . In the special case when two equally strong waves have their fields in the same direction in space and time (i.e., when they are in phase), the resultant field is twice that of each individual wave. The resultant intensity, being proportional to the square of the field strength, is therefore not two but four times the intensity of each of the two superposing waves.
+    </p>
+    <p>
+     By contrast, the superposition of a wave that has an electric field in one direction (positive) in space and time with a wave of the same frequency having an electric field in the opposite direction (negative) in space and time leads to cancellation and no resultant wave at all (zero intensity). Two waves of this sort are termed out of phase. The first example, that of in-phase superposition yielding four times the individual intensity, constitutes what is called constructive interference. The second example, that of out-of-phase superposition yielding zero intensity, is destructive interference. Since the resultant field at any point and time is the sum of all individual fields at that point and time, these arguments are easily extended to any number of superposing waves. One finds constructive, destructive, or partial interference for waves having the same frequency and given phase relationships.
+    </p>
+   </h3>
+   <h3 id="h59917">
+    <title>
+     Propagation and coherence
+    </title>
+    <p>
+     Once generated, an electromagnetic wave is self-propagating because a time-varying electric field produces a time-varying magnetic field and vice versa. When an oscillating current in an antenna is switched on for, say, eight minutes, then the beginning of the electromagnetic train reaches the Sun just when the antenna is switched off because it takes a few seconds more than eight minutes for electromagnetic radiation to reach the
+     <xref articleid="110144">
+      Sun
+     </xref>
+     . This eight-minute wave train, which is as long as the Sun–Earth distance, then continues to travel with the speed of light past the Sun into the space beyond.
+    </p>
+    <p>
+     Except for radio waves transmitted by antennas that are switched on for many hours, most electromagnetic waves comes in many small pieces. The length and duration of a wave train are called coherence length and coherence time, respectively. Light from the Sun or from a lightbulb comes in many tiny bursts lasting about a millionth of a millionth of a second and having a coherence length of about one centimetre. The discrete radiant energy emitted by an atom as it changes its internal energy can have a coherence length several hundred times longer (one to 10 metres) unless the radiating atom is disturbed by a collision.
+    </p>
+    <p>
+     <assembly id="a1370" url="/assembly/view/1370">
+      <title>
+       Michelson interferometer
+      </title>
+      <media mediaid="279" type="image" url="/79/279-004-30B43892.jpg"/>
+      <caption>
+       Figure 4: Michelson interferometer.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     The time and space at which the electric and magnetic fields have a maximum value or are zero between the reversal of their directions are different for different wave trains. It is therefore clear that the phenomenon of interference can arise only from the superposition of part of a wave train with itself. This can be accomplished, for instance, with a half-transparent mirror that reflects half the intensity and transmits the other half of each of the billion billion wave trains of a given light source, say, a yellow
+     <xref articleid="68498">
+      sodium discharge lamp
+     </xref>
+     . One can allow one of these half beams to travel in direction A and the other in direction B, as shown in
+     <assemblyref assemblyid="a1370">
+      Figure 4
+     </assemblyref>
+     . By reflecting each half beam back, one can then superpose the two half beams and observe the resultant total. If one half beam has to travel a path
+     <fraction>
+      <num>
+       1
+      </num>
+      <den>
+       2
+      </den>
+     </fraction>
+     wavelength or
+     <fraction>
+      <num>
+       3
+      </num>
+      <den>
+       2
+      </den>
+     </fraction>
+     or
+     <fraction>
+      <num>
+       5
+      </num>
+      <den>
+       2
+      </den>
+     </fraction>
+     wavelength longer than the other, then the superposition yields no light at all because the electric and magnetic fields of every half wave train in the two half beams point in opposite directions and their sum is therefore zero. The important point is that cancellation occurs between each half wave train and its mate. This is an example of destructive interference. By adjusting the path lengths A and B such that they are equal or differ by λ, 2λ, 3λ…, the electric and magnetic fields of each half wave train and its mate add when they are superposed. This is constructive interference, and, as a result, one sees strong light.
+    </p>
+    <p>
+     The interferometer discussed above and represented in
+     <assemblyref assemblyid="a1370">
+      Figure 4
+     </assemblyref>
+     was designed by the American physicist
+     <xref articleid="52478">
+      Albert A. Michelson
+     </xref>
+     in 1880 (while he was studying with Hermann von Helmholtz in Berlin) for the purpose of
+     <xref articleid="52479">
+      measuring the effect
+     </xref>
+     on the
+     <xref articleid="471069">
+      speed of light
+     </xref>
+     of the motion of the ether through which light was believed to travel (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="106022" refid="h11357">
+      The electromagnetic wave and field concept
+     </xref>
+     ).
+    </p>
+   </h3>
+   <h3 id="h59918">
+    <title>
+     Speed of electromagnetic radiation and the Doppler effect
+    </title>
+    <p>
+     Electromagnetic radiation—or, in modern terminology, the
+     <xref articleid="59817">
+      photons
+     </xref>
+     <e type="italic">
+      h
+     </e>
+     ν—always travels in free space with the universal speed
+     <e type="italic">
+      c
+     </e>
+     —i.e., the speed of light. This is actually a very puzzling situation which was
+     <xref articleid="52479">
+      first experimentally verified
+     </xref>
+     by Michelson and Edward Williams Morley, another American scientist, in 1887. It is the basic axiom of
+     <xref articleid="106018">
+      Albert Einstein’s
+     </xref>
+     theory of
+     <xref articleid="109465">
+      relativity
+     </xref>
+     . Although there is no doubt that it is true, the situation is puzzling because it is so different from the behaviour of normal particles—that is to say, for little or not so little pieces of matter. When one chases behind a normal particle (e.g., an airplane) or moves from the opposite direction toward it, one certainly will measure very different speeds of the airplane relative to oneself. One would detect a very low relative speed in the first case and a very high one in the second. Moreover, a bullet shot forward from the airplane and another toward the back would appear to be moving with different speeds relative to oneself. This is not at all the case when one measures the speed of electromagnetic radiation: irrespective of one’s motion or that of the source of the electromagnetic radiation, any measurement by a moving observer will result in the universal speed of light. This must be accepted as a fact of nature.
+    </p>
+    <p>
+     <assembly id="a141128" url="/assembly/view/141128">
+      <title>
+       Doppler shift
+      </title>
+      <media mediaid="97249" type="image" url="/49/97249-004-5E2CF2A5.jpg"/>
+      <caption>
+       Doppler shift.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a141128"/>
+     What happens to pitch or frequency when the source is moving toward the observers or away from them? It has been established from
+     <xref articleid="109557">
+      sound
+     </xref>
+     waves that the frequency is higher when a sound source is moving toward the observers and lower when it is moving away from them. This is the
+     <xref articleid="30955">
+      Doppler effect
+     </xref>
+     , named after the Austrian physicist
+     <xref articleid="30954">
+      Christian Doppler
+     </xref>
+     , who first described the phenomenon in 1842. Doppler predicted that the effect also occurs with electromagnetic radiation and suggested that it be used for measuring the relative speeds of
+     <xref articleid="110472">
+      stars
+     </xref>
+     . This explains why a characteristic blue light emitted, for example, by an excited
+     <xref articleid="1713">
+      helium
+     </xref>
+     atom as it changes from a higher to a lower internal energy state no longer appears blue when one looks at this light coming from helium atoms that move very rapidly away from
+     <xref articleid="110147">
+      Earth
+     </xref>
+     with, say, a
+     <xref articleid="110642">
+      galaxy
+     </xref>
+     . When the speed of such a galaxy away from Earth is high, the light may appear yellow; if the speed is still higher, it may appear red or even
+     <xref articleid="42403">
+      infrared
+     </xref>
+     . Hence, the speed of galaxies as well as of stars relative to Earth is measured from the Doppler shift of characteristic atomic radiation energies
+     <e type="italic">
+      h
+     </e>
+     ν.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h59193">
+   <title>
+    Cosmic background electromagnetic radiation
+   </title>
+   <p>
+    <assembly id="a97248" url="/assembly/view/97248">
+     <title>
+      Wilkinson Microwave Anisotropy Probe
+     </title>
+     <media mediaid="80625" type="image" url="/25/80625-004-0E844781.jpg"/>
+     <caption>
+      A full-sky map produced by the Wilkinson Microwave Anisotropy Probe (WMAP) showing cosmic background radiation, a very uniform glow of microwaves emitted by the infant universe more than 13 billion years ago. Colour differences indicate tiny fluctuations in the intensity of the radiation, a result of tiny variations in the density of matter in the early universe. According to inflation theory, these irregularities were the “seeds” that became the galaxies. WMAP’s data support the big bang and inflation models, and cosmic microwave background is at the farthest limits of the observable universe.
+     </caption>
+     <credit>
+      NASA/WMAP Science Team
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a97248"/>
+    As one measures the relative speeds of galaxies by using the Doppler shift of characteristic radiation emissions, one finds that all galaxies are moving away from one another. Those that are moving the fastest are systems that are the farthest away (
+    <xref articleid="41368">
+     Hubble’s
+    </xref>
+    law). The speeds and distances give the appearance of an explosion. This explosion, dubbed the
+    <xref articleid="79147">
+     big bang
+    </xref>
+    , is calculated to have occurred 13.8 billion years ago, which is considered to be the age of the
+    <xref articleid="74362">
+     universe
+    </xref>
+    . From this early stage onward, the universe expanded and cooled. The American scientists
+    <xref articleid="77134">
+     Robert W. Wilson
+    </xref>
+    and
+    <xref articleid="59144">
+     Arno Penzias
+    </xref>
+    determined in 1965 that the whole universe can be conceived of as an expanding
+    <xref articleid="15527">
+     blackbody
+    </xref>
+    filled with electromagnetic radiation which now corresponds to a temperature of 2.735 K, only a few degrees above
+    <xref articleid="3400">
+     absolute zero
+    </xref>
+    . Because of this low temperature, most of the radiation energy is in the
+    <xref articleid="52523">
+     microwave
+    </xref>
+    region of the electromagnetic spectrum. The intensity of this radiation corresponds, on average, to about 400 photons in every cubic centimetre of the universe. It has been estimated that there are about one billion times more photons in the universe than electrons, nuclei, and all other things taken together. The presence of this
+    <xref articleid="471314">
+     microwave cosmic background radiation
+    </xref>
+    supports the predictions of big-bang cosmology.
+   </p>
+  </h2>
+  <h2 id="h59194">
+   <title>
+    Effect of gravitation
+   </title>
+   <p>
+    The energy of the quanta of electromagnetic radiation is subject to
+    <xref articleid="106265">
+     gravitational
+    </xref>
+    forces just like a mass of magnitude
+    <e type="italic">
+     m
+    </e>
+    =
+    <e type="italic">
+     h
+    </e>
+    ν/
+    <e type="italic">
+     c
+    </e>
+    <sup>
+     2
+    </sup>
+    . This is so because the relationship of energy
+    <e type="italic">
+     E
+    </e>
+    and mass
+    <e type="italic">
+     m
+    </e>
+    is
+    <xref articleid="487261">
+     <e type="italic">
+      E
+     </e>
+     =
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      c
+     </e>
+     <sup>
+      2
+     </sup>
+    </xref>
+    . As a consequence, light traveling toward Earth gains energy and its frequency is shifted toward the blue (shorter wavelengths), whereas light traveling “up” loses energy and its frequency is shifted toward the red (longer wavelengths). These shifts are very small but have been detected by the American physicists Robert V. Pound and Glen A. Rebka.
+   </p>
+   <p>
+    The effect of gravitation on
+    <xref articleid="110443">
+     light
+    </xref>
+    increases with the strength of the gravitational attraction. Thus, a light beam from a distant star does not travel along a straight line when passing a star like the Sun but is deflected toward it. This deflection can be strong around very heavy cosmic objects, which then distort the light path acting as a
+    <xref articleid="543385">
+     gravitational lens
+    </xref>
+    .
+   </p>
+   <p>
+    Under extreme conditions the gravitational force of a cosmic object can be so strong that no electromagnetic radiation can escape the gravitational pull. Such an object, called a
+    <xref articleid="15483">
+     black hole
+    </xref>
+    , is therefore not visible, and its presence can be detected only by its gravitational effect on other, visible objects in its vicinity. (For additional information,
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="108656">
+     astronomy
+    </xref>
+    .)
+   </p>
+  </h2>
+  <h2 id="h59195">
+   <title>
+    The greenhouse effect of the atmosphere
+   </title>
+   <p>
+    The
+    <xref articleid="71632">
+     temperature
+    </xref>
+    of the terrestrial surface environment is controlled not only by the
+    <xref articleid="110144">
+     Sun’s
+    </xref>
+    electromagnetic radiation but also in a sensitive way by Earth’s
+    <xref articleid="126202">
+     atmosphere
+    </xref>
+    . As noted earlier, each substance absorbs and emits electromagnetic radiation of some energies
+    <e type="italic">
+     h
+    </e>
+    ν and does not do so in other ranges of energy. These regions of transparency and opaqueness are governed by the particular distribution of internal energies of the substance.
+   </p>
+   <p>
+    <assembly id="a85040" url="/assembly/view/85040">
+     <title>
+      greenhouse effect on Earth
+     </title>
+     <media mediaid="91945" type="image" url="/45/91945-004-DE231C6E.jpg"/>
+     <caption>
+      The greenhouse effect on Earth. Some incoming sunlight is reflected by Earth’s atmosphere and surface, but most is absorbed by the surface, which is warmed. Infrared (IR) radiation is then emitted from the surface. Some IR radiation escapes to space, but some is absorbed by the atmosphere’s greenhouse gases (especially water vapour, carbon dioxide, and methane) and reradiated in all directions, some to space and some back toward the surface, where it further warms the surface and the lower atmosphere.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a85040"/>
+    Earth’s atmosphere acts much like the glass panes of a greenhouse: it allows sunlight, particularly its visible range, to reach and warm Earth, but it largely inhibits the
+    <xref articleid="42403">
+     infrared radiation
+    </xref>
+    emitted by the heated terrestrial surface from escaping into space. Since the atmosphere becomes thinner and thinner with increasing altitude above Earth, there is less atmospheric absorption in the higher regions of the atmosphere. At an altitude of 100 km (62 miles), the fraction of atmosphere is one 10-millionth of that on the ground. Below 10 million hertz (10
+    <sup>
+     7
+    </sup>
+    Hz), the absorption is caused by the
+    <xref articleid="42708">
+     ionosphere
+    </xref>
+    , a layer in which atoms and molecules in the atmosphere are ionized by the Sun’s
+    <xref articleid="74181">
+     ultraviolet radiation
+    </xref>
+    . In the infrared region, the absorption is caused by molecular vibrations and rotations. In the ultraviolet and X-ray regions, the absorption is due to electronic excitations in atoms and molecules.
+   </p>
+   <p>
+    Without water vapour and
+    <xref articleid="20249">
+     carbon dioxide
+    </xref>
+    (CO
+    <sub>
+     2
+    </sub>
+    ), which are, together with certain industrial pollutants, the main infrared-absorbing species in the atmosphere, Earth would experience the extreme temperature variations between night and day that occur on the
+    <xref articleid="110148">
+     Moon
+    </xref>
+    . Earth would then be a frozen planet, like
+    <xref articleid="110149">
+     Mars
+    </xref>
+    , with an average temperature of 200 K (−73 °C, or −100 °F), and not be able to support life. Scientists believe that Earth’s temperature and
+    <xref articleid="106248">
+     climate
+    </xref>
+    in general will be affected as the composition of the atmosphere is altered by an increased release and accumulation of carbon dioxide and other gaseous pollutants (for a detailed discussion,
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="106248">
+     climate
+    </xref>
+    ;
+    <xref articleid="106293" refid="h12067">
+     hydrosphere
+    </xref>
+    ; and
+    <xref articleid="37044">
+     global warming
+    </xref>
+    ).
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h59180">
+  <title>
+   Forms of electromagnetic radiation
+  </title>
+  <p>
+   Electromagnetic radiation appears in a wide variety of forms and manifestations. Yet, these diverse phenomena are understood to comprise a single aspect of nature, following simple physical principles. Common to all forms is the fact that electromagnetic radiation interacts with and is generated by
+   <xref articleid="32271">
+    electric charges
+   </xref>
+   . The apparent differences in the phenomena arise from the question in which environment and under what circumstances can charges respond on the time scale of the frequency ν of the radiation.
+  </p>
+  <p>
+   At smaller frequencies ν (smaller than 10
+   <sup>
+    12
+   </sup>
+   hertz), electric charges typically are the freely moving
+   <xref articleid="32316">
+    electrons
+   </xref>
+   in the
+   <xref articleid="52266">
+    metal
+   </xref>
+   components of
+   <xref articleid="7759">
+    antennas
+   </xref>
+   or the free electrons and
+   <xref articleid="42688">
+    ions
+   </xref>
+   in space that give rise to phenomena related to
+   <xref articleid="473149">
+    radio waves
+   </xref>
+   ,
+   <xref articleid="109463">
+    radar
+   </xref>
+   waves, and
+   <xref articleid="52523">
+    microwaves
+   </xref>
+   . At higher frequencies (10
+   <sup>
+    12
+   </sup>
+   to 5 × 10
+   <sup>
+    14
+   </sup>
+   hertz), in the
+   <xref articleid="42403">
+    infrared
+   </xref>
+   region of the spectrum, the moving charges are primarily associated with the rotations and vibrations of
+   <xref articleid="53247">
+    molecules
+   </xref>
+   and the motions of
+   <xref articleid="110411">
+    atoms
+   </xref>
+   bonded together in materials. Electromagnetic radiation in the visible range to
+   <xref articleid="77656">
+    X-rays
+   </xref>
+   have frequencies that correspond to charges within atoms, whereas
+   <xref articleid="35974">
+    gamma rays
+   </xref>
+   are associated with frequencies of charges within atomic
+   <xref articleid="56462">
+    nuclei
+   </xref>
+   . The characteristics of electromagnetic radiation occurring in the different regions of the spectrum are described in this section.
+  </p>
+  <h2 id="h59181">
+   <title>
+    Radio waves
+   </title>
+   <p>
+    <assembly id="a5342" url="/assembly/view/5342">
+     <title>
+      electromagnetic spectrum
+     </title>
+     <media mediaid="203" type="image" url="/03/203-004-B47DC2A2.jpg"/>
+     <caption>
+      The electromagnetic spectrum.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a5342"/>
+    Radio waves are used for wireless transmission of sound messages, or information, for communication, as well as for maritime and aircraft navigation. The information is imposed on the electromagnetic carrier wave as
+    <xref articleid="7260">
+     amplitude modulation
+    </xref>
+    (AM) or as
+    <xref articleid="35367">
+     frequency modulation
+    </xref>
+    (FM) or in digital form (pulse modulation). Transmission therefore involves not a single-frequency electromagnetic wave but rather a frequency band whose width is proportional to the information density. The width is about 10,000 Hz for telephone, 20,000 Hz for high-fidelity sound, and five megahertz (MHz = one million hertz) for high-definition
+    <xref articleid="106102">
+     television
+    </xref>
+    . This width and the decrease in efficiency of generating electromagnetic waves with decreasing frequency sets a lower frequency limit for radio waves near 10,000 Hz.
+   </p>
+   <p>
+    Because electromagnetic radiation travels in free space in straight lines, late 19th-century scientists questioned the efforts of the Italian physicist and inventor
+    <xref articleid="50813">
+     Guglielmo Marconi
+    </xref>
+    to develop long-range radio. Earth’s curvature limits the line-of-sight distance from the top of a 100-metre (330-foot) tower to about 30 km (19 miles). Marconi’s unexpected success in transmitting messages over more than 2,000 km (1,200 miles) led to the discovery of the Kennelly-Heaviside layer, more commonly known as the
+    <xref articleid="42708">
+     ionosphere
+    </xref>
+    . This region is an approximately 300-km- (190-mile-) thick layer starting about 100 km (60 miles) above Earth’s surface in which the atmosphere is partially ionized by ultraviolet light from the Sun, giving rise to enough electrons and ions to affect radio waves. Because of the Sun’s involvement, the height, width, and degree of ionization of the stratified ionosphere vary from day to night and from summer to winter.
+   </p>
+   <p>
+    <assembly id="a1371" url="/assembly/view/1371">
+     <title>
+      ionospheric reflection
+     </title>
+     <media mediaid="280" type="image" url="/80/280-004-4083133F.jpg"/>
+     <caption>
+      Figure 5: Radio-wave transmission reaching beyond line of sight by means of the sky wave reflected by the ionosphere and by means of the ground wave (see text).
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    Radio waves transmitted by antennas in certain directions are bent or even reflected back to Earth by the ionosphere, as illustrated in
+    <assemblyref assemblyid="a1371">
+     Figure 5
+    </assemblyref>
+    . They may bounce off Earth and be reflected by the ionosphere repeatedly, making radio transmission around the globe possible. Long-distance communication is further facilitated by the so-called ground wave. This form of electromagnetic wave closely follows Earth’s surface, particularly over water, as a result of the wave’s interaction with the terrestrial surface. The range of the ground wave (up to 1,600 km [1,000 miles]) and the bending and reflection of the sky wave by the ionosphere depend on the frequency of the waves. Under normal ionospheric conditions 40 MHz is the highest-frequency radio wave that can be reflected from the ionosphere. In order to accommodate the large band width of transmitted signals, television frequencies are necessarily higher than 40 MHz. Television transmitters must therefore be placed on high towers or on hilltops.
+   </p>
+   <p>
+    As a radio wave travels from the transmitting to the receiving antenna, it may be disturbed by reflections from buildings and other large obstacles. Disturbances arise when several such reflected parts of the wave reach the receiving antenna and interfere with the reception of the wave. Radio waves can penetrate nonconducting materials, such as
+    <xref articleid="110435">
+     wood
+    </xref>
+    ,
+    <xref articleid="108318">
+     bricks
+    </xref>
+    , and
+    <xref articleid="25103">
+     concrete
+    </xref>
+    , fairly well. They cannot pass through electrical
+    <xref articleid="25132">
+     conductors,
+    </xref>
+    such as water or metals. Above ν = 40 MHz, radio waves from deep space can penetrate Earth’s atmosphere. This makes
+    <xref articleid="62417">
+     radio-astronomy
+    </xref>
+    observations with ground-based telescopes possible.
+   </p>
+   <p>
+    Whenever transmission of electromagnetic energy from one location to another is required with minimal energy loss and disturbance, the waves are confined to a limited region by means of wires, coaxial cables, and, in the microwave region,
+    <xref articleid="76319">
+     waveguides
+    </xref>
+    . Unguided or wireless transmission is naturally preferred when the locations of receivers are unspecified or too numerous, as in the case of radio and television communications.
+    <xref articleid="18451">
+     Cable television
+    </xref>
+    , as the name implies, is an exception. In this case electromagnetic radiation is transmitted by a coaxial cable system to users either from a community antenna or directly from broadcasting stations. The shielding of this guided transmission from disturbances provides high-quality signals.
+   </p>
+   <p>
+    <assembly id="a1372" url="/assembly/view/1372">
+     <title>
+      cross section of a coaxial cable carrying high-frequency current
+     </title>
+     <media mediaid="281" type="image" url="/81/281-004-82CBDC56.jpg"/>
+     <caption>
+      Figure 6: Electric field lines
+      <e type="bolditalic">
+       E
+      </e>
+      (solid) and magnetic field lines
+      <e type="bolditalic">
+       B
+      </e>
+      (dashed) are mutually perpendicular and perpendicular to the electromagnetic wave propagation, which is toward the viewer.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a1372">
+     Figure 6
+    </assemblyref>
+    shows the
+    <xref articleid="32278">
+     electric field
+    </xref>
+    <e type="italic">
+     E
+    </e>
+    (solid lines) and the
+    <xref articleid="50022">
+     magnetic field
+    </xref>
+    <e type="italic">
+     B
+    </e>
+    (dashed lines) of an electromagnetic wave guided by a coaxial cable. There is a potential difference between the inner and outer conductors and so electric field lines
+    <e type="italic">
+     E
+    </e>
+    extend from one conductor to the other, represented here in cross section. The conductors carry opposite currents that produce the magnetic field lines
+    <e type="italic">
+     B.
+    </e>
+    The electric and magnetic fields are perpendicular to each other and perpendicular to the direction of propagation, as is characteristic of the electromagnetic waves illustrated in
+    <assemblyref assemblyid="a1368">
+     Figure 2
+    </assemblyref>
+    . At any cross section viewed, the directions of the
+    <e type="italic">
+     E
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    field lines change to their opposite with the frequency ν of the radiation. This direction reversal of the fields does not change the direction of propagation along the conductors. The speed of propagation is again the universal
+    <xref articleid="471069">
+     speed of light
+    </xref>
+    if the region between the conductors consists of air or free space.
+   </p>
+   <p>
+    A combination of radio waves and strong magnetic fields is used by
+    <xref articleid="444124">
+     magnetic resonance imaging
+    </xref>
+    (MRI) to produce diagnostic pictures of parts of the human body and brain without apparent harmful effects. This imaging technique has thus found increasingly wider application in medicine (
+    <e type="italic">
+     see also
+    </e>
+    <xref articleid="109464">
+     radiation
+    </xref>
+    ).
+   </p>
+   <p>
+    Extremely low-frequency (ELF) waves are of interest for communications systems for
+    <xref articleid="110183">
+     submarines
+    </xref>
+    . The relatively weak absorption by
+    <xref articleid="66497">
+     seawater
+    </xref>
+    of electromagnetic radiation at low frequencies and the existence of prominent resonances of the natural cavity formed by Earth and the ionosphere make the range between 5 and 100 Hz attractive for this application.
+   </p>
+  </h2>
+  <h2 id="h59182">
+   <title>
+    Microwaves
+   </title>
+   <p>
+    The microwave region extends from 1,000 to 300,000 MHz (or 30 cm to 1 mm wavelength). Although microwaves were first produced and studied in 1886 by
+    <xref articleid="40253">
+     Hertz
+    </xref>
+    , their practical application had to await the invention of suitable generators, such as the
+    <xref articleid="45772">
+     klystron
+    </xref>
+    and
+    <xref articleid="50044">
+     magnetron
+    </xref>
+    .
+   </p>
+   <p>
+    Microwaves are the principal carriers of high-speed data transmissions between stations on Earth and also between ground-based stations and
+    <xref articleid="65844">
+     satellites
+    </xref>
+    and space probes. A system of synchronous satellites about 36,000 km above Earth is used for international broadband of all kinds of communications—e.g., television and
+    <xref articleid="110260">
+     telephone
+    </xref>
+    .
+   </p>
+   <p>
+    Microwave transmitters and receivers are parabolic dish antennas. They produce microwave beams whose spreading angle is proportional to the ratio of the wavelength of the constituent waves to the diameter of the dish. The beams can thus be directed like a searchlight. Radar beams consist of short pulses of microwaves. One can determine the distance of an airplane or ship by measuring the time it takes such a pulse to travel to the object and, after reflection, back to the radar dish antenna. Moreover, by making use of the change in frequency of the reflected wave pulse caused by the
+    <xref articleid="30955">
+     Doppler effect
+    </xref>
+    (
+    <e type="italic">
+     see above
+    </e>
+    <xref articleid="106022" refid="h59918">
+     Speed of electromagnetic radiation and the Doppler effect
+    </xref>
+    ), one can measure the speed of objects. Microwave
+    <xref articleid="109463">
+     radar
+    </xref>
+    is therefore widely used for guiding
+    <xref articleid="110741">
+     airplanes
+    </xref>
+    and vessels and for detecting speeding motorists. Microwaves can penetrate clouds of smoke but are scattered by water droplets, so they are used for mapping meteorologic disturbances and in
+    <xref articleid="106252">
+     weather forecasting
+    </xref>
+    .
+   </p>
+   <p>
+    Microwaves play an increasingly wide role in
+    <xref articleid="52524">
+     heating and cooking food
+    </xref>
+    . They are absorbed by water and
+    <xref articleid="33807">
+     fat
+    </xref>
+    in foodstuffs (e.g., in the tissue of meats) and produce heat from the inside. In most cases, this reduces the cooking time a hundredfold. Such dry objects as
+    <xref articleid="36988">
+     glass
+    </xref>
+    and
+    <xref articleid="108381">
+     ceramics
+    </xref>
+    , on the other hand, are not heated in the process, and
+    <xref articleid="52266">
+     metal
+    </xref>
+    foils are not penetrated at all.
+   </p>
+   <p>
+    The heating effect of microwaves destroys living
+    <xref articleid="72629">
+     tissue
+    </xref>
+    when the temperature of the tissue exceeds 43° C (109° F). Accordingly, exposure to intense microwaves in excess of 20 milliwatts of power per square centimetre of body surface is harmful. The
+    <xref articleid="47769">
+     lens
+    </xref>
+    of the
+    <xref articleid="109527">
+     human eye
+    </xref>
+    is particularly affected by waves with a frequency of 3000 MHz, and repeated and extended exposure can result in
+    <xref articleid="20772">
+     cataracts
+    </xref>
+    . Radio waves and microwaves of far less power (microwatts per square centimetre) than the 10–20 milliwatts per square centimetre needed to produce heating in living tissue can have adverse effects on the electrochemical balance of the
+    <xref articleid="16178">
+     brain
+    </xref>
+    and the development of a
+    <xref articleid="34145">
+     fetus
+    </xref>
+    if these waves are modulated or pulsed at low frequencies between 5 and 100 hertz, which are of the same magnitude as brain wave frequencies.
+   </p>
+   <p>
+    Various types of microwave generators and amplifiers have been developed. Vacuum-tube devices, the
+    <xref articleid="45772">
+     klystron
+    </xref>
+    and the
+    <xref articleid="50044">
+     magnetron
+    </xref>
+    , continue to be used on a wide scale, especially for higher-power applications. Klystrons are primarily employed as amplifiers in radio relay systems and for dielectric heating, while magnetrons have been adopted for radar systems and microwave ovens. (For a detailed discussion of these devices,
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="106024">
+     electron tube
+    </xref>
+    .) Solid-state technology has yielded several devices capable of producing, amplifying, detecting, and controlling microwaves. Notable among these are the Gunn diode and the tunnel (or Esaki) diode. Another type of device, the
+    <xref articleid="51251">
+     maser
+    </xref>
+    (acronym for “
+    <e type="italic">
+     m
+    </e>
+    icrowave
+    <e type="italic">
+     a
+    </e>
+    mplification by
+    <e type="italic">
+     s
+    </e>
+    timulated
+    <e type="italic">
+     e
+    </e>
+    mission of
+    <e type="italic">
+     r
+    </e>
+    adiation”) has proved useful in such areas as radio astronomy, microwave radiometry, and long-distance communications.
+   </p>
+   <p>
+    Astronomers have discovered what appears to be natural masers in some
+    <xref articleid="42624">
+     interstellar clouds
+    </xref>
+    . Observations of radio radiation from interstellar
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    (H
+    <sub>
+     2
+    </sub>
+    ) and certain other
+    <xref articleid="53247">
+     molecules
+    </xref>
+    indicate amplification by the maser process. Also, as was mentioned above,
+    <xref articleid="471314">
+     microwave cosmic background radiation
+    </xref>
+    has been detected and is considered by many to be the remnant of the primeval fireball postulated by the
+    <xref articleid="79147">
+     big-bang cosmological model
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h59183">
+   <title>
+    Infrared radiation
+   </title>
+   <p>
+    Beyond the red end of the visible range but at frequencies higher than those of radar waves and microwaves is the infrared region of the electromagnetic spectrum, between frequencies of 10
+    <sup>
+     12
+    </sup>
+    and 5 × 10
+    <sup>
+     14
+    </sup>
+    Hz (or wavelengths from 0.1 to 7.5 × 10
+    <sup>
+     −5
+    </sup>
+    cm).
+    <xref articleid="40235">
+     William Herschel
+    </xref>
+    , a German-born British musician and self-taught astronomer, discovered this form of radiation in 1800 by exploring, with the aid of a
+    <xref articleid="72086">
+     thermometer
+    </xref>
+    , sunlight dispersed into its colours by a glass prism. Infrared radiation is absorbed and emitted by the rotations and vibrations of chemically bonded
+    <xref articleid="110411">
+     atoms
+    </xref>
+    or groups of atoms and thus by many kinds of materials. For instance, window glass that is transparent to visible light absorbs infrared radiation by the vibration of its constituent atoms. Infrared radiation is strongly absorbed by
+    <xref articleid="76210">
+     water
+    </xref>
+    , as shown in, and by the
+    <xref articleid="126202">
+     atmosphere
+    </xref>
+    . Although invisible to the
+    <xref articleid="109527">
+     eye
+    </xref>
+    , infrared radiation can be detected as warmth by the skin. Nearly 50 percent of the
+    <xref articleid="110144">
+     Sun’s
+    </xref>
+    radiant energy is emitted in the infrared region of the electromagnetic spectrum, with the rest primarily in the visible region.
+   </p>
+   <p>
+    <assembly id="a109392" url="/assembly/view/109392">
+     <title>
+      centre of the Milky Way Galaxy
+     </title>
+     <media mediaid="111336" type="image" url="/36/111336-004-05E193D2.jpg"/>
+     <caption>
+      Central regions of the Milky Way Galaxy. The image on the left is in visible light, and the image on the right is in infrared; the marked difference between the two images shows how infrared radiation can penetrate galactic dust. The infrared image is part of the Two Micron All Sky Survey (2MASS), a survey of the entire sky in infrared light.
+     </caption>
+     <credit>
+      Atlas Image mosaic courtesy of Howard McCallon and Gene Kopan of 2MASS Project/UMass/IPAC-Caltech/NASA/NSF
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a109392"/>
+    Atmospheric haze and certain pollutants that scatter visible light are nearly transparent to parts of the infrared spectrum because the scattering efficiency increases with the fourth power of the frequency. Infrared photography of distant objects from the air takes advantage of this phenomenon. For the same reason,
+    <xref articleid="42402">
+     infrared astronomy
+    </xref>
+    enables researchers to observe cosmic objects through large clouds of interstellar dust that scatter infrared radiation substantially less than visible light. However, since water vapour,
+    <xref articleid="57878">
+     ozone
+    </xref>
+    , and
+    <xref articleid="20249">
+     carbon dioxide
+    </xref>
+    in the atmosphere absorb large parts of the infrared spectrum, many infrared astronomical observations are carried out at high altitude by
+    <xref articleid="12019">
+     balloons
+    </xref>
+    ,
+    <xref articleid="106040">
+     rockets
+    </xref>
+    , aircraft, or spacecraft.
+   </p>
+   <p>
+    An infrared photograph of a landscape enhances objects according to their heat emission: blue sky and water appear nearly black, whereas green foliage and unexposed skin show up brightly. Infrared photography can reveal pathological tissue growths (thermography) and defects in electronic systems and circuits due to their increased emission of heat.
+   </p>
+   <p>
+    The infrared absorption and emission characteristics of molecules and materials yield important information about the size, shape, and
+    <xref articleid="110108">
+     chemical bonding
+    </xref>
+    of molecules and of atoms and ions in solids. The energies of rotation and vibration are quantized in all systems. The infrared radiation energy
+    <e type="italic">
+     h
+    </e>
+    ν emitted or absorbed by a given molecule or substance is therefore a measure of the difference of some of the internal energy states. These in turn are determined by the
+    <xref articleid="10135">
+     atomic weight
+    </xref>
+    and molecular bonding forces. For this reason, infrared spectroscopy is a powerful tool for determining the internal structure of molecules and substances or, when such information is already known and tabulated, for identifying the amounts of those species in a given sample. Infrared spectroscopic techniques are often used to determine the composition and hence the origin and age of
+    <xref articleid="108623">
+     archaeological
+    </xref>
+    specimens and for detecting forgeries of art and other objects, which, when inspected under visible light, resemble the originals.
+   </p>
+   <p>
+    Infrared radiation plays an important role in heat transfer and is integral to the so-called
+    <xref articleid="37976">
+     greenhouse effect
+    </xref>
+    (
+    <e type="italic">
+     see above
+    </e>
+    <xref articleid="106022" refid="h59195">
+     The greenhouse effect of the atmosphere
+    </xref>
+    ), influencing the thermal radiation budget of
+    <xref articleid="110147">
+     Earth
+    </xref>
+    on a global scale and affecting nearly all biospheric activity. Virtually every object at Earth’s surface emits electromagnetic radiation primarily in the infrared region of the spectrum.
+   </p>
+   <p>
+    Artificial sources of infrared radiation include, besides hot objects, infrared
+    <xref articleid="2311">
+     light-emitting diodes (LEDs)
+    </xref>
+    and
+    <xref articleid="47248">
+     lasers
+    </xref>
+    . LEDs are small inexpensive optoelectronic devices made of such
+    <xref articleid="66711">
+     semiconducting
+    </xref>
+    materials as
+    <xref articleid="35919">
+     gallium
+    </xref>
+    arsenide. Infrared LEDs are employed as optoisolators and as light sources in some
+    <xref articleid="34170">
+     fibre-optics
+    </xref>
+    -based communications systems. Powerful optically pumped infrared lasers have been developed by using carbon dioxide and
+    <xref articleid="20252">
+     carbon monoxide
+    </xref>
+    . Carbon dioxide infrared lasers are used to induce and alter
+    <xref articleid="110109">
+     chemical reactions
+    </xref>
+    and in
+    <xref articleid="110412">
+     isotope
+    </xref>
+    separation. They also are employed in
+    <xref articleid="544321">
+     lidar
+    </xref>
+    systems. Other applications of infrared light include its use in the range finders of automatic self-focusing cameras, security alarm systems, and night-vision optical instruments.
+   </p>
+   <p>
+    Instruments for detecting infrared radiation include heat-sensitive devices such as
+    <xref articleid="72080">
+     thermocouple
+    </xref>
+    detectors, bolometers (some of these are cooled to temperatures close to
+    <xref articleid="3400">
+     absolute zero
+    </xref>
+    so that the thermal radiation of the detector system itself is greatly reduced), photovoltaic cells, and photoconductors. The latter are made of semiconductor materials (e.g.,
+    <xref articleid="67764">
+     silicon
+    </xref>
+    and
+    <xref articleid="47492">
+     lead
+    </xref>
+    sulfide) whose electrical conductance increases when exposed to infrared radiation.
+   </p>
+  </h2>
+  <h2 id="h59184">
+   <title>
+    Visible radiation
+   </title>
+   <p>
+    Visible light is the most familiar form of electromagnetic radiation and makes up that portion of the spectrum to which the eye is sensitive. This span is very narrow; the frequencies of violet light are only about twice those of red. The corresponding wavelengths extend from 7 × 10
+    <sup>
+     −5
+    </sup>
+    cm (red) to 4 × 10
+    <sup>
+     −5
+    </sup>
+    cm (violet). The energy of a photon from the centre of the visible spectrum (yellow) is
+    <e type="italic">
+     h
+    </e>
+    ν = 2.2 eV. This is one million times larger than the energy of a photon of a
+    <xref articleid="106102">
+     television
+    </xref>
+    wave and one billion times larger than that of
+    <xref articleid="473149">
+     radio waves
+    </xref>
+    in general (
+    <e type="italic">
+     see
+    </e>
+    <assemblyref assemblyid="a1367">
+     Figure 1
+    </assemblyref>
+    ).
+   </p>
+   <p>
+    <xref articleid="106478">
+     Life on Earth
+    </xref>
+    could not exist without visible light, which represents the peak of the
+    <xref articleid="110144">
+     Sun’s
+    </xref>
+    spectrum and close to one-half of all of its radiant energy. Visible light is essential for
+    <xref articleid="108553">
+     photosynthesis
+    </xref>
+    , which enables
+    <xref articleid="108554">
+     plants
+    </xref>
+    to produce the
+    <xref articleid="110799">
+     carbohydrates
+    </xref>
+    and
+    <xref articleid="110575">
+     proteins
+    </xref>
+    that are the food sources for
+    <xref articleid="110237">
+     animals
+    </xref>
+    .
+    <xref articleid="110442">
+     Coal
+    </xref>
+    and
+    <xref articleid="56871">
+     oil
+    </xref>
+    are sources of energy accumulated from sunlight in plants and microorganisms millions of years ago, and
+    <xref articleid="41726">
+     hydroelectric power
+    </xref>
+    is extracted from one step of the hydrologic cycle kept in motion by sunlight at the present time.
+   </p>
+   <p>
+    Considering the importance of visible sunlight for all aspects of terrestrial life, one cannot help being awed by the absorption spectrum of
+    <xref articleid="76210">
+     water
+    </xref>
+    in . The remarkable transparency of water centred in the narrow regime of visible light, indicated by vertical dashed lines in, is the result of the characteristic distribution of internal energy states of water. Absorption is strong toward the infrared on account of molecular vibrations and intermolecular oscillations. In the
+    <xref articleid="74181">
+     ultraviolet
+    </xref>
+    region, absorption of radiation is caused by electronic excitations. Light of frequencies having absorption coefficients larger than α = 10 cm
+    <sup>
+     −1
+    </sup>
+    cannot even reach the
+    <xref articleid="63313">
+     retina
+    </xref>
+    of the
+    <xref articleid="109527">
+     human eye
+    </xref>
+    , because its constituent liquid consists mainly of water that absorbs such frequencies of light.
+   </p>
+   <p>
+    Since the 1970s an increasing number of devices have been developed for converting sunlight into electricity. Unlike various conventional energy sources,
+    <xref articleid="68559">
+     solar energy
+    </xref>
+    does not become depleted by use and does not pollute the environment. Two branches of development may be noted—namely, photothermal and photovoltaic technologies. In photothermal devices, sunlight is used to heat a substance, as, for example, water, to produce steam with which to drive a generator. Photovoltaic devices, on the other hand, convert the energy in sunlight directly to electricity by use of the
+    <xref articleid="59826">
+     photovoltaic effect
+    </xref>
+    in a
+    <xref articleid="66711">
+     semiconductor
+    </xref>
+    junction. Solar panels consisting of photovoltaic devices made of
+    <xref articleid="35919">
+     gallium
+    </xref>
+    arsenide have conversion efficiencies of more than 20 percent and are used to provide electric power in many
+    <xref articleid="65844">
+     satellites
+    </xref>
+    and space probes. Solar cells have replaced dry-cell batteries in some portable electronic instruments, and solar energy power stations of more than 500 megawatts capacity have been built.
+   </p>
+   <p>
+    The intensity and spectral composition of visible light can be measured and recorded by essentially any process or property that is affected by light. Detectors make use of a
+    <xref articleid="108552">
+     photographic
+    </xref>
+    process based on
+    <xref articleid="67807">
+     silver
+    </xref>
+    halide, the photoemission of
+    <xref articleid="32316">
+     electrons
+    </xref>
+    from
+    <xref articleid="52266">
+     metal
+    </xref>
+    surfaces, the generation of
+    <xref articleid="32273">
+     electric current
+    </xref>
+    in a photovoltaic cell, and the increase in electrical conduction in semiconductors.
+   </p>
+   <p>
+    Glass fibres constitute an effective means of guiding and transmitting light. A beam of light is confined by
+    <xref articleid="1354">
+     total internal reflection
+    </xref>
+    to travel inside such an optical fibre, whose thickness may be anywhere between one hundredth of a millimetre and a few millimetres. Many thin optical fibres can be combined into bundles to achieve image reproduction. The flexibility of these fibres or fibre bundles permits their use in medicine for optical exploration of internal organs. Optical fibres connecting the continents provide the capability to transmit substantially larger amounts of information than other systems of international
+    <xref articleid="117755">
+     telecommunications
+    </xref>
+    . Another advantage of optical fibre communication systems is that transmissions cannot easily be intercepted and are not disturbed by lower atmospheric and
+    <xref articleid="69919">
+     stratospheric
+    </xref>
+    disturbances.
+   </p>
+   <p>
+    Optical fibres integrated with miniature semiconductor lasers and light-emitting diodes, as well as with light detector arrays and photoelectronic imaging and recording materials, form the building blocks of a new optoelectronics industry. Some familiar commercial products are optoelectronic copying machines, laser printers,
+    <xref articleid="25003">
+     compact disc
+    </xref>
+    players, optical recording media, and optical disc mass-storage systems of exceedingly high bit density.
+   </p>
+  </h2>
+  <h2 id="h59185">
+   <title>
+    Ultraviolet radiation
+   </title>
+   <p>
+    The German physicist
+    <xref articleid="63787">
+     Johann Wilhelm Ritter
+    </xref>
+    , having learned of
+    <xref articleid="40235">
+     Herschel’s
+    </xref>
+    discovery of
+    <xref articleid="42403">
+     infrared waves
+    </xref>
+    , looked beyond the violet end of the visible spectrum of the
+    <xref articleid="110144">
+     Sun
+    </xref>
+    and found (in 1801) that there exist invisible rays that darken
+    <xref articleid="67807">
+     silver
+    </xref>
+    chloride even more efficiently than visible light. This spectral region extending between visible light and
+    <xref articleid="77656">
+     X-rays
+    </xref>
+    is designated ultraviolet. Sources of this form of electromagnetic radiation are hot objects like the Sun,
+    <xref articleid="70743">
+     synchrotron radiation
+    </xref>
+    sources,
+    <xref articleid="52104">
+     mercury
+    </xref>
+    or
+    <xref articleid="77677">
+     xenon
+    </xref>
+    arc lamps, and gaseous discharge tubes filled with
+    <xref articleid="110302">
+     gas
+    </xref>
+    <xref articleid="110411">
+     atoms
+    </xref>
+    (e.g., mercury,
+    <xref articleid="30119">
+     deuterium
+    </xref>
+    , or
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    ) that have internal electron energy levels which correspond to the photons of ultraviolet light.
+   </p>
+   <p>
+    When ultraviolet light strikes certain materials, it causes them to
+    <xref articleid="472350">
+     fluoresce
+    </xref>
+    —i.e., they emit electromagnetic radiation of lower energy, such as visible light. The spectrum of fluorescent light is characteristic of a material’s composition and thus can be used for screening
+    <xref articleid="109683">
+     minerals
+    </xref>
+    , detecting
+    <xref articleid="110416">
+     bacteria
+    </xref>
+    in spoiled food, identifying
+    <xref articleid="59993">
+     pigments
+    </xref>
+    , or detecting forgeries of artworks and other objects (the aged surfaces of ancient
+    <xref articleid="50758">
+     marble
+    </xref>
+    sculptures, for instance, fluoresce yellow-green, whereas a freshly cut marble surface fluoresces bright violet).
+   </p>
+   <p>
+    Optical instruments for the ultraviolet region are made of special materials, such as
+    <xref articleid="62182">
+     quartz
+    </xref>
+    , certain
+    <xref articleid="67760">
+     silicates
+    </xref>
+    , and
+    <xref articleid="52266">
+     metal
+    </xref>
+    fluorides, which are transparent at least in the near ultraviolet. Far-ultraviolet radiation is absorbed by nearly all gases and materials and thus requires reflection optics in vacuum chambers.
+   </p>
+   <p>
+    Ultraviolet radiation is detected by photographic plates and by means of the
+    <xref articleid="59805">
+     photoelectric effect
+    </xref>
+    in
+    <xref articleid="59816">
+     photomultiplier tubes
+    </xref>
+    . Also, ultraviolet radiation can be converted to visible light by fluorescence before detection.
+   </p>
+   <p>
+    The relatively high energy of ultraviolet light gives rise to certain
+    <xref articleid="110114">
+     photochemical reactions
+    </xref>
+    . This characteristic is exploited to produce cyanotype impressions on fabrics and for blueprinting design drawings. Here, the fabric or paper is treated with a mixture of chemicals that react upon exposure to ultraviolet light to form an insoluble blue compound. Electronic excitations caused by ultraviolet radiation also produce changes in the colour and transparency of photosensitive and photochromic glasses. Photochemical and photostructural changes in certain
+    <xref articleid="60700">
+     polymers
+    </xref>
+    constitute the basis for photolithography and the processing of the microelectronic circuits.
+   </p>
+   <p>
+    Although invisible to the eyes of humans and most
+    <xref articleid="110433">
+     vertebrates
+    </xref>
+    , near-ultraviolet light can be seen by many
+    <xref articleid="105953">
+     insects
+    </xref>
+    .
+    <xref articleid="18342">
+     Butterflies
+    </xref>
+    and many
+    <xref articleid="34656">
+     flowers
+    </xref>
+    that appear to have identical colour patterns under visible light are distinctly different when viewed under the ultraviolet rays perceptible to insects.
+   </p>
+   <p>
+    An important difference between ultraviolet light and electromagnetic radiation of lower frequencies is the ability of the former to ionize, meaning that it can knock an electron out from atoms and molecules. All high-frequency electromagnetic radiation beyond the visible—i.e., ultraviolet light, X-rays, and gamma rays—is ionizing and therefore harmful to body
+    <xref articleid="72629">
+     tissues
+    </xref>
+    , living
+    <xref articleid="106125">
+     cells
+    </xref>
+    , and
+    <xref articleid="30730">
+     DNA
+    </xref>
+    (deoxyribonucleic acid). The harmful effects of ultraviolet light to humans and larger animals are mitigated by the fact that this form of radiation does not penetrate much further than the
+    <xref articleid="106316">
+     skin
+    </xref>
+    .
+   </p>
+   <p>
+    The body of a sunbather is struck by 10
+    <sup>
+     21
+    </sup>
+    photons every second, and 1 percent of these, or more than a billion billion per second, are photons of ultraviolet radiation. Tanning and natural body pigments help to protect the skin to some degree, preventing the destruction of skin cells by ultraviolet light. Nevertheless, overexposure to the ultraviolet component of sunlight can cause
+    <xref articleid="126102">
+     skin cancer
+    </xref>
+    ,
+    <xref articleid="20772">
+     cataracts
+    </xref>
+    of the eyes, and damage to the body’s
+    <xref articleid="109569">
+     immune system
+    </xref>
+    . Fortunately, a
+    <xref articleid="57880">
+     layer of ozone
+    </xref>
+    (O
+    <sub>
+     3
+    </sub>
+    ) in the
+    <xref articleid="69919">
+     stratosphere
+    </xref>
+    absorbs the most-damaging ultraviolet rays, which have wavelengths of 2000 and 2900
+    <xref articleid="7606">
+     angstroms
+    </xref>
+    (one angstrom [Å] = 10
+    <sup>
+     −10
+    </sup>
+    metre), and attenuates those with wavelengths between 2900 and 3150 Å. Without this protective layer of ozone, life on Earth would not be possible. The ozone layer is produced at an altitude of about 10 to 50 km (6 to 30 miles) above Earth’s surface by a reaction between upward-diffusing molecular
+    <xref articleid="57841">
+     oxygen
+    </xref>
+    (O
+    <sub>
+     2
+    </sub>
+    ) and downward-diffusing ionized atomic oxygen (O
+    <sup>
+     +
+    </sup>
+    ). In the late 20th century this life-protecting stratospheric
+    <xref articleid="488058">
+     ozone layer was reduced
+    </xref>
+    by
+    <xref articleid="82243">
+     chlorine
+    </xref>
+    atoms in
+    <xref articleid="82249">
+     chlorofluorocarbon
+    </xref>
+    (or
+    <xref articleid="35364">
+     Freon
+    </xref>
+    ) gases released into the
+    <xref articleid="126202">
+     atmosphere
+    </xref>
+    by aerosol propellants, air-conditioner coolants, solvents used in the manufacture of
+    <xref articleid="106023">
+     electronic
+    </xref>
+    components, and other sources. Limits were placed on the sale of ozone-depleting chemicals, and the ozone layer was expected to recover eventually.
+   </p>
+   <p>
+    Ionized atomic oxygen,
+    <xref articleid="55947">
+     nitrogen
+    </xref>
+    , and
+    <xref articleid="55939">
+     nitric oxide
+    </xref>
+    are produced in the upper atmosphere by absorption of solar ultraviolet radiation. This ionized region is the
+    <xref articleid="42708">
+     ionosphere
+    </xref>
+    , which affects radio communications and reflects and absorbs radio waves of frequencies below 40 MHz.
+   </p>
+  </h2>
+  <h2 id="h59186">
+   <title>
+    X-rays
+   </title>
+   <p>
+    <assembly id="a117093" url="/assembly/view/117093">
+     <title>
+      metatarsal
+     </title>
+     <media mediaid="123537" type="image" url="/37/123537-004-88393FF7.jpg"/>
+     <caption>
+      X-ray showing metatarsal bones of a foot.
+     </caption>
+     <credit>
+      © stockdevil —iStock/Getty Images
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a117093"/>
+    The German physicist
+    <xref articleid="83885">
+     Wilhelm Conrad Röntgen
+    </xref>
+    discovered X-rays in 1895 by accident while studying
+    <xref articleid="21821">
+     cathode rays
+    </xref>
+    in a low-pressure gas discharge tube. (A few years later
+    <xref articleid="72205">
+     J.J. Thomson
+    </xref>
+    of England showed that cathode rays were
+    <xref articleid="32316">
+     electrons
+    </xref>
+    emitted from the negative electrode [cathode] of the discharge tube.) Röntgen noticed the
+    <xref articleid="472350">
+     fluorescence
+    </xref>
+    of a
+    <xref articleid="13372">
+     barium
+    </xref>
+    platinocyanide screen that happened to lie near the discharge tube. He traced the source of the hitherto undetected form of radiation to the point where the cathode rays hit the wall of the discharge tube, and he mistakenly concluded from his inability to observe
+    <xref articleid="63017">
+     reflection
+    </xref>
+    or
+    <xref articleid="63033">
+     refraction
+    </xref>
+    that his new rays were unrelated to light. Because of his uncertainty about their nature, he called them X-radiation. This early failure can be attributed to the very short wavelengths of X-rays (10
+    <sup>
+     −8
+    </sup>
+    to 10
+    <sup>
+     −11
+    </sup>
+    cm), which correspond to
+    <xref articleid="59817">
+     photon
+    </xref>
+    energies from 200 to 100,000 eV. In 1912 another German physicist,
+    <xref articleid="47327">
+     Max von Laue
+    </xref>
+    , realized that the regular arrangement of
+    <xref articleid="110411">
+     atoms
+    </xref>
+    in
+    <xref articleid="110297">
+     crystals
+    </xref>
+    should provide a natural grating of the right spacing (about 10
+    <sup>
+     −8
+    </sup>
+    cm) to produce an interference pattern on a photographic plate when X-rays pass through such a crystal. The success of this experiment, carried out by Walter Friedrich and Paul Knipping, not only identified X-rays with electromagnetic radiation but also initiated the use of X-rays for studying the detailed atomic structure of crystals. The interference of
+    <xref articleid="77657">
+     X-rays diffracted
+    </xref>
+    in certain directions from crystals in so-called X-ray diffractometers, in turn, permits the dissection of X-rays into their different frequencies, just as a prism diffracts and spreads the various colours of light. The spectral composition and characteristic frequencies of X-rays emitted by a given X-ray source can thus be measured. As in optical
+    <xref articleid="110407">
+     spectroscopy
+    </xref>
+    , the X-ray photons emitted correspond to the differences of the internal electronic energies in atoms and molecules. Because of their much higher energies, however, X-ray photons are associated with the inner-shell electrons close to the atomic
+    <xref articleid="56462">
+     nuclei
+    </xref>
+    , whereas optical absorption and emission are related to the outermost electrons in atoms or in materials in general. Since the outer electrons are used for
+    <xref articleid="110108">
+     chemical bonding
+    </xref>
+    while the energies of inner-shell electrons remain essentially unaffected by atomic bonding, the identity and quantity of elements that make up a material are more accurately determined by the emission, absorption, or fluorescence of X-rays than of photons of visible or ultraviolet light.
+   </p>
+   <p>
+    The contrast between body parts in medical X-ray photographs (radiographs) is produced by the different scattering and absorption of X-rays by
+    <xref articleid="110163">
+     bones
+    </xref>
+    and
+    <xref articleid="72629">
+     tissues
+    </xref>
+    . Within months of Röntgen’s discovery of X-rays and his first X-ray photograph of his wife’s hand, this form of electromagnetic radiation became indispensable in orthopedic and dental medicine. The use of X-rays for obtaining images of the body’s interior has undergone considerable development over the years and has culminated in the highly sophisticated procedure known as
+    <xref articleid="25056">
+     computed tomography
+    </xref>
+    (CAT;
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="109464">
+     radiation
+    </xref>
+    ).
+   </p>
+   <p>
+    Notwithstanding their usefulness in medical diagnosis, the ability of X-rays to ionize atoms and molecules and their penetrating power make them a potential health hazard. Exposure of body cells and tissue to large doses of such ionizing radiation can result in abnormalities in
+    <xref articleid="30730">
+     DNA
+    </xref>
+    that may lead to
+    <xref articleid="106118">
+     cancer
+    </xref>
+    and
+    <xref articleid="15389">
+     birth defects
+    </xref>
+    . (For a detailed treatment of the effects of X-rays and other forms of ionizing radiation on human health and the levels of such radiation encountered in daily life,
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="109464">
+     radiation: Biological effects of ionizing radiation.
+    </xref>
+    )
+   </p>
+   <p>
+    X-rays are produced in X-ray tubes by the deceleration of energetic electrons (
+    <xref articleid="16345">
+     bremsstrahlung
+    </xref>
+    ) as they hit a metal target or by accelerating electrons moving at
+    <xref articleid="109465">
+     relativistic
+    </xref>
+    velocities in circular orbits (
+    <xref articleid="70743">
+     synchrotron radiation
+    </xref>
+    ;
+    <e type="italic">
+     see above
+    </e>
+    <xref articleid="106022" refid="h59913">
+     Continuous spectra of electromagnetic radiation
+    </xref>
+    ). They are detected by their
+    <xref articleid="110114">
+     photochemical
+    </xref>
+    action in photographic emulsions or by their ability to ionize gas atoms. Every X-ray photon produces a burst of electrons and
+    <xref articleid="42688">
+     ions
+    </xref>
+    , resulting in a current pulse. By counting the rate of such current pulses per second, the intensity of a flux of X-rays can be measured. Instruments used for this purpose are called
+    <xref articleid="36306">
+     Geiger counters
+    </xref>
+    .
+   </p>
+   <p>
+    <xref articleid="77660">
+     X-ray astronomy
+    </xref>
+    has revealed very strong sources of X-rays in deep space. In the
+    <xref articleid="110643">
+     Milky Way Galaxy
+    </xref>
+    , of which the
+    <xref articleid="110143">
+     solar system
+    </xref>
+    is a part, the most-intense sources are certain double-star systems in which one of the two
+    <xref articleid="110472">
+     stars
+    </xref>
+    is thought to be either a compact
+    <xref articleid="55410">
+     neutron star
+    </xref>
+    or a
+    <xref articleid="15483">
+     black hole
+    </xref>
+    . The ionized gas of the circling companion star falls by gravitation into the compact star, generating X-rays that may be more than 1,000 times as intense as the total amount of light emitted by the
+    <xref articleid="110144">
+     Sun
+    </xref>
+    . At the moment of their explosion,
+    <xref articleid="70402">
+     supernovae
+    </xref>
+    emit a good fraction of their energy in a burst of X-rays.
+   </p>
+  </h2>
+  <h2 id="h59187">
+   <title>
+    Gamma rays
+   </title>
+   <p>
+    Six years after the discovery of
+    <xref articleid="110413">
+     radioactivity
+    </xref>
+    (1896) by
+    <xref articleid="14051">
+     Henri Becquerel
+    </xref>
+    of France, the New Zealand-born British physicist
+    <xref articleid="109507">
+     Ernest Rutherford
+    </xref>
+    found that three different kinds of radiation are emitted in the decay of radioactive substances; these he called
+    <xref articleid="5891">
+     alpha
+    </xref>
+    ,
+    <xref articleid="78955">
+     beta
+    </xref>
+    , and
+    <xref articleid="35974">
+     gamma rays
+    </xref>
+    in sequence of their ability to penetrate matter. The alpha particles were found to be identical with the
+    <xref articleid="56462">
+     nuclei
+    </xref>
+    of
+    <xref articleid="1713">
+     helium
+    </xref>
+    <xref articleid="110411">
+     atoms
+    </xref>
+    , and the beta rays were identified as
+    <xref articleid="32316">
+     electrons
+    </xref>
+    . In 1912 it was shown that the much more penetrating gamma rays have all the properties of very energetic electromagnetic radiation, or photons. Gamma-ray photons are between 10,000 and 10,000,000 times more energetic than the photons of visible light when they originate from radioactive atomic nuclei. Gamma rays with a million million times higher energy make up a very small part of the
+    <xref articleid="26471">
+     cosmic rays
+    </xref>
+    that reach
+    <xref articleid="110147">
+     Earth
+    </xref>
+    from
+    <xref articleid="70402">
+     supernovae
+    </xref>
+    or from other
+    <xref articleid="110642">
+     galaxies
+    </xref>
+    . The origin of the most-energetic gamma rays is not yet known.
+   </p>
+   <p>
+    <assembly id="a1373" url="/assembly/view/1373">
+     <title>
+      radioactive decay of sodium-24
+     </title>
+     <media mediaid="282" type="image" url="/82/282-004-09E5FFE4.jpg"/>
+     <caption>
+      Decay scheme of a radioactive sodium-24 (
+      <sup>
+       24
+      </sup>
+      Na) nucleus. With a half-life of 15 hours, it decays by beta decay to an excited magnesium-24 (
+      <sup>
+       24
+      </sup>
+      Mg) nucleus. Two gamma rays are rapidly emitted, and the excitation energy is carried off, whereby the stable ground state of magnesium-24 is reached.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    During radioactive decay, an unstable nucleus usually emits alpha particles, electrons, gamma rays, and
+    <xref articleid="55405">
+     neutrinos
+    </xref>
+    spontaneously. In
+    <xref articleid="110414">
+     nuclear fission
+    </xref>
+    , the unstable nucleus breaks into fragments, which are themselves complex nuclei, along with such particles as
+    <xref articleid="55406">
+     neutrons
+    </xref>
+    and
+    <xref articleid="61626">
+     protons
+    </xref>
+    . The resultant stable nuclei or nuclear fragments are usually in a highly excited state and then reach their low-energy ground state by emitting one or more gamma rays. Such a decay scheme is shown schematically in
+    <assemblyref assemblyid="a1373">
+     Figure 7
+    </assemblyref>
+    for the unstable nucleus
+    <xref articleid="68494">
+     sodium
+    </xref>
+    -24 (
+    <sup>
+     24
+    </sup>
+    Na). Much of what is known about the internal structure and energies of nuclei has been obtained from the emission or resonant absorption of gamma rays by nuclei. Absorption of gamma rays by nuclei can cause them to eject neutrons or alpha particles or it can even split a nucleus like a bursting bubble in what is called photodisintegration. A gamma particle hitting a
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    nucleus (that is, a proton), for example, produces a positive pi-meson and a neutron or a neutral pi-meson and a proton. Neutral pi-mesons, in turn, have a very brief mean life of 1.8 × 10
+    <sup>
+     −16
+    </sup>
+    second and decay into two gamma rays of energy
+    <e type="italic">
+     h
+    </e>
+    ν ≈ 70 MeV. When an energetic gamma ray
+    <e type="italic">
+     h
+    </e>
+    ν &gt; 1.02 MeV passes a nucleus, it may disappear while creating an electron–
+    <xref articleid="61025">
+     positron
+    </xref>
+    pair. Gamma photons interact with matter by discrete elementary processes that include resonant absorption, photodisintegration, ionization, scattering (
+    <xref articleid="25044">
+     Compton scattering
+    </xref>
+    ), or pair production.
+   </p>
+   <p>
+    Gamma rays are detected by their ability to ionize
+    <xref articleid="110302">
+     gas
+    </xref>
+    atoms or to create electron–hole pairs in
+    <xref articleid="66711">
+     semiconductors
+    </xref>
+    or
+    <xref articleid="42511">
+     insulators
+    </xref>
+    . By counting the rate of charge pulses or voltage pulses or by measuring the scintillation of the light emitted by the subsequently recombining electron–hole pairs, one can determine the number and energy of gamma rays striking an ionization detector or
+    <xref articleid="1249">
+     scintillation counter
+    </xref>
+    .
+   </p>
+   <p>
+    Both the specific energy of the gamma-ray photon emitted as well as the
+    <xref articleid="38880">
+     half-life
+    </xref>
+    of the specific radioactive decay process that yields the photon identify the type of nuclei at hand and their concentrations. By bombarding stable nuclei with neutrons, one can artificially convert more than 70 different stable nuclei into radioactive nuclei and use their characteristic gamma emission for purposes of identification, for impurity analysis of
+    <xref articleid="110658">
+     metallurgical
+    </xref>
+    specimens (neutron-activation analysis), or as radioactive tracers with which to determine the functions or malfunctions of human organs, to follow the life cycles of organisms, or to determine the effects of chemicals on biological systems and
+    <xref articleid="108554">
+     plants
+    </xref>
+    .
+   </p>
+   <p>
+    The great penetrating power of gamma rays stems from the fact that they have no
+    <xref articleid="32271">
+     electric charge
+    </xref>
+    and thus do not interact with matter as strongly as do charged particles. Because of their penetrating power gamma rays can be used for radiographing holes and defects in
+    <xref articleid="52266">
+     metal
+    </xref>
+    castings and other structural parts. At the same time, this property makes gamma rays extremely hazardous. The lethal effect of this form of ionizing radiation makes it useful for sterilizing medical supplies that cannot be sanitized by boiling or for killing organisms that cause food spoilage. More than 50 percent of the ionizing radiation to which humans are exposed comes from natural
+    <xref articleid="62436">
+     radon
+    </xref>
+    gas, which is an end product of the radioactive decay chain of natural radioactive substances in minerals. Radon escapes from the ground and enters the environment in varying amounts.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h11353">
+  <title>
+   Historical survey
+  </title>
+  <h2 id="h11354">
+   <title>
+    Development of the classical radiation theory
+   </title>
+   <p>
+    The classical electromagnetic radiation theory “remains for all time one of the greatest triumphs of human intellectual endeavor.” So said
+    <xref articleid="108525">
+     Max Planck
+    </xref>
+    in 1931, commemorating the 100th anniversary of the birth of the Scottish physicist
+    <xref articleid="108468">
+     James Clerk Maxwell
+    </xref>
+    , the prime originator of this theory. The theory was indeed of great significance, for it not only united the phenomena of
+    <xref articleid="106019">
+     electricity
+    </xref>
+    ,
+    <xref articleid="106020">
+     magnetism
+    </xref>
+    , and
+    <xref articleid="110443">
+     light
+    </xref>
+    in a unified framework but also was a fundamental revision of the then-accepted
+    <xref articleid="108764">
+     Newtonian
+    </xref>
+    way of thinking about the forces in the physical universe. The development of the classical radiation theory constituted a conceptual revolution that lasted for nearly half a century. It began with the seminal work of the British physicist and chemist
+    <xref articleid="109756">
+     Michael Faraday
+    </xref>
+    , who published his article “Thoughts on Ray Vibrations” in
+    <e type="italic">
+     Philosophical Magazine
+    </e>
+    in May 1846, and came to fruition in 1888 when
+    <xref articleid="40253">
+     Hertz
+    </xref>
+    succeeded in generating electromagnetic waves at
+    <xref articleid="473149">
+     radio
+    </xref>
+    and
+    <xref articleid="52523">
+     microwave
+    </xref>
+    frequencies and measuring their properties.
+   </p>
+   <h3 id="h11355">
+    <title>
+     Wave theory and corpuscular theory
+    </title>
+    <p>
+     The Newtonian view of the universe may be described as a mechanistic interpretation. All components of the universe, small or large, obey the
+     <xref articleid="55622">
+      laws of mechanics
+     </xref>
+     , and all phenomena are in the last analysis based on matter in motion. A conceptual difficulty in Newtonian mechanics, however, is the way in which the
+     <xref articleid="106265">
+      gravitational
+     </xref>
+     force between two massive objects acts over a distance across empty space. Newton did not address this question, but many of his contemporaries hypothesized that the gravitational force was mediated through an invisible and frictionless medium which
+     <xref articleid="108312">
+      Aristotle
+     </xref>
+     had called the
+     <xref articleid="33121">
+      ether
+     </xref>
+     (or aether). The problem is that everyday experience of natural phenomena shows mechanical things to be moved by forces which make contact. Any cause and effect without a discernible contact, or “action at a distance,” contradicts common sense and has been an unacceptable notion since antiquity. Whenever the nature of the transmission of certain actions and effects over a distance was not yet understood, the ether was resorted to as a conceptual solution of the transmitting medium. By necessity, any description of how the ether functioned remained vague, but its existence was required by common sense and thus not questioned.
+    </p>
+    <p>
+     In Newton’s day, light was one phenomenon, besides gravitation, whose effects were apparent at large distances from its source. Newton contributed greatly to the scientific knowledge of light. His experiments revealed that white light is a composite of many colours, which can be dispersed by a prism and reunited to again yield white light. The propagation of light along straight lines convinced him that it consists of tiny particles which emanate at high or infinite speed from the light source. The first observation from which a finite
+     <xref articleid="471069">
+      speed of light
+     </xref>
+     was deduced was made soon thereafter, in 1676, by the Danish astronomer
+     <xref articleid="83854">
+      Ole Rømer
+     </xref>
+     (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="106022" refid="h11358">
+      Speed of light
+     </xref>
+     ).
+    </p>
+    <p>
+     Observations of two phenomena strongly suggested that light propagates as waves. One of these involved interference by thin films, which was discovered in England independently by
+     <xref articleid="16071">
+      Robert Boyle
+     </xref>
+     and
+     <xref articleid="40979">
+      Robert Hooke
+     </xref>
+     . The other had to do with the
+     <xref articleid="30419">
+      diffraction
+     </xref>
+     of light in the geometric shadow of an opaque screen. The latter was also discovered by Hooke, who published a wave theory of light in 1665 to explain it.
+    </p>
+    <p>
+     The Dutch scientist
+     <xref articleid="41658">
+      Christiaan Huygens
+     </xref>
+     greatly improved the wave theory and explained
+     <xref articleid="63017">
+      reflection
+     </xref>
+     and
+     <xref articleid="63033">
+      refraction
+     </xref>
+     in terms of what is now called
+     <xref articleid="41660">
+      Huygens’ principle.
+     </xref>
+     According to this principle (published in 1690), each point on a wave front in the hypothetical ether or in an optical medium is a source of a new spherical light wave and the wave front is the envelope of all the individual wavelets that originate from the old wave front.
+    </p>
+    <p>
+     In 1669 another Danish scientist,
+     <xref articleid="13525">
+      Erasmus Bartholin
+     </xref>
+     , discovered the
+     <xref articleid="60596">
+      polarization
+     </xref>
+     of light by
+     <xref articleid="1617">
+      double refraction
+     </xref>
+     in Iceland spar (
+     <xref articleid="109693">
+      calcite
+     </xref>
+     ). This finding had a profound effect on the conception of the nature of light. At that time, the only
+     <xref articleid="473598">
+      waves
+     </xref>
+     known were those of
+     <xref articleid="109557">
+      sound
+     </xref>
+     , which are longitudinal. It was inconceivable to both Newton and Huygens that light could consist of transverse waves in which vibrations are perpendicular to the direction of propagation. Huygens gave a satisfactory account of double refraction by proposing that the asymmetry of the structure of Iceland spar causes the secondary wavelets to be ellipsoidal instead of spherical in his
+     <xref articleid="76317">
+      wave front
+     </xref>
+     construction. Since Huygens believed in longitudinal waves, he failed, however, to understand the phenomena associated with polarized light. Newton, on the other hand, used these phenomena as the bases for an additional argument for his corpuscular theory of light. Particles, he argued in 1717, have “sides” and can thus exhibit properties that depend on the directions perpendicular to the direction of motion.
+    </p>
+    <p>
+     It may be surprising that Huygens did not make use of the phenomenon of interference to support his wave theory; but for him waves were actually pulses instead of periodic waves with a certain wavelength. One should bear in mind that the word wave may have a very different conceptual meaning and convey different images at various times to different people.
+    </p>
+    <p>
+     It took nearly a century before a new wave theory was formulated by the physicists
+     <xref articleid="78063">
+      Thomas Young
+     </xref>
+     of England and
+     <xref articleid="35384">
+      Augustin-Jean Fresnel
+     </xref>
+     of France. Based on his experiments on
+     <xref articleid="42544">
+      interference
+     </xref>
+     , Young realized for the first time that light is a transverse wave. Fresnel then succeeded in explaining all optical phenomena known at the beginning of the 19th century with a new wave theory. No proponents of the corpuscular light theory remained. Nonetheless, it is always satisfying when a competing theory is discarded on grounds that one of its principal predictions is contradicted by experiment. The corpuscular theory explained the refraction of light passing from a medium of given density to a denser one in terms of the attraction of light particles into the latter. This means the light velocity should be larger in the denser medium. Huygens’ construction of wave fronts waving across the boundary between two optical media predicted the opposite—that is to say, a smaller light velocity in the denser medium. The measurement of the light velocity in air and water by
+     <xref articleid="34454">
+      Armand-Hippolyte-Louis Fizeau
+     </xref>
+     and independently by
+     <xref articleid="35012">
+      Léon Foucault
+     </xref>
+     during the mid-19th century decided the case in favour of the wave theory (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="106022" refid="h11358">
+      Speed of light
+     </xref>
+     ).
+    </p>
+    <p>
+     The transverse wave nature of light implied that the ether must be a solid elastic medium. The larger velocity of light suggested, moreover, a great elastic stiffness of this medium. Yet, it was recognized that all celestial bodies move through the ether without encountering such difficulties as friction. These conceptual problems remained unsolved until the beginning of the 20th century.
+    </p>
+    <signature>
+     Hellmut Fritzsche
+    </signature>
+   </h3>
+   <h3 id="h11356">
+    <title>
+     Relation between electricity and magnetism
+    </title>
+    <p>
+     As early as 1760 the Swiss-born mathematician
+     <xref articleid="33216">
+      Leonhard Euler
+     </xref>
+     suggested that the same
+     <xref articleid="33121">
+      ether
+     </xref>
+     that propagates
+     <xref articleid="110443">
+      light
+     </xref>
+     is responsible for electrical phenomena. In comparison with both
+     <xref articleid="110307">
+      mechanics
+     </xref>
+     and
+     <xref articleid="108567">
+      optics
+     </xref>
+     , however, the science of
+     <xref articleid="106019">
+      electricity
+     </xref>
+     was slow to develop.
+     <xref articleid="106020">
+      Magnetism
+     </xref>
+     was the one science that made progress in the
+     <xref articleid="52537">
+      Middle Ages
+     </xref>
+     , following the introduction from China into the West of the magnetic
+     <xref articleid="25014">
+      compass
+     </xref>
+     , but
+     <xref articleid="106021">
+      electromagnetism
+     </xref>
+     played little part in the scientific revolution of the 17th century. It was, however, the only part of physics in which very significant progress was made during the 18th century. By the end of that century the laws of electrostatics—the behaviour of charged particles at rest—were well known, and the stage was set for the development of the elaborate mathematical description first made by the French mathematician
+     <xref articleid="60562">
+      Siméon-Denis Poisson
+     </xref>
+     . There was no apparent connection of electricity with magnetism, except that magnetic poles, like
+     <xref articleid="32271">
+      electric charges
+     </xref>
+     , attract and repel with an inverse-square law force.
+    </p>
+    <p>
+     Following the discoveries in
+     <xref articleid="32297">
+      electrochemistry
+     </xref>
+     (the chemical effects of
+     <xref articleid="32273">
+      electrical current
+     </xref>
+     ) by the Italian investigators
+     <xref articleid="35937">
+      Luigi Galvani
+     </xref>
+     , a physiologist, and
+     <xref articleid="75699">
+      Alessandro Volta
+     </xref>
+     , a physicist, interest turned to current electricity. A search was made by the Danish physicist
+     <xref articleid="57470">
+      Hans Christian Ørsted
+     </xref>
+     for some connection between
+     <xref articleid="32273">
+      electric currents
+     </xref>
+     and
+     <xref articleid="106020">
+      magnetism
+     </xref>
+     , and during the winter of 1819–20 he observed the effect of a current on a magnetic needle. Members of the French Academy learned about Ørsted’s discovery in September 1820, and several of them began to investigate it further. Of these, the most thorough in both experiment and theory was the physicist
+     <xref articleid="7234">
+      André-Marie Ampère
+     </xref>
+     , who may be called the father of electrodynamics.
+    </p>
+    <p>
+     The list of four fundamental empirical laws of electricity and magnetism was made complete with the discovery of
+     <xref articleid="42355">
+      electromagnetic induction
+     </xref>
+     by
+     <xref articleid="33716">
+      Faraday
+     </xref>
+     in 1831. In brief, a change in magnetic flux through a conducting circuit produces a current in the circuit. The observation that the induced current is in a direction to oppose the change that produces it, now known as
+     <xref articleid="47780">
+      Lenz’s law
+     </xref>
+     , was formulated by a Russian-born physicist, Heinrich Friedrich Emil Lenz, in 1834. When the laws were put into mathematical form by Maxwell, the law of induction was generalized to include the production of electric force in space, independent of actual conducting circuits, but was otherwise unchanged. On the other hand, Ampère’s law describing the magnetic effect of a current required amendment in order to be consistent with the conservation of charge (the total charge must remain constant) in the presence of changing electric fields, and Maxwell introduced the idea of “displacement current” to make the set of equations logically consistent. As a result, he found on combining the equations that he arrived at a wave equation, according to which transverse electric and magnetic disturbances were propagated with a velocity that could be calculated from electrical measurements. These measurements were available to Maxwell, having been made in 1856 by the German physicists Rudolph Hermann Arndt Kohlrausch and
+     <xref articleid="76390">
+      Wilhelm Eduard Weber
+     </xref>
+     , and his calculation gave him a result that was the same, within the limits of error, as the
+     <xref articleid="471069">
+      speed of light
+     </xref>
+     in vacuum. It was the coincidence of this value with the velocity of the waves predicted by his theory that convinced Maxwell of the electromagnetic nature of light.
+    </p>
+    <signature>
+     Melba Phillips
+    </signature>
+    <signature>
+     Hellmut Fritzsche
+    </signature>
+   </h3>
+   <h3 id="h11357">
+    <title>
+     The electromagnetic wave and field concept
+    </title>
+    <p>
+     Faraday introduced the concept of field and of field lines of force that exist outside material bodies. As he explained it, the region around and outside a magnet or an electric charge contains a field that describes at any location the force experienced by another small magnet or charge placed there. The lines of force around a magnet can be made visible by iron filings sprayed on a paper that is held over the magnet. The concept of field, specifying as it does a certain possible action or force at any location in space, was the key to understanding electromagnetic phenomena. It should be mentioned parenthetically that the field concept also plays (in varied forms) a pivotal role in modern theories of particles and forces.
+    </p>
+    <p>
+     Besides introducing this important concept of
+     <xref articleid="32278">
+      electric
+     </xref>
+     and
+     <xref articleid="50022">
+      magnetic field
+     </xref>
+     lines of force, Faraday had the extraordinary insight that electrical and magnetic actions are not transmitted instantaneously but after a certain lag in time, which increases with distance from the source. Moreover, he realized the connection between
+     <xref articleid="106020">
+      magnetism
+     </xref>
+     and
+     <xref articleid="110443">
+      light
+     </xref>
+     after observing that a substance such as
+     <xref articleid="36988">
+      glass
+     </xref>
+     can rotate the plane of
+     <xref articleid="60596">
+      polarization
+     </xref>
+     of light in the presence of a magnetic field. This remarkable phenomenon is known as the
+     <xref articleid="33717">
+      Faraday effect
+     </xref>
+     .
+    </p>
+    <p>
+     As noted above,
+     <xref articleid="108468">
+      Maxwell
+     </xref>
+     formulated a quantitative theory that linked the fundamental phenomena of
+     <xref articleid="106019">
+      electricity
+     </xref>
+     and magnetism and that predicted electromagnetic waves propagating with a speed, which, as well as one could determine at that time, was identical with the speed of light. He concluded his paper “On the Physical Lines of Force” (1861–62) by saying that electricity may be disseminated through space with properties identical with those of light. In 1864 Maxwell wrote that the numerical factor linking the electrostatic and the magnetic units was very close to the speed of light and that these results “show that light and magnetism are affections of the same substance, and that light is an electromagnetic disturbance propagated through the field according to [his] electromagnetic laws.”
+    </p>
+    <p>
+     What more was needed to convince the scientific community that the mystery of light was solved and the phenomena of electricity and magnetism were unified in a grand theory? Why did it take 25 more years for Maxwell’s theory to be accepted? For one, there was little direct proof of the new theory. Furthermore, Maxwell not only had adopted a complicated formalism but also explained its various aspects by unusual mechanical concepts. Even though he stated that all such phrases are to be considered as illustrative and not as explanatory, the French mathematician
+     <xref articleid="60534">
+      Henri Poincaré
+     </xref>
+     remarked in 1899 that the “complicated structure” which Maxwell attributed to the ether “rendered his system strange and unattractive.”
+    </p>
+    <p>
+     The ideas of Faraday and Maxwell that the field of force has a physical existence in space independent of material media were too new to be accepted without direct proof. On the Continent, particularly in Germany, matters were further complicated by the success of
+     <xref articleid="109423">
+      Carl Friedrich Gauss
+     </xref>
+     and Wilhelm Eduard Weber in developing a potential field theory for the phenomena of electrostatics and magnetostatics and their continuing effort to extend this formalism to electrodynamics.
+    </p>
+    <p>
+     It is difficult in hindsight to appreciate the reluctance to accept the Faraday–Maxwell theory. The impasse was finally removed by
+     <xref articleid="40253">
+      Hertz’s
+     </xref>
+     work. In 1884 Hertz derived Maxwell’s theory by a new method and put
+     <xref articleid="51564">
+      its fundamental equations
+     </xref>
+     into their present-day form. In so doing, he clarified the equations, making the symmetry of electric and magnetic fields apparent. The German physicist
+     <xref articleid="68669">
+      Arnold Sommerfeld
+     </xref>
+     spoke for most of his learned colleagues when, after reading Hertz’s paper, he remarked, “the shades fell from my eyes,” and admitted that he understood electromagnetic theory for the first time. Four years later, Hertz made a second major contribution: he succeeded in generating electromagnetic radiation of
+     <xref articleid="473149">
+      radio
+     </xref>
+     and
+     <xref articleid="52523">
+      microwave
+     </xref>
+     frequencies, measuring their speed by a standing-wave method and proving that these waves have the properties of
+     <xref articleid="63017">
+      reflection
+     </xref>
+     ,
+     <xref articleid="30419">
+      diffraction
+     </xref>
+     ,
+     <xref articleid="63033">
+      refraction
+     </xref>
+     , and
+     <xref articleid="42544">
+      interference
+     </xref>
+     common to light. He showed that such electromagnetic waves can be polarized, that the electric and magnetic fields oscillate in directions that are mutually perpendicular and transverse to the direction of motion, and that their velocity is the same as the speed of light, as predicted by Maxwell’s theory.
+    </p>
+    <p>
+     Hertz’s ingenious experiments not only settled the theoretical misconceptions in favour of Maxwell’s electromagnetic field theory but also opened the way for building transmitters,
+     <xref articleid="7759">
+      antennas
+     </xref>
+     ,
+     <xref articleid="472056">
+      coaxial cables
+     </xref>
+     , and detectors for radio-frequency electromagnetic radiation. In 1896
+     <xref articleid="50813">
+      Marconi
+     </xref>
+     received the first patent for wireless telegraphy, and in 1901 he achieved transatlantic
+     <xref articleid="106101">
+      radio
+     </xref>
+     communication.
+    </p>
+    <p>
+     The Faraday–Maxwell–Hertz theory of electromagnetic radiation, which is commonly referred to as Maxwell’s theory, makes no reference to a medium in which the electromagnetic waves propagate. A wave of this kind is produced, for example, when a line of charges is moved back and forth along the line. Moving charges represent an
+     <xref articleid="32273">
+      electric current
+     </xref>
+     . In this back-and-forth motion, the current flows in one direction and then in another. As a consequence of this reversal of current direction, the magnetic field around the current (discovered by Ørsted and Ampère) has to reverse its direction. The time-varying magnetic field produces perpendicular to it a time-varying electric field, as discovered by Faraday (
+     <xref articleid="33718">
+      Faraday’s law of induction
+     </xref>
+     ). These time-varying electric and magnetic fields spread out from their source, the oscillating current, at the speed of light in free space. The oscillating current in this discussion is the oscillating current in a transmitting antenna, and the time-varying electric and magnetic fields that are perpendicular to one another propagate at the speed of light and constitute an electromagnetic wave. Its frequency is that of the oscillating charges in the antenna. Once generated, it is self-propagating because a time-varying electric field produces a time-varying magnetic field, and vice versa. Electromagnetic radiation travels through space by itself. The belief in the existence of an
+     <xref articleid="33121">
+      ether
+     </xref>
+     medium, however, was at the time of Maxwell as strong as at the time of
+     <xref articleid="108556">
+      Plato
+     </xref>
+     and
+     <xref articleid="108312">
+      Aristotle
+     </xref>
+     . It was impossible to visualize ether because contradictory properties had to be attributed to it in order to explain the phenomena known at any given time. In his article
+     <e type="smallcap">
+      Ether
+     </e>
+     in the ninth edition of the
+     <e type="italic">
+      <xref articleid="32600">
+       Encyclopædia Britannica,
+      </xref>
+     </e>
+     Maxwell described the vast expanse of the substance, some of it possibly even inside the
+     <xref articleid="60298">
+      planets
+     </xref>
+     , carried along with them or passing through them as the “water of the sea passes through the meshes of a net when it is towed along by a boat.”
+    </p>
+    <p>
+     If one believes in the ether, it is, of course, of fundamental importance to measure the speed of its motion or the effect of its motion on the speed of light. One does not know the absolute velocity of the ether, but, as
+     <xref articleid="110147">
+      Earth
+     </xref>
+     moves through its
+     <xref articleid="57286">
+      orbit
+     </xref>
+     around the
+     <xref articleid="110144">
+      Sun
+     </xref>
+     , there should be a difference in ether velocity along and perpendicular to Earth’s motion equal to its speed. If such is the case, the velocity of light and of any other electromagnetic radiation along and perpendicular to Earth’s motion should, predicted Maxwell, differ by a fraction that is equal to the square of the ratio of Earth’s velocity to that of light. This fraction is one part in 100 million.
+    </p>
+    <p>
+     <xref articleid="52478">
+      Michelson
+     </xref>
+     set out to measure this effect and, as noted above, designed for this purpose the interferometer sketched in
+     <assemblyref assemblyid="a1370">
+      Figure 4
+     </assemblyref>
+     . If it is assumed that the interferometer is turned so that half beam A is oriented parallel to Earth’s motion and half beam B is perpendicular to it, then the idea of using this instrument for measuring the effect of the ether motion is best explained by Michelson’s words to his children:
+    </p>
+    <quote>
+     <p>
+      Two beams of light race against each other, like two swimmers, one struggling upstream and back, while the other, covering the same distance, just crosses the river and returns. The second swimmer will always win, if there is any current in the river.
+     </p>
+    </quote>
+    <p>
+     An improved version of the interferometer, in which each half beam traversed its path eight times before both were reunited for interference, was built in 1887 by Michelson in collaboration with Morley. A heavy
+     <xref articleid="65483">
+      sandstone
+     </xref>
+     slab holding the interferometer was floated on a pool of
+     <xref articleid="52102">
+      mercury
+     </xref>
+     to allow rotation without vibration. Michelson and Morley could not detect any difference in the two light velocities parallel and perpendicular to Earth’s motion to an accuracy of one part in four billion. This negative result did not, however, shatter the belief in the existence of an ether because the ether could possibly be dragged along with Earth and thus be stationary around the
+     <xref articleid="52479">
+      Michelson-Morley apparatus
+     </xref>
+     . Hertz’s formulation of Maxwell’s theory made it clear that no medium of any sort was needed for the propagation of electromagnetic radiation. In spite of this, ether-drift experiments continued to be conducted until about the mid-1920s. All such tests confirmed Michelson’s negative results, and scientists finally came to accept the idea that no ether medium was needed for electromagnetic radiation.
+    </p>
+   </h3>
+   <h3 id="h11358">
+    <title>
+     Speed of light
+    </title>
+    <p>
+     Much effort has been devoted to measuring the speed of light, beginning with the aforementioned work of
+     <xref articleid="83854">
+      Rømer
+     </xref>
+     in 1676. Rømer noticed that the orbital period of
+     <xref articleid="110150">
+      Jupiter’s
+     </xref>
+     first
+     <xref articleid="53598">
+      moon
+     </xref>
+     ,
+     <xref articleid="42680">
+      Io
+     </xref>
+     , is apparently slowed as Earth and Jupiter move away from each other. The eclipses of Io occur later than expected when Jupiter is at its most remote position. This effect is understandable if light requires a finite time to reach Earth from Jupiter. From this effect, Rømer calculated the time required for light to travel from the
+     <xref articleid="110144">
+      Sun
+     </xref>
+     to Earth as 11 minutes. In 1728
+     <xref articleid="16120">
+      James Bradley
+     </xref>
+     , an English astronomer, determined the speed of light from the apparent orbital motion of
+     <xref articleid="110472">
+      stars
+     </xref>
+     that is produced by Earth’s orbital motion. He computed the time for light to reach Earth from the Sun as 8 minutes 12 seconds. The first terrestrial measurements were made in 1849 by
+     <xref articleid="34454">
+      Fizeau
+     </xref>
+     and a year later by
+     <xref articleid="35012">
+      Foucault
+     </xref>
+     .
+     <xref articleid="52478">
+      Michelson
+     </xref>
+     improved on Foucault’s method and obtained an accuracy of one part in 100,000.
+    </p>
+    <p>
+     Any measurement of velocity requires, however, a definition of the measure of length and of time. Current techniques allow a determination of the velocity of electromagnetic radiation to a substantially higher degree of precision than permitted by the unit of length that scientists had applied earlier. In 1983 the value of the speed of light was fixed at exactly 299,792,458 metres per second, and this value was adopted as a new standard. As a consequence, the
+     <xref articleid="52350">
+      metre
+     </xref>
+     was redefined as the length of the path traveled by light in a vacuum over a time interval of 1/299,792,458 of a second. Furthermore, the
+     <xref articleid="66514">
+      second
+     </xref>
+     —the international unit of time—has been based on the frequency of electromagnetic radiation emitted by a
+     <xref articleid="22171">
+      cesium
+     </xref>
+     -133
+     <xref articleid="110411">
+      atom
+     </xref>
+     .
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h11359">
+   <title>
+    Development of the quantum theory of radiation
+   </title>
+   <p>
+    After a long struggle electromagnetic wave theory had triumphed. The
+    <xref articleid="109756">
+     Faraday
+    </xref>
+    -
+    <xref articleid="108468">
+     Maxwell
+    </xref>
+    -
+    <xref articleid="40253">
+     Hertz
+    </xref>
+    theory of electromagnetic radiation seemed to be able to explain all phenomena of
+    <xref articleid="110443">
+     light
+    </xref>
+    ,
+    <xref articleid="106019">
+     electricity
+    </xref>
+    , and
+    <xref articleid="106020">
+     magnetism
+    </xref>
+    . The understanding of these phenomena enabled one to produce electromagnetic radiation of many different frequencies which had never been observed before and which opened a world of new opportunities. No one suspected that the conceptional foundations of physics were about to change again.
+   </p>
+   <h3 id="h11360">
+    <title>
+     Radiation laws and Planck’s light quanta
+    </title>
+    <p>
+     The quantum theory of absorption and emission of radiation announced in 1900 by
+     <xref articleid="470918">
+      Planck
+     </xref>
+     ushered in the era of modern physics. He proposed that all material systems can absorb or give off electromagnetic radiation only in “chunks” of energy, quanta
+     <e type="italic">
+      E,
+     </e>
+     and that these are proportional to the frequency of that radiation
+     <e type="italic">
+      E
+     </e>
+     =
+     <e type="italic">
+      hν.
+     </e>
+     (The constant of proportionality
+     <e type="italic">
+      h
+     </e>
+     is, as noted above, called
+     <xref articleid="60293">
+      Planck’s constant
+     </xref>
+     .)
+    </p>
+    <p>
+     Planck was led to this radically new insight by trying to explain the puzzling observation of the amount of electromagnetic radiation emitted by a hot body and, in particular, the dependence of the intensity of this incandescent radiation on temperature and on frequency. The quantitative aspects of the incandescent radiation constitute the radiation laws.
+    </p>
+    <p>
+     The Austrian physicist
+     <xref articleid="69525">
+      Josef Stefan
+     </xref>
+     found in 1879 that the total radiation energy per unit time emitted by a heated surface per unit area increases as the fourth power of its absolute temperature
+     <e type="italic">
+      T
+     </e>
+     (Kelvin scale). This means that the
+     <xref articleid="110144">
+      Sun’s
+     </xref>
+     surface, which is at
+     <e type="italic">
+      T
+     </e>
+     = 6,000 K, radiates per unit area (6,000/300)
+     <sup>
+      4
+     </sup>
+     = 20
+     <sup>
+      4
+     </sup>
+     = 160,000 times more electromagnetic energy than does the same area of
+     <xref articleid="110147">
+      Earth’s
+     </xref>
+     surface, which is taken to be
+     <e type="italic">
+      T
+     </e>
+     = 300 K. In 1889 another Austrian physicist,
+     <xref articleid="80519">
+      Ludwig Boltzmann
+     </xref>
+     , used the
+     <xref articleid="108582" refid="h258544">
+      second law of thermodynamics
+     </xref>
+     to derive this temperature dependence for an ideal substance that emits and absorbs all frequencies. Such an object that absorbs light of all colours looks black, and so was called a
+     <xref articleid="15527">
+      blackbody
+     </xref>
+     . The
+     <xref articleid="69526">
+      Stefan-Boltzmann law
+     </xref>
+     is written in quantitative form
+     <e type="italic">
+      W
+     </e>
+     =
+     <e type="italic">
+      σT
+     </e>
+     <sup>
+      4
+     </sup>
+     , where
+     <e type="italic">
+      W
+     </e>
+     is the radiant energy emitted per second and per unit area and the constant of proportionality is
+     <e type="italic">
+      σ
+     </e>
+     = 0.136 calories per metre
+     <sup>
+      2
+     </sup>
+     -second-K
+     <sup>
+      4
+     </sup>
+     .
+    </p>
+    <p>
+     <assembly id="a1374" url="/assembly/view/1374">
+      <title>
+       blackbody curves
+      </title>
+      <media mediaid="283" type="image" url="/83/283-004-C315EF43.jpg"/>
+      <caption>
+       Figure 8: Electromagnetic energy
+       <e type="italic">
+        dW
+       </e>
+       emitted per unit area and per second into a wavelength interval,
+       <e type="italic">
+        d
+       </e>
+       λ =one angstrom, by a blackbody at various temperatures between 3,000 and 6,000 K as a function of wavelength. The range of visible light is between the vertical dashed lines.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     The wavelength or frequency distribution of blackbody radiation was studied in the 1890s by
+     <xref articleid="76933">
+      Wilhelm Wien
+     </xref>
+     of Germany. It was his idea to use as a good approximation for the ideal blackbody an oven with a small hole. Any radiation that enters the small hole is scattered and reflected from the inner walls of the oven so often that nearly all incoming radiation is absorbed and the chance of some of it finding its way out of the hole again can be made exceedingly small. The radiation coming out of this hole is then very close to the equilibrium blackbody electromagnetic radiation corresponding to the oven temperature. Wien found that the radiative energy
+     <e type="italic">
+      dW
+     </e>
+     per wavelength interval
+     <e type="italic">
+      d
+     </e>
+     λ has a maximum at a certain wavelength λ
+     <sub>
+      <e type="italic">
+       m
+      </e>
+     </sub>
+     and that the maximum shifts to shorter wavelengths as the temperature
+     <e type="italic">
+      T
+     </e>
+     is increased, as illustrated in
+     <assemblyref assemblyid="a1374">
+      Figure 8
+     </assemblyref>
+     . He found that the product λ
+     <sub>
+      <e type="italic">
+       m
+      </e>
+     </sub>
+     <e type="italic">
+      T
+     </e>
+     is an absolute constant: λ
+     <sub>
+      <e type="italic">
+       m
+      </e>
+     </sub>
+     <e type="italic">
+      T
+     </e>
+     = 0.2898 cm-K.
+    </p>
+    <p>
+     <xref articleid="476611">
+      Wien’s law
+     </xref>
+     of the shift of the radiative power maximum to higher frequencies as the temperature is raised expresses in a quantitative form commonplace observations. Warm objects emit
+     <xref articleid="42403">
+      infrared radiation
+     </xref>
+     , which is felt by the skin; near
+     <e type="italic">
+      T
+     </e>
+     = 950 K a dull red glow can be observed; and the colour brightens to orange and yellow as the temperature is raised. The
+     <xref articleid="73778">
+      tungsten
+     </xref>
+     filament of a
+     <xref articleid="48221">
+      lightbulb
+     </xref>
+     is
+     <e type="italic">
+      T
+     </e>
+     = 2,500 K hot and emits bright light, yet the peak of its spectrum is still in the infrared according to Wien’s law. The peak shifts to the visible yellow when the temperature is
+     <e type="italic">
+      T
+     </e>
+     = 6,000 K, like that of the Sun’s surface.
+    </p>
+    <p>
+     It was the shape of Wien’s radiative energy distribution as a function of frequency that Planck tried to understand. The decrease of the radiation output at low frequency had already been explained by
+     <xref articleid="62821">
+      Lord Rayleigh
+     </xref>
+     in terms of the decrease, with lowering frequency, in the number of modes of electromagnetic radiation per frequency interval. Rayleigh, following the principle of equipartition of energy, assumed that all possible frequency modes could radiate with equal probability. Since the number of frequency modes per frequency interval continues to increase without limit with the square of the frequency, Rayleigh’s formula predicted an ever-increasing amount of radiation of higher frequencies instead of the observed maximum and subsequent fall in radiative power. A possible way out of this dilemma was to deny the high-frequency modes an equal chance to radiate. To achieve this, Planck postulated that the radiators or oscillators can emit electromagnetic radiation only in finite amounts of energy of size
+     <e type="italic">
+      E
+     </e>
+     =
+     <e type="italic">
+      hν.
+     </e>
+     At a given temperature
+     <e type="italic">
+      T
+     </e>
+     , there is then not enough thermal energy available to create and emit many large radiation quanta
+     <e type="italic">
+      hν
+     </e>
+     . More large energy quanta
+     <e type="italic">
+      hν
+     </e>
+     can be emitted, however, when the temperature is raised. Quantitatively the probability of emitting at temperature
+     <e type="italic">
+      T
+     </e>
+     an electromagnetic energy quantum
+     <e type="italic">
+      hν
+     </e>
+     is
+     <formula>
+      <inlinemedia id="i15896" mediaid="15896" url="/96/15896-004-DB4A3528.jpg"/>
+     </formula>
+     where
+     <e type="italic">
+      k
+     </e>
+     is
+     <xref articleid="80520">
+      Boltzmann’s constant
+     </xref>
+     , well known from thermodynamics. With
+     <e type="italic">
+      c
+     </e>
+     = λ
+     <e type="italic">
+      ν,
+     </e>
+     Planck’s radiation law then becomes
+     <formula>
+      <inlinemedia id="i15895" mediaid="15895" url="/95/15895-004-47A2A773.jpg"/>
+     </formula>
+    </p>
+    <p>
+     This is in superb agreement with Wien’s experimental results when the value of
+     <e type="italic">
+      h
+     </e>
+     is properly chosen to fit the results. It should be pointed out that
+     <xref articleid="60294">
+      Planck’s quantization
+     </xref>
+     refers to the oscillators of the blackbody or of heated substances. These oscillators of frequency
+     <e type="italic">
+      ν
+     </e>
+     are incapable of absorbing or emitting electromagnetic radiation except in energy chunks of size
+     <e type="italic">
+      hν
+     </e>
+     . To explain quantized absorption and emission of radiation, it seemed sufficient to quantize only the energy levels of mechanical systems. Planck did not mean to say that electromagnetic radiation itself is quantized, or, as
+     <xref articleid="106018">
+      Einstein
+     </xref>
+     later put it, “The sale of beer in pint bottles does not imply that beer exists only in indivisible pint portions.” The idea that electromagnetic radiation itself is quantized was proposed by Einstein in 1905, as described in the subsequent section.
+    </p>
+   </h3>
+   <h3 id="h11361">
+    <title>
+     Photoelectric effect
+    </title>
+    <p>
+     <assembly id="a159124" url="/assembly/view/159124">
+      <title>
+       Consider how Heinrich Hertz’s discovery of the photoelectric effect led to Albert Einstein’s theory of light
+      </title>
+      <media mediaid="151060" thumburl="/60/151060-049-3503948B.jpg" type="video" url="kfWjIqRu"/>
+      <caption>
+       Explanation of the photoelectric effect.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a159124"/>
+     <xref articleid="40253">
+      Hertz
+     </xref>
+     discovered the
+     <xref articleid="59805">
+      photoelectric effect
+     </xref>
+     (1887) quite by accident while generating electromagnetic waves and observing their propagation. His transmitter and receiver were induction coils with spark gaps. He measured the electromagnetic field strength by the maximum length of the spark of his detector. In order to observe this more accurately, he occasionally enclosed the spark gap of the receiver in a dark case. In doing so, he observed that the spark was always smaller with the case than without it. He concluded, correctly, that the light from the transmitter spark affected the electrical arcing of the receiver. He used a
+     <xref articleid="62182">
+      quartz
+     </xref>
+     prism to disperse the light of the transmitter spark and found that the
+     <xref articleid="74181">
+      ultraviolet
+     </xref>
+     part of the light spectrum was responsible for enhancing the receiver spark. Hertz took this discovery seriously because the only other effect of light on electrical phenomena known at that time was the increase in electrical conductance of the
+     <xref articleid="110602">
+      element
+     </xref>
+     <xref articleid="66662">
+      selenium
+     </xref>
+     with light exposure.
+    </p>
+    <p>
+     A year after Hertz’s discovery, it became clear that ultraviolet radiation caused the emission of negatively charged particles from solid surfaces.
+     <xref articleid="72205">
+      Thomson’s
+     </xref>
+     discovery of
+     <xref articleid="32316">
+      electrons
+     </xref>
+     (1897) and his ensuing measurement of the ratio
+     <e type="italic">
+      m
+     </e>
+     /
+     <e type="italic">
+      e
+     </e>
+     (the ratio of mass to charge) finally made it possible to identify the negative particles emitted in the photoelectric effect with electrons. This was accomplished in 1899 by J.J. Thomson and independently by Philipp Lenard, one of Hertz’s students. Lenard discovered that for a given frequency of ultraviolet radiation the maximum kinetic energy of the emitted electrons depends on the metal used rather than on the intensity of the ultraviolet light. The light intensity increases the number but not the energy of emitted electrons. Moreover, he found that for each metal there is a minimum light frequency that is needed to induce the emission of electrons. Light of a frequency lower than this minimum frequency has no effect regardless of its intensity.
+    </p>
+    <p>
+     In 1905
+     <xref articleid="106018">
+      Einstein
+     </xref>
+     published an article entitled “On a Heuristic Point of View about the Creation and Conversion of Light.” Here he deduced that electromagnetic radiation itself consists of “particles” of energy
+     <e type="italic">
+      hν
+     </e>
+     . He arrived at this conclusion by using a simple theoretical argument comparing the change in
+     <xref articleid="32727">
+      entropy
+     </xref>
+     of an ideal gas caused by an isothermal change in volume with the change in entropy of an equivalent volume change for electromagnetic radiation in accordance with
+     <xref articleid="476611">
+      Wien’s
+     </xref>
+     or
+     <xref articleid="60294">
+      Planck’s radiation law
+     </xref>
+     . This derivation and comparison made no references to substances and oscillators. At the end of this paper, Einstein concluded that if electromagnetic radiation is quantized, the absorption processes are thus quantized too, yielding an elegant explanation of the threshold energies and the intensity dependence of the photoelectric effect. He then predicted that the kinetic energy of the electrons emitted in the photoelectric effect increases with light frequency
+     <e type="italic">
+      ν
+     </e>
+     proportional to
+     <e type="italic">
+      hν
+     </e>
+     −
+     <e type="italic">
+      P
+     </e>
+     , where
+     <e type="italic">
+      P
+     </e>
+     is “the amount of work that the electron must produce on leaving the body.” This quantity
+     <e type="italic">
+      P
+     </e>
+     , now called work function, depends on the kind of solid used, as discovered by Lenard.
+    </p>
+    <p>
+     Einstein’s path-breaking idea of light quanta was not widely accepted by his peers. Planck himself stated as late as 1913 in his recommendation for admitting Einstein to the Prussian Academy of Sciences “the fact that he [Einstein] may occasionally have missed the mark in his speculations, as, for example, with his hypothesis of light quanta, ought not to be held too much against him, for it is impossible to introduce new ideas, even in the exact sciences, without taking risks.” In order to explain a quantized absorption and emission of radiation by matter, it seemed sufficient to quantize the possible energy states in matter. The resistance against quantizing the energies of electromagnetic radiation itself is understandable in view of the incredible success of Maxwell’s theory of electromagnetic radiation and the overwhelming evidence of the wave nature of this radiation. Moreover, a formal similarity of two theoretical expressions, in Einstein’s 1905 paper, of the entropy of an ideal gas and the entropy of electromagnetic radiation was deemed insufficient evidence for a real correspondence.
+    </p>
+    <p>
+     Einstein’s prediction of the linear increase of the kinetic energy of photoemitted electrons with the frequency of light,
+     <e type="italic">
+      hν
+     </e>
+     −
+     <e type="italic">
+      P
+     </e>
+     , was verified by Arthur Llewelyn Hughes, Owen Williams Richardson, and
+     <xref articleid="25042">
+      Karl Taylor Compton
+     </xref>
+     in 1912. In 1916
+     <xref articleid="52732">
+      Robert Andrews Millikan
+     </xref>
+     measured both the frequency of the light and the kinetic energy of the electron emitted by the photoelectric effect and obtained a value for
+     <xref articleid="60293">
+      Planck’s constant
+     </xref>
+     <e type="italic">
+      h
+     </e>
+     in close agreement with the value that had been arrived at by fitting Planck’s radiation law to the blackbody spectrum obtained by Wien.
+    </p>
+   </h3>
+   <h3 id="h11362">
+    <title>
+     Compton effect
+    </title>
+    <p>
+     Convincing evidence of the particle nature of electromagnetic radiation was found in 1922 by the American physicist
+     <xref articleid="25040">
+      Arthur Holly Compton
+     </xref>
+     . While investigating the scattering of
+     <xref articleid="77656">
+      X-rays
+     </xref>
+     , he observed that such rays lose some of their energy in the scattering process and emerge with slightly decreased frequency. This energy loss increases with the scattering angle,
+     <e type="italic">
+      θ,
+     </e>
+     measured from the direction of an unscattered X-ray. This so-called
+     <xref articleid="25044">
+      Compton effect
+     </xref>
+     can be explained, according to classical
+     <xref articleid="110307">
+      mechanics
+     </xref>
+     , as an elastic collision of two particles comparable to the collision of two billiard balls. In this case, an X-ray
+     <xref articleid="59817">
+      photon
+     </xref>
+     of energy
+     <e type="italic">
+      hν
+     </e>
+     and momentum
+     <e type="italic">
+      hν
+     </e>
+     /
+     <e type="italic">
+      c
+     </e>
+     collides with an electron at rest. The recoiling electron was observed and measured by Compton and Alfred W. Simon in a Wilson
+     <xref articleid="24442">
+      cloud chamber
+     </xref>
+     . If one calculates the result of such an elastic collision by using the
+     <xref articleid="110309" refid="h77443">
+      relativistic formulas
+     </xref>
+     for the
+     <xref articleid="32627">
+      energy
+     </xref>
+     and
+     <xref articleid="53289">
+      momentum
+     </xref>
+     of the scattered electron, one finds that the wavelength of an X-ray after (λ′) and before (λ) the scattering event differs by λ′ − λ = (
+     <e type="italic">
+      h
+     </e>
+     /
+     <e type="italic">
+      mc
+     </e>
+     )(1 − cos
+     <e type="italic">
+      θ
+     </e>
+     ). Here
+     <e type="italic">
+      m
+     </e>
+     is the rest mass of the electron and
+     <e type="italic">
+      h
+     </e>
+     /
+     <e type="italic">
+      mc
+     </e>
+     is called Compton wavelength. It has the value 0.0243
+     <xref articleid="7606">
+      angstrom
+     </xref>
+     . The energy
+     <e type="italic">
+      hν
+     </e>
+     of a photon of this wavelength is equal to the rest mass energy
+     <xref articleid="487261">
+      <e type="italic">
+       mc
+      </e>
+      <sup>
+       2
+      </sup>
+     </xref>
+     of an electron. One might argue that electrons in
+     <xref articleid="110411">
+      atoms
+     </xref>
+     are not at rest, but their kinetic energy is very small compared with that of energetic X-rays and can be disregarded in deriving Compton’s equation.
+    </p>
+   </h3>
+   <h3 id="h11363">
+    <title>
+     Resonance absorption and recoil
+    </title>
+    <p>
+     During the mid-1800s the German physicist
+     <xref articleid="45597">
+      Gustav Robert Kirchhoff
+     </xref>
+     observed that atoms and
+     <xref articleid="53247">
+      molecules
+     </xref>
+     emit and absorb electromagnetic radiation at characteristic frequencies and that the emission and absorption frequencies are the same for a given substance. Such resonance absorption should, strictly speaking, not occur if one applies the photon picture due to the following argument. Since energy and momentum have to be conserved in the emission process, the atom recoils to the left as the photon is emitted to the right, just as a cannon recoils backward when a shot is fired. Because the recoiling atom carries off some kinetic recoil energy
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       R
+      </e>
+     </sub>
+     <e type="italic">
+      ,
+     </e>
+     the emitted photon energy is less than the energy difference of the atomic energy states by the amount
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       R
+      </e>
+     </sub>
+     <e type="italic">
+      .
+     </e>
+     When a photon is absorbed by an atom, the momentum of the photon is likewise transmitted to the atom, thereby giving it a kinetic recoil energy
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       R
+      </e>
+     </sub>
+     <e type="italic">
+      .
+     </e>
+     The absorbing photon must therefore supply not only the energy difference of the atomic energy states but the additional amount
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       R
+      </e>
+     </sub>
+     as well. Accordingly, resonance absorption should not occur because the emitted photon is missing 2
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       R
+      </e>
+     </sub>
+     to accomplish it.
+    </p>
+    <p>
+     Nevertheless, ever since Kirchhoff’s finding, investigators have observed resonance absorption for electronic transitions in atoms and molecules. This is because for visible light the recoil energy
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       R
+      </e>
+     </sub>
+     is very small compared with the natural energy uncertainty of atomic emission and absorption processes. The situation is, however, quite different for the emission and absorption of
+     <xref articleid="35974">
+      gamma-ray
+     </xref>
+     photons by
+     <xref articleid="56462">
+      nuclei
+     </xref>
+     . The recoil energy
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       R
+      </e>
+     </sub>
+     is more than 10,000 times as large for gamma-ray photons as for photons of visible light, and the nuclear energy transitions are much more sharply defined because their lifetime can be one million times longer than for electronic energy transitions. The particle nature of photons therefore prevents resonance absorption of gamma-ray photons by free nuclei.
+    </p>
+    <p>
+     In 1958 the German physicist
+     <xref articleid="53925">
+      Rudolf Ludwig Mössbauer
+     </xref>
+     discovered that recoilless gamma-ray resonance absorption is, nevertheless, possible if the emitting as well as the absorbing nuclei are embedded in a solid.
+     <xref articleid="53926">
+      In this case
+     </xref>
+     , there is a strong probability that the recoil momentum during absorption and emission of the gamma photon is taken up by the whole solid (or more precisely by its entire lattice). This then reduces the recoil energy to nearly zero and thus allows resonance absorption to occur even for gamma rays.
+    </p>
+   </h3>
+   <h3 id="h11364">
+    <title>
+     Wave-particle duality
+    </title>
+    <p>
+     How can electromagnetic radiation behave like a particle in some cases while exhibiting wavelike properties that produce the interference and diffraction phenomena in others? This paradoxical behaviour came to be known as the
+     <xref articleid="76323">
+      wave-particle duality
+     </xref>
+     .
+     <xref articleid="106088">
+      Bohr
+     </xref>
+     rejected the idea of light quanta, and he searched for ways to explain the Compton effect and the photoelectric effect by arguing that the
+     <xref articleid="53290">
+      momentum
+     </xref>
+     and
+     <xref articleid="32628">
+      energy conservation
+     </xref>
+     laws need to be satisfied only statistically in the time average. In 1923 he stated that the hypothesis of light quanta excludes, in principle, the possibility of a rational definition of the concepts of frequency and wavelength that are essential for explaining interference.
+    </p>
+    <p>
+     The following year the conceptual foundations of
+     <xref articleid="108654">
+      physics
+     </xref>
+     were shaken by the French physicist
+     <xref articleid="16585">
+      Louis de Broglie
+     </xref>
+     , who suggested in his doctoral dissertation that the wave-particle duality applies not only to light but to a particle as well. De Broglie proposed that any object has wavelike properties. In particular, he showed that the orbits and energies of the
+     <xref articleid="110604">
+      hydrogen
+     </xref>
+     <xref articleid="110411">
+      atom
+     </xref>
+     , as described by
+     <xref articleid="80432">
+      Bohr’s atomic model
+     </xref>
+     , correspond to the condition that the circumference of any orbit precisely matches an integral number of wavelengths λ of the matter waves of
+     <xref articleid="32316">
+      electrons
+     </xref>
+     . Any particle such as an electron moving with a momentum
+     <e type="italic">
+      p
+     </e>
+     has, according to de Broglie, a wavelength λ =
+     <e type="italic">
+      h
+     </e>
+     /
+     <e type="italic">
+      p.
+     </e>
+     This idea required a conceptual revolution of mechanics, which led to the wave and
+     <xref articleid="110312">
+      quantum mechanics
+     </xref>
+     of
+     <xref articleid="66219">
+      Erwin Schrödinger
+     </xref>
+     ,
+     <xref articleid="106280">
+      Werner Heisenberg
+     </xref>
+     , and
+     <xref articleid="80764">
+      Max Born
+     </xref>
+     .
+    </p>
+    <p>
+     De Broglie’s idea of the wavelike behaviour of particles was quickly verified experimentally. In 1927
+     <xref articleid="29530">
+      Clinton Joseph Davisson
+     </xref>
+     and
+     <xref articleid="36589">
+      Lester Germer
+     </xref>
+     of the United States observed
+     <xref articleid="30419">
+      diffraction
+     </xref>
+     and hence
+     <xref articleid="42544">
+      interference
+     </xref>
+     of electron waves by the regular arrangement of atoms in a
+     <xref articleid="110297">
+      crystal
+     </xref>
+     of
+     <xref articleid="55747">
+      nickel
+     </xref>
+     . That same year S. Kikuchi of Japan obtained an electron diffraction pattern by shooting electrons with an energy of 68 keV through a thin
+     <xref articleid="109689">
+      mica
+     </xref>
+     plate and recording the resultant diffraction pattern on a photographic plate. The observed pattern corresponded to electron waves having the wavelength predicted by de Broglie. The diffraction effects of
+     <xref articleid="1713">
+      helium
+     </xref>
+     atoms were found in 1930, and
+     <xref articleid="55406">
+      neutron
+     </xref>
+     diffraction has today become an indispensable tool for determining the magnetic and atomic structure of materials.
+    </p>
+    <p>
+     <assembly id="a1375" url="/assembly/view/1375">
+      <title>
+       double-slit interference
+      </title>
+      <media mediaid="284" type="image" url="/84/284-004-D574AD25.jpg"/>
+      <caption>
+       Figure 9: Double-slit interference.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     The interference pattern that results when a radiation front hits two slits in an opaque screen is often cited to explain the conceptual difficulty of the wave-particle duality. Consider an opaque screen with two openings A and B, called a double slit, and a photographic plate or a projection screen, as shown in
+     <assemblyref assemblyid="a1375">
+      Figure 9
+     </assemblyref>
+     . A parallel wave with a wavelength λ passing through the double slit will produce the intensity pattern on the plate or screen as shown at the right of the figure. The intensity is greatest at the centre. It falls to zero at all locations
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      0
+     </sub>
+     , where the distances to the openings A and B differ by odd-number multiples of a half wavelength, as, for instance, λ/2, 3λ/2, and 5λ/2. The condition for such destructive interference is the same as for
+     <xref articleid="52478">
+      Michelson’s
+     </xref>
+     interferometer illustrated in
+     <assemblyref assemblyid="a1370">
+      Figure 4
+     </assemblyref>
+     . Whereas a half-transparent mirror in
+     <assemblyref assemblyid="a1370">
+      Figure 4
+     </assemblyref>
+     divides the amplitude of each wave train in half, the division in
+     <assemblyref assemblyid="a1375">
+      Figure 9
+     </assemblyref>
+     through openings A and B is spatial. The latter is called division of wave front. Constructive interference or intensity maxima are observed on the screen at all positions whose distances from A and B differ by zero or an integer multiple of λ. This is the wave interpretation of the observed double-slit interference pattern.
+    </p>
+    <p>
+     The description of photons is necessarily different because a particle can obviously only pass through opening A or alternatively through opening B. Yet, no interference pattern is observed when either A or B is closed. Both A and B must be open simultaneously. It was thought for a time that one photon passing through A might interfere with another photon passing through B. That possibility was ruled out after the British physicist Geoffrey Taylor demonstrated in 1909 that the same interference pattern can be recorded on a photographic plate even when the light intensity is so feeble that only one photon is present in the apparatus at any one time.
+    </p>
+    <p>
+     Another attempt to understand the dual nature of electromagnetic radiation was to identify the photon with a wave train whose length is equal to its coherence length
+     <e type="italic">
+      cτ,
+     </e>
+     where
+     <e type="italic">
+      τ
+     </e>
+     is the coherence time, or the lifetime of an atomic transition from a higher to a lower internal atomic energy state, and
+     <e type="italic">
+      c
+     </e>
+     is the light velocity. This is the same as envisioning the photon to be an elongated wave packet, or “needle radiation.” Again, the term “photon” had a different meaning for different scientists, and wave nature and quantum structure remained incompatible. It was time to find a theory of electromagnetic radiation that would fuse the wave theory and the particle theory. Such a fusion was accomplished by
+     <xref articleid="62163">
+      quantum electrodynamics
+     </xref>
+     (QED).
+    </p>
+   </h3>
+   <h3 id="h11365">
+    <title>
+     Quantum electrodynamics
+    </title>
+    <p>
+     Among the most convincing phenomena that demonstrate the quantum nature of light are the following. As the intensity of light is dimmed further and further, one can see individual quanta being registered in light detectors. If the eyes were about 10 times more sensitive, one would perceive the individual light pulses of fainter and fainter light sources as fewer and fewer flashes of equal intensity. Moreover, a movie has been made of the buildup of a two-slit interference pattern by individual photons, such as shown in
+     <assemblyref assemblyid="a1375">
+      Figure 9
+     </assemblyref>
+     . Photons are particles, but they behave differently from ordinary particles like billiard balls. The rules of their behaviour and their interaction with electrons and other charged particles, as well as the interactions of charged particles with one another, constitute QED.
+    </p>
+    <p>
+     Photons are created by perturbations in the motions of electrons and other charged particles; in reverse, photons can disappear and thereby create a pair of oppositely charged particles, usually a particle and its antiparticle (e.g., an
+     <xref articleid="32316">
+      electron
+     </xref>
+     and a
+     <xref articleid="61025">
+      positron
+     </xref>
+     ). A description of this intimate interaction between charged particles and electromagnetic radiation requires a theory that includes both quantum mechanics and
+     <xref articleid="109465" refid="h252878">
+      special relativity
+     </xref>
+     . The foundations of such a theory, known as relativistic quantum mechanics, were laid beginning in 1929 by
+     <xref articleid="30591">
+      Paul A.M. Dirac
+     </xref>
+     ,
+     <xref articleid="106280">
+      Heisenberg
+     </xref>
+     , and
+     <xref articleid="58782">
+      Wolfgang Pauli
+     </xref>
+     .
+    </p>
+    <p>
+     The discussion that follows explains in brief the principal conceptual elements of QED. Further information on the subject can be found in
+     <xref articleid="108593" refid="h60728">
+      subatomic particle: The development of modern theory
+     </xref>
+     and
+     <xref articleid="110312">
+      quantum mechanics
+     </xref>
+     .
+    </p>
+    <p>
+     Many phenomena in nature do not depend on the reference scale of scientific measurements. For instance, in
+     <xref articleid="106021">
+      electromagnetism
+     </xref>
+     the difference in electrical potentials is relevant but not its absolute magnitude. During the 1920s, even before the emergence of quantum mechanics, the German physicist
+     <xref articleid="76720">
+      Hermann Weyl
+     </xref>
+     discussed the problem of constructing physical theories that are independent of certain reference bases or absolute magnitudes of certain parameters not only locally but everywhere in space. He called this property “Eichinvarianz,” which is the conceptual origin of the term “gauge invariance” that plays a crucial role in all modern quantum field theories.
+    </p>
+    <p>
+     In quantum mechanics all observable quantities are calculated from so-called
+     <xref articleid="76318">
+      wave functions
+     </xref>
+     , which are complex mathematical functions that include a phase factor. The absolute magnitude of this phase is irrelevant for the observable quantities calculated from these wave functions; hence, the theory describing, for example, the motion of an electron should be the same when the phase of its wave function is changed everywhere in space. This requirement of phase invariance, or gauge invariance, is equivalent to demanding that the total charge is conserved and does not disappear in physical processes or interactions. Experimentally one does indeed observe that charge is conserved in nature.
+    </p>
+    <p>
+     It turns out that a relativistic quantum theory of charged particles can be made gauge invariant if the interaction is mediated by a massless and chargeless entity which has all the properties of photons.
+     <xref articleid="471076">
+      Coulomb’s law
+     </xref>
+     of the force between charged particles can be derived from this theory, and the photon can be viewed as a “messenger” particle that conveys the electromagnetic force between charged particles of matter. In this theory,
+     <xref articleid="51564">
+      Maxwell’s equations
+     </xref>
+     for electric and magnetic fields are quantized.
+    </p>
+    <p>
+     The range of a force produced by a particle with nonzero mass is its Compton wavelength
+     <e type="italic">
+      h
+     </e>
+     /
+     <e type="italic">
+      mc,
+     </e>
+     which for electrons is about 2 × 10
+     <sup>
+      −10
+     </sup>
+     cm. Since this length is large compared with distances over which stronger nuclear forces act, QED is a very precise theory for electrons.
+    </p>
+    <p>
+     Despite the conceptual elegance of the QED theory, it proved difficult to calculate the outcome of specific physical situations through its application.
+     <xref articleid="34161">
+      Richard P. Feynman
+     </xref>
+     and, independently,
+     <xref articleid="66277">
+      Julian S. Schwinger
+     </xref>
+     and
+     <xref articleid="31681">
+      Freeman Dyson
+     </xref>
+     of the United States and
+     <xref articleid="72839">
+      Tomonaga Shin’ichirō
+     </xref>
+     of Japan showed in 1948 that one could calculate the effects of the interactions as a power series in which the coupling constant is called the
+     <xref articleid="34287">
+      fine structure constant
+     </xref>
+     and has a value close to
+     <fraction>
+      <num>
+       1
+      </num>
+      <den>
+       137
+      </den>
+     </fraction>
+     . A serious practical difficulty arose when each term in the series, which had to be summed to obtain the value of an observed quantity, turned out to be infinitely large. In short, the results of the calculations were meaningless. It was eventually found, however, that these divergences could be avoided by introducing “renormalized” couplings and particle masses, an idea conceived by the Dutch physicist Hendrik A. Kramers. Just as a ship moving through water has an enhanced mass due to the fluid that it drags along, so will an electron dragging along and interacting with its own field have a different mass and charge than it would without it. By adding appropriate electromagnetic components to the bare mass and charge—that is, by using renormalized quantities—the disturbing infinities could be removed from the theory. Using this method of renormalization and the perturbation theory, Feynman developed an elegant form for calculating the likelihood of observing processes that are related to the interaction of electromagnetic radiation with matter to any desired degree of accuracy. For example, the passage of an electron or a photon through the double slit illustrated in
+     <assemblyref assemblyid="a1375">
+      Figure 9
+     </assemblyref>
+     will, in this QED formalism, produce the observed interference pattern on a photographic plate because of the superposition of all the possible paths these particles can take through the slits.
+    </p>
+    <p>
+     The success of unifying electricity, magnetism, and light into one theory of electromagnetism and then with the interaction of charged particles into the theory of quantum electrodynamics suggests the possibility of understanding all the forces in nature (gravitational, electromagnetic,
+     <xref articleid="76351">
+      weak nuclear
+     </xref>
+     , and
+     <xref articleid="69992">
+      strong nuclear
+     </xref>
+     ) as manifestations of a grand unified theory (GUT). The first step in this direction was taken during the 1960s by
+     <xref articleid="65021">
+      Abdus Salam
+     </xref>
+     ,
+     <xref articleid="76452">
+      Steven Weinberg
+     </xref>
+     , and
+     <xref articleid="36986">
+      Sheldon Glashow
+     </xref>
+     , who formulated the
+     <xref articleid="32348">
+      electroweak theory
+     </xref>
+     , which combines the electromagnetic force and the weak nuclear force. This theory predicted that the weak nuclear force is transmitted between particles of matter by three messenger particles designated
+     <xref articleid="75806">
+      W
+      <sup>
+       +
+      </sup>
+     </xref>
+     , W
+     <sup>
+      −
+     </sup>
+     , and
+     <xref articleid="78172">
+      Z
+     </xref>
+     , much in the way that the electromagnetic force is conveyed by photons. The three new particles were discovered in 1983 during experiments at the
+     <xref articleid="22146">
+      European Organization for Nuclear Research
+     </xref>
+     (CERN), a large
+     <xref articleid="108531">
+      accelerator
+     </xref>
+     laboratory near Geneva. This triumph for the electroweak theory represented another stepping stone toward a deeper understanding of the forces and interactions that yield the multitude of physical phenomena in the universe.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h11366">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   Accounts of the historical development of electromagnetic theories may be found in
+   <e type="smallcap">
+    Isaac Asimov,
+   </e>
+   <e type="italic">
+    The History of Physics
+   </e>
+   (1984);
+   <e type="smallcap">
+    I. Bernard Cohen,
+   </e>
+   <e type="italic">
+    Revolution in Science
+   </e>
+   (1985); and
+   <e type="smallcap">
+    Thomas S. Kuhn,
+   </e>
+   <e type="italic">
+    Black-Body Theory and the Quantum Discontinuity, 1894–1912
+   </e>
+   (1978, reprinted 1987). Early works include
+   <e type="smallcap">
+    Edmund Whittaker
+   </e>
+   ,
+   <e type="italic">
+    A History of the Theories of Aether and Electricity,
+   </e>
+   rev. and enlarged ed., 2 vol. (1951–53); and
+   <e type="smallcap">
+    Heinrich Hertz,
+   </e>
+   <e type="italic">
+    Electric Waves: Being Researches on the Propagation of Electric Action with Finite Velocity Through Space
+   </e>
+   (1893, reissued 1962; originally published in German, 1892).
+   <e type="smallcap">
+    Ivan Tolstoy,
+   </e>
+   <e type="italic">
+    James Clerk Maxwell
+   </e>
+   (1981), recounts the life of this pivotal figure, as well as his theory and its ramifications.
+   <e type="italic">
+    James Clerk Maxwell: A Commemoration Volume, 1831–1931
+   </e>
+   (1931), includes essays by Max Planck and Albert Einstein, among others. Extensive treatments of visible radiation (light) are given by
+   <e type="smallcap">
+    Michael I. Sobel,
+   </e>
+   <e type="italic">
+    Light
+   </e>
+   (1987);
+   <e type="smallcap">
+    Max Born
+   </e>
+   and
+   <e type="smallcap">
+    Emil Wolf
+   </e>
+   ,
+   <e type="italic">
+    Principles of Optics: Electromagnetic Theory of Propagation, Interference, and Diffraction of Light,
+   </e>
+   6th ed. (1987); and
+   <e type="smallcap">
+    Francis A. Jenkins
+   </e>
+   and
+   <e type="smallcap">
+    Harvey E. White,
+   </e>
+   <e type="italic">
+    Fundamentals of Optics,
+   </e>
+   4th ed. (1976). Classical radiation and electron theory are treated in
+   <e type="smallcap">
+    John David Jackson
+   </e>
+   ,
+   <e type="italic">
+    Classical Electrodynamics,
+   </e>
+   2nd ed. (1975); and
+   <e type="smallcap">
+    Richard P. Feynman
+   </e>
+   ,
+   <e type="smallcap">
+    Robert B. Leighton
+   </e>
+   , and
+   <e type="smallcap">
+    Matthew Sands,
+   </e>
+   <e type="italic">
+    The Feynman Lectures on Physics,
+   </e>
+   3 vol. (1963–65; vol. 1 and 2 have been reprinted, 1977). Wave–particle dualism is addressed by
+   <e type="smallcap">
+    Louis De Broglie,
+   </e>
+   <e type="italic">
+    Matter and Light
+   </e>
+   (1939, reissued 1955; originally published in French, 1937);
+   <e type="smallcap">
+    S. Diner
+   </e>
+   <e type="italic">
+    et al.
+   </e>
+   (eds.),
+   <e type="italic">
+    The Wave–Particle Dualism
+   </e>
+   (1984); and
+   <e type="smallcap">
+    A.B. Arons,
+   </e>
+   <e type="italic">
+    The Development of Concepts of Physics: From the Rationalization of Mechanics to the First Theory of Atomic Structure
+   </e>
+   (1965). Quantum electrodynamics is discussed in
+   <e type="smallcap">
+    Richard P. Feynman,
+   </e>
+   <e type="italic">
+    QED: The Strange Theory of Light and Matter
+   </e>
+   (1985);
+   <e type="smallcap">
+    Rodney Loudon,
+   </e>
+   <e type="italic">
+    The Quantum Theory of Light,
+   </e>
+   2nd ed. (1983);
+   <e type="smallcap">
+    W. Heitler
+   </e>
+   ,
+   <e type="italic">
+    The Quantum Theory of Radiation,
+   </e>
+   3rd ed. (1964, reprinted 1984);
+   <e type="smallcap">
+    J.M. Jauch
+   </e>
+   and
+   <e type="smallcap">
+    F. Rohrlich,
+   </e>
+   <e type="italic">
+    The Theory of Photons and Electrons: The Relativistic Quantum Field Theory of Charged Particles with Spin One-half,
+   </e>
+   2nd expanded ed. (1976); and
+   <e type="smallcap">
+    Paul Davies
+   </e>
+   (ed.),
+   <e type="italic">
+    The New Physics
+   </e>
+   (1989).
+  </p>
+  <signature>
+   Hellmut Fritzsche
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

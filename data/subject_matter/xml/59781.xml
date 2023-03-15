@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="59781" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 00:28:44" url="/article/phosphorescence/59781" version="4">
+ <title>
+  phosphorescence
+ </title>
+ <p>
+  <e type="bold">
+   phosphorescence
+  </e>
+  , emission of light from a substance exposed to radiation and persisting as an afterglow after the exciting radiation has been removed. Unlike fluorescence, in which the absorbed light is spontaneously emitted about 10
+  <sup>
+   -8
+  </sup>
+  second after excitation, phosphorescence requires additional excitation to produce radiation and may last from about 10
+  <sup>
+   -3
+  </sup>
+  second to days or years, depending on the circumstances.
+ </p>
+ <p>
+  <assembly id="a61687" url="/assembly/view/61687">
+   <media mediaid="3479" type="image" url="/79/3479-004-88A4BF87.jpg"/>
+   <caption/>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a61687"/>
+  In fluorescence, an electron is raised from a certain baseline energy known as the ground level to an excited level by a light photon or other radiation. Transition of the electron back to the ground level can occur spontaneously with radiation of the same energy as that which was absorbed. According to electromagnetic theory, the return is almost coincident, occurring within 10
+  <sup>
+   -8
+  </sup>
+  second or so. The case for phosphorescence is different. In phosphorescence, interposed between the ground level and the excited level is a level of intermediate energy, called a metastable level, or electron trap, because a transition between the metastable level and other levels is forbidden (highly improbable). Once an electron has fallen from the excited level to the metastable level (by radiation or by energy transfer to the system), it remains there until it makes a forbidden transition or until it is further excited back to the transition level. This excitation may come about through thermal agitation of the neighbouring atoms or molecules (called thermoluminescence) or through optical (
+  <e type="italic">
+   e.g.,
+  </e>
+  infrared) stimulation. The time spent in the metastable level, or electron trap, determines the length of time that phosphorescence persists.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

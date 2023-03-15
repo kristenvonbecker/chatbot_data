@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="11898" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 20:34:15" url="/article/balance/11898" version="3">
+ <title>
+  balance
+ </title>
+ <p>
+  <e type="bold">
+   balance
+  </e>
+  , instrument for comparing the weights of two bodies, usually for scientific purposes, to determine the difference in mass (or weight).
+ </p>
+ <p>
+  The invention of the equal-arm balance dates back at least to the time of the ancient Egyptians, possibly as early as 5000
+  <e type="smallcap">
+   bc
+  </e>
+  . In the earliest types, the beam was supported at the centre and the pans were hung from the ends by cords. A later improvement in design was the use of a pin through the centre of the beam for the central bearing, introduced by the Romans about the time of Christ. The invention of knife-edges in the 18th century led to the development of the modern mechanical balance. By the end of the 19th century the balance had developed in Europe into one of the world’s most precise types of measuring devices. In the 20th century, electronic balances were developed, depending on electrical compensation rather than mechanical deflection.
+ </p>
+ <p>
+  The mechanical balance consists, essentially, of a rigid beam that oscillates on a horizontal central knife-edge as a fulcrum and has the two end knife-edges parallel and equidistant from the centre. The loads to be weighed are supported on pans hung from bearings. For the best design, two or more additional knife-edges are located between the end bearing and the pan, one to prevent tilting of the plane and another to fix the centre of load at a particular point on the end knife-edge. An arresting mechanism prevents damage during loading by separating the knife-edges from their bearings. The deflection of the balance may be indicated by a pointer attached to the beam and passing over a graduated scale or by reflection from a mirror on the beam to a distant scale.
+ </p>
+ <p>
+  The most obvious method of using a balance is known as direct weighing. The material to be weighed is put on one pan, with sufficient known weights on the other pan such that the beam will be in equilibrium. The difference between the zero reading and the reading with the pans loaded indicates the difference between loads in scale divisions. Such a direct weighing requires that the arms be of equal length. When the error resulting from unequal arms is greater than the required precision, the substitution method of weighing may be used. In this method, counterpoise weights are added to one pan to balance the unknown load on the other. Then, known weights are substituted for the unknown load. This method requires only that the two arms of the beam maintain the same lengths during the weighing. Any effect of inequality is the same for both loads and is therefore eliminated.
+ </p>
+ <p>
+  Small quartz microbalances with capacities of less than a gram have been constructed with a reliability much greater than is ordinarily found with small assay-type balances having a metal beam with three knife-edges. Microbalances are used chiefly to determine the densities of gases, particularly of gases obtainable only in small quantities. The balance usually operates in a gas-tight chamber, and a change in weight is measured by the change in the net buoyant force on the balance due to the gas in which the balance is suspended, the pressure of the gas being adjustable and measured by a mercury manometer connected with the balance case.
+ </p>
+ <p>
+  The ultramicrobalance is any weighing device that serves to determine the weight of smaller samples than can be weighed with the microbalance—i.e., total amounts as small as one or a few micrograms. The principles on which ultramicrobalances have been successfully constructed include elasticity in structural elements, displacement in fluids, balancing by means of electrical and magnetic fields, and combinations of these. Measurement of the effects produced by the minute masses weighed has been made by optical, electrical, and nuclear radiation methods of determining displacements and by optical and electrical measurements of forces used to restore a displacement caused by the sample being weighed.
+ </p>
+ <p>
+  The success of traditional balances in modern times has relied on the elastic properties of certain suitable materials, especially quartz fibres, which have great strength and elasticity and are relatively independent of the effects of temperature,
+  <xref articleid="41845">
+   hysteresis
+  </xref>
+  , and inelastic bending. The most successful and practical ultramicrobalances have been based on the principle of balancing the load by applying torque to a quartz fibre. One simple design utilizes a rigid fibre as a horizontal beam, supported at its centre by a stretched horizontal quartz torsion fibre sealed to it at right angles. On each end of the beam a pan is suspended, one counterbalancing the other. The deflection of the beam caused by adding the sample to one pan is restored by rotating the end of the torsion fibre until the beam is again in its horizontal position and the full range of torsion in the suspending fibre can be applied to the measurement of the load added to one pan. The amount of torsion necessary for restoration is read by means of a dial attached to the end of the torsion fibre. The weight is obtained by calibrating the balance against known weights and reading the value from the calibration chart of weight versus torsion. Unlike direct displacement balances that rely only on the elasticity of the structural members, the torsion balance allows gravity to balance the largest component of the load, i.e., the pans, and results in greatly increased load capacity.
+ </p>
+ <p>
+  Balances of the late 20th century were usually electronic and far more accurate than mechanical balances. A scanner measured the displacement of the pan holding the object to be weighed and, by means of an amplifier and possibly a computer, caused a current to be generated that returned the pan to its zero position. Measurements were read on a digital screen or printout. Electronic weighing systems not only measure total mass but also may determine such characteristics as average weight and moisture content.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

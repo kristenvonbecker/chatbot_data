@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="59060" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 00:24:40" url="/article/pendulum/59060" version="5">
+ <title>
+  pendulum
+ </title>
+ <p>
+  <assembly id="a145168" url="/assembly/view/145168">
+   <title>
+    pendulum
+   </title>
+   <media mediaid="87995" type="image" url="/95/87995-004-074F44AE.jpg"/>
+   <caption>
+    Pendulum.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assembly id="a174512" url="/assembly/view/174512">
+   <title>
+    Uncover the forces of potential energy, kinetic energy, and friction behind a grandfather clock’s pendulum
+   </title>
+   <media mediaid="161914" thumburl="/14/161914-049-BAB034A5.jpg" type="video" url=""/>
+   <caption>
+    Changes in potential and kinetic energy as a pendulum swings.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   pendulum
+  </e>
+  ,
+  <assemblyref assemblyid="a145168"/>
+  <assemblyref assemblyid="a174512"/>
+  body suspended from a fixed point so that it can swing back and forth under the influence of
+  <xref articleid="106265">
+   gravity
+  </xref>
+  . Pendulums are used to regulate the movement of clocks because the interval of time for each complete oscillation, called the period, is constant. The formula for the period
+  <e type="italic">
+   T
+  </e>
+  of a pendulum is
+  <e type="italic">
+   T
+  </e>
+  = 2π
+  <sqroot>
+   <fraction>
+    <num>
+     <e type="italic">
+      L
+     </e>
+    </num>
+    <den>
+     <e type="italic">
+      g
+     </e>
+    </den>
+   </fraction>
+  </sqroot>
+  , where
+  <e type="italic">
+   L
+  </e>
+  is the length of the pendulum and
+  <e type="italic">
+   g
+  </e>
+  is the acceleration due to gravity.
+ </p>
+ <p>
+  The Italian scientist Galileo first noted (c. 1583) the constancy of a pendulum’s period by comparing the movement of a swinging lamp in a Pisa cathedral with his pulse rate. The Dutch mathematician and scientist Christiaan Huygens invented a clock controlled by the motion of a pendulum in 1656. The priority of invention of the pendulum clock has been ascribed to Galileo by some authorities and to Huygens by others, but Huygens solved the essential problem of making the period of a pendulum truly constant by devising a pivot that caused the suspended body, or bob, to swing along the arc of a
+  <xref articleid="28377">
+   cycloid
+  </xref>
+  rather than that of a circle.
+ </p>
+ <p>
+  A simple pendulum consists of a bob suspended at the end of a thread that is so light as to be considered massless. The period of such a device can be made longer by increasing its length, as measured from the point of suspension to the middle of the bob. A change in the mass of the bob, however, does not affect the period, provided the length is not thereby affected. The period, on the other hand, is influenced by the position of the pendulum in relation to Earth. Because the strength of Earth’s gravitational field is not uniform everywhere, a given pendulum swings faster, and thus has a shorter period, at low altitudes and at Earth’s poles than it does at high altitudes and at the Equator.
+ </p>
+ <p>
+  There are various other kinds of pendulums. A compound pendulum has an extended mass, like a swinging bar, and is free to oscillate about a horizontal axis. A special reversible compound pendulum called Kater’s pendulum is designed to measure the value of
+  <e type="italic">
+   g
+  </e>
+  , the acceleration of gravity.
+ </p>
+ <p>
+  Another type is the Schuler pendulum. When the Schuler pendulum is vertically suspended, it remains aligned to the local vertical even if the point from which it is suspended is accelerated parallel to Earth’s surface. This principle of the Schuler pendulum is applied in some inertial guidance systems to maintain a correct internal vertical reference, even during rapid acceleration.
+ </p>
+ <p>
+  A spherical pendulum is one that is suspended from a pivot mounting, which enables it to swing in any of an infinite number of vertical planes through the point of suspension. In effect, the plane of the pendulum’s oscillation rotates freely. A simple version of the spherical pendulum, the
+  <xref articleid="35014">
+   Foucault pendulum
+  </xref>
+  , is used to show that Earth rotates on its axis.
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="12014">
+   ballistic pendulum
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

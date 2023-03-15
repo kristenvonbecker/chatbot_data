@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="50028" articletypeid="1" language="en_us" lastupdate="2021-Oct-01 17:59:09" url="/article/magnetic-pole/50028" version="4">
+ <title>
+  magnetic pole
+ </title>
+ <p>
+  <assembly id="a145755" url="/assembly/view/145755">
+   <title>
+    magnetic attraction and repulsion
+   </title>
+   <media mediaid="91762" type="image" url="/62/91762-004-53685C49.jpg"/>
+   <caption>
+    Bar magnets showing attraction of opposite poles and repulsion of like poles.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assembly id="a174529" url="/assembly/view/174529">
+   <title>
+    Uncover the behavior of a magnet, its magnetic fields and magnetic poles using paper, and iron filings
+   </title>
+   <media mediaid="163180" thumburl="/80/163180-049-CCEE00B1.jpg" type="video" url=""/>
+   <caption>
+    The behaviour of a bar magnet with its magnetic field concentrated at its north-seeking and south-seeking poles.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   magnetic pole
+  </e>
+  ,
+  <assemblyref assemblyid="a145755"/>
+  <assemblyref assemblyid="a174529"/>
+  region at each end of a magnet where the external magnetic field is strongest. A bar magnet suspended in Earth’s magnetic field orients itself in a north–south direction. The north-seeking pole of such a magnet, or any similar pole, is called a north magnetic pole. The south-seeking pole, or any pole similar to it, is called a south magnetic pole. Unlike poles of different magnets attract each other; like poles repel each other.
+ </p>
+ <p>
+  The magnetic force between a pole of one long bar magnet and that of another was described by an inverse square law as early as 1750. If, for example, the separation between the two poles is doubled, the magnetic force diminishes to one-fourth its former value.
+ </p>
+ <p>
+  Breaking a magnet in two does not isolate its north pole from its south pole. Each half is found to have its own north and south poles. Magnetic forces, in fact, cannot be traced to unit magnetic poles of submicroscopic size in direct contrast to electric forces that are caused by actual discrete electric charges, such as electrons and protons. Indeed, magnetic forces themselves also fundamentally arise between electric charges when they are in motion.
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="50021">
+   magnetic dipole
+  </xref>
+  .
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

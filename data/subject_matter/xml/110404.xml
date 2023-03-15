@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="110404" articletypeid="1" language="en_us" lastupdate="2022-Aug-17 11:42:58" url="/article/separation-and-purification/110404" version="9">
+ <title>
+  separation and purification
+ </title>
+ <p>
+  <e type="bold">
+   separation and purification
+  </e>
+  , in chemistry, separation of a substance into its components and the removal of impurities. There are a large number of important applications in fields such as medicine and manufacturing.
+ </p>
+ <h1 id="h80479">
+  <title>
+   General principles
+  </title>
+  <p>
+   Since ancient times, people have used methods of separating and purifying chemical substances for improving the quality of life. The extraction of metals from ores and of medicines from plants is older than recorded history. In the Middle Ages the alchemists’ search for the philosophers’ stone (a means of changing base metals into gold) and the elixir of life (a substance that would perpetuate youth) depended on separations. In the industrial and technological revolutions, separations and purifications have assumed major importance. During World War II, for example, one of the main problems of the Manhattan Project, the U.S. government research project that led to the first atomic bombs, was the separation of uranium-235 from uranium-238. Many industries now find separations indispensable: the petroleum industry separates crude oil into products used as fuels, lubricants, and chemical raw materials; the pharmaceutical industry separates and purifies natural and synthetic drugs to meet health needs; and the mining industry is based on the separation and purification of metals.
+  </p>
+  <p>
+   Separations and purifications also find their places in medicine and the sciences. In the life sciences, many advances can be directly traced to the development of each new separation method. The first step in understanding the chemical reactions of life is to learn what substances are present in samples obtained from biological sources. The challenge and power of such separations is demonstrated in the two-dimensional gel electrophoretic separation of sulfur-35 methionine-labeled polypeptides, or proteins, from transformed epithelial amnion cells (AMA). A total of 1,244 polypeptides have been observed, many of whose functions are currently unknown.
+  </p>
+ </h1>
+ <h1 id="h80480">
+  <title>
+   Basic concepts of separations
+  </title>
+  <p>
+   This section is concerned with separations of the smallest subdivisions of matter, such as atoms, molecules, and minute particles (sand, minerals, bacteria, etc.). Such processes start with a sample in a mixed state (composed of more than one substance) and transform it into new samples, each of which—in the ideal case—consists of a single substance. Separation methods, then, can be defined as processes that change the relative amounts of substances in a mixture. In chemical methods, one may start with a completely homogeneous mixture (a solution) or a heterogeneous sample (e.g., solid plus liquid); in the act of separation, some particles are either partially or totally removed from the sample.
+  </p>
+  <h2 id="h80481">
+   <title>
+    Reasons for making separations
+   </title>
+   <p>
+    There are two general reasons for performing separations on mixtures. First, the mixture may contain some substance that should be isolated from the rest of the mixture: this process of isolating and thus removing substances considered to be contaminants is called purification. For example, in the manufacture of synthetic drugs, mixtures containing variable proportions of several compounds usually arise. The removal of the desired drug from the rest of the mixture is important if the product is to have uniform potency and is to be free of other components that may be dangerous to the body.
+   </p>
+   <p>
+    The second reason for performing separations is to alter the composition of a sample so that one or more of the components can be analyzed. For example, the analysis of air pollutants to assess the quality of the air is of great interest, yet many of the pollutants are at a concentration too low for direct analysis, even with the most sensitive devices. Pollutants can be collected by passing samples of air through a tube containing an adsorbent material. By this process the pollutants are concentrated to a level such that straightforward analysis and monitoring can take place. In a second example, several impurities in a sample may interfere with the analysis of the substance of primary interest. Thus, in the analysis of trace concentrations of metals in rivers, organic substances can cause erroneous results. These interferences must be removed prior to the analysis. Several techniques for removing interferences are discussed in
+    <xref articleid="110403" refid="h80778">
+     analysis: Interference removal
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h80482">
+   <title>
+    Classification of separations
+   </title>
+   <p>
+    There are a variety of criteria by which separations can be classified. One is based on the quantity of material to be processed. Some methods of separation (e.g., chromatography) work best with a small amount of sample, while others (e.g., distillation) are more suited to large-scale operations.
+   </p>
+   <p>
+    Classification may also be based on the physical or chemical phenomena utilized to effect the separation. These phenomena can be divided into two broad categories: equilibrium and rate (kinetic) processes. lists some separation methods based on equilibria, and indicates those methods based on rate phenomena.
+   </p>
+   <h3 id="h80483">
+    <title>
+     Separations based on equilibria
+    </title>
+    <p>
+     All equilibrium methods considered in this section involve the distribution of substances between two phases that are insoluble in one another. As an example, consider the two immiscible liquids benzene and water. If a coloured compound is placed in the water and the two phases are mixed, colour appears in the benzene phase, and the intensity of the colour in the water phase decreases. These colour changes continue to occur for a certain time, beyond which no macroscopic changes take place, no matter how long or vigorously the two phases are mixed. Because the dye is soluble in the benzene as well as in the water, the dye is extracted into the benzene at the start of the mixing. But, just as the dye tends to move into the benzene phase, so it also tends to be dissolved in the aqueous phase. Thus dye molecules move back and forth across the liquid-liquid interface. Eventually, a condition is reached such that the tendencies of the dye to pass from benzene to water and from water to benzene are equal, and the concentration of the dye (as measured by the intensity of its colour) is constant in the two phases. This is the condition of equilibrium. Note that this is static from a macroscopic point of view. On a molecular level it is a dynamic process, however, for many molecules continue to pass through the liquid-liquid interface (although of equal number in both directions).
+    </p>
+    <p>
+     The condition of equilibrium in this example can be described in terms of the distribution coefficient,
+     <e type="italic">
+      K
+     </e>
+     , by the equation
+     <formula>
+      <inlinemedia id="i17209" mediaid="17209" url="/09/17209-004-A01DA15E.jpg"/>
+     </formula>
+     in which the concentrations in the equilibrium state are considered. For
+     <e type="italic">
+      K
+     </e>
+     = 1, there are equal concentrations of the dye in the two phases; for
+     <e type="italic">
+      K
+     </e>
+     &gt; 1, more dye would be found in the benzene phase at equilibrium. At
+     <e type="italic">
+      K
+     </e>
+     = 100, 99.01 percent is in the benzene, and only 0.99 percent is in the water (assuming equal volumes of the two liquids). For certain purposes, this condition might be considered to represent essentially complete removal of the dye from the water, but more often
+     <e type="italic">
+      K
+     </e>
+     = 1,000 is selected (i.e., 99.9 percent removal). Depending on the phases and conditions, it is often possible to achieve a
+     <e type="italic">
+      K
+     </e>
+     value of 1,000 or more.
+    </p>
+    <p>
+     Separation results when the distribution coefficient values for two substances (e.g., two dyes) differ from one another. Consider a case in which
+     <e type="italic">
+      K
+     </e>
+     = 100 for one substance and
+     <e type="italic">
+      K
+     </e>
+     = 0.01 for a second substance: then, upon reaching equilibrium, 99 percent of the former substance will be found in the benzene phase, and 99 percent of the latter substance will be found in the aqueous phase. It is clear that this sample is rather easily separated by liquid-liquid distribution. The ease of the separation thus depends on the ratio of the two distribution coefficients, α (sometimes called the separation factor):
+     <formula>
+      <inlinemedia id="i17208" mediaid="17208" url="/08/17208-004-6B3986D0.jpg"/>
+     </formula>
+     in which
+     <e type="italic">
+      K
+     </e>
+     <sub>
+      1
+     </sub>
+     and
+     <e type="italic">
+      K
+     </e>
+     <sub>
+      2
+     </sub>
+     are the respective distribution coefficients of components 1 and 2. In the above example, α = 10,000. In many other cases, α can be extremely small, close to unity (α is defined such that it is always unity or greater): then separation is difficult, requiring very efficient methods. Part of the art of separations is finding conditions that produce large separation factors of pairs of substances.
+    </p>
+    <p>
+     In most of the important chemical equilibrium separation methods are subdivided in terms of the two insoluble phases (gas, liquid, or solid). A supercritical fluid is a phase that occurs for a gas at a specific temperature and pressure such that the gas will no longer condense to a liquid regardless of how high the pressure is raised. It is a state intermediate between a gas and a liquid. The example previously cited involved extraction (liquid-liquid). The other methods are described below.
+    </p>
+   </h3>
+   <h3 id="h80484">
+    <title>
+     Separations based on rates
+    </title>
+    <p>
+     Rate separation processes are based on differences in the kinetic properties of the components of a mixture, such as the velocity of migration in a medium or of diffusion through semipermeable barriers.
+    </p>
+    <p>
+     The separation of mixtures of proteins is often difficult because of the similarity of the properties of such molecules. When proteins are dissolved in water, they ionize (form electrically charged particles). Both positive and negative electrical charges can occur on various parts of the complex molecule, and, depending on the pH of the solution, a protein molecule as a whole will be either net positively or negatively charged. For a given set of solution conditions, the net charges on different proteins usually are unequal.
+    </p>
+    <p>
+     Electrophoresis takes advantage of these charge differences to effect a separation. In this method, two electrodes are positioned at opposite ends of a paper, starch gel, column, or other appropriate supporting medium. A salt solution is used to moisten the medium and to connect the electrodes electrically. The mixture to be separated is placed in the centre of the supporting medium, and an electrical potential is applied. The positively charged proteins move toward the negatively charged electrode (cathode), while the negatively charged proteins migrate toward the positively charged electrode (anode). The migration velocity in each direction depends not only on the charge on the proteins but also on their size: thus proteins with the same charge can be separated.
+    </p>
+    <p>
+     This example demonstrates the separation of charged species on the basis of differences in migration velocity in an electric field. The extent of such a separation (based on the rate of a process) is time-dependent, a feature that distinguishes such separations from those based upon equilibria.
+    </p>
+    <p>
+     The velocity can be either positive or negative, depending on direction. It depends not only on the size and electrical charge of the molecule but also on the conditions of the experiment (e.g., voltage between the two electrodes). In analogy to equilibrium methods, the separation factor can be defined as the ratio of migration velocities for two proteins:
+     <formula>
+      <inlinemedia id="i17207" mediaid="17207" url="/07/17207-004-27022B0D.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The extent of separation (i.e., how far one protein is removed from another) depends on the different distances traversed by the two proteins:
+     <formula>
+      <inlinemedia id="i17206" mediaid="17206" url="/06/17206-004-F102049D.jpg"/>
+     </formula>
+     where
+     <e type="italic">
+      t
+     </e>
+     is the time allowed for migration. Thus the extent of separation is directly proportional to the time of migration in the electric field.
+    </p>
+    <p>
+     Another major category of rate separation methods is based on the diffusion of molecules through semipermeable barriers. Besides differing in charge, proteins also differ in size, and this latter property can be used as the basis of separation. If a vessel is divided in half by a porous membrane, and a solution of different proteins is placed in one section and pure water in the other, some of the proteins will be able to diffuse freely through the membrane, while others will be too large to fit through the holes or pores. Still others will be able to just squeeze through the pores and so will diffuse more slowly through the membrane. The extent of separation will thus be dependent on the time allowed for diffusion to take place.
+    </p>
+    <p>
+     lists the various barrier separation methods discussed in this article. The differences in the methods involve the type of substances diffusing through the semipermeable barrier and whether an external field or pressure is applied across the membrane.
+    </p>
+   </h3>
+   <h3 id="h80485">
+    <title>
+     Particle separations
+    </title>
+    <p>
+     Up to this point, only separations at the molecular level have been discussed. Separations of particles are also important in both industry and research. Particle separations are performed for one of two purposes: (1) to remove particles from gases or liquids, or (2) to separate particles of different sizes or properties. The first reason underlies many important applications. The electronics industry requires dust-free “clean rooms” for assembly of very small components. The second purpose deals with the classification of particles from samples containing particles of many different sizes. Many technical processes using finely divided materials require that the particle size be as uniform as possible. In addition, the separation of cells is important in the biotechnology industry. The more important particle separation methods are filtration, sedimentation, elutriation, centrifugation, particle electrophoresis, electrostatic precipitation, flotation, and screening, which are described in a later section.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h80486">
+   <title>
+    Single-stage versus multistage processes
+   </title>
+   <p>
+    As shown earlier, ease of separation in equilibrium methods is based on the value of the separation factor, α. When this value is large, separation is easy, requiring little input of work. Thus, if α lies between 100 and 1,000, a single equilibration in liquid-liquid extraction is sufficient to separate at the level of 90 percent or higher. This type of process is called a single-stage process.
+   </p>
+   <p>
+    If the separation factor is smaller, separation is more difficult: more work must be done on the system to achieve the desired separation. This result can be accomplished by repeating the equilibration process many times, such a method being called a multistage process.
+   </p>
+   <p>
+    Consider a liquid-liquid extraction experiment in which the volumes of the two liquid phases (
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    ) are equal and in which equal amounts of two components, 1 and 2, are present in one of the phases (say
+    <e type="italic">
+     A
+    </e>
+    ). If
+    <e type="italic">
+     K
+    </e>
+    <sub>
+     1
+    </sub>
+    = 0.5 and
+    <e type="italic">
+     K
+    </e>
+    <sub>
+     2
+    </sub>
+    = 2.5, then α = 5, according to the previous definition. After equilibration, 66.7 percent of component 1 and 28.5 percent of component 2 remain in the original liquid phase (
+    <e type="italic">
+     A
+    </e>
+    ), because
+    <e type="italic">
+     K
+    </e>
+    <sub>
+     1
+    </sub>
+    = 0.5 = 33.3/66.7 and
+    <e type="italic">
+     K
+    </e>
+    <sub>
+     2
+    </sub>
+    = 2.5 = 71.5/28.5; so that the concentration ratio in this phase has gone from unity to 66.7/28.5, or 2.3. If the extracting liquid phase (
+    <e type="italic">
+     B
+    </e>
+    ) is removed and replaced with an equal portion of fresh liquid (
+    <e type="italic">
+     B
+    </e>
+    ) containing none of components 1 and 2, and a second extraction is performed, 44.4 percent of component 1 and 8.1 percent of component 2 are left in the original phase (
+    <e type="italic">
+     A
+    </e>
+    ). The concentration ratio has increased from 2.3 to 5.5; however, note that there is less of components 1 and 2 in the original phase. If the equilibration is carried out again with fresh solvent (
+    <e type="italic">
+     B
+    </e>
+    ), the original phase contains 29.6 percent of component 1 and only 2.3 percent of component 2, a concentration ratio of approximately 13. Thus the purity of component 1 is increased by repeating the process of equilibration.
+   </p>
+   <p>
+    Before examining multistage separations in more detail, consider an alternate procedure by which component 2 (with
+    <e type="italic">
+     K
+    </e>
+    = 2.5) could be removed from the original liquid phase. Three consecutive extractions with fresh solvent result in the removal of 100 - 2.3 = 97.7 percent of the component. Suppose one extraction is performed instead, using the same volume of liquid
+    <e type="italic">
+     B
+    </e>
+    employed in the three consecutive extractions. It can be calculated that only 88 percent of component 2 would be extracted in this case. Thus, repeated equilibrations with a small amount of solvent remove more material than a single extraction with a large amount.
+   </p>
+   <p>
+    Returning to the separation of two components, the experiments described are quite wasteful of material. While the concentration ratio is 13, only 30 percent of the concentrated component remains in the original phase. It seems clear that the extracted phase should not be discarded. The separation can be performed without loss of either component by employing a sequence of extractions: each vessel in a series is half filled with a pure portion of the denser, or lower, liquid phase (i.e., without components 1 and 2). The mixture is added to the lower phase (
+    <e type="italic">
+     A
+    </e>
+    in the above example) of the first vessel, and fresh upper phase (
+    <e type="italic">
+     B
+    </e>
+    ) is added in the correct amount; after shaking to achieve equilibration, the upper phase is transferred to the second vessel, and fresh upper phase is added to vessel 1. Vessels 1 and 2 are both equilibrated, and the upper phases are moved along the train, one vessel at a time.
+   </p>
+   <p>
+    In this experiment, component 2 (with
+    <e type="italic">
+     K
+    </e>
+    = 2.5) will move more quickly down the train of vessels than component 1. After a large number of transfers, the different migration velocities of the two components will result in complete separation. The number of transfers required to achieve complete separation is dependent on the value of the separation factor (α) of the two components; the smaller the value is, the larger must be the number of tubes.
+   </p>
+   <p>
+    This discontinuous, multistage, liquid-liquid extraction scheme has been highly refined: a specially designed apparatus is used to permit automatic operation. In the past, this method played an important role in biochemistry for preparing purified materials. Because flow of the two solvents occurs in both directions, this mode of operation is called countercurrent.
+   </p>
+   <p>
+    Today chromatography has for the most part superseded automated liquid-liquid extraction procedures. Chromatography is closely related to the above countercurrent process, with one phase being stationary and the other mobile. In essence, chromatography can be envisioned as repeating the equilibration or distribution process many times as the sample components travel through the chromatographic system. The power of this technique can thus be appreciated.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h80487">
+  <title>
+   Principles of specific methods
+  </title>
+  <h2 id="h80488">
+   <title>
+    Equilibrium separations
+   </title>
+   <h3 id="h80489">
+    <title>
+     Distillation
+    </title>
+    <p>
+     Distillation (as discussed in
+     <xref articleid="110403" refid="h80779">
+      analysis: Interference removal: Distillation
+     </xref>
+     ), is a method of separation based on differences in the boiling points of substances. It has been known for centuries. The essential operation in distillation is the boiling of a liquid; after being converted to a vapour, the substance is then condensed to a liquid that is collected separately rather than allowed to flow back into the original liquid.
+    </p>
+    <p>
+     Above the surface of any pure liquid (or solid) substance, a definite amount of its vapour is present. The concentration of the vapour and, therefore, the pressure that it exerts increase as the temperature is raised. When the pressure of the vapour equals the pressure of the surroundings (one atmosphere in an open vessel at sea level), the substance boils: bubbles of vapour form within the liquid and rise to the surface. Above the surface of a mixture, the vapour contains all the substances present in the mixture, each making a contribution to the total pressure exerted by the vapour. The boiling point of the mixture is the temperature at which the total vapour pressure equals the pressure of the surroundings. In general, the composition of the vapour above a liquid mixture differs from that of the liquid: the vapour contains a larger proportion of the substance having the lower boiling point. This difference in composition of the two phases is the basis of separations effected by distillation.
+    </p>
+    <p>
+     Separation by distillation thus is based on gas-liquid equilibrium, differing from the previously cited example of liquid-liquid extraction in that the phases are constituted from the components themselves. The ease of separation is based on the differences in the boiling points of the substances; because boiling point is related, to a first approximation, to the molecular weight of the substance, distillation separates on the basis of weight (or size) of molecules. If the boiling points are close together, a multistage operation, which can most conveniently be achieved by placing a column above the boiling liquid solution, is required. This glass column contains some loosely packed material (e.g., glass beads), and the hot vapours from the boiling solution partially condense on the surfaces. The condensed liquid flows back toward the solution until it meets rising hot vapours, whereupon the more volatile portion of the returning liquid revaporizes, and the less volatile part of the rising vapour condenses. Thus in the column there occurs a multistage operation, the outcome of which is that the component of lower boiling point concentrates at the upper part of the column and that of higher boiling point in the lower part. Condensation of the vapour at the top of the column provides material much richer in the component having the lowest boiling point.
+    </p>
+    <p>
+     Distillation finds its greatest application in the large-scale separation of liquid mixtures, as in petroleum-refining plants, where crude oil is distilled into fractions having various boiling points, such as gasoline, kerosene, and lubricating oils. The large towers in refineries are efficient distillation columns that effect sharp separation of the fractions. Distillation is a procedure essential to the chemist, who uses it to purify synthetic products. In general, however, because of its inability to handle small quantities of material or to separate closely related compounds, the current use of distillation for difficult separations is limited.
+    </p>
+   </h3>
+   <h3 id="h80490">
+    <title>
+     Chromatography
+    </title>
+    <p>
+     Chromatography, as noted above, is a separation process involving two phases, one stationary and the other mobile. Typically, the stationary phase is a porous solid (e.g., glass, silica, or alumina) that is packed into a glass or metal tube or that constitutes the walls of an open-tube capillary. The mobile phase flows through the packed bed or column. The sample to be separated is injected at the beginning of the column and is transported through the system by the mobile phase. In their travel through the column, the different substances distribute themselves according to their relative affinity for the two phases. The rate of travel is dependent on the values of the distribution coefficients, the components interacting more strongly with the stationary phase requiring longer time periods for elution (complete removal from the column). Thus, separation is based on differences in distribution behaviour reflected in different migration times through the column. As in repetitive extraction, the larger that the separation factor is for a pair of components, the shorter will be the column necessary to resolve them. Chromatography is thus analogous to multistage extraction, except that in chromatography there are no discontinuous steps but rather a continuous flow. At the present time, chromatography is the most significant method for separation of organic substances and, along with electrophoresis, is most widely used for biological substances.
+    </p>
+    <p>
+     The various chromatographic methods are characterized in terms of the mobile phase—gas: gas chromatography (GC); liquid: liquid chromatography (LC); supercritical fluid: supercritical-fluid chromatography (SFC). The methods are then further subdivided in terms of the stationary phase; thus, if the stationary phase is a solid adsorbent, there are methods such as gas-solid chromatography (GSC) and liquid-solid chromatography (LSC). Chromatography is conducted with computer-controlled instrumentation for high precision and unattended operation. In addition, a detector is frequently placed on-line after the column for either structure analysis or quantitation or both. One of the most powerful approaches of analysis now available is the on-line coupling of chromatography to mass spectrometry.
+    </p>
+    <p>
+     Gas chromatography is an important method owing to its speed, resolving power, and detector sensitivity. Since it depends on vaporization, this technique is best suited to compounds that can be vaporized without suffering decomposition. Many substances that normally do not easily vaporize can be chemically derivatized for successful volatilization separation by gas chromatography.
+    </p>
+    <p>
+     In addition to chromatography, gas-solid distribution is also widely employed for purification, using special adsorbents called molecular sieves. These materials contain pores of approximately the same dimensions as small molecules. This property can be exploited in the separation of molecules having linear structures from those having bulky structures. The former can readily enter the pores, but the latter are unable to penetrate. This is an example of an exclusion mechanism of separation (based on shape differences). Molecular sieves also play an important role in the drying of gases: water, a polar substance (i.e., its net positive and negative electrical charges are unevenly distributed within the molecule), is readily adsorbed on the particles, but gases that are less polar are not retained.
+    </p>
+    <p>
+     In sublimation, another method of gas-solid distribution, a solid evaporates without passing through the liquid state. Since not all substances sublime, the applicability of the method is limited.
+    </p>
+    <p>
+     Since the early 1970s, liquid chromatography has developed as the premier separation method for organic substances. Because the mobile phase is a liquid, the requirement for vaporization is eliminated, and therefore LC can separate a much broader range of substances than GC. Species that have been successfully resolved include inorganic ions, amino acids, drugs, sugars, oligonucleotides, and proteins. Both analytical-scale liquid chromatography with samples at the microgram-to-milligram level and preparative-scale liquid chromatography at the tens-of-grams level have been developed. In biotechnology, preparative-scale liquid chromatography is especially important for purification of proteins and peptide hormones made by recombinant technology.
+    </p>
+    <p>
+     One important method is liquid-solid chromatography in which the porous adsorbent is polar and separation is based on the properties of classes of compounds—e.g., amines (alkaline) from alcohols (neutral) and esters (neutral) from acids.
+    </p>
+    <p>
+     Liquid-solid chromatography is the oldest of the chromatographic methods. Until the mid-20th century, the experimental procedure had not changed much from its original form. After significant improvements, liquid-solid chromatography now is conducted with porous particles as small as 3–5 micrometres (0.00012–0.00020 inch) in diameter, and liquid pumps are used to drive the liquid through the particle-filled column. High resolution and fast separations are achieved since the small particles allow good efficiency with fast mobile phase velocities (one centimetre per second or higher). This technique is also important in purification, and separated substances can be automatically collected after the column using a fraction collector.
+    </p>
+    <p>
+     A significant liquid-solid chromatography procedure is reverse-phase chromatography, in which the liquid mobile phase is water combined with an organic solvent such as methanol or acetonitrile and the stationary phase surface is nonpolar or hydrocarbon-like. In contrast to normal-phase chromatography, where the adsorbent surface is polar, in reverse-phase chromatography the elution of substances from the column is in the order of increasing polarity. In addition, separation is based on the nonpolar aspects of the substances. In the separation of a series of peptides from human growth hormone, a recombinantly made drug, an enzyme, trypsin, is used to break peptide bonds containing the basic amino acids—arganine and lysine—to yield a specific fingerprint of the protein. Peptide mapping is a critical method for evaluating the purity of complex substances such as proteins.
+    </p>
+    <p>
+     Ion-exchange chromatography (IEC) is a subdivision of liquid-solid chromatography, but its importance is such that it deserves special mention. As the name implies, the process separates ions; the basis of the separation is the varying attraction of different ions in a solution to oppositely charged sites on a finely divided, insoluble substance (the ion exchanger, usually a synthetic resin). In a cation-exchange resin all the sites are negatively charged, so that only positive ions can be separated; an anion-exchange resin has positively charged sites. Ion-exchange chromatography has become one of the most important methods for separating proteins and small oligonucleotides.
+    </p>
+    <p>
+     An important application of ion exchange is the removal of dissolved iron, calcium, and magnesium ions from hard water. The negative sites on a cation exchanger are first neutralized with sodium ions by exposure to a strong solution of common salt (sodium chloride); when the hard water is passed through the resin, the undesirable ions in the water are replaced by sodium ions.
+    </p>
+    <p>
+     Liquid-solid adsorption chromatography also can be performed on thin, flat plates (thin-layer chromatography, or TLC). TLC is inexpensive and rapid but not as sensitive or efficient as column chromatography. In practice, the adsorbent is spread on a glass plate and dried. The sample is applied as a spot near one end of the plate, which is placed (vertically) in a shallow reservoir containing the mobile phase. As the mobile phase travels up the plate by capillary action, the sample dissolves in the liquid, and its components are transported up the plate to new positions at varying distances from the starting point. (For further discussion, see the article
+     <xref articleid="110405">
+      chromatography
+     </xref>
+     .)
+    </p>
+   </h3>
+   <h3 id="h80491">
+    <title>
+     Exclusion and clathration
+    </title>
+    <p>
+     Differences in the sizes of molecules can also be the basis for separations. An example of these techniques is the use of molecular sieves in gas-solid chromatography. Size-exclusion chromatography (SEC) has proved effective for the separation and analysis of mixtures of polymers. In this method the largest molecules emerge from the chromatographic column first, because they are unable to penetrate the porous matrix of the support. Smaller molecules appear later, because they can traverse the entire porous matrix. A column can be calibrated with polymer samples of known molecular weight so that the time required for emergence of the unknown mixture can be used to deduce the molecular weights of the components of the sample as well as their proportions; such molecular weight distributions are very important characteristics of polymers. Exclusion chromatography also finds use in the separation of mixtures of proteins, which are natural polymers.
+    </p>
+    <p>
+     In clathration, separation also is based on fitting molecules into sites of specific dimensions. Upon crystallizing from solution, certain compounds form cages (on the molecular scale) of definite size. If other substances are present in the liquid solution and they are small enough, then they will be entrapped in the cage; larger components will be excluded. This method has been used in large-scale processes for separating chemicals made from petroleum.
+    </p>
+   </h3>
+   <h3 id="h80492">
+    <title>
+     Supercritical-fluid methods
+    </title>
+    <p>
+     Gaseous substances beyond a specific temperature and pressure (the critical point) become a supercritical fluid, a state that is more dense than a gas but less dense than a liquid. A supercritical fluid can thus dissolve (i.e., solvate) species better than a gas while being less viscous than a liquid. Supercritical-fluid chromatography is used to separate substances that are relatively nonpolar and nonvolatile.
+    </p>
+    <p>
+     Supercritical-fluid extraction (SFE) is an important method for large-scale purification of complex liquid or solid matrices, such as polluted streams. The major advantage of this method over liquid-liquid extraction is that the supercritical fluid can easily be removed after extraction by lowering the temperature or pressure or both. The supercritical fluid becomes a gas, and the extracted species condense into a liquid or solid. The problem of removing the extracting liquid is eliminated. An example of the SFE method is the removal of caffeine from coffee.
+    </p>
+   </h3>
+   <h3 id="h80493">
+    <title>
+     Crystallization and precipitation
+    </title>
+    <p>
+     Crystallization is a technique that has long been used in the purification of substances. Often, when a solid substance (single compound) is placed in a liquid, it dissolves. Upon adding more of the solid, a point eventually is reached beyond which no further solid dissolves, and the solution is said to be saturated with the solid compound. The concentration of the saturated solution depends on the temperature, in most cases a higher temperature resulting in a higher concentration.
+    </p>
+    <p>
+     These phenomena can be employed as a means of effecting separation and purification. Thus, if a solution saturated at some temperature is cooled, the dissolved component begins to separate from the solution and continues to do so until the solution again becomes saturated at the lower temperature. Because the solubilities of two solid compounds in a particular solvent generally differ, it often is possible to find conditions such that the solution is saturated with only one of the components of a mixture. When such a solution cools, part of the less soluble substance crystallizes alone, while the more soluble components remain dissolved.
+    </p>
+    <p>
+     Crystallization, the process of solidifying from solution, is highly complex. Seed particles, or nuclei, form in the solution, and other molecules then deposit on these solid surfaces. The particles eventually become large enough to fall to the bottom of the container. In order to achieve a high purity in the crystallized solid, it is necessary that this precipitation take place slowly. If solidification is rapid, impurities can be entrapped in the solid matrix. Entrapment of foreign material can be minimized if the individual crystals are kept small. It is sometimes necessary to add a seed crystal to the solution in order to begin the crystallization process: the seed crystal provides a solid surface on which further crystallization can take place.
+    </p>
+    <p>
+     The term precipitation sometimes is differentiated from crystallization by restricting it to processes in which an insoluble compound is formed in the solution by a chemical reaction. It often happens that several substances are precipitated by a given reaction. To achieve separation in such cases, it is necessary to control the concentration of the precipitating agent, so that the solubility of only one substance is exceeded. Alternatively, a second agent can be added to the solution to form stable, soluble products with one or more components in order to suppress their participation in the precipitation reaction. Such compounds, often used in the separation of metal ions, are called masking agents.
+    </p>
+    <p>
+     Precipitation was used for many years as a standard method for separation and analysis of metals. It has now been replaced, however, by selective and sensitive instrumental methods that directly analyze many metals in aqueous solutions.
+    </p>
+   </h3>
+   <h3 id="h80494">
+    <title>
+     Zone melting
+    </title>
+    <p>
+     Another separation procedure based on liquid-solid equilibria is zone melting, which has found its greatest use in the purification of metals. Purities as high as 99.999 percent often are obtained by application of this technique. Samples are usually in a state of moderate purity before zone melting is performed.
+    </p>
+    <p>
+     The zone-melting process is easy to visualize. Typically, the sample is made into the form of a thin rod, from 60 centimetres to 3 metres (2 to 10 feet) or more in length. The rod, confined within a tube, is suspended either horizontally or vertically, and a narrow ring that can be heated is positioned around it. The temperature of this ring is held several degrees above the melting point of the solid, and the ring is made to travel very slowly (a few centimetres per hour) along the rod. Thus, in effect, a melted zone travels through the rod: liquid forms on the front side of this zone, and solid crystallizes on the rear side. Because the freezing point of a substance is depressed by the presence of impurities, the last portion of a liquefied sample to freeze is enriched in the impurities. As the molten zone moves along, therefore, it becomes more and more concentrated with impurities. At the end of the operation, the impurities are found solidified at the end of the rod, and the impure section can be removed simply by cutting it off. Ultrahigh purities can be achieved through multistage operation, either by recycling the ring several times or by using several rings in succession.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h80495">
+   <title>
+    Rate separations
+   </title>
+   <h3 id="h80496">
+    <title>
+     Field separations
+    </title>
+    <p>
+     Electrophoresis, described in an earlier section of this article, is an important method in the separation of biopolymers—namely, deoxyribonucleic acid (DNA) molecules and proteins. Electrophoresis is conventionally conducted on plates or slabs as in thin-layer chromatography. To maintain the ionic buffer solution on the plate, some anticonvective medium or gel is necessary, and the method is thus called slab-gel electrophoresis. Polyacrylamide or agarose is typically used as the gel material.
+    </p>
+    <p>
+     As noted earlier, electrophoresis separates on the basis of charge. Size separation or sieving can also be important applications of gels; in this case the pore dimensions of the gel are comparable to the dimensions of the biopolymers. The gel matrix then becomes a resistance to the migration of the substances in the electric field, and separation is based on the size of the molecules, with the smallest migrating the fastest. This principle is essential for the separation of DNA molecules, since these species cannot be electrophoretically separated without the porous gel matrix. An important application of this method is DNA sequencing in which the order of the four nucleotides (adenine, cytidine, guanine, and thymidine) in an oligonucleotide molecule must be determined. The method thus aids in the sequencing of the human genome.
+    </p>
+    <p>
+     Proteins can also be electrophoretically separated by gel sieving. In this technique, the protein is denatured (i.e., its higher structural features are destroyed) and combined with an excess of detergent, such as sodium dodecyl sulfate (SDS). The resulting SDS-protein complexes have the same charge density and shape and are therefore resolved according to size in a gel matrix. This method is useful in characterizing proteins and evaluating their purity.
+    </p>
+    <p>
+     In addition to being separated by size, proteins can also be separated according to their specific charge residues. A particularly useful method based on this principle is isoelectric focusing (IEF). At a given pH of a solution, a specific protein will have equal positive and negative charges and will therefore not migrate in an electric field. This pH value is called the isoelectric point. A slab gel (or column) can be filled with a complex mixture of buffers (known as ampholytes) that, under the influence of an applied field, migrate to the position of their respective isoelectric points and then remain fixed. A pH gradient is established, which then allows focusing of proteins at their respective isoelectric points.
+    </p>
+    <p>
+     Charge (IEF) and size (SDS-protein complex) separations can be combined in a two-dimensional approach. Two-dimensional gel electrophoresis is one of the most powerful resolving methods now available.
+    </p>
+    <p>
+     Electrophoresis can also be used in a preparative mode. In continuous-flow paper electrophoresis, the sample is continuously fed (with a salt solution) at the top centre of a vertically mounted sheet of paper. As the sample flows down the paper, it is subjected to an electrical potential at right angles to the direction of flow. The various species disperse across the paper, depending on their charge and mobility, and drop from the coarsely serrated bottom edge of the paper into receivers.
+    </p>
+    <p>
+     Another field-separation technique, ultracentrifugation, involves separation on the basis of the centrifugal force created by very rapid rotation (50,000 revolutions per minute or more). Different species, depending on their masses, will settle at different speeds under these conditions. Ultracentrifugation finds its greatest use in the separation of polymeric materials, such as proteins and nucleic acids.
+    </p>
+    <p>
+     Field-flow fractionation consists of a series of methods based on a field applied perpendicular to a flow stream in a narrow channel. Because of friction at the channel walls, the velocity of the liquid will be faster in the centre than at the walls. In sedimentation field-flow fractionation, for example, the channel is spun and the applied perpendicular field is a centrifugal force (gravity). Particles sediment toward the channel walls and reach a steady-state position. Since the flow velocity is nonuniform across the channel, the rate of migration will vary for different substances, resulting in separation. The applied force can be centrifugal, electrical, or thermal. Field-flow fractionation is best suited to particle- or colloid-size substances. An example is the separation of latex particles used in paints. Other methods of particle separation are discussed below.
+    </p>
+    <p>
+     Electrolytic separations and purifications are effected by taking advantage of the different voltages required to convert ions to neutral substances. A particularly important example of this method is the refining of copper. Copper ores typically contain minor amounts of other metals that are not removed by the initial processes that reduce the ores to the metal. A slab of the impure copper and a sheet of pure copper are placed in a vessel containing a solution of sulfuric acid in water, and the two pieces of copper are connected to a source of direct electric current, so that the pure copper becomes the cathode and the impure copper becomes the anode. The anode dissolves, the metal atoms becoming positive ions that migrate through the solution to the cathode. The voltage between the electrodes is regulated so that, as the metal ions arrive at the cathode, only the copper ions are reduced to metal atoms, which deposit on the cathode. Some of the original impurities, such as zinc and nickel, remain as their ions in the solution, because their conversion back to neutral metal atoms requires a higher voltage than that of the system; other impurities, such as silver and gold, never dissolve at all, but, as the atoms around them dissolve, they fall to the bottom of the vessel as a slime from which they can be recovered by other processes.
+    </p>
+   </h3>
+   <h3 id="h80497">
+    <title>
+     Barrier separations
+    </title>
+    <p>
+     Several separation methods depend on penetration of molecules through semipermeable membranes. Membrane filtration involves simple migration resulting from a concentration difference on the two sides of the membrane. In ultrafiltration, this diffusion through the membrane is accelerated by means of a pressure difference. In electrodialysis, an electrical field accelerates the migration.
+    </p>
+    <p>
+     Unrestricted migration of the individual components of a solution results in equalization of the concentration of each component throughout the solution. All the components take part in this process: there is just as much tendency for the solvent to diffuse from regions where its concentration is high (and the solution is therefore dilute) to regions where its concentration is low (and the solution is concentrated) as there is for the dissolved substance to diffuse from regions where it is concentrated to those where it is dilute. In many separations, attention is focused on the tendency of the dissolved particles to migrate, while the corresponding tendency of the solvent particles to migrate is largely ignored. Osmosis, however, is a phenomenon in which only the solvent is free to migrate through a membrane that separates two regions of different composition. The solvent, driven by its tendency to move from the region where its concentration is higher, passes from the dilute solution into the concentrated one and would continue to do so indefinitely if the liquid levels on the two sides of the membrane remained the same. But, as the solvent passes through the membrane, the amounts of the two solutions become unequal, and the resulting difference in pressure eventually brings the migration to a stop. This pressure difference is called the osmotic pressure of the solution.
+    </p>
+    <p>
+     In a separation technique called reverse osmosis, a pressure is applied opposite to and in excess of the osmotic pressure to force the solvent through a membrane against its concentration gradient. This method is an effective means of concentrating impurities, recovering contaminated solvents, cleaning up polluted streams, and desalinizing seawater. Dialysis, a technique frequently used in biochemistry, is a membrane-separation method used for removing dissolved salts from solutions of proteins or other large molecules.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h80498">
+   <title>
+    Particle separations
+   </title>
+   <h3 id="h80499">
+    <title>
+     Sedimentation
+    </title>
+    <p>
+     Particles such as viruses, colloids, bacteria, and small fragments of silica and alumina may be separated into different fractions of various sizes and densities. Suspensions of relatively massive particles settle under the influence of gravity, and the different rates can be exploited to effect separations. To separate viruses and the like, it is necessary to employ much more powerful force fields, such as those produced in an ultracentrifuge.
+    </p>
+   </h3>
+   <h3 id="h80500">
+    <title>
+     Filtration and screening
+    </title>
+    <p>
+     In filtration, a porous material is used to separate particles of different sizes. If the pore sizes are highly uniform, separation can be fairly sensitive to the size of the particles, but the method is most commonly used to effect gross separations, as of liquids from suspended crystals or other solids. To accelerate filtration, pressure usually is applied. A series of sieves is stacked, with the screen of largest hole size at the top. The mixture of particles is placed at the top, and the assembly is agitated to facilitate the passage of the particles through successive screens. At the end of the operation, the particles are distributed among the sieves in accordance with their particle diameters.
+    </p>
+   </h3>
+   <h3 id="h80501">
+    <title>
+     Elutriation
+    </title>
+    <p>
+     In this method, the particles are placed in a vertical tube in which water (or another fluid) is flowing slowly upward. The particles fall through the water at speeds that vary with their size and density. If the flow rate of the water is slowly increased, the most slowly sinking particles will be swept upward with the fluid flow and removed from the tube. Intermediate particles will remain stationary, and the largest or densest particles will continue to migrate downward. The flow can again be increased to remove the next smallest size of particles. Thus, by careful control of flow through the tube, particles can be separated according to size.
+    </p>
+   </h3>
+   <h3 id="h80502">
+    <title>
+     Particle electrophoresis and electrostatic precipitation
+    </title>
+    <p>
+     As the name implies, particle electrophoresis involves the separation of charged particles under the influence of an electric field; this method is used especially for the separation of viruses and bacteria. Electrostatic precipitation is a method for the precipitation of fogs (suspensions of particles in the atmosphere or in other gases): a high voltage is applied across the gas phase to produce electrical charges on the particles. These charges cause the particles to be attracted to the oppositely charged walls of the separator, where they give up their charges and fall into collectors.
+    </p>
+   </h3>
+   <h3 id="h80503">
+    <title>
+     Foam fractionation and flotation
+    </title>
+    <p>
+     There are a few methods that employ foams to achieve separations. In these, the principle of separation is adsorption on gas bubbles or at the gas-liquid interface. Two of these methods are foam fractionation, for the separation of molecular species, and flotation, for the separation of particles. When dissolved in water, a soap or detergent forms a foam if gas is bubbled through the solution. Collection of the foam is a means of concentrating the soap. Flotation is a process in which particles are carried out of a suspension by a foam. In this case, a soap or other chemical agent first adsorbs on the surface of the particle to increase its ability to adhere to small air bubbles. The clinging bubbles make the particle light enough to float to the surface, where it can be removed. This method is extremely important in concentrating the valuable constituents of minerals before chemical processing to recover the metals present.
+    </p>
+    <signature>
+     Barry L. Karger
+    </signature>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h80504">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   Broad coverage of the field is provided in
+   <e type="smallcap">
+    Barry L. Karger
+   </e>
+   ,
+   <e type="smallcap">
+    Lloyd R. Snyder
+   </e>
+   , and
+   <e type="smallcap">
+    Csaba Horváth
+   </e>
+   ,
+   <e type="italic">
+    An Introduction to Separation Science
+   </e>
+   (1973), a modern treatment of theory and practice, with emphasis on small-scale operation;
+   <e type="smallcap">
+    J. Calvin Giddings
+   </e>
+   ,
+   <e type="italic">
+    Unified Separation Science
+   </e>
+   (1991), a fundamental text on the principles of separation methods; and
+   <e type="smallcap">
+    C. Judson King
+   </e>
+   ,
+   <e type="italic">
+    Separation Processes,
+   </e>
+   2nd ed. (1980), a fundamental text dealing with large-scale engineering and separation procedures.
+   <e type="smallcap">
+    Anthony T. Andrews
+   </e>
+   ,
+   <e type="italic">
+    Electrophoresis: Theory, Techniques, and Biochemical and Clinical Applications,
+   </e>
+   2nd ed. (1986), introduces this method.
+   <e type="italic">
+    Advances in Electrophoresis
+   </e>
+   (annual) reviews the literature. Useful journals include
+   <e type="italic">
+    Separation Science and Technology
+   </e>
+   (monthly); and
+   <e type="italic">
+    Electrophoresis
+   </e>
+   (monthly).
+  </p>
+  <signature>
+   Barry L. Karger
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="31670" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:44:07" url="/article/dynamical-time/31670" version="5">
+ <title>
+  dynamical time
+ </title>
+ <p>
+  <e type="bold">
+   dynamical time
+  </e>
+  , specialized timescale used to describe the motion of objects in space.
+ </p>
+ <p>
+  As a practical matter, time can be defined as that coordinate which can most simply be related to the evolution of closed systems. Proper time is the time measured by a clock in a reference system in which it is at rest. Coordinate time is the time coordinate of a four-dimensional relativistic transformation from a reference system using proper time. In 1991 the International Astronomical Union (IAU) defined several kinds of time in a manner consistent with the general theory of
+  <xref articleid="109465">
+   relativity
+  </xref>
+  , and these are described below. Each kind of time is appropriate for a particular four-dimensional reference frame. All are defined so that there is no global rotation of the frame with respect to distant extragalactic objects, and all are based on the
+  <xref articleid="42610">
+   International System of Units
+  </xref>
+  (SI) second, which is defined as 9,192,631,770 periods of oscillation of the radiation from the ground-state hyperfine transition of cesium-133 (
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="10134">
+   atomic time
+  </xref>
+  ).
+ </p>
+ <p>
+  Terrestrial Time (TT)—formerly Terrestrial Dynamical Time (TDT), the successor to
+  <xref articleid="32763">
+   Ephemeris Time
+  </xref>
+  (ET)—is the theoretical timescale of geocentric
+  <xref articleid="32762">
+   ephemerides
+  </xref>
+  , and it is specified as TT = TAI* + 32.184 seconds, where TAI* denotes a reprocessed computation of International Atomic Time (TAI) and the 32.184-second offset was chosen so as to provide continuity with ET. TT is defined to be exactly 32.184 seconds offset from TAI at the start of Jan. 1, 1977. For times previous to 1955, when TAI was not available, TT must be extrapolated backward using ET, a timescale defined by the theory of the motions of solar system bodies. ET, before being superseded by TT, was originally based upon the length of the tropical year in 1900 as determined by the American astronomer
+  <xref articleid="55577">
+   Simon Newcomb
+  </xref>
+  . Different realizations of TT are denoted by TT(
+  <e type="italic">
+   x
+  </e>
+  <e type="italic">
+   x
+  </e>
+  <e type="italic">
+   x
+  </e>
+  ), where
+  <e type="italic">
+   x
+  </e>
+  <e type="italic">
+   x
+  </e>
+  <e type="italic">
+   x
+  </e>
+  is an identifier; the
+  <xref articleid="42577">
+   International Bureau of Weights and Measures
+  </xref>
+  distributes tables that can be used to obtain TT from TAI.
+ </p>
+ <p>
+  Barycentric Coordinate Time (TCB) is the time coordinate measured by a nonrotating observer that is at rest with respect to the solar system’s barycentre (centre of mass) but is far enough away from the solar system that its gravitational effects are negligible.
+ </p>
+ <p>
+  Geocentric Coordinate Time (TCG) is the time coordinate measured by a nonrotating observer at rest with respect to the Earth’s centre and does not include the effects of the Earth’s gravitational field. The transformation between TT and TCG was originally specified in terms of the
+  <xref articleid="36465">
+   geoid
+  </xref>
+  (the hypothetical surface of the Earth that coincides with mean sea level). However, because of difficulties in defining the geoid to the required precision, in 2000 the IAU revised the definition so that TT differs from TCG by a constant rate such that the ratio of TCG to TT is 1 + 6.969290134 × 10
+  <sup>
+   −10
+  </sup>
+  . Detailed transformation equations can be found in the International Earth Rotation and Reference Systems Service conventions.
+ </p>
+ <p>
+  Barycentric Dynamical Time (TDB) is a dynamical timescale whose use the IAU permits where necessary for user convenience. TDB differs from TT only by periodic terms related to the Earth’s orbit, but it is applied to a reference system at rest with respect to the solar system’s barycentre. Due to TDB’s nonincorporation of the secular (long-term trend) part of the relativistic time transformation to the barycentre, planetary and lunar data reductions using it would lead to different numerical estimates of masses and other parameters of solar system bodies than would reductions using the fully approved timescales.
+ </p>
+ <signature>
+  Demetrios N. Matsakis
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

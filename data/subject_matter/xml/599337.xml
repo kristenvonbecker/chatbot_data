@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="599337" articletypeid="1" language="en_us" lastupdate="2021-Nov-22 05:53:58" url="/article/simple-machine/599337" version="6">
+ <title>
+  simple machine
+ </title>
+ <p>
+  <assembly id="a149099" url="/assembly/view/149099">
+   <title>
+    simple machines
+   </title>
+   <media mediaid="93320" type="image" url="/20/93320-004-4D08BEA1.jpg"/>
+   <caption>
+    Six simple machines for transforming energy into work.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   simple machine
+  </e>
+  ,
+  <assemblyref assemblyid="a149099"/>
+  any of several devices with few or no moving parts that are used to modify
+  <xref articleid="53959">
+   motion
+  </xref>
+  and the magnitude of a
+  <xref articleid="34834">
+   force
+  </xref>
+  in order to perform
+  <xref articleid="77472">
+   work
+  </xref>
+  . They are the simplest mechanisms known that can use leverage (or mechanical advantage) to increase force. The simple machines are the inclined plane, lever, wedge, wheel and axle, pulley, and screw.
+ </p>
+ <h1 id="h306821">
+  <title>
+   The inclined plane
+  </title>
+  <p>
+   <assembly id="a61293" url="/assembly/view/61293">
+    <title>
+     inclined plane
+    </title>
+    <media mediaid="1502" type="image" url="/02/1502-004-6107B684.jpg"/>
+    <caption>
+     In this representation of an inclined plane,
+     <e type="italic">
+      D
+     </e>
+     represents a block to be moved up the plane,
+     <e type="italic">
+      F
+     </e>
+     represents the force required to move the block, and
+     <e type="italic">
+      W
+     </e>
+     represents the weight of the block. Expressed mathematically, and assuming the plane to be without friction,
+     <e type="italic">
+      F
+     </e>
+     =
+     <e type="italic">
+      W
+     </e>
+     sin θ.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a61293"/>
+   An inclined plane consists of a sloping surface; it is used for raising heavy bodies. The plane offers a
+   <xref articleid="51699">
+    mechanical advantage
+   </xref>
+   in that the force required to move an object up the incline is less than the
+   <xref articleid="76440">
+    weight
+   </xref>
+   being raised (discounting
+   <xref articleid="35414">
+    friction
+   </xref>
+   ). The steeper the slope, or incline, the more nearly the required force approaches the actual weight. Expressed mathematically, the force
+   <e type="italic">
+    F
+   </e>
+   required to move a block
+   <e type="italic">
+    D
+   </e>
+   up an inclined plane without friction is equal to its weight
+   <e type="italic">
+    W
+   </e>
+   times the sine of the angle the inclined plane makes with the horizontal (θ). The equation is
+   <e type="italic">
+    F
+   </e>
+   =
+   <e type="italic">
+    W
+   </e>
+   sin θ.
+  </p>
+  <p>
+   The principle of the inclined plane is used widely—for example, in ramps and switchback roads, where a small force acting for a distance along a slope can do a large amount of work.
+  </p>
+ </h1>
+ <h1 id="h306822">
+  <title>
+   The lever
+  </title>
+  <p>
+   <assembly id="a61405" url="/assembly/view/61405">
+    <title>
+     levers
+    </title>
+    <media mediaid="2091" type="image" url="/91/2091-004-6910F4E6.jpg"/>
+    <caption>
+     Two examples of levers (Left) A crowbar, supported and turning freely on a fulcrum
+     <e type="italic">
+      f
+     </e>
+     , multiplies a downward force
+     <e type="italic">
+      F
+     </e>
+     applied at point
+     <e type="italic">
+      a
+     </e>
+     such that it can overcome the load
+     <e type="italic">
+      P
+     </e>
+     exerted by the mass of the rock at point
+     <e type="italic">
+      b
+     </e>
+     . If, for example, the length
+     <e type="italic">
+      a
+     </e>
+     <e type="italic">
+      f
+     </e>
+     is five times
+     <e type="italic">
+      b
+     </e>
+     <e type="italic">
+      f
+     </e>
+     , the force
+     <e type="italic">
+      F
+     </e>
+     will be multiplied five times. (Right) A nutcracker is essentially two levers connected by a pin joint at a fulcrum
+     <e type="italic">
+      f
+     </e>
+     . If
+     <e type="italic">
+      a
+     </e>
+     <e type="italic">
+      f
+     </e>
+     is three times
+     <e type="italic">
+      b
+     </e>
+     <e type="italic">
+      f
+     </e>
+     , the force
+     <e type="italic">
+      F
+     </e>
+     exerted by hand at point
+     <e type="italic">
+      a
+     </e>
+     will be multiplied three times at
+     <e type="italic">
+      b
+     </e>
+     , easily overcoming the compressive strength
+     <e type="italic">
+      P
+     </e>
+     of the nutshell.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a61405"/>
+   A lever is a bar or board that rests on a support called a fulcrum. A downward force exerted on one end of the lever can be transferred and increased in an upward direction at the other end, allowing a small force to lift a heavy weight.
+  </p>
+  <p>
+   All early people used the lever in some form, for example, for moving heavy stones or as digging sticks for land cultivation. The principle of the lever was used in the swape, or
+   <xref articleid="67050">
+    shadoof
+   </xref>
+   , a long lever pivoted near one end with a platform or water container hanging from the short arm and counterweights attached to the long arm. A man could lift several times his own weight by pulling down on the long arm. This device is said to have been used in Egypt and India for raising water and lifting soldiers over battlements as early as 1500
+   <e type="smallcap">
+    bce
+   </e>
+   .
+  </p>
+ </h1>
+ <h1 id="h306823">
+  <title>
+   The wedge
+  </title>
+  <p>
+   A wedge is an object that tapers to a thin edge. Pushing the wedge in one direction creates a force in a sideways direction. It is usually made of metal or wood and is used for splitting, lifting, or tightening, as in securing a hammer head onto its handle.
+  </p>
+  <p>
+   The wedge was used in prehistoric times to split logs and rocks; an
+   <xref articleid="483932">
+    ax
+   </xref>
+   is also a wedge, as are the teeth on a saw. In terms of its mechanical function, the screw may be thought of as a wedge wrapped around a cylinder.
+  </p>
+ </h1>
+ <h1 id="h306824">
+  <title>
+   The wheel and axle
+  </title>
+  <p>
+   A wheel and axle is made up of a circular frame (the wheel) that revolves on a shaft or rod (the axle). In its earliest form it was probably used for raising weights or water buckets from wells.
+  </p>
+  <p>
+   <assembly id="a7998" url="/assembly/view/7998">
+    <title>
+     wheel and axle arrangements
+    </title>
+    <media mediaid="5147" type="image" url="/47/5147-004-9049EE87.jpg"/>
+    <caption>
+     Two wheel and axle arrangements (A) With a large gear and a small gear attached to the same shaft, or axle, a force
+     <e type="italic">
+      F
+     </e>
+     applied at the radius
+     <e type="italic">
+      R
+     </e>
+     on the large gear is sufficient to overcome the larger force
+     <e type="italic">
+      W
+     </e>
+     at the radius
+     <e type="italic">
+      r
+     </e>
+     on the small gear, turning the axle. (B) In a drum and rope arrangement capable of raising weights, a large drum of radius
+     <e type="italic">
+      R
+     </e>
+     can be used to turn a small drum. An increase in mechanical advantage can be obtained by using the large drum to turn a small drum with two radii as well as a pulley block. When a force
+     <e type="italic">
+      F
+     </e>
+     is applied to the rope wrapped around the large drum, the rope wrapped around the small two-radius drum winds off of d (radius
+     <e type="italic">
+      r
+     </e>
+     <sub>
+      1
+     </sub>
+     ) and onto D (radius
+     <e type="italic">
+      r
+     </e>
+     <sub>
+      2
+     </sub>
+     ). The force
+     <e type="italic">
+      W
+     </e>
+     on the radius of the pulley block P is easily overcome, and the attached weight is lifted.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a7998"/>
+   Its principle of operation is best explained by way of a device with a large gear and a small gear attached to the same shaft. The tendency of a force,
+   <e type="italic">
+    F
+   </e>
+   , applied at the radius
+   <e type="italic">
+    R
+   </e>
+   on the large gear to turn the shaft is sufficient to overcome the larger force
+   <e type="italic">
+    W
+   </e>
+   at the radius
+   <e type="italic">
+    r
+   </e>
+   on the small gear. The force amplification, or mechanical advantage, is equal to the ratio of the two forces (
+   <e type="italic">
+    W
+   </e>
+   :
+   <e type="italic">
+    F
+   </e>
+   ) and also equal to the ratio of the radii of the two gears (
+   <e type="italic">
+    R
+   </e>
+   :
+   <e type="italic">
+    r
+   </e>
+   ).
+  </p>
+  <p>
+   If the large and small gears are replaced with large- and small-diameter drums that are wrapped with ropes, the wheel and axle becomes capable of raising weights. The weight being lifted is attached to the rope on the small drum, and the operator pulls the rope on the large drum. In this arrangement the mechanical advantage is the radius of the large drum divided by the radius of the small drum. An increase in the mechanical advantage can be obtained by using a small drum with two radii,
+   <e type="italic">
+    r
+   </e>
+   <sub>
+    1
+   </sub>
+   and
+   <e type="italic">
+    r
+   </e>
+   <sub>
+    2
+   </sub>
+   , and a pulley block. When a force is applied to the large drum, the rope on the small drum winds onto D and off of d.
+  </p>
+  <p>
+   A measure of the force amplification available with the pulley-and-rope system is the velocity ratio, or the ratio of the
+   <xref articleid="74984">
+    velocity
+   </xref>
+   at which the force is applied to the rope (
+   <e type="italic">
+    V
+   </e>
+   <sub>
+    <e type="italic">
+     F
+    </e>
+   </sub>
+   ) to the velocity at which the weight is raised (
+   <e type="italic">
+    V
+   </e>
+   <sub>
+    <e type="italic">
+     W
+    </e>
+   </sub>
+   ). This ratio is equal to twice the radius of the large drum divided by the difference in the radii of the smaller drums D and d. Expressed mathematically, the equation is
+   <e type="italic">
+    V
+   </e>
+   <sub>
+    <e type="italic">
+     F
+    </e>
+   </sub>
+   /
+   <e type="italic">
+    V
+   </e>
+   <sub>
+    <e type="italic">
+     W
+    </e>
+   </sub>
+   = 2
+   <e type="italic">
+    R
+   </e>
+   /(
+   <e type="italic">
+    r
+   </e>
+   <sub>
+    2
+   </sub>
+   -
+   <e type="italic">
+    r
+   </e>
+   <sub>
+    1
+   </sub>
+   ). The actual mechanical advantage
+   <e type="italic">
+    W
+   </e>
+   /
+   <e type="italic">
+    F
+   </e>
+   is less than this velocity ratio, depending on friction. A very large mechanical advantage may be obtained with this arrangement by making the two smaller drums D and d of nearly equal radius.
+  </p>
+ </h1>
+ <h1 id="h306825">
+  <title>
+   The pulley
+  </title>
+  <p>
+   A pulley is a wheel that carries a flexible rope, cord, cable, chain, or belt on its rim. Pulleys are used singly or in combination to transmit energy and motion. Pulleys with grooved rims are called sheaves. In belt drive, pulleys are affixed to shafts at their axes, and power is transmitted between the shafts by means of endless belts running over the pulleys.
+  </p>
+  <p>
+   <assembly id="a4560" url="/assembly/view/4560">
+    <title>
+     Block and tackle
+    </title>
+    <media mediaid="6709" type="image" url="/09/6709-004-AD9F2874.jpg"/>
+    <caption>
+     Block and tackle.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a4560"/>
+   One or more independently rotating pulleys can be used to gain mechanical advantage, especially for lifting weights. The shafts about which the pulleys turn may affix them to frames or blocks, and a combination of pulleys, blocks, and rope or other flexible material is referred to as a
+   <xref articleid="15675">
+    block and tackle
+   </xref>
+   . The Greek mathematician
+   <xref articleid="109383">
+    Archimedes
+   </xref>
+   (3rd century
+   <e type="smallcap">
+    bce
+   </e>
+   ) is reported to have used compound pulleys to pull a ship onto dry land.
+  </p>
+ </h1>
+ <h1 id="h306826">
+  <title>
+   The screw
+  </title>
+  <p>
+   A screw is a usually circular cylindrical member with a continuous helical rib, used either as a fastener or as a force and motion modifier.
+  </p>
+  <p>
+   <assembly id="a138823" url="/assembly/view/138823">
+    <title>
+     Archimedes screw
+    </title>
+    <media mediaid="103875" type="image" url="/75/103875-004-5F8D1D0E.jpg"/>
+    <caption>
+     Archimedes screw.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a138823"/>
+   Although the Pythagorean philosopher
+   <xref articleid="9301">
+    Archytas of Tarentum
+   </xref>
+   (5th century
+   <e type="smallcap">
+    bce
+   </e>
+   ) is the alleged inventor of the screw, the exact period of its first appearance as a useful mechanical device is obscure. The invention of the
+   <xref articleid="9287">
+    water screw
+   </xref>
+   is usually ascribed to Archimedes, but evidence exists of a similar device used for irrigation in Egypt at an earlier date. The screw press, probably invented in Greece in the 1st or 2nd century
+   <e type="smallcap">
+    bce
+   </e>
+   , has been used since the days of the Roman Empire for pressing clothes. In the 1st century
+   <e type="smallcap">
+    ce
+   </e>
+   , wooden screws were used in wine and olive-oil presses, and cutters (taps) for cutting internal threads were in use.
+  </p>
+  <p>
+   <assembly id="a7301" url="/assembly/view/7301">
+    <title>
+     Screws and screw heads
+    </title>
+    <media mediaid="3941" type="image" url="/41/3941-004-F96BF37A.jpg"/>
+    <caption>
+     <e type="italic">
+      Screws and screw heads
+     </e>
+     (A) Cap screw, (B) machine screw with oval head, (C) setscrew with hollow head, (D) self-tapping screw, (E) flat-head wood screw, (F) machine screw with Phillips head, (G) lag screw.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a7301"/>
+   Cap and machine screws are used to clamp machine parts together, either when one of the parts has a threaded hole or in conjunction with a nut. These screws stretch when tightened, and the tensile load created clamps the parts together. The setscrew fits into a threaded hole in one member; when tightened, the cup-shaped point is pressed into a mating member (usually a shaft) and prevents relative motion. Self-tapping screws form or cut mating threads by displacing material adjacent to a pilot hole so that it flows around the screw.
+  </p>
+  <p>
+   <assembly id="a257670" url="/assembly/view/257670">
+    <title>
+     Get to know the six types of simple machines
+    </title>
+    <media mediaid="225298" thumburl="/98/225298-049-89D74E95.jpg" type="video" url=""/>
+    <caption>
+     Learn more about the six simple machines.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a257670"/>
+   Wood screws are made in a wide variety of diameters and lengths; when using the larger sizes, pilot holes are drilled to avoid splitting the wood. Lag screws are large wood screws used to fasten heavy objects to wood. Heads are either square or hexagonal.
+  </p>
+  <p>
+   Screws that modify force and motion are known as power screws. A screw jack converts
+   <xref articleid="72955">
+    torque
+   </xref>
+   (turning moment) to thrust. The thrust (usually to lift a heavy object) is created by turning the screw in a stationary nut. By using a long bar to turn the screw, a small force at the end of the bar can create a large thrust force. Workpiece tables on
+   <xref articleid="108690">
+    machine tools
+   </xref>
+   are moved linearly on guiding ways by screws that rotate in
+   <xref articleid="13946">
+    bearings
+   </xref>
+   at the ends of the tables and mate with nuts fixed to the machine frame. A similar torque-to-thrust conversion can be obtained by either rotating an axially fixed screw to drive a rotationally fixed nut along the screw or by rotating an axially fixed nut to drive a rotationally fixed screw through the nut.
+  </p>
+ </h1>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

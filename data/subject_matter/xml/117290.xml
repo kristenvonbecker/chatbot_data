@@ -1,0 +1,2283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="117290" articletypeid="1" language="en_us" lastupdate="2023-Feb-10 09:58:45" url="/article/bridge/117290" version="34">
+ <title>
+  bridge
+ </title>
+ <p>
+  <assembly id="a2057" url="/assembly/view/2057">
+   <title>
+    Seto Great Bridge
+   </title>
+   <media mediaid="20302" type="image" url="/02/20302-004-C39F6A90.jpg"/>
+   <caption>
+    The multiple-span Seto Great Bridge over the Inland Sea, linking Kojima, Honshu, with Sakaide, Shikoku, Japan.
+   </caption>
+   <credit>
+    Orion Press, Tokyo
+   </credit>
+  </assembly>
+  <e type="bold">
+   bridge
+  </e>
+  ,
+  <assemblyref assemblyid="a2057"/>
+  structure that spans horizontally between supports, whose function is to carry vertical loads. The prototypical bridge is quite simple—two supports holding up a beam—yet the engineering problems that must be overcome even in this simple form are inherent in every bridge: the supports must be strong enough to hold the structure up, and the span between supports must be strong enough to carry the loads. Spans are generally made as short as possible; long spans are justified where good foundations are limited—for example, over estuaries with deep water.
+ </p>
+ <p>
+  All major bridges are built with the public’s money. Therefore, bridge design that best serves the public interest has a threefold goal: to be as efficient, as economical, and as elegant as is safely possible. Efficiency is a scientific principle that puts a value on reducing materials while increasing performance. Economy is a social principle that puts value on reducing the costs of construction and maintenance while retaining efficiency. Finally, elegance is a symbolic or visual principle that puts value on the personal expression of the designer without compromising performance or economy. There is little disagreement over what constitutes efficiency and economy, but the definition of elegance has always been controversial.
+ </p>
+ <p>
+  <assembly id="a9608" url="/assembly/view/9608">
+   <title>
+    suspension bridge across the River Conwy
+   </title>
+   <media mediaid="12727" type="image" url="/27/12727-004-19271ADA.jpg"/>
+   <caption>
+    Thomas Telford’s suspension bridge across the River Conwy, leading to Conwy Castle, Conwy county borough, Wales.
+   </caption>
+   <credit>
+    J. Allan Cash Photolibrary/Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a9608"/>
+  Modern designers have written about elegance or aesthetics since the early 19th century, beginning with the Scottish engineer
+  <xref articleid="71600">
+   Thomas Telford
+  </xref>
+  . Bridges ultimately belong to the general public, which is the final arbiter of this issue, but in general there are three positions taken by professionals. The first principle holds that the structure of a bridge is the province of the engineer and that beauty is fully achieved only by the addition of architecture. The second idea, arguing from the standpoint of pure engineering, insists that bridges making the most efficient possible use of materials are by definition beautiful. The third case holds that architecture is not needed but that engineers must think about how to make the structure beautiful. This last principle recognizes the fact that engineers have many possible choices of roughly equal efficiency and economy and can therefore express their own aesthetic ideas without adding significantly to materials or cost.
+ </p>
+ <p>
+  Generally speaking, bridges can be divided into two categories: standard overpass bridges or unique-design bridges over rivers, chasms, or estuaries. This article describes features common to both types, but it concentrates on the unique bridges because of their greater technical, economic, and aesthetic interest.
+ </p>
+ <h1 id="h72019">
+  <title>
+   The elements of bridge design
+  </title>
+  <h2 id="h72020">
+   <title>
+    Basic forms
+   </title>
+   <p>
+    <assembly id="a149100" url="/assembly/view/149100">
+     <title>
+      bridge forms
+     </title>
+     <media mediaid="33051" type="image" url="/51/33051-004-E42443D2.jpg"/>
+     <caption>
+      Six basic bridge forms.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a149100"/>
+    There are six basic bridge forms: the beam, the truss, the arch, the suspension, the cantilever, and the cable-stay.
+   </p>
+   <h3 id="h72021">
+    <title>
+     Beam
+    </title>
+    <p>
+     <assembly id="a18374" url="/assembly/view/18374">
+      <title>
+       beam bridge
+      </title>
+      <media mediaid="22073" type="image" url="/73/22073-004-CD675F15.jpg"/>
+      <caption>
+       A beam bridge, with forces of tension represented by red lines and forces of compression by green lines.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a18374"/>
+     The beam bridge is the most common bridge form. A
+     <xref articleid="13927">
+      beam
+     </xref>
+     carries vertical loads by bending. As the beam bridge bends, it undergoes horizontal compression on the top. At the same time, the bottom of the beam is subjected to horizontal tension. The supports carry the loads from the beam by compression vertically to the foundations.
+    </p>
+    <p>
+     When a bridge is made up of beams spanning between only two supports, it is called a simply supported beam bridge. If two or more beams are joined rigidly together over supports, the bridge becomes continuous.
+    </p>
+   </h3>
+   <h3 id="h72022">
+    <title>
+     Truss
+    </title>
+    <p>
+     <assembly id="a18375" url="/assembly/view/18375">
+      <title>
+       single-span truss bridge
+      </title>
+      <media mediaid="22074" type="image" url="/74/22074-004-96EC8BED.jpg"/>
+      <caption>
+       A single-span truss bridge, with forces of tension represented by red lines and forces of compression by green lines.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a18375"/>
+     A single-span
+     <xref articleid="73566">
+      truss
+     </xref>
+     bridge is like a simply supported beam because it carries vertical loads by bending. Bending leads to compression in the top chords (or horizontal members), tension in the bottom chords, and either tension or compression in the vertical and diagonal members, depending on their orientation. Trusses are popular because they use a relatively small amount of material to carry relatively large loads.
+    </p>
+   </h3>
+   <h3 id="h72023">
+    <title>
+     Arch
+    </title>
+    <p>
+     <assembly id="a18376" url="/assembly/view/18376">
+      <title>
+       arch bridge
+      </title>
+      <media mediaid="22075" type="image" url="/75/22075-004-0BAF3CE6.jpg"/>
+      <caption>
+       An arch bridge, with forces of compression represented by the green line.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a18376"/>
+     The
+     <xref articleid="9254">
+      arch
+     </xref>
+     bridge carries loads primarily by compression, which exerts on the foundation both vertical and horizontal forces. Arch foundations must therefore prevent both vertical settling and horizontal sliding. In spite of the more complicated foundation design, the structure itself normally requires less material than a beam bridge of the same span.
+    </p>
+   </h3>
+   <h3 id="h72024">
+    <title>
+     Suspension
+    </title>
+    <p>
+     <assembly id="a18377" url="/assembly/view/18377">
+      <title>
+       suspension bridge
+      </title>
+      <media mediaid="22076" type="image" url="/76/22076-004-BCD086BD.jpg"/>
+      <caption>
+       A suspension bridge, with forces of tension represented by red lines and forces of compression by green lines.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a18377"/>
+     A
+     <xref articleid="70493">
+      suspension bridge
+     </xref>
+     carries vertical loads through curved cables in tension. These loads are transferred both to the towers, which carry them by vertical compression to the ground, and to the anchorages, which must resist the inward and sometimes vertical pull of the cables. The suspension bridge can be viewed as an upside-down arch in tension with only the towers in compression. Because the deck is hung in the air, care must be taken to ensure that it does not move excessively under loading. The deck therefore must be either heavy or stiff or both.
+    </p>
+   </h3>
+   <h3 id="h72025">
+    <title>
+     Cantilever
+    </title>
+    <p>
+     <assembly id="a18378" url="/assembly/view/18378">
+      <title>
+       cantilever bridge
+      </title>
+      <media mediaid="22077" type="image" url="/77/22077-004-A3AAE0DE.jpg"/>
+      <caption>
+       A cantilever bridge, with forces of tension represented by red lines and forces of compression by green lines.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a18378"/>
+     A beam is said to be cantilevered when it projects outward, supported only at one end. A
+     <xref articleid="20064">
+      cantilever
+     </xref>
+     bridge is generally made with three spans, of which the outer spans are both anchored down at the shore and cantilever out over the channel to be crossed. The central span rests on the cantilevered arms extending from the outer spans; it carries vertical loads like a simply supported beam or a truss—that is, by tension forces in the lower chords and compression in the upper chords. The cantilevers carry their loads by tension in the upper chords and compression in the lower ones. Inner towers carry those forces by compression to the foundation, and outer towers carry the forces by tension to the far foundations.
+    </p>
+   </h3>
+   <h3 id="h72026">
+    <title>
+     Cable-stay
+    </title>
+    <p>
+     <assembly id="a18379" url="/assembly/view/18379">
+      <title>
+       cable-stayed bridge mechanics
+      </title>
+      <media mediaid="22078" type="image" url="/78/22078-004-DD28657B.jpg"/>
+      <caption>
+       A cable-stayed bridge, with forces of tension represented by red lines and forces of compression by green lines.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a18379"/>
+     Cable-stayed bridges carry the vertical main-span loads by nearly straight diagonal
+     <xref articleid="18447">
+      cables
+     </xref>
+     in tension. The towers transfer the cable forces to the foundations through vertical compression. The tensile forces in the cables also put the deck into horizontal compression.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h72027">
+   <title>
+    Materials
+   </title>
+   <p>
+    The four primary materials used for bridges have been wood, stone, iron, and concrete. Of these, iron has had the greatest effect on modern bridges. From iron, steel is made, and steel is used to make reinforced and prestressed concrete. Modern bridges are almost exclusively built with steel, reinforced concrete, and prestressed concrete.
+   </p>
+   <h3 id="h72028">
+    <title>
+     Wood and stone
+    </title>
+    <p>
+     <xref articleid="110435">
+      Wood
+     </xref>
+     is relatively weak in both compression and tension, but it has almost always been widely available and inexpensive. Wood has been used effectively for small bridges that carry light loads, such as footbridges. Engineers now incorporate laminated wooden beams and arches into some modern bridges.
+    </p>
+    <p>
+     Stone is strong in compression but weak in tension. Its primary application has been in
+     <xref articleid="9254">
+      arches
+     </xref>
+     ,
+     <xref articleid="59964">
+      piers
+     </xref>
+     , and abutments.
+    </p>
+   </h3>
+   <h3 id="h72029">
+    <title>
+     Iron and steel
+    </title>
+    <p>
+     The first
+     <xref articleid="110659">
+      iron
+     </xref>
+     used during the Industrial Revolution was
+     <xref articleid="20675">
+      cast iron
+     </xref>
+     , which is strong in compression but weak in tension.
+     <xref articleid="77572">
+      Wrought iron
+     </xref>
+     , on the other hand, is as strong in compression as cast iron, but it also has much greater tensile strength.
+     <xref articleid="110660">
+      Steel
+     </xref>
+     is an even further refinement of iron and is yet stronger, superior to any iron in both tension and compression. Steel can be made to varying strengths, some alloys being five times stronger than others. The engineer refers to these as high-strength steels.
+    </p>
+   </h3>
+   <h3 id="h72030">
+    <title>
+     Concrete
+    </title>
+    <p>
+     <xref articleid="25103">
+      Concrete
+     </xref>
+     is an artificial stone made from a mixture of water, sand, gravel, and a binder such as
+     <xref articleid="108319">
+      cement
+     </xref>
+     . Like stone, it is strong in compression and weak in tension. Concrete with steel bars embedded in it is called reinforced concrete. Reinforcement allows for less concrete to be used because the steel carries all the tension; also, the concrete protects the steel from corrosion and fire.
+    </p>
+    <p>
+     Prestressed concrete is an important variation of reinforced concrete. A typical process, called post-tensioned prestressing, involves casting concrete beams with longitudinal holes for steel tendons—cables or bars—like reinforced concrete, but the holes for the tendons are curved upward from end to end, and the tendons, once fitted inside, are stretched and then anchored at the ends. The tendons, now under high tension, pull the two anchored ends together, putting the beam into compression. In addition, the curved tendons exert an upward force, and the designer can make this upward force counteract much of the downward load expected to be carried by the beam. Prestressed concrete reduces the amount of steel and concrete needed in a structure, leading to lighter designs that are often less expensive than designs of reinforced concrete.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h72031">
+   <title>
+    Construction
+   </title>
+   <h3 id="h72032">
+    <title>
+     Beam bridges
+    </title>
+    <p>
+     All bridges need to be secure at the foundations and abutments. In the case of a typical overpass beam bridge with one support in the middle, construction begins with the casting of concrete footings for the
+     <xref articleid="59964">
+      pier
+     </xref>
+     and abutments. Where the soil is especially weak, wooden or steel
+     <xref articleid="60016">
+      piles
+     </xref>
+     are driven to support the footings. After the concrete piers and abutments have hardened sufficiently, the erection of a concrete or steel superstructure begins. Steel
+     <xref articleid="13927">
+      beams
+     </xref>
+     are generally made in a factory, shipped to the site, and set in place by cranes. For short spans, steel beams are usually formed as a single unit. At the site, they are placed parallel to each other, with temporary forms between them so that a concrete deck can be cast on top. The beams usually have metal pieces welded on their top flanges, around which the concrete is poured. These pieces provide a connection between beam and slab, thus producing a composite structure.
+    </p>
+    <p>
+     For longer spans, steel beams are made in the form of plate
+     <xref articleid="36906">
+      girders
+     </xref>
+     . A plate girder is an I beam consisting of separate top and bottom flanges welded or bolted to a vertical web. While beams for short spans are usually of a constant depth, beams for longer spans are often haunched—that is, deeper at the supports and shallower at mid-span. Haunching stiffens the beam at the supports, thereby reducing bending at mid-span.
+    </p>
+   </h3>
+   <h3 id="h72033">
+    <title>
+     Arch bridges
+    </title>
+    <p>
+     <xref articleid="9254">
+      Arches
+     </xref>
+     are normally fabricated on-site. After the building of abutments (and piers, if the bridge is multiarch), a falsework is constructed. For a concrete arch, metal or wooden falsework and forms hold the cast concrete and are later removed. For steel arches, a cantilevering method is standard. Each side of an arch is built out toward the other, supported by temporary cables above or by falsework below until the ends meet. At this point the arch becomes self-supporting, and the cables or falsework are removed.
+    </p>
+   </h3>
+   <h3 id="h72034">
+    <title>
+     Suspension bridges
+    </title>
+    <p>
+     <assembly id="a100662" url="/assembly/view/100662">
+      <title>
+       San Francisco–Oakland Bay Bridge
+      </title>
+      <media mediaid="100393" type="image" url="/93/100393-004-BDE3048F.jpg"/>
+      <caption>
+       San Francisco–Oakland Bay Bridge.
+      </caption>
+      <credit>
+       © Index Open
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a100662"/>
+     When bridges requiring piers are built over a body of water, foundations are made by sinking
+     <xref articleid="18575">
+      caissons
+     </xref>
+     into the riverbed and filling them with concrete. Caissons are large boxes or cylinders that have been made from wood, metal, or concrete. In the case of suspension bridges, towers are built atop the caissons. The first suspension-bridge towers were stone, but now they are either steel or concrete. Next, the anchorages are built on both ends, usually of reinforced concrete with embedded steel eyebars to which the cables will be fastened. An eyebar is a length of metal with a hole (or “eye”) at the ends. Cables for the first suspension bridges were made of linked wrought-iron eyebars; now, however, cables are generally made of thousands of steel wires spun together at the construction site. Spinning is done by rope pulleys that carry each wire across the top of the towers to the opposite anchorage and back. The wires are then bundled and covered to prevent corrosion. When the cables are complete, suspenders are hung, and finally the deck is erected—usually by floating deck sections out on ships, hoisting them with cranes, and securing them to the suspenders.
+    </p>
+   </h3>
+   <h3 id="h72035">
+    <title>
+     Cantilever bridges
+    </title>
+    <p>
+     <assembly id="a143154" url="/assembly/view/143154">
+      <title>
+       Forth Railway Bridge
+      </title>
+      <media mediaid="138715" type="image" url="/15/138715-004-AEAFCBDD.jpg"/>
+      <caption>
+       Construction of the Forth Railway Bridge, designed by John Fowler and Benjamin Baker on the cantilever principle, crossing the Firth of Forth in Scotland, c. 1880s.
+      </caption>
+      <credit>
+       © Photos.com/Thinkstock
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a143154"/>
+     Like suspension bridges, steel cantilever bridges generally carry heavy loads over water, so their construction begins with the sinking of caissons and the erection of towers and anchorages. For steel cantilever bridges, the steel frame is built out from the towers toward the centre and the abutments. When a shorter central span is required, it is usually floated out and raised into place. The deck is added last.
+    </p>
+    <p>
+     The cantilever method for erecting prestressed concrete bridges consists of building a concrete cantilever in short segments, prestressing each succeeding segment onto the earlier ones. Each new segment is supported by the previous segment while it is being cast, thus avoiding the need for falsework.
+    </p>
+   </h3>
+   <h3 id="h72036">
+    <title>
+     Cable-stayed bridges
+    </title>
+    <p>
+     <assembly id="a18382" url="/assembly/view/18382">
+      <title>
+       cable-stayed bridge construction
+      </title>
+      <media mediaid="22081" type="image" url="/81/22081-004-D92D28CE.jpg"/>
+      <caption>
+       Five steps in the cantilever-method construction of a cable-stayed bridge.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a18382"/>
+     Construction of cable-stayed bridges usually follows the cantilever method. After the tower is built, one cable and a section of the deck are constructed in each direction. Each section of the deck is prestressed before continuing. The process is repeated until the deck sections meet in the middle, where they are connected. The ends are anchored at the abutments.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h72037">
+   <title>
+    Performance in service
+   </title>
+   <p>
+    Bridges are designed, first, to carry their own permanent weight, or dead load; second, to carry traffic, or live loads; and, finally, to resist natural forces such as winds or earthquakes.
+   </p>
+   <h3 id="h72038">
+    <title>
+     Live load and dead load
+    </title>
+    <p>
+     The primary function of a bridge is to carry traffic loads: heavy trucks, cars, and trains. Engineers must estimate the traffic loading. On short spans, it is possible that the maximum conceivable load will be achieved—that is to say, on spans of less than 30 metres (100 feet), four heavy trucks may cross at the same time, two in each direction. On longer spans of a thousand metres or more, the maximum conceivable load is such a remote possibility (imagine the Golden Gate Bridge with only heavy trucks crossing bumper-to-bumper in each direction at the same time) that the cost of designing for it is unreasonable. Therefore, engineers use probable loads as a basis for design.
+    </p>
+    <p>
+     In order to carry traffic, the structure must have some weight, and on short spans this dead load weight is usually less than the live loads. On longer spans, however, the dead load is greater than live loads, and, as spans get longer, it becomes more important to design forms that minimize dead load. In general, shorter spans are built with beams, hollow boxes, trusses, arches, and continuous versions of the same, while longer spans use cantilever, cable-stay, and suspension forms. As spans get longer, questions of shape, materials, and form become increasingly important. New forms have evolved to provide longer spans with more strength from less material.
+    </p>
+   </h3>
+   <h3 id="h72039">
+    <title>
+     Forces of nature
+    </title>
+    <p>
+     Dead and live weight are essentially vertical loads, whereas forces from nature may be either vertical or horizontal. Wind causes two important loads, one called static and the other dynamic. Static wind load is the horizontal pressure that tries to push a bridge sideways. Dynamic wind load gives rise to vertical motion, creating oscillations in any direction. Like the breaking of an overused violin string, oscillations are vibrations that can cause a bridge to fail. If a deck is thin and not properly shaped and supported, it may experience dangerous vertical or torsional (twisting) movements.
+    </p>
+    <p>
+     The expansion and contraction of bridge materials by heat and cold have been minimized by the use of expansion joints in the deck along with bearings at the abutments and at the tops of piers. Bearings allow the bridge to react to varying temperatures without causing detrimental stress to the material. In arches, engineers sometimes design hinges to reduce stresses caused by temperature movement.
+    </p>
+    <p>
+     Modern bridges must also withstand natural disasters such as
+     <xref articleid="106251">
+      tropical cyclones
+     </xref>
+     and
+     <xref articleid="106195">
+      earthquakes
+     </xref>
+     . In general, earthquakes are best withstood by structures that carry as light a dead weight as possible, because the horizontal forces that arise from ground accelerations are proportional to the weight of the structure. (This phenomenon is explained by the fundamental Newtonian law of force equals mass times acceleration.) For cyclones, it is generally best that the bridge be aerodynamically designed to have little solid material facing the winds, so that they may pass through or around the bridge without setting up dangerous oscillations.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h72040">
+  <title>
+   The history of bridge design
+  </title>
+  <p>
+   Modern bridges, the focus of this article, began with the introduction of industrially produced
+   <xref articleid="110659">
+    iron
+   </xref>
+   . They have evolved over the past 200 years as engineers came to better understand the possibilities inherent first in
+   <xref articleid="20675">
+    cast iron
+   </xref>
+   , then in
+   <xref articleid="77572">
+    wrought iron
+   </xref>
+   and structural
+   <xref articleid="110660">
+    steel
+   </xref>
+   , and finally in reinforced and prestressed
+   <xref articleid="25103">
+    concrete
+   </xref>
+   . These materials have led to bridge designs that broke completely with the designs in wood or stone that characterized bridges before the
+   <xref articleid="42370">
+    Industrial Revolution
+   </xref>
+   .
+  </p>
+  <p>
+   Industrial strength has been an important factor in the evolution of bridges.
+   <xref articleid="37843">
+    Great Britain
+   </xref>
+   , the leading industrialized country of the early 19th century, built the most significant bridges of that time. Likewise, innovations arose in the
+   <xref articleid="111233">
+    United States
+   </xref>
+   from the late 19th century through the mid-20th century and in
+   <xref articleid="106451">
+    Japan
+   </xref>
+   and
+   <xref articleid="106260">
+    Germany
+   </xref>
+   in subsequent decades.
+   <xref articleid="108598">
+    Switzerland
+   </xref>
+   , with its highly industrialized society, has also been a fertile ground for advances in bridge building. In the early 21st century,
+   <xref articleid="117321">
+    China
+   </xref>
+   built a number of the world’s longest viaducts for its
+   <xref articleid="104373">
+    high-speed railways
+   </xref>
+   .
+  </p>
+  <h2 id="h72041">
+   <title>
+    Early wood and stone bridges
+   </title>
+   <h3 id="h72042">
+    <title>
+     The ancient world
+    </title>
+    <h4 id="h72043">
+     <title>
+      Beam bridges
+     </title>
+     <p>
+      The first bridges were simply supported
+      <xref articleid="13927">
+       beams
+      </xref>
+      , such as flat stones or tree trunks laid across a stream. For valleys and other wider channels—especially in East Asia and
+      <xref articleid="109561">
+       South America
+      </xref>
+      , where examples can still be found—ropes made of various grasses and vines tied together were hung in suspension for single-file crossing. Materials were free and abundant, and there were few labour costs, since the work was done by slaves, soldiers, or natives who used the bridges in daily life.
+     </p>
+     <p>
+      Some of the earliest known bridges are called clapper bridges (from Latin
+      <e type="italic">
+       claperius
+      </e>
+      , “pile of stones”). These bridges were built with long, thin slabs of stone to make a beam-type deck and with large rocks or blocklike piles of stones for piers. Postbridge in Devon, England, an early medieval clapper bridge, is an oft-visited example of this old type, which was common in much of the world, especially
+      <xref articleid="117321">
+       China
+      </xref>
+      .
+     </p>
+    </h4>
+    <h4 id="h72044">
+     <title>
+      Roman arch bridges
+     </title>
+     <p>
+      The Romans began organized bridge building to help their military campaigns. Engineers and skilled workmen formed guilds that were dispatched throughout the empire, and these guilds spread and exchanged building ideas and principles. The Romans also discovered a natural cement, called
+      <xref articleid="61155">
+       pozzolana
+      </xref>
+      , which they used for piers in rivers.
+     </p>
+     <p>
+      <assembly id="a4272" url="/assembly/view/4272">
+       <title>
+        parts of a circular arch
+       </title>
+       <media mediaid="5810" type="image" url="/10/5810-004-74F62EDB.jpg"/>
+       <caption>
+        Parts of a circular arch.
+       </caption>
+       <credit>
+        Encyclopædia Britannica, Inc.
+       </credit>
+      </assembly>
+      <assembly id="a7244" url="/assembly/view/7244">
+       <title>
+        Sant’Angelo Bridge
+       </title>
+       <media mediaid="26502" type="image" url="/02/26502-004-7D342996.jpg"/>
+       <caption>
+        Sant’Angelo Bridge and Castel Sant’Angelo, Rome
+       </caption>
+       <credit>
+        The J. Allan Cash Photolibrary
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a4272"/>
+      <assemblyref assemblyid="a7244"/>
+      Roman bridges are famous for using the circular
+      <xref articleid="9254">
+       arch
+      </xref>
+      form, which allowed for spans much longer than stone beams and for bridges of more permanence than wood. Where several arches were necessary for longer bridges, the building of strong
+      <xref articleid="59964">
+       piers
+      </xref>
+      was critical. This was a problem when the piers could not be built on rock, as in a wide river with a soft bed. To solve this dilemma, the Romans developed the
+      <xref articleid="24648">
+       cofferdam
+      </xref>
+      , a temporary enclosure made from wooden
+      <xref articleid="60016">
+       piles
+      </xref>
+      driven into the riverbed to make a sheath, which was often sealed with clay. Concrete was then poured into the water within the ring of piles. Although most surviving Roman bridges were built on rock, the
+      <xref articleid="65617">
+       Sant’Angelo Bridge
+      </xref>
+      in
+      <xref articleid="109501">
+       Rome
+      </xref>
+      stands on cofferdam foundations built in the
+      <xref articleid="72380">
+       Tiber River
+      </xref>
+      more than 1,800 years ago.
+     </p>
+     <p>
+      <assembly id="a401" url="/assembly/view/401">
+       <title>
+        Roman masonry arch bridge
+       </title>
+       <media mediaid="59931" type="image" url="/31/59931-004-9C3A05A9.jpg"/>
+       <caption>
+        Roman masonry arch bridge, with spans up to 29 metres (98 feet), built over the Tagus River at Alcántara, Spain, in the early 2nd century
+        <e type="smallcap">
+         ad
+        </e>
+        .
+       </caption>
+       <credit>
+        © A.G.E. FOTOSTOCK
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a401"/>
+      The Romans built many wooden bridges, but none has survived, and their reputation rests on their masonry bridges. One beautiful example is the bridge over the
+      <xref articleid="70918">
+       Tagus River
+      </xref>
+      at
+      <xref articleid="5492">
+       Alcántara
+      </xref>
+      , Spain. The arches, each spanning 29 metres (98 feet), feature huge arch stones (voussoirs) weighing up to eight tons each. Typical of the best stone bridges, the voussoirs at Alcántara were so accurately shaped that no mortar was needed in the joints. This bridge has remained standing for nearly 2,000 years.
+     </p>
+     <p>
+      <assembly id="a429" url="/assembly/view/429">
+       <title>
+        Pont du Gard
+       </title>
+       <media mediaid="5809" type="image" url="/09/5809-004-DBAEF913.jpg"/>
+       <caption>
+        Pont du Gard, Roman aqueduct, Nîmes, France, by Marcus Vipsanius Agrippa, during the Augustan period.
+       </caption>
+       <credit>
+        George Holton/Photo Researchers
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a429"/>
+      Another surviving monument is the
+      <xref articleid="36051">
+       Pont du Gard
+      </xref>
+      aqueduct near
+      <xref articleid="55867">
+       Nîmes
+      </xref>
+      in southern
+      <xref articleid="110436">
+       France
+      </xref>
+      , completed in 14
+      <e type="smallcap">
+       ce
+      </e>
+      . This structure, almost 270 metres (900 feet) long, has three tiers of semicircular arches, with the top tier rising more than 45 metres (150 feet) above the river. The bottom piers form diamond-shaped points, called cutwaters, which offer less resistance to the flow of water.
+     </p>
+    </h4>
+    <h4 id="h72045">
+     <title>
+      Asian cantilever and arch bridges
+     </title>
+     <p>
+      Wooden cantilever bridges were popular in Asia. The basic design used piles driven into the riverbed and old boats filled with stones sunk between them to make cofferdam-like foundations. When the highest of the stone-filled boats reached above the low-water level, layers of logs were crisscrossed in such a way that, as they rose in height, they jutted farther out toward the adjacent piers. At the top the Y-shaped cantilevering piers were joined by long tree trunks. By crisscrossing the logs, the builders allowed water to pass through the piers, offering less resistance to floods than with a solid design. In this respect, these designs presaged some of the advantages of the early iron bridges.
+     </p>
+     <p>
+      In parts of
+      <xref articleid="117321">
+       China
+      </xref>
+      many bridges had to stand in the spongy silt of river valleys. As these bridges were subject to an unpredictable assortment of tension and compression, the Chinese created a flexible
+      <xref articleid="51279">
+       masonry
+      </xref>
+      -arch bridge. Using thin, curved slabs of stone, the bridges yielded to considerable deformation before failure.
+     </p>
+     <p>
+      <assembly id="a402" url="/assembly/view/402">
+       <title>
+        Great Stone Bridge
+       </title>
+       <media mediaid="59930" type="image" url="/30/59930-004-6AC2AB7C.jpg"/>
+       <caption>
+        The Great Stone Bridge, built between 589 and 618 in Hopeh Province, China.
+       </caption>
+       <credit>
+        © Christopher Liu/ChinaStock Photo Library
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a402"/>
+      In the Great Stone Bridge (also called the Zhaozhou Bridge) in southern
+      <xref articleid="117327">
+       Hebei
+      </xref>
+      province, China, built by Li Chun between 589 and 618
+      <e type="smallcap">
+       ce
+      </e>
+      , the single span of 37 metres (123 feet) has a rise of only 7 metres (23 feet) from the abutments to the crown. This rise-to-span ratio of 1:5, much lower than the 1:2 ratio found in semicircular arches, produced a large thrust against the abutments. To reduce the weight, the builders made the spandrels (walls between the supporting vault and deck) open. The Great Stone Bridge thus employed a form rarely seen in
+      <xref articleid="106055">
+       Europe
+      </xref>
+      prior to the mid-18th century, and it anticipated the reinforced-concrete designs of
+      <xref articleid="50160">
+       Robert Maillart
+      </xref>
+      in the 20th century.
+     </p>
+    </h4>
+   </h3>
+   <h3 id="h72046">
+    <title>
+     The Middle Ages
+    </title>
+    <p>
+     <assembly id="a6416" url="/assembly/view/6416">
+      <title>
+       Old London Bridge
+      </title>
+      <media mediaid="10205" type="image" url="/05/10205-004-8B896295.jpg"/>
+      <caption>
+       Old London Bridge, lithograph after a manuscript illumination of c. 1500 in the British Library (Royal M.S.S.16.F.ii.XV).
+      </caption>
+      <credit>
+       Reproduced by permission of the British Library; photograph, J.R. Freeman &amp; Co. Ltd.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a6416"/>
+     After the fall of the
+     <xref articleid="471348">
+      Roman Empire
+     </xref>
+     , progress in European bridge building slowed considerably until the
+     <xref articleid="63161">
+      Renaissance
+     </xref>
+     . Fine bridges sporadically appeared, however. Medieval bridges are particularly noted for the ogival, or pointed arch. With the pointed arch the tendency to sag at the crown is less dangerous, and there is less horizontal thrust at the abutments. Medieval bridges served many purposes. Chapels and shops were commonly built on them, and many were fortified with towers and ramparts. Some featured a drawbridge, a medieval innovation. The most famous bridge of that age was
+     <xref articleid="48831">
+      Old London Bridge
+     </xref>
+     , begun in the late 12th century under the direction of a priest, Peter of Colechurch, and completed in 1209, four years after his death. London Bridge was designed to have 19 pointed arches, each with a 7.2-metre (24-foot) span and resting on piers 6 metres (20 feet) wide. There were obstructions encountered in building the cofferdams, however, so that the arch spans eventually varied from 4.5 to 10.2 metres (15 to 34 feet). The uneven quality of construction resulted in a frequent need for repair, but the bridge held a large jumble of houses and shops and survived more than 600 years before being replaced.
+    </p>
+    <p>
+     <assembly id="a403" url="/assembly/view/403">
+      <title>
+       Saint-Bénézet Bridge
+      </title>
+      <media mediaid="59929" type="image" url="/29/59929-004-01CE459C.jpg"/>
+      <caption>
+       The Saint-Bénézet Bridge, built over the Rhône River at Avignon, France, in 1177–88.
+      </caption>
+      <credit>
+       © Roger-Viollet
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a403"/>
+     A more elegant bridge of the period was the Saint-Bénézet Bridge at
+     <xref articleid="11437">
+      Avignon
+     </xref>
+     , France. Begun in 1177, part of it still stands today.
+    </p>
+    <p>
+     Another medieval bridge of note is Monnow Bridge in Wales, which featured three separate ribs of stone under the arches. Rib construction reduced the quantity of material needed for the rest of the arch and lightened the load on the foundations.
+    </p>
+   </h3>
+   <h3 id="h72047">
+    <title>
+     The Renaissance and after
+    </title>
+    <h4 id="h72048">
+     <title>
+      Stone arch bridges
+     </title>
+     <p>
+      During the Renaissance the Italian architect
+      <xref articleid="58117">
+       Andrea Palladio
+      </xref>
+      took the principle of the
+      <xref articleid="73566">
+       truss
+      </xref>
+      , which previously had been used for roof supports, and designed several successful wooden bridges with spans up to 30 metres (100 feet). Longer bridges, however, were still made of stone.
+     </p>
+     <p>
+      Another Italian designer,
+      <xref articleid="7196">
+       Bartolommeo Ammannati
+      </xref>
+      , adapted the medieval ogival arch by concealing the angle at the crown and by starting the curves of the arches vertically in their springings from the
+      <xref articleid="59964">
+       piers
+      </xref>
+      . This elliptical shape of arch, in which the rise-to-span ratio was as low as 1:7, became known as basket-handled and has been adopted widely since. Ammannati’s elegant Santa Trinità Bridge (1569) in
+      <xref articleid="109414">
+       Florence
+      </xref>
+      , with two elliptical arches, carried pedestrians and later automobiles until it was destroyed during
+      <xref articleid="110199">
+       World War II
+      </xref>
+      ; it was afterward rebuilt with many of the original materials recovered from the riverbed.
+     </p>
+     <p>
+      <assembly id="a7138" url="/assembly/view/7138">
+       <title>
+        Rialto Bridge
+       </title>
+       <media mediaid="9586" type="image" url="/86/9586-004-64949B06.jpg"/>
+       <caption>
+        Rialto Bridge, Venice
+       </caption>
+       <credit>
+        Cary Wolinsky/Stock, Boston, Inc.
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a7138"/>
+      Yet another Italian,
+      <xref articleid="60793">
+       Antonio da Ponte
+      </xref>
+      , designed the
+      <xref articleid="63496">
+       Rialto Bridge
+      </xref>
+      (1591) in
+      <xref articleid="108773">
+       Venice
+      </xref>
+      , an ornate arch made of two segments with a span of 27 metres (89 feet) and a rise of 6 metres (21 feet). Antonio overcame the problem of soft, wet soil by having 6,000 timber piles driven straight down under each of the two abutments, upon which the masonry was placed in such a way that the bed joints of the stones were perpendicular to the line of thrust of the arch. This innovation of angling stone or concrete to the line of thrust has been continued into the present.
+     </p>
+     <p>
+      By the middle of the 18th century, bridge building in masonry reached its zenith.
+      <xref articleid="59325">
+       Jean-Rodolphe Perronet
+      </xref>
+      , builder of some of the finest bridges of his day, developed very flat arches supported on slender piers. His works included the Pont de Neuilly (1774), over the
+      <xref articleid="106064">
+       Seine
+      </xref>
+      , the Pont Sainte-Maxence (1785), over the
+      <xref articleid="56887">
+       Oise
+      </xref>
+      , and the beautiful
+      <xref articleid="25100">
+       Pont de la Concorde
+      </xref>
+      (1791), also over the Seine. In Great Britain, William Edwards built what many people consider the most beautiful arch bridge in the British Isles—the
+      <xref articleid="60815">
+       Pontypridd
+      </xref>
+      Bridge (1750), over the Taff in Wales, with a lofty span of 42 metres (140 feet). In
+      <xref articleid="108472">
+       London
+      </xref>
+      the young Swiss engineer Charles Labelye, entrusted with the building of the first bridge at
+      <xref articleid="76682">
+       Westminster
+      </xref>
+      , evolved a novel and ingenious method of sinking the foundations, employing huge timber caissons that were filled with masonry after they had been floated into position for each pier. The 12 semicircular arches of portland stone, rising in a graceful camber over the river, set a high standard of engineering and architectural achievement for the next generation and stood for a hundred years.
+     </p>
+     <p>
+      Also in London,
+      <xref articleid="63203">
+       John Rennie
+      </xref>
+      , engaged by private enterprise in 1811, built the first Waterloo Bridge, whose level-topped masonry arches were described by the Italian sculptor
+      <xref articleid="20039">
+       Antonio Canova
+      </xref>
+      as “the noblest bridge in the world.” It was replaced by a modern bridge in 1937–45. Rennie subsequently designed the
+      <xref articleid="48831" refid="h92693">
+       New London Bridge
+      </xref>
+      of multiple masonry arches. Completed in 1831, after Rennie’s death, it was subsequently widened and was finally replaced in the 1960s.
+     </p>
+    </h4>
+    <h4 id="h72049">
+     <title>
+      Timber truss bridges
+     </title>
+     <p>
+      In the 18th century, designs with timber, especially
+      <xref articleid="73566">
+       trusses
+      </xref>
+      , reached new span lengths. In 1755 a Swiss builder, Hans Grubenmann, used trusses to support a covered timber bridge with spans of 51 and 58 metres (171 and 193 feet) over the Rhine at
+      <xref articleid="66079">
+       Schaffhausen
+      </xref>
+      . Many timber truss bridges were built in the
+      <xref articleid="111233">
+       United States
+      </xref>
+      . One of the best long-span truss designs was developed by Theodore Burr, of
+      <xref articleid="72982">
+       Torrington
+      </xref>
+      ,
+      <xref articleid="111242">
+       Connecticut
+      </xref>
+      , and based on a drawing by Palladio; a truss strengthened by an arch, it set a new pattern for covered bridges in the United States. Burr’s McCall’s Ferry Bridge (1815; on the
+      <xref articleid="70495">
+       Susquehanna River
+      </xref>
+      near
+      <xref articleid="47000">
+       Lancaster
+      </xref>
+      ,
+      <xref articleid="111240">
+       Pennsylvania
+      </xref>
+      ) had a record-breaking span of 108 metres (360 feet). Another successful design was the “lattice truss,” patented by Ithiel Town in 1820, in which top and bottom chords were made of horizontal timbers connected by a network of diagonal planks.
+     </p>
+     <p>
+      Early trusses were built without precise knowledge of how the loads are carried by each part of the truss. The first engineer to analyze correctly the stresses in a truss was
+      <xref articleid="76777">
+       Squire Whipple
+      </xref>
+      , an American who designed hundreds of small truss bridges and published his theories in 1869. Understanding precisely how loads were carried led to a reduction in materials, which by then were shifting from wood and stone to iron and steel.
+     </p>
+     <signature>
+      Sir Hubert Shirley-Smith
+     </signature>
+     <signature>
+      David P. Billington
+     </signature>
+     <signature>
+      Philip N. Billington
+     </signature>
+    </h4>
+   </h3>
+  </h2>
+  <h2 id="h72050">
+   <title>
+    Iron and steel bridges, 1779–1929
+   </title>
+   <h3 id="h72051">
+    <title>
+     Iron
+    </title>
+    <h4 id="h72052">
+     <title>
+      Early designs
+     </title>
+     <p>
+      During the Industrial Revolution the timber and masonry tradition was eclipsed by the use of
+      <xref articleid="110659">
+       iron
+      </xref>
+      , which was stronger than stone and usually less costly. The first bridge built solely of iron spanned the
+      <xref articleid="66957">
+       River Severn
+      </xref>
+      near Coalbrookdale, England. Designed by Thomas Pritchard and built in 1779 by
+      <xref articleid="28756">
+       Abraham Darby
+      </xref>
+      , the
+      <xref articleid="24506">
+       Ironbridge
+      </xref>
+      , constructed of cast-iron pieces, is a ribbed arch whose nearly semicircular 30-metre (100-foot) span imitates stone construction by exploiting the strength of
+      <xref articleid="20675">
+       cast iron
+      </xref>
+      in compression. In 1795 the Severn region was wracked by disastrous floods, and the Ironbridge, lacking the wide flat surfaces of stone structures, allowed the floodwaters to pass through it. It was the only bridge in the region to survive—a fact noted by the Scottish engineer
+      <xref articleid="71600">
+       Thomas Telford
+      </xref>
+      , who then began to create a series of iron bridges that were judged to be technically the best of their time. The 1814 Craigellachie Bridge, over the
+      <xref articleid="69093">
+       River Spey
+      </xref>
+      in Scotland, is the oldest surviving metal bridge of Telford’s. Its 45-metre (150-foot) arch has a flat, nearly parabolic profile made up of two curved arches connected by X-bracing. The roadway has a slight vertical curve and is supported by thin diagonal members that carry loads to the arch.
+     </p>
+     <p>
+      <assembly id="a144498" url="/assembly/view/144498">
+       <title>
+        Menai Bridge
+       </title>
+       <media mediaid="138690" type="image" url="/90/138690-004-FE0C85AD.jpg"/>
+       <caption>
+        Artist’s view of the Menai Bridge, completed in 1826 near Bangor, Wales.
+       </caption>
+       <credit>
+        © Photos.com/Thinkstock
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a144498"/>
+      The use of relatively economical
+      <xref articleid="77572">
+       wrought iron
+      </xref>
+      freed up the imaginations of designers, and one of the first results was Telford’s use of chain suspension cables to carry loads by tension. His eyebar cables consisted of wrought-iron bars of 6 to 9 metres (20 to 30) feet with holes at each end. Each eye matched the eye on another bar, and the two were linked by iron pins. The first of these major chain-suspension bridges and the finest of its day was Telford’s
+      <xref articleid="51957">
+       Menai Bridge
+      </xref>
+      , over the
+      <xref articleid="51958">
+       Menai Strait
+      </xref>
+      in northwestern Wales. At the time of its completion in 1826, its 174-metre (580-foot) span was the world’s longest. In 1893 its timber deck was replaced with a steel deck, and in 1940 steel chains replaced the corroded wrought-iron ones. The bridge is still in service today.
+     </p>
+    </h4>
+    <h4 id="h72053">
+     <title>
+      Railway bridges
+     </title>
+     <p>
+      <assembly id="a129363" url="/assembly/view/129363">
+       <title>
+        Royal Albert Bridge
+       </title>
+       <media mediaid="130395" type="image" url="/95/130395-004-212C7181.jpg"/>
+       <caption>
+        The Royal Albert Bridge (1859) over the River Tamar at Saltash, England, designed by Isambard Kingdom Brunel.
+       </caption>
+       <credit>
+        © Photos.com/Jupiterimages
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a129363"/>
+      The rise of the locomotive as a mode of transportation during the 19th century spurred the design of new bridges and bridge forms strong enough to handle both the increased weight and the dynamic loads of trains. The most significant of these early railway bridges was
+      <xref articleid="69614">
+       Robert Stephenson
+      </xref>
+      ’s
+      <xref articleid="16508">
+       Britannia Bridge
+      </xref>
+      , also over the Menai Straits. Completed in 1850, Stephenson’s design was the first to employ the hollow box girder. The hollow box gave the deck the extra stiffness of a
+      <xref articleid="73566">
+       truss
+      </xref>
+      , but it was easier to build and required less engineering precision—at the cost, however, of extra material. The wrought-iron boxes through which the trains ran were originally to be carried by chain suspension cables, but, during the building, extensive theoretical work and testing indicated that the cables were not needed; thus the towers stand strangely useless. For the Royal Albert Bridge (1859) over the
+      <xref articleid="71086">
+       River Tamar
+      </xref>
+      at
+      <xref articleid="65141">
+       Saltash
+      </xref>
+      , England, designer
+      <xref articleid="16774">
+       Isambard Kingdom Brunel
+      </xref>
+      used a combination of tubular arch and chain cable. The arches rise above the deck and, in conjunction with the chain suspenders, give the bridge in profile what appear to be a set of eyes. The bridge at Saltash also carries trains, and its two main spans of 136.5 metres (455 feet) are comparable in length to the Britannia’s 138-metre (460-foot) spans.
+     </p>
+     <p>
+      Among the most important railway bridges of the latter 19th century were those of
+      <xref articleid="32122">
+       Gustave Eiffel
+      </xref>
+      . Between 1867 and 1869 Eiffel constructed four
+      <xref articleid="75210">
+       viaducts
+      </xref>
+      of trussed-girder design along the rail line between Gannat and Commentry, west of
+      <xref articleid="75231">
+       Vichy
+      </xref>
+      in
+      <xref articleid="110436">
+       France
+      </xref>
+      . The most striking of these, at Rouzat, features wrought-iron towers that for the first time visibly reflect the need for lateral stiffness to counter the influence of horizontal wind loads. Lateral stiffness is achieved by curving the towers out at the base where they meet the masonry foundations, a design style that culminated in
+      <xref articleid="32123">
+       Eiffel
+      </xref>
+      ’s famous Parisian tower of 1889.
+     </p>
+     <p>
+      <assembly id="a405" url="/assembly/view/405">
+       <title>
+        Garabit Viaduct
+       </title>
+       <media mediaid="59927" type="image" url="/27/59927-004-A06D103F.jpg"/>
+       <caption>
+        The Garabit Viaduct, over the Truyère River near Saint-Flour, France Spanning 162 metres (541 feet), this wrought-iron railroad bridge was designed by Gustave Eiffel and completed in 1884.
+       </caption>
+       <credit>
+        © A.F. Kersting
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a405"/>
+      Eiffel also designed two major arch bridges that were the longest-spanning structures of their type at the time. The first, the 1877 Maria Pia Bridge over the Duoro River near
+      <xref articleid="60988">
+       Porto
+      </xref>
+      ,
+      <xref articleid="105994">
+       Portugal
+      </xref>
+      , is a 157-metre (522-foot) crescent-shaped span that rises 42 metres (140 feet) at its crown. Again, a wide spreading of the arches at their base gives this structure greater lateral stiffness. The crowning achievement of the crescent-arch form in the 19th century was represented by the completion in 1884 of Eiffel’s 162-metre (541-foot) Garabit Viaduct over the Truyère River near Saint-Flour, France. Unlike the bridge at Duoro, the Garabit arch is separated visually from the thin horizontal girder. Both arches were designed with hinges at their supports so that the crescent shape widens from points at the supports to a deep but light truss at the crown. The hinged design served to facilitate construction and also to produce the powerful visual image intended by Eiffel.
+     </p>
+    </h4>
+    <h4 id="h72054">
+     <title>
+      Suspension bridges
+     </title>
+     <p>
+      In the United States, engineer
+      <xref articleid="64047">
+       John Roebling
+      </xref>
+      established a factory in 1841 for making rope out of iron wire, which he initially sold to replace the hempen rope used for hoisting cars over the portage railway in central Pennsylvania. Later Roebling used wire ropes as suspension cables for bridges, and he developed the technique for spinning the cables in place rather than making a prefabricated cable that needed to be lifted into place. In 1855 Roebling completed a 246-metre- (821-foot-) span railway bridge over the
+      <xref articleid="55677">
+       Niagara River
+      </xref>
+      in western New York state. Wind loads were not yet understood in any theoretical sense, but Roebling recognized the practical need to prevent vertical oscillations. He therefore added numerous wire stays, which extended like a giant spiderweb in various directions from the deck to the valley below and to the towers above. The Niagara Bridge confounded nearly all the engineering judgment of the day, which held that suspension bridges could not sustain railway traffic. Although the trains were required to slow down to a speed of only five kilometres (three miles) per hour and repairs were frequent, the bridge was in service for 42 years, and it was replaced only because newer trains had become too heavy for it.
+     </p>
+     <p>
+      Roebling’s Cincinnati Bridge (now called the John A. Roebling Bridge) over the
+      <xref articleid="56860">
+       Ohio River
+      </xref>
+      was a prototype for his masterful Brooklyn Bridge (
+      <e type="italic">
+       see below
+      </e>
+      <xref articleid="117290" refid="h72057">
+       Steel: Suspension bridges
+      </xref>
+      ). When this 317-metre- (1,057-foot-) span iron-wire cable suspension bridge was completed in 1866, it was the longest spanning bridge in the world. Roebling’s mature style showed itself in the structure’s impressive stone towers and its thin suspended span, with stays radiating from the tower tops to control deck oscillations from wind loads.
+     </p>
+    </h4>
+   </h3>
+   <h3 id="h72055">
+    <title>
+     Steel
+    </title>
+    <h4 id="h72056">
+     <title>
+      Railway bridges
+     </title>
+     <p>
+      Between the
+      <xref articleid="6104">
+       American Civil War
+      </xref>
+      and
+      <xref articleid="110198">
+       World War I
+      </xref>
+      , railroads reached their peak in the United States and elsewhere, increasing the need for bridges that could withstand these heavier loads. New processes for making
+      <xref articleid="110660">
+       steel
+      </xref>
+      gave rise to many important bridges, such as the Eads Bridge over the
+      <xref articleid="110729">
+       Mississippi River
+      </xref>
+      at St. Louis, the Forth Bridge over the Firth of Forth in
+      <xref articleid="110753">
+       Scotland
+      </xref>
+      , the Hell Gate Bridge and Bayonne Bridge in
+      <xref articleid="108761">
+       New York City
+      </xref>
+      , and the Sydney Harbour Bridge in
+      <xref articleid="110544">
+       Australia
+      </xref>
+      .
+     </p>
+     <p>
+      The 1874 Eads Bridge was the first major bridge built entirely of steel, excluding the pier foundations. Designed by
+      <xref articleid="31698">
+       James Buchanan Eads
+      </xref>
+      , it has three arch spans, of which the two sides are each 151 metres (502 feet) and the middle is 156 metres (520 feet). The Eads bridge was given added strength by its firm foundations, for which pneumatic
+      <xref articleid="18575">
+       caissons
+      </xref>
+      , instead of
+      <xref articleid="24648">
+       cofferdams
+      </xref>
+      , were used for the first time in the United States. Another innovation carried out by Eads, based on a proposal by Telford, was the construction of arches by the cantilevering method. The arches were held up by cables supported by temporary towers above the piers, all of which were removed when the arches became self-supporting.
+     </p>
+     <p>
+      <assembly id="a407" url="/assembly/view/407">
+       <title>
+        Forth Bridge
+       </title>
+       <media mediaid="59925" type="image" url="/25/59925-004-12DDA0DA.jpg"/>
+       <caption>
+        The Forth Bridge, over the Firth of Forth, Scotland Designed by Benjamin Baker and completed in 1890, this steel cantilever bridge has two spans of 513 metres (1,710 feet) and rises 103 metres (342 feet) above its masonry piers.
+       </caption>
+       <credit>
+        © A.F. Kersting
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a407"/>
+      The
+      <xref articleid="34977">
+       Forth Bridge
+      </xref>
+      over the Firth of Forth in
+      <xref articleid="110753">
+       Scotland
+      </xref>
+      , designed by
+      <xref articleid="11850">
+       Benjamin Baker
+      </xref>
+      , has two cantilevered spans of 513 metres (1,710 feet), which made it the world’s longest bridge upon its completion in 1890. The steel structure rises 103 metres (342 feet) above the masonry piers. Although from an approaching standpoint it appears dense and massive, in profile it exhibits a surprising lightness. Baker designed the bridge with an artist’s temperament. In his writings he criticized the Britannia Bridge for its towers, which Stephenson admitted had been left in place only in case the bridge needed suspension chains and not out of structural necessity. The Forth Bridge, on the other hand, is pure structure; nothing has been added for aesthetic appearance that does not have a structural function. For more than a century the bridge has carried a railway, and indeed it was one of the last great bridges built for that purpose in the 19th century.
+     </p>
+     <p>
+      The Hell Gate Bridge, completed by
+      <xref articleid="48360">
+       Gustav Lindenthal
+      </xref>
+      in 1916, also had an aesthetic intention. It was made to look massive by its stone towers and by the increased spacing of the two chords at the support, yet structurally the towers serve no purpose; the lower chord of the arch is actually hinged at the abutments, and all of the load is carried to the foundations by that lower chord. Nevertheless, the bridge has an imposing presence, and its arch of 293 metres (978 feet) was the world’s longest at the time.
+     </p>
+     <p>
+      Similar in arch form to Hell Gate is the 1931 Bayonne Bridge, designed by Lindenthal’s former associate,
+      <xref articleid="7195">
+       Othmar Ammann
+      </xref>
+      . Spanning the Kill van Kull between
+      <xref articleid="69474">
+       Staten Island
+      </xref>
+      , New York, and
+      <xref articleid="13887">
+       Bayonne
+      </xref>
+      , New Jersey, the Bayonne Bridge, though longer than the Hell Gate Bridge at 496 metres (1,652 feet), is significantly lighter. The main span for the Hell Gate required 39 million kg (87 million pounds) of steel, compared with 17 million kg (37 million pounds) for the Bayonne. Part of the reason is the lower live loads; for the Hell Gate, train loading was taken at 36,000 kg per metre (24,000 pounds per foot) of bridge length, whereas for the Bayonne the car loading was 10,000 kg per metre (7,000 pounds per foot). But the decrease is also due to an effort to make the arch more graceful as well as more economical. Massive-looking stone-faced abutments were designed for the sake of appearance but then were never built, leaving a rather useless tangle of light steel latticework at the abutments. Nevertheless, from a distance the Bayonne Bridge shows a lightness and delicacy that bespeaks structural integrity.
+     </p>
+     <p>
+      Across the world in
+      <xref articleid="108600">
+       Sydney
+      </xref>
+      Harbour, New South Wales,
+      <xref articleid="110544">
+       Australia
+      </xref>
+      ,
+      <xref articleid="35301">
+       Sir Ralph Freeman
+      </xref>
+      designed a steel arch bridge with a span of 495 metres (1,650 feet) that was begun in 1924 and completed in 1932. Because of the deep waters in the harbour, temporary supports were impractical, so the steel arch was assembled by cantilevering out from each bank and meeting in the middle. A high-strength silicon steel was used, making it the heaviest steelwork of its kind. The Sydney Harbour Bridge is a two-hinged arch, with its deck 52 metres (172 feet) above the water. It carries four railroad tracks, a roadway 17 metres (57 feet) wide, and two walkways. On each bank it is supported by a pair of large stone towers that, like those of the Hell Gate, disguise the fact that almost the entire load is carried by the lower arch chord.
+     </p>
+    </h4>
+    <h4 id="h72057">
+     <title>
+      Suspension bridges
+     </title>
+     <p>
+      <assembly id="a188943" url="/assembly/view/188943">
+       <title>
+        Brooklyn Bridge
+       </title>
+       <media mediaid="176963" type="image" url="/63/176963-004-C6D3694D.jpg"/>
+       <caption>
+        The opening of the Brooklyn Bridge, chromolithograph by Currier &amp; Ives.
+       </caption>
+       <credit>
+        Library of Congress, Washington, D.C. (digital file no. 3b51126)
+       </credit>
+      </assembly>
+      <assembly id="a149159" url="/assembly/view/149159">
+       <title>
+        Brooklyn Bridge
+       </title>
+       <media mediaid="144198" type="image" url="/98/144198-004-439A3A31.jpg"/>
+       <caption>
+        Workmen wrapping wire around a suspension cable of the Brooklyn Bridge, New York; wood engraving published 1883.
+       </caption>
+       <credit>
+        © Photos.com/Thinkstock
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a188943"/>
+      <assemblyref assemblyid="a149159"/>
+      <xref articleid="64047">
+       John Roebling
+      </xref>
+      died in 1869, shortly after work began on the
+      <xref articleid="16640">
+       Brooklyn Bridge
+      </xref>
+      , but the project was taken over and seen to completion by his son,
+      <xref articleid="64048">
+       Washington Roebling
+      </xref>
+      . Technically, the bridge overcame many obstacles through the use of huge pneumatic caissons, into which compressed air was pumped so that men could work in the dry; but, more important, it was the first
+      <xref articleid="70493">
+       suspension bridge
+      </xref>
+      on which steel wire was used for the cables. Every wire was
+      <xref articleid="35938">
+       galvanized
+      </xref>
+      to safeguard against rust, and the four cables, each nearly 40 cm (16 inches) in diameter, took 26 months to spin back and forth over the
+      <xref articleid="31795">
+       East River
+      </xref>
+      . After many political and technical difficulties and at least 27 fatal accidents, the 479-metre- (1,595-foot-) span bridge was completed in 1883 to such fanfare that within 24 hours an estimated quarter-million people crossed over it, using a central elevated walkway that John Roebling had designed for the purpose of giving pedestrians a dramatic view of the city.
+     </p>
+     <p>
+      <assembly id="a98004" url="/assembly/view/98004">
+       <title>
+        New York City: Manhattan Bridge
+       </title>
+       <media mediaid="94262" type="image" url="/62/94262-004-A69A5054.jpg"/>
+       <caption>
+        The Manhattan Bridge (completed 1909), spanning the East River between Brooklyn and Manhattan Island, New York City.
+       </caption>
+       <credit>
+        Larry Brownstein/Getty Images
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a98004"/>
+      By the turn of the 20th century, the increased need for passage from
+      <xref articleid="50534">
+       Manhattan
+      </xref>
+      to
+      <xref articleid="16638">
+       Brooklyn
+      </xref>
+      over the East River resulted in plans for two more long-span, wire-cable, steel suspension bridges, the Williamsburg and Manhattan bridges. The Williamsburg Bridge, designed by L.L. Buck with a span of just over 480 metres (1,600 feet), became the longest cable-suspension span in the world upon completion in 1903. Its deck truss is a bulky lattice structure with a depth of 12 metres (40 feet), and the towers are of steel rather than masonry. The
+      <xref articleid="73566">
+       truss
+      </xref>
+      in effect replaced Roebling’s stays as stiffeners for the deck. The 1909 Manhattan Bridge has a span of 441 metres (1,470 feet). Its fixed steel towers spread laterally at the base, and a 7.4-metre- (24.5-foot-) deep truss is used for the deck. Of greater significance than the deck construction, however, was the first application of deflection theory, during the design of these two bridges, in calculating how the horizontal deck and curved cables worked together to carry loads. First published in 1888 by the Austrian academic Josef Melan, deflection theory explains how deck and cables deflect together under gravity loads, so that, as spans become longer and the suspended structure heavier, the required stiffness of the deck actually decreases. Deflection theory especially influenced design in the 1930s, as engineers attempted to reduce the ratio of girder depth to span length in order to achieve a lighter, more graceful, appearance without compromising safety. Up to 1930, no long-span suspension bridge had a ratio of girder depth to span length that was higher than 1:84.
+     </p>
+     <p>
+      <xref articleid="53161">
+       Ralph Modjeski
+      </xref>
+      ’s Philadelphia-Camden Bridge (now called the Benjamin Franklin Bridge), over the
+      <xref articleid="29807">
+       Delaware River
+      </xref>
+      , is another wire-cable steel suspension bridge; when completed in 1926, it was the world’s longest span at 525 metres (1,750 feet). However, it was soon exceeded by the Ambassador Bridge (1929) in Detroit and the George Washington Bridge (1931) in New York. The Ambassador links the United States and Canada over the
+      <xref articleid="30111">
+       Detroit River
+      </xref>
+      . Because of heavy traffic on the river, a wide clearance was necessary. The steel suspension bridge designed by Jonathan Jones has a span of 555 metres (1,850 feet) and a total length, including approach spans, of more than 2,700 metres (9,000 feet). The design of the Ambassador Bridge originally called for using heat-treated steel wires for the cables. Normally wires were cold-drawn, a method in which steel is drawn through successively smaller holes in dies, reducing its diameter yet raising its ultimate tensile strength. Extensive laboratory tests showed that heat-treated wires had a slightly higher ultimate strength, but during the construction of the Ambassador Bridge several of them broke, and, to the contractors’ credit, all the cables spun thus far were immediately replaced with cold-drawn wire. The example illustrates the limitations of laboratory testing as opposed to studies of actual working conditions.
+     </p>
+     <p>
+      <assembly id="a5653" url="/assembly/view/5653">
+       <title>
+        George Washington Bridge
+       </title>
+       <media mediaid="887" type="image" url="/87/887-004-2C78A257.jpg"/>
+       <caption>
+        The George Washington Bridge, seen from New Jersey looking toward Manhattan, New York City.
+       </caption>
+       <credit>
+        © Jeffrey Sylvester/FPG
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a5653"/>
+      The
+      <xref articleid="36508">
+       George Washington Bridge
+      </xref>
+      , a steel suspension bridge designed by Ammann, was significant first for its span length of 1,050 metres (3,500 feet) and second for its theoretical innovations. After studying deflection theory, Ammann concluded that no stiffness was needed in the deck at all, as it would be stabilized by the great weight of the bridge itself. Indeed, the George Washington Bridge is the heaviest single-span suspension bridge built to date, and its original ratio of girder depth to span was an astonishing 1:350. Originally the 191-metre- (635-foot-) high towers were to have a masonry facade, but a shortage of money during the Great Depression precluded this, and the steel framework stands alone. Ammann designed the bridge to carry a maximum of 12,000 kg per metre (8,000 pounds per foot), even though the maximum conceivable load on the bridge was estimated at 69,000 kg per metre (46,000 pounds per foot), thus illustrating the principle that longer bridges need not be designed for maximum load. In 1962 the addition of a second deck for traffic resulted in the construction of a deck truss, giving the bridge its current ratio of girder depth to span of 1:120.
+     </p>
+    </h4>
+   </h3>
+  </h2>
+  <h2 id="h72058">
+   <title>
+    Concrete bridges
+   </title>
+   <h3 id="h72059">
+    <title>
+     Reinforced concrete
+    </title>
+    <h4 id="h72060">
+     <title>
+      Early bridges
+     </title>
+     <p>
+      During the 19th century, low-cost production of iron and steel, when added to the invention of
+      <xref articleid="60984">
+       portland cement
+      </xref>
+      in 1824, led to the development of reinforced concrete. In 1867 a French gardener,
+      <xref articleid="53363">
+       Joseph Monier
+      </xref>
+      , patented a method of strengthening thin concrete flowerpots by embedding iron wire mesh into the concrete. Monier later applied his ideas to patents for buildings and bridges. In 1879 another Frenchman,
+      <xref articleid="40005">
+       François Hennebique
+      </xref>
+      , set out to fireproof a metal-frame house in Belgium, and his decision to cover the iron beams with
+      <xref articleid="25103">
+       concrete
+      </xref>
+      led him to develop a structural system wherein the metal bars (replacing iron beams) carried tension and the concrete carried compression. By the end of the century reinforced concrete had become an economical substitute for stone, since it was generally cheaper to produce concrete than to quarry stones. In addition to its price and load-carrying advantages, reinforced concrete could be molded into a variety of shapes, allowing for much aesthetic expression on the part of the engineer without significantly increasing materials or cost.
+     </p>
+     <p>
+      The most prolific designers first using reinforced concrete were Hennebique and the German engineer G.A. Wayss, who bought the Monier patents. Hennebique’s
+      <xref articleid="75306">
+       Vienne River
+      </xref>
+      Bridge at
+      <xref articleid="22686">
+       Châtellerault
+      </xref>
+      , France, built in 1899, was the longest-spanning reinforced arch bridge of the 19th century. Built low to the river—typical of many reinforced-concrete bridges whose goal of safe passage across a small river is not affected by heavy boat traffic—the Châtellerault bridge has three arches, the centre spanning just over 48 metres (160 feet). In 1904 the
+      <xref articleid="42864">
+       Isar River
+      </xref>
+      Bridge at Grünewald, Germany, designed by Emil Morsch for Wayss’s firm, became the longest reinforced-concrete span in the world at 69 metres (230 feet).
+     </p>
+     <p>
+      The longest-spanning concrete arches of the 1920s were designed by the French engineer
+      <xref articleid="35403">
+       Eugène Freyssinet
+      </xref>
+      . In his bridge over the
+      <xref articleid="106064">
+       Seine
+      </xref>
+      at Saint-Pierre-du-Vauvray (1922), two thin, hollow arches rise 25 metres (82 feet) at mid-span and are connected by nine crossbeams. The arches curve over the deck, which is suspended by thin steel wires lightly coated with mortar and hanging down in a triangular formation. The 131-metre (435-foot) span, then a record for reinforced concrete, thus has a light appearance. The bridge was destroyed during World War II but was rebuilt in 1946 using the same form.
+     </p>
+     <p>
+      In 1930 Freyssinet completed his most renowned work, the Plougastel Bridge over the Elorn Estuary near
+      <xref articleid="16370">
+       Brest
+      </xref>
+      , France. This bridge featured three 176-metre (585-foot) hollow-box arch spans, then the longest concrete spans in the world. Because of the great scale of this structure, Freyssinet studied the creep, or movement under
+      <xref articleid="69963">
+       stress
+      </xref>
+      , of concrete. This led him to his general idea for prestressing (
+      <e type="italic">
+       see below
+      </e>
+      <xref articleid="117290" refid="h72062">
+       Prestressed concrete
+      </xref>
+      ).
+     </p>
+     <p>
+      In 1943 the Plougastel was eclipsed in length by the Sandö Bridge over the
+      <xref articleid="7556">
+       Ångerman River
+      </xref>
+      in
+      <xref articleid="108596">
+       Sweden
+      </xref>
+      . The Sandö Bridge is a thin, single-ribbed, reinforced-concrete arch with a span of 260 metres (866 feet), rising 39 metres (131 feet) above the river.
+     </p>
+    </h4>
+    <h4 id="h72061">
+     <title>
+      Maillart’s innovations
+     </title>
+     <p>
+      Swiss engineer
+      <xref articleid="50160">
+       Robert Maillart
+      </xref>
+      ’s use of reinforced concrete, beginning in 1901, effected a revolution in structural art. Maillart, all of whose main bridges are in
+      <xref articleid="108598">
+       Switzerland
+      </xref>
+      , was the first 20th-century designer to break completely with the masonry tradition and put concrete into forms technically appropriate to its properties yet visually surprising. For his 1901 bridge over the
+      <xref articleid="42443">
+       Inn River
+      </xref>
+      at Zuoz, he designed a curved arch and a flat roadway connected by longitudinal walls that turned the complete structure into a hollow-box girder with a span of 37.5 metres (125 feet) and with hinges at the abutments and the crown. This was the first concrete hollow-box to be constructed. The arch at Zuoz is thickened at the bottom, and all of the load to the abutments is carried at these thick points. The walls near the abutments, therefore, are technically superfluous. For his 1905 bridge over the Vorderrhein at Tavanasa, with a span of 50 metres (167 feet), Maillart cut out the spandrel walls to achieve a technically superior form that was also visually new. As at Zuoz, the concrete arches of the Tavanasa bridge were connected by hinges to both abutments and to each other at the crown, thus allowing the arch to rise freely without internal stress when the temperature rose and to drop when the temperature went down. By contrast, Hennebique’s bridge at Châtellerault did not have hinges, and the arches cracked severely at the abutments and crown. The Tavanasa bridge was unfortunately destroyed by an avalanche in 1927.
+     </p>
+     <p>
+      <assembly id="a65324" url="/assembly/view/65324">
+       <title>
+        Salginatobel Bridge
+       </title>
+       <media mediaid="179120" type="image" url="/20/179120-004-CADCE6AC.jpg"/>
+       <caption>
+        The Salginatobel Bridge, near Schiers, Graubünden canton, Switzerland. Designed by Robert Maillart, the hollow-box reinforced concrete arch, with a span of 90 metres (295 feet), was built in 1930.
+       </caption>
+       <credit>
+        © Hanspeter Valer/Fotolia
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a65324"/>
+      Maillart’s Valtschielbach Bridge of 1926, a deck-stiffened arch with a 43-metre (142-foot) span, demonstrated that the arch can be extremely thin as long as the deck beam is stiff. The arch at Valtschielbach increases in thickness from a mere 23 cm (9 inches) at the crown to just over 28 cm (11 inches) at the supports. Thin vertical slabs, or cross-walls, connect the arch to the deck, allowing the deck to stiffen the arch and thus permitting the arch to be thin. Such technical insight revealed Maillart’s deep understanding of how to work with reinforced concrete—an understanding that culminated in a series of masterpieces beginning with the 1930 Salginatobel Bridge, which, as with the others already mentioned, is located in the Swiss canton of
+      <xref articleid="37776">
+       Graubünden
+      </xref>
+      . The form of the Salginatobel Bridge is similar to the Tavanasa yet modified to account for a longer central span of 89 metres (295 feet), which is needed to cross the deep ravine below. Maillart’s hollow-box, three-hinged arch design not only was the least costly of the 19 designs proposed but also was considered by the district engineer to be the most elegant. The stone abutments of earlier Maillart bridges were dispensed with at Salginatobel, as the rocky walls of the ravine that meet the arch are sufficient to carry the load.
+     </p>
+     <p>
+      Other notable bridges by Maillart are the bridge over the Thur at Felsegg (1933), the Schwandbach Bridge near Hinterfultigen (1933), and the Töss River footbridge near Wulflingen (1934). The Felsegg bridge has a 68-metre (226-foot) span and features for the first time two parallel arches, both three-hinged. Like the Salginatobel Bridge, the Felsegg bridge features X-shaped abutment hinges of reinforced concrete (invented by Freyssinet), which were more economical than steel hinges. The Schwandbach Bridge, with a span of 37 metres (123 feet), is a deck-stiffened arch with a horizontally curved roadway. The true character of reinforced concrete is most apparent in this bridge, as the inner edge of the slab-arch follows the horizontal curve of the highway, while the outer edge of the arch is straight. Vertical trapezoidal cross-walls integrate the deck with the arch, and the result is one of the most acclaimed bridges in concrete. The Töss footbridge is a deck-stiffened arch with a span of 37.5 metres (125 feet). The deck is curved vertically at the crown and countercurved at the riverbanks, integrating the structure into the setting.
+     </p>
+     <p>
+      Maillart’s great contribution to bridge design was that, while he kept within the traditional discipline of engineering, always striving to use less material and keep costs down, he continually played with the forms in order to achieve maximum aesthetic expression. Some of his last bridges—at Vessy, Liesberg, and Lachen—illustrate his mature vision for the possibilities of structural art. Over the
+      <xref articleid="9744">
+       Arve River
+      </xref>
+      at Vessy in 1935, Maillart designed a three-hinged, hollow-box arch in which the thin cross-walls taper at mid-height, forming an X shape. This striking design, giving life to the structure, is both a natural form and a playful expression. Also in 1935, a beam bridge over the Birs River at Liesberg employed haunching of the beams, a tapering outward at the base of the thin columns, and a curved top edge becoming less deep near the abutments. For a skewed railway overpass at Lachen in 1940, Maillart used two separate three-hinged arches that sprang from different levels of the abutment, creating a dynamic interplay of shapes.
+     </p>
+    </h4>
+   </h3>
+   <h3 id="h72062">
+    <title>
+     Prestressed concrete
+    </title>
+    <h4 id="h72063">
+     <title>
+      Eugène Freyssinet
+     </title>
+     <p>
+      The idea of prestressing concrete was first applied by Freyssinet in his effort to save the Le Veurdre Bridge over the
+      <xref articleid="5815">
+       Allier River
+      </xref>
+      near Vichy, France. A year after its completion in 1910, Freyssinet noted the three-arch bridge had been moving downward at an alarming rate. A flat concrete arch, under its own dead load, generates huge compressive forces that cause the structure to shorten over time and, hence, move eventually downward. This “creep” may eventually cause the arch to collapse. Freyssinet’s solution was to jack apart the arch halves at the crown, lifting the arch and putting the concrete into additional compression against the abutments and then casting new concrete into the spaces at the crown. By 1928, experience with the Le Veurdre Bridge led Freyssinet to propose the more common method of prestressing, using high-strength steel to put concrete into compression.
+     </p>
+     <p>
+      Freyssinet’s major prestressed works came after the reinforced-concrete Plougastel Bridge and included a series of bridges over the
+      <xref articleid="51049">
+       Marne River
+      </xref>
+      following World War II. The Luzancy Bridge (1946), with a span of 54 metres (180 feet), demonstrates the lightness and beauty that can be achieved using prestressed concrete for a single-span beam bridge.
+     </p>
+     <p>
+      The first major bridge made of prestressed concrete in the United States, the Walnut Lane Bridge (1950) in Philadelphia, was designed by Gustave Magnel and features three simply supported girder spans with a centre span of 48 metres (160 feet) and two end spans of 22 metres (74 feet). Although it was plain in appearance, a local art jury responsible for final approval found that the slim lines of the bridge were elegant enough not to require a stone facade.
+     </p>
+    </h4>
+    <h4 id="h72064">
+     <title>
+      Ulrich Finsterwalder
+     </title>
+     <p>
+      During the years after World War II, a German engineer and builder, Ulrich Finsterwalder, developed the
+      <xref articleid="20064">
+       cantilever
+      </xref>
+      method of construction with prestressed concrete. Finsterwalder’s Bendorf Bridge over the
+      <xref articleid="106062">
+       Rhine
+      </xref>
+      at
+      <xref articleid="45838">
+       Koblenz
+      </xref>
+      , Germany, was completed in 1962 with thin piers and a centre span of 202 metres (673 feet). The double cantilevering method saved money through the absence of scaffolding in the water and also by allowing for reduced girder depth and consequent reduction of material where the ends of the deck meet in the centre. The resulting girder has the appearance of a very shallow arch, elegant in profile. Another fine bridge by Finsterwalder is the Mangfall Bridge (1959) south of
+      <xref articleid="54281">
+       Munich
+      </xref>
+      , a high bridge with a central span of 106 metres (354 feet) and two side spans of 89 metres (295 feet). The Mangfall Bridge features the first latticed truss walls made of prestressed concrete, and it also has a two-tier deck allowing pedestrians to walk below the roadway and take in a spectacular view of the valley. Finsterwalder successfully sought to show that prestressed concrete could compete directly with steel not only in cost but also in reduction of depth.
+     </p>
+    </h4>
+    <h4 id="h72065">
+     <title>
+      Christian Menn
+     </title>
+     <p>
+      The technical and aesthetic possibilities of prestressed concrete were most fully realized in Switzerland with the bridges of Christian Menn. Menn’s early arch bridges were influenced by Maillart, but, with prestressing, he was able to build longer-spanning bridges and use new forms. The Reichenau Bridge (1964) over the Rhine, a deck-stiffened arch with a span of 98 metres (328 feet), shows Menn’s characteristic use of a wide, prestressed concrete deck slab cantilevering laterally from both sides of a single box. For the high, curving Felsenau Viaduct (1974) over the
+      <xref articleid="3206">
+       Aare River
+      </xref>
+      in
+      <xref articleid="78825">
+       Bern
+      </xref>
+      , spans of up to 154 metres (512 feet) were built using the cantilever method from double piers. The trapezoidal box girder, only 11 metres (36 feet) wide at the top, haunches at the supports and carries an 26-metre- (85-foot-) wide turnpike. More impressive yet is the high, curving Ganter Bridge (1980), crossing a deep valley in the canton of
+      <xref articleid="74663">
+       Valais
+      </xref>
+      . The Ganter is both a cable-stayed and a prestressed cantilever girder bridge, with the highest column rising 148 metres (492 feet) and with a central span of 171 metres (571 feet). The form is unique: the cable-stays are flat and covered by thin concrete slabs, making the bridge look very much like a Maillart bridge upside-down.
+     </p>
+    </h4>
+   </h3>
+  </h2>
+  <h2 id="h72066">
+   <title>
+    Steel bridges after 1931
+   </title>
+   <h3 id="h72067">
+    <title>
+     Long-span suspension bridges
+    </title>
+    <p>
+     <assembly id="a5712" url="/assembly/view/5712">
+      <title>
+       Golden Gate Bridge
+      </title>
+      <media mediaid="972" type="image" url="/72/972-004-FC260AEA.jpg"/>
+      <caption>
+       Golden Gate Bridge, San Francisco.
+      </caption>
+      <credit>
+       George Hall/Woodfin Camp and Associates
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a5712"/>
+     The success of the
+     <xref articleid="36508">
+      George Washington Bridge
+     </xref>
+     —especially its extremely small ratio of girder depth to span—had a great influence on suspension bridge design in the 1930s. Its revolutionary design led to the building of several major bridges, such as the Golden Gate (1937), the Deer Isle (1939), and the Bronx-Whitestone (1939). The
+     <xref articleid="37238">
+      Golden Gate Bridge
+     </xref>
+     , built over the entrance to
+     <xref articleid="65302">
+      San Francisco Bay
+     </xref>
+     under the direction of
+     <xref articleid="69929">
+      Joseph Strauss
+     </xref>
+     , was upon its completion the world’s longest span at 1,260 metres (4,200 feet); its towers rise 224 metres (746 feet) above the water. Deer Isle Bridge in
+     <xref articleid="111241">
+      Maine
+     </xref>
+     , U.S., was designed by
+     <xref articleid="69558">
+      David Steinman
+     </xref>
+     with only plate girders to stiffen the deck, which was 7.5 metres (25 feet) wide yet had a central span of 324 metres (1,080 feet). Likewise, the deck for
+     <xref articleid="7195">
+      Othmar Ammann
+     </xref>
+     ’s Bronx-Whitestone Bridge in New York was originally stiffened only by plate girders; its span reached 690 metres (2,300 feet). Both the Deer Isle and the Bronx-Whitestone bridges later oscillated in wind and had to be modified following the Tacoma Narrows disaster.
+    </p>
+    <h4 id="h72068">
+     <title>
+      Tacoma Narrows
+     </title>
+     <p>
+      <assembly id="a411" url="/assembly/view/411">
+       <title>
+        Tacoma Narrows Bridge
+       </title>
+       <media mediaid="59921" type="image" url="/21/59921-004-9B396A7B.jpg"/>
+       <caption>
+        Collapse of the Tacoma Narrows Bridge, Washington state, 1940.
+       </caption>
+       <credit>
+        Library of Congress, Washington, DC (LC-USZ62-46682)
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a411"/>
+      In 1940 the first
+      <xref articleid="70874">
+       Tacoma Narrows Bridge
+      </xref>
+      opened over
+      <xref articleid="61857">
+       Puget Sound
+      </xref>
+      in
+      <xref articleid="111281">
+       Washington
+      </xref>
+      state, U.S. Spanning 840 metres (2,800 feet), its deck, also stiffened by plate girders, had a depth of only 2.4 metres (8 feet). This gave it a ratio of girder depth to span of 1:350, identical to that of the George Washington Bridge. Unfortunately, at Tacoma Narrows, just four months after the bridge’s completion, the deck tore apart and collapsed under a moderate wind.
+     </p>
+     <p>
+      <assembly id="a18518" url="/assembly/view/18518">
+       <title>
+        Witness the Tacoma Narrows bridge collapse into Puget Sound between the Olympic Peninsula and the Washington mainland
+       </title>
+       <media mediaid="21895" thumburl="/95/21895-049-7C03680A.jpg" type="video" url="p7RUDAri"/>
+       <caption>
+        Collapse of the Tacoma Narrows Bridge, Puget Sound, Washington state, U.S., on November 7, 1940.
+       </caption>
+       <credit>
+        Encyclopædia Britannica, Inc.
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a18518"/>
+      At that time bridges normally were designed to withstand gales of 190 km (120 miles) per hour, yet the wind at Tacoma was only 67 km (42 miles) per hour. Motion pictures taken of the disaster show the deck rolling up and down and twisting wildly. These two motions, vertical and torsional, occurred because the deck had been provided with little vertical and almost no torsional stiffness. Engineers had overlooked the wind-induced failures of bridges in the 19th century and had designed extremely thin decks without fully understanding their aerodynamic behaviour. After the Tacoma bridge failed, however, engineers added trusses to the Bronx-Whitestone bridge, cable-stays to Deer Isle, and further bracing to the stiffening truss at Golden Gate. In turn, the diagonal stays used to strengthen the Deer Isle Bridge led engineer Norman Sollenberger to design the San Marcos Bridge (1951) in El Salvador with inclined suspenders, thus forming a cable truss between cables and deck—the first of its kind.
+     </p>
+    </h4>
+    <h4 id="h72069">
+     <title>
+      Lessons of the disaster
+     </title>
+     <p>
+      <assembly id="a20463" url="/assembly/view/20463">
+       <title>
+        Verrazano-Narrows Bridge
+       </title>
+       <media mediaid="4915" type="image" url="/15/4915-004-43F90371.jpg"/>
+       <caption>
+        Verrazano-Narrows Bridge, looking toward Brooklyn, New York.
+       </caption>
+       <credit>
+        Devaney Stock Photos Inc.
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a20463"/>
+      The disaster at Tacoma caused engineers to rethink their concepts of the vertical motion of suspension bridge decks under horizontal wind loads. Part of the problem at Tacoma was the construction of a plate girder with solid steel plates, 2.4 metres (8 feet) deep on each side, through which the wind could not pass. For this reason, the new Tacoma Narrows Bridge (1950), as well as Ammann’s 1,280-metre- (4,260-foot-) span
+      <xref articleid="75140">
+       Verrazano Narrows Bridge
+      </xref>
+      in New York (1964), were built with open trusses for the deck in order to allow wind passage. The 1,140-metre- (3,800-foot-) span
+      <xref articleid="49792">
+       Mackinac Bridge
+      </xref>
+      in Michigan, U.S., designed by Steinman, also used a deep truss; its two side spans of 540 metres (1,800 feet) made it the longest continuous suspended structure in the world at the time of its completion in 1957.
+     </p>
+     <p>
+      <assembly id="a162005" url="/assembly/view/162005">
+       <title>
+        Bosporus Bridge
+       </title>
+       <media mediaid="148578" type="image" url="/78/148578-004-CE6206F2.jpg"/>
+       <caption>
+        The Bosporus Bridge (Bogaziçi Köprüsü), spanning the Bosporus at Istanbul, Turkey; view from the European side.
+       </caption>
+       <credit>
+        © William J. Bowe
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a162005"/>
+      The 972-metre- (3,240-foot-) span Severn Bridge (1966), linking southern
+      <xref articleid="110752">
+       England
+      </xref>
+      and
+      <xref articleid="110755">
+       Wales
+      </xref>
+      over the
+      <xref articleid="66957">
+       River Severn
+      </xref>
+      , uses a shallow steel box for its deck, but the deck is shaped aerodynamically in order to allow wind to pass over and under it—much as a cutwater allows water to deflect around piers with a greatly reduced force. Another innovation of the Severn Bridge was the use of steel suspenders from cables to deck that form a series of Vs in profile. When a bridge starts to oscillate in heavy wind, it tends to move longitudinally as well as up and down, and the inclined suspenders of the Severn Bridge act to dampen the longitudinal movement. The design ideas used on the Severn Bridge were repeated on the Bosporus Bridge (1973) at
+      <xref articleid="106446">
+       Istanbul
+      </xref>
+      and on the Humber Bridge (1981) over the
+      <xref articleid="41482">
+       River Humber
+      </xref>
+      in England. The Humber Bridge in its turn became the longest-spanning bridge in the world, with a main span of 1,388 metres (4,626 feet).
+     </p>
+    </h4>
+   </h3>
+   <h3 id="h72070">
+    <title>
+     Truss bridges
+    </title>
+    <p>
+     Although trusses are used mostly as secondary elements in arch, suspension, or cantilever designs, several important simply supported truss bridges have achieved significant length. The Astoria Bridge (1966) over the
+     <xref articleid="110726">
+      Columbia River
+     </xref>
+     in
+     <xref articleid="111280">
+      Oregon
+     </xref>
+     , U.S., is a continuous three-span steel truss with a centre span of 370 metres (1,232 feet), and the Tenmon Bridge (1966) at
+     <xref articleid="46402">
+      Kumamoto
+     </xref>
+     ,
+     <xref articleid="106451">
+      Japan
+     </xref>
+     , has a centre span of 295 metres (984 feet).
+    </p>
+    <p>
+     <assembly id="a126881" url="/assembly/view/126881">
+      <title>
+       New River Gorge Bridge
+      </title>
+      <media mediaid="129297" type="image" url="/97/129297-004-C5C53388.jpg"/>
+      <caption>
+       The New River Gorge Bridge, north of Fayetteville, West Virginia.
+      </caption>
+      <credit>
+       © John Brueske/Shutterstock.com
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a126881"/>
+     In 1977 the New River Gorge Bridge, the world’s longest-spanning steel
+     <xref articleid="9254">
+      arch
+     </xref>
+     , was completed in Fayette county, West Virginia, U.S. Designed by Michael Baker, the two-hinged arch truss carries four lanes of traffic 263 metres (876 feet) above the river and has a span of 510 metres (1,700 feet).
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h72074">
+   <title>
+    Cable-stayed bridges
+   </title>
+   <h3 id="h72075">
+    <title>
+     European designs
+    </title>
+    <p>
+     Beginning in the 1950s, with the growing acceptance of cable-stayed bridges, there came into being a type of structure that could not easily be classified by construction material. Cable-stayed bridges offered a variety of possibilities to the designer regarding not only the materials for deck and cables but also the geometric arrangement of the cables. Early examples, such as the Strömsund Bridge in Sweden (1956), used just two cables fastened at nearly the same point high on the tower and fanning out to support the deck at widely separated points. By contrast, the Oberkasseler Bridge, built over the Rhine River in
+     <xref articleid="31602">
+      Düsseldorf
+     </xref>
+     ,
+     <xref articleid="106260">
+      Germany
+     </xref>
+     , in 1973, used a single tower in the middle of its twin 254-metre (846-foot) spans; the four cables were placed in a harp or parallel arrangement, being equally spaced both up the tower and along the centre line of the deck. The Bonn-Nord Bridge in
+     <xref articleid="80620">
+      Bonn
+     </xref>
+     , Germany (1966), was the first major cable-stayed bridge to use a large number of thinner cables instead of relatively few but heavier ones—the technical advantage being that, with more cables, a thinner deck might be used. Such multicable arrangements subsequently became quite common. The box girder deck of the Bonn-Nord, as with most cable-stayed bridges built during the 1950s and ’60s, was made of steel. From the 1970s, however, concrete decks were used more frequently.
+    </p>
+    <p>
+     The
+     <xref articleid="635942">
+      Vasco da Gama Bridge
+     </xref>
+     that crosses over the
+     <xref articleid="70918">
+      Tagus River
+     </xref>
+     estuary in
+     <xref articleid="108471">
+      Lisbon
+     </xref>
+     ,
+     <xref articleid="105994">
+      Portugal
+     </xref>
+     , spanning 17.2 km (10.7 miles), was the longest bridge in Europe at the time of its inauguration in 1998. It was surpassed by the controversial Crimean Bridge (also called the Kerch Strait Bridge), which was formally opened by
+     <xref articleid="343289">
+      Vladimir Putin
+     </xref>
+     in 2018. The Crimean Bridge spans 19 km (12 miles) and was damaged by an explosion in 2022.
+    </p>
+   </h3>
+   <h3 id="h72076">
+    <title>
+     U.S. designs
+    </title>
+    <p>
+     Cable-stayed bridges in the United States reflected trends in both cable arrangement and deck material. The Pasco-Kennewick Bridge (1978) over the
+     <xref articleid="110726">
+      Columbia River
+     </xref>
+     in Washington state supported its centre span of 294 metres (981 feet) from two double concrete towers, the cables fanning down to the concrete deck on either side of the roadway. Designed by Arvid Grant in collaboration with the German firm of Leonhardt and Andra, its cost was not significantly different from those of other proposals with more conventional designs. The same designers produced the East End Bridge across the Ohio River between Proctorville,
+     <xref articleid="111264">
+      Ohio
+     </xref>
+     , and
+     <xref articleid="41576">
+      Huntington
+     </xref>
+     , West Virginia, in 1985. The East End has a major span of 270 metres (900 feet) and a minor span of 182 metres (608 feet). The single concrete tower is shaped like a long triangle in the traverse direction, and the cable arrangement is of the fan type, but, while the Pasco-Kennewick Bridge has two parallel sets of cables, the East End has but one set, fanning out from a single plane at the tower into two planes at the composite steel and concrete deck, so that, as one moves from pure profile to a longitudinal view, the cables do not align visually.
+    </p>
+    <p>
+     The Sunshine Skyway Bridge (1987), designed by Eugene Figg and Jean Mueller over
+     <xref articleid="71124">
+      Tampa Bay
+     </xref>
+     in
+     <xref articleid="111245">
+      Florida
+     </xref>
+     , has a main prestressed-concrete span of 360 metres (1,200 feet). It too employs a single plane of cables, but these remain in one plane that fans out down the centre of the deck. The Dames Point Bridge (1987), designed by Howard Needles in consultation with Ulrich Finsterwalder, crosses the St. Johns River in
+     <xref articleid="43178">
+      Jacksonville
+     </xref>
+     , Florida. The main span at Dames Point is 390 metres (1,300 feet), with side spans of 200 metres (660 feet). From H-shaped
+     <xref articleid="73073">
+      towers
+     </xref>
+     of reinforced concrete, two planes of stays in harp formation support reinforced-concrete girders. The towers are carefully shaped to avoid a stiff appearance. The Dames Point Bridge was the longest cable-stayed bridge in the United States for almost two decades until the Arthur Ravenel Bridge was completed in Charleston, South Carolina, in 2005. In 2011 the Arthur Ravenel Bridge in turn was surpassed by the opening of the John James Audubon Bridge, spanning the Mississippi River between Pointe Coupee and West Feliciana parishes, Louisiana. The only bridge over the Mississippi between Natchez, Mississippi, and Baton Rouge, Louisiana, the John James Audubon Bridge has a main span of 482 metres (1,583 feet).
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h341203">
+   <title>
+    Asian long-span bridges and viaducts
+   </title>
+   <p>
+    In the 1970s the Japanese, working primarily with steel, began to build a series of long-span bridges using several forms. Other Asian countries, notably China, developed viaducts of enormous lengths, often as part of railway systems. Many of these rank among the world’s longest spans and longest bridges.
+   </p>
+   <h3 id="h341204">
+    <title>
+     China
+    </title>
+    <h4 id="h341205">
+     <title>
+      Danyang-Kunshan Grand Bridge
+     </title>
+     <p>
+      The Danyang-Kunshan Grand Bridge, located between
+      <xref articleid="109537">
+       Shanghai
+      </xref>
+      and
+      <xref articleid="108750">
+       Nanjing
+      </xref>
+      in
+      <xref articleid="117332">
+       Jiangsu
+      </xref>
+      province, is a
+      <xref articleid="75210">
+       viaduct
+      </xref>
+      164.8 km (102.4 miles) long on the Beijing-Shanghai High-Speed Railway. Opened in June 2011 at a cost of about $8.5 billion, it is the world’s longest bridge. Its average height is 100 metres (328 feet) above the ground, and it runs roughly parallel to the
+      <xref articleid="110538">
+       Yangtze River
+      </xref>
+      , traversing rice paddies and other wetlands.
+     </p>
+    </h4>
+    <h4 id="h341206">
+     <title>
+      Tianjin Grand Bridge
+     </title>
+     <p>
+      The Tianjin Grand Bridge extends 113.7 km (70.6 miles) between Langfang and Qingxian and serves as a railway viaduct for the Beijing-Shanghai High-Speed Railway. The bridge opened in 2011 and is the third longest bridge in the world.
+     </p>
+    </h4>
+    <h4 id="h341207">
+     <title>
+      Hong Kong–Zhuhai–Macau Bridge
+     </title>
+     <p>
+      In October 2018, China opened the Hong Kong–Zhuhai–Macau Bridge, which connects
+      <xref articleid="106286">
+       Hong Kong
+      </xref>
+      to
+      <xref articleid="49619">
+       Macau
+      </xref>
+      and the mainland Chinese city of Zhuhai. The longest sea-spanning bridge in the world, it stretches 55 km (34 miles) across the
+      <xref articleid="58880">
+       Pearl River Delta
+      </xref>
+      . Its construction cost about $20 billion. To accommodate the heavy shipping traffic in the area, part of the crossing features a submerged tunnel 6.7 km (4 miles) long connecting two artificial islands.
+     </p>
+    </h4>
+   </h3>
+   <h3 id="h341208">
+    <title>
+     Japan
+    </title>
+    <h4 id="h341209">
+     <title>
+      Ōsaka Harbour
+     </title>
+     <p>
+      <assembly id="a412" url="/assembly/view/412">
+       <title>
+        Konohana Bridge
+       </title>
+       <media mediaid="59920" type="image" url="/20/59920-004-F081E0AB.jpg"/>
+       <caption>
+        The Konohana Bridge in Ōsaka, Japan, a single-cable suspension bridge with a span of 295 metres (984 feet).
+       </caption>
+       <credit>
+        © Bon Color Photo Agency Co., Ltd.
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a412"/>
+      In 1974 the Minato Bridge, linking the city of
+      <xref articleid="57517">
+       Ōsaka
+      </xref>
+      with neighbouring
+      <xref articleid="5985">
+       Amagasaki
+      </xref>
+      , became one of the world’s longest-spanning cantilever truss bridges, at 502 metres (1,673 feet). In 1989 two other impressive and innovative bridges were completed for the purpose of carrying major highways over the port facilities of Ōsaka Harbour. The Konohana suspension bridge carries a four-lane highway on a slender, steel box-beam deck only 3 metres (10 feet) deep. The bridge is self-anchored—that is, the deck has been put into horizontal compression, like that on a cable-stayed bridge, so that there is no force of horizontal tension pulling from the ground at the anchorages. Spanning 295 metres (984 feet), it is the first major suspension bridge to use a single cable. The towers are delta-shaped, with diagonal suspenders running from the cable down the centre of the deck. On the same road as the Konohana is the Ajigawa cable-stayed bridge, with a span of 344 metres (1,148 feet) and an elegantly thin deck just over three metres deep.
+     </p>
+    </h4>
+    <h4 id="h341210">
+     <title>
+      Island bridges
+     </title>
+     <p>
+      The Kanmon Bridge (1975), linking the islands of
+      <xref articleid="40960">
+       Honshu
+      </xref>
+      and
+      <xref articleid="46593">
+       Kyushu
+      </xref>
+      over the Shimonoseki Strait, was the first major island bridge in Japan. At about this time the Honshu-Shikoku Bridge Authority was formed to connect these two main islands with three lines of bridges and highways. Completed in 1999, the Honshu-Shikoku project was the largest in history, building 6 of the 20 largest spanning bridges in the world at that time as well as the first major set of suspension bridges to carry railroad traffic since
+      <xref articleid="64047">
+       John Roebling
+      </xref>
+      ’s Niagara Bridge. The Authority conducted most of the design work itself; unlike projects in other countries, it is not usually possible to identify individual designers for Japanese bridges.
+     </p>
+     <p>
+      <assemblyref assemblyid="a2057"/>
+      The first part of the project, completed in 1988, is a route connecting the city of Kojima, on the main island of
+      <xref articleid="40960">
+       Honshu
+      </xref>
+      , to
+      <xref articleid="64991">
+       Sakaide
+      </xref>
+      , on the island of
+      <xref articleid="67370">
+       Shikoku
+      </xref>
+      . The Kojima-Sakaide route has three major bridge elements, often referred to collectively as the
+      <xref articleid="66913">
+       Seto Great Bridge
+      </xref>
+      (Seto Ōhashi): the Shimotsui suspension bridge, with a suspended main span of 940 metres (3,100 feet) and two unsuspended side spans of 230 metres (760 feet); the twin 420-metre- (1,380-foot-) span cable-stayed Hitsuishijima and Iwakurojima bridges; and the two nearly identical Bisan-Seto suspension bridges, with main spans of 990 metres (3,250 feet) and 1,100 metres (3,610 feet). The striking towers of the cable-stayed Hitsuishijima and Iwakurojima bridges were designed to evoke symbolic images from Japanese culture, such as the ancient Japanese helmet. The side spans of the two Seto bridges, being fully suspended, give a visual unity to these bridges that is missing from the Shimotsui bridge, where the side spans are supported from below. The double deck of the entire bridge system is a strong 13-metre- (43-foot-) deep continuous truss that carries cars and trucks on the top deck and trains on the lower deck.
+     </p>
+     <p>
+      <assembly id="a161679" url="/assembly/view/161679">
+       <title>
+        Akashi Kaikyō Bridge
+       </title>
+       <media mediaid="153133" type="image" url="/33/153133-004-EF26EF0A.jpg"/>
+       <caption>
+        The Akashi Kaikyō Bridge, spanning the Akashi Strait between the islands of Honshu and Shikoku, Japan, completed 1998.
+       </caption>
+       <credit>
+        © Hinochika/Shutterstock.com
+       </credit>
+      </assembly>
+      <assemblyref assemblyid="a161679"/>
+      The Kojima-Sakaide route forms the middle of the three Honshu-Shikoku links. The eastern route, between
+      <xref articleid="45835">
+       Kōbe
+      </xref>
+      (Honshu) and
+      <xref articleid="54878">
+       Naruto
+      </xref>
+      (Shikoku), has only two bridges: the 1985 Ōnaruto suspension bridge and the 1998
+      <xref articleid="438566">
+       Akashi Kaikyō (Akashi Strait) suspension bridge
+      </xref>
+      . The Akashi Kaikyō Bridge, the world’s longest suspension bridge, crosses the strait with a main span of 1,991 metres (6,530 feet) and side spans of 960 metres (3,150 feet). Its two 297-metre (975-foot) towers, made of two hollow steel shafts in cruciform section connected by X-bracing, are the tallest bridge towers in the world. The two suspension cables are made of a high-strength steel developed by Japanese engineers for the project. In January 1995 an earthquake that devastated Kōbe had its epicentre almost directly beneath the nearly completed Akashi Kaikyō structure; the bridge survived undamaged, though one tower shifted enough to lengthen the main span by almost one metre.
+     </p>
+     <p>
+      The western Honshu-Shikoku route links
+      <xref articleid="57144">
+       Onomichi
+      </xref>
+      (Honshu) with
+      <xref articleid="42168">
+       Imabari
+      </xref>
+      (Shikoku). One of the major structures is the Ikuchi cable-stayed bridge, with a main span of 490 metres (1,610 feet). The two towers of the Ikuchi Bridge are delta-shaped, with two inclined planes of fan-arranged stays. Also on the Onomichi-Imabari route is the 1979 Ōmishima steel arch bridge, whose 297-metre (975-foot) span made it the longest such structure in the Eastern Hemisphere for almost a quarter century. But the single most significant structure on the route is the 1999 Tatara cable-stayed bridge, whose main span of 890 metres (2,920 feet) made it the longest of its type in the world at the time of its construction. The twin towers of the Tatara Bridge, 220 metres (720 feet) high, have elegant diamond shapes for the lower 140 metres; the upper 80 metres consist of two parallel linked shafts that contain the cables.
+     </p>
+    </h4>
+   </h3>
+   <h3 id="h341211">
+    <title>
+     Taiwan
+    </title>
+    <p>
+     Completed in 2007, the Chang-hua–Kao-hsiung Viaduct is the world’s second longest bridge and serves as part of the Taiwan High Speed Rail network. Reaching 157.3 km (97.8 miles) in length, the bridge runs from Zouying in
+     <xref articleid="44627">
+      Kao-hsiung
+     </xref>
+     to Baguashan in
+     <xref articleid="22417">
+      Chang-hua county
+     </xref>
+     . The bridge and train line were built to minimize
+     <xref articleid="106195">
+      earthquake
+     </xref>
+     damage, as the area is prone to seismic activity.
+    </p>
+    <signature>
+     David P. Billington
+    </signature>
+    <signature>
+     Philip N. Billington
+    </signature>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h72077">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    David P. Billington
+   </e>
+   ,
+   <e type="italic">
+    The Tower and the Bridge: The New Art of Structural Engineering
+   </e>
+   (1983), traces the history of structures since the Industrial Revolution and emphasizes a series of individual engineers who were structural artists.
+   <e type="smallcap">
+    David J. Brown
+   </e>
+   ,
+   <e type="italic">
+    Bridges
+   </e>
+   (1993), chronicles bridge building from its beginnings to future projects, with discussions of the world’s most important bridges, some of which were failures.
+   <e type="smallcap">
+    Eric DeLony
+   </e>
+   (ed.),
+   <e type="italic">
+    Landmark American Bridges
+   </e>
+   (1993), contains elegantly illustrated presentations of large and small bridges built in the United States from the late 18th century to the post-World War II era, with a time line encapsulating the history of bridges from 1570 to the present.
+   <e type="smallcap">
+    C.M. Woodward
+   </e>
+   ,
+   <e type="italic">
+    A History of the St. Louis Bridge
+   </e>
+   (1881), on the Eads Bridge, is still the most complete work ever published on one bridge, a classic work for both the nontechnical reader and the engineer.
+   <e type="smallcap">
+    David McCullough
+   </e>
+   ,
+   <e type="italic">
+    The Great Bridge
+   </e>
+   (1972, reissued 1982), narrates the political and human history of the building of the Brooklyn Bridge.
+   <e type="smallcap">
+    David P. Billington
+   </e>
+   ,
+   <e type="italic">
+    Robert Maillart’s Bridges
+   </e>
+   (1979), gives substantial details of the major works of this bridge designer and builder.
+  </p>
+  <p>
+   <e type="smallcap">
+    Fritz Leonhardt
+   </e>
+   ,
+   <e type="italic">
+    Bridges: Aesthetics and Design
+   </e>
+   (1984), provides a substantial general discussion and includes a wide selection of striking photographs of old and new bridges. A finely illustrated nontechnical text by
+   <e type="smallcap">
+    Hans Wittfoht
+   </e>
+   ,
+   <e type="italic">
+    Building Bridges
+   </e>
+   (1984), centers on both the design and the construction of bridges.
+   <e type="smallcap">
+    M.S. Troitsky
+   </e>
+   ,
+   <e type="italic">
+    Planning and Design of Bridges
+   </e>
+   (1994), focuses on the selection of bridge type and preliminary design.
+   <e type="smallcap">
+    Walter Podolny, Jr.
+   </e>
+   , and
+   <e type="smallcap">
+    John B. Scalzi
+   </e>
+   ,
+   <e type="italic">
+    Construction and Design of Cable-Stayed Bridges
+   </e>
+   , 2nd ed. (1986), treats the modern bridge form and provides substantial technical detail, although the nontechnical reader will understand much of the text.
+   <e type="smallcap">
+    Christian Menn
+   </e>
+   ,
+   <e type="italic">
+    Prestressed Concrete Bridges
+   </e>
+   , trans. and ed. by
+   <e type="smallcap">
+    Paul Gauvreau
+   </e>
+   (1990; originally published in German, 1986), a technical work primarily for engineers, provides historical coverage and deals elegantly with the many complex issues in bridge design.
+   <e type="smallcap">
+    Louis G. Silano
+   </e>
+   (ed.),
+   <e type="italic">
+    Bridge Inspection and Rehabilitation
+   </e>
+   (1993), is a compendium of practical information.
+  </p>
+  <p>
+   Early works on bridge design and construction still widely available include
+   <e type="smallcap">
+    Henry Grattan Tyrrell
+   </e>
+   ,
+   <e type="italic">
+    History of Bridge Engineering
+   </e>
+   (1911), a fine, nontechnical sweep through history from ancient bridges to early reinforced concrete arches;
+   <e type="smallcap">
+    Wilbur J. Watson
+   </e>
+   ,
+   <e type="italic">
+    Bridge Architecture
+   </e>
+   (1927), exploring the collaboration between engineers and architects and focusing on early 20th-century designs, and
+   <e type="italic">
+    A Decade of Bridges, 1926–1936
+   </e>
+   (1937), with a narrower scope;
+   <e type="smallcap">
+    Charles S. Whitney
+   </e>
+   ,
+   <e type="italic">
+    Bridges: A Study in Their Art, Science, and Evolution
+   </e>
+   (1929, reprinted as
+   <e type="italic">
+    Bridges: Their Art, Science, and Evolution
+   </e>
+   , 1983), a nontechnical work; and
+   <e type="smallcap">
+    Elizabeth B. Mock
+   </e>
+   (
+   <e type="smallcap">
+    Elizabeth B. Kassler
+   </e>
+   ),
+   <e type="italic">
+    The Architecture of Bridges
+   </e>
+   (1949), the first major book on bridges to give a modern viewpoint.
+  </p>
+  <signature>
+   David P. Billington
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

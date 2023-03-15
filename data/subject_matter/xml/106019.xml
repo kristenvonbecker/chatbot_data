@@ -1,0 +1,6193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="106019" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 03:28:02" url="/article/electricity/106019" version="22">
+ <title>
+  electricity
+ </title>
+ <p>
+  <e type="bold">
+   electricity
+  </e>
+  , phenomenon associated with stationary or moving
+  <xref articleid="32271">
+   electric charges
+  </xref>
+  . Electric charge is a fundamental property of matter and is borne by elementary particles. In electricity the particle involved is the
+  <xref articleid="32316">
+   electron
+  </xref>
+  , which carries a charge designated, by convention, as negative. Thus, the various manifestations of electricity are the result of the accumulation or motion of numbers of electrons.
+ </p>
+ <h1 id="h71552">
+  <title>
+   Electrostatics
+  </title>
+  <p>
+   Electrostatics is the study of electromagnetic phenomena that occur when there are no moving charges—i.e., after a static equilibrium has been established. Charges reach their equilibrium positions rapidly because the electric force is extremely strong. The mathematical methods of electrostatics make it possible to calculate the distributions of the
+   <xref articleid="32278">
+    electric field
+   </xref>
+   and of the
+   <xref articleid="32284">
+    electric potential
+   </xref>
+   from a known configuration of charges,
+   <xref articleid="25132">
+    conductors
+   </xref>
+   , and
+   <xref articleid="42511">
+    insulators
+   </xref>
+   . Conversely, given a set of conductors with known potentials, it is possible to calculate electric fields in regions between the conductors and to determine the charge distribution on the surface of the conductors. The electric energy of a set of charges at rest can be viewed from the standpoint of the
+   <xref articleid="77472">
+    work
+   </xref>
+   required to assemble the charges; alternatively, the energy also can be considered to reside in the electric field produced by this assembly of charges. Finally, energy can be stored in a
+   <xref articleid="471073">
+    capacitor
+   </xref>
+   ; the energy required to charge such a device is stored in it as electrostatic energy of the electric field.
+  </p>
+  <h2 id="h71553">
+   <title>
+    Coulomb’s law
+   </title>
+   <p>
+    <assembly id="a179765" url="/assembly/view/179765">
+     <title>
+      Examine what happens to the electrons of two neutral objects rubbed together in a dry environment
+     </title>
+     <media mediaid="163616" thumburl="/16/163616-049-15C85EE8.jpg" type="video" url=""/>
+     <caption>
+      Explanation of static electricity and its manifestations in everyday life.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a179765"/>
+    Static electricity is a familiar electric phenomenon in which charged particles are transferred from one body to another. For example, if two objects are rubbed together, especially if the objects are insulators and the surrounding air is dry, the objects acquire equal and opposite charges and an attractive force develops between them. The object that loses
+    <xref articleid="32316">
+     electrons
+    </xref>
+    becomes positively charged, and the other becomes negatively charged. The force is simply the attraction between charges of opposite sign. The properties of this force were described above; they are incorporated in the mathematical relationship known as
+    <xref articleid="471076">
+     Coulomb’s law
+    </xref>
+    . The electric force on a charge
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    under these conditions, due to a charge
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    at a distance
+    <e type="italic">
+     r
+    </e>
+    , is given by Coulomb’s law,
+    <formula>
+     <inlinemedia id="i15963" mediaid="15963" url="/63/15963-004-B1B8E47B.jpg"/>
+    </formula>
+   </p>
+   <p>
+    <assembly id="a1320" url="/assembly/view/1320">
+     <title>
+      electric force between two charges
+     </title>
+     <media mediaid="225" type="image" url="/25/225-004-164377A4.jpg"/>
+     <caption>
+      Figure 1: Electric force between two charges.
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    The bold characters in the equation indicate the
+    <xref articleid="218451">
+     vector
+    </xref>
+    nature of the force, and the unit vector
+    <e type="bolditalic">
+     r̂
+    </e>
+    is a vector that has a size of one and that points from charge
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    to charge
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    . The proportionality constant
+    <e type="italic">
+     k
+    </e>
+    equals 10
+    <sup>
+     −7
+    </sup>
+    <e type="italic">
+     c
+    </e>
+    <sup>
+     2
+    </sup>
+    , where
+    <e type="italic">
+     c
+    </e>
+    is the
+    <xref articleid="471069">
+     speed of light
+    </xref>
+    in a vacuum;
+    <e type="italic">
+     k
+    </e>
+    has the numerical value of 8.99 × 10
+    <sup>
+     9
+    </sup>
+    <xref articleid="55617">
+     newtons
+    </xref>
+    -square metre per
+    <xref articleid="26554">
+     coulomb
+    </xref>
+    squared (Nm
+    <sup>
+     2
+    </sup>
+    /C
+    <sup>
+     2
+    </sup>
+    ).
+    <assemblyref assemblyid="a1320">
+     Figure 1
+    </assemblyref>
+    shows the force on
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    due to
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    . A numerical example will help to illustrate this force. Both
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    are chosen arbitrarily to be positive charges, each with a magnitude of 10
+    <sup>
+     −6
+    </sup>
+    coulomb. The charge
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    is located at coordinates
+    <e type="italic">
+     x
+    </e>
+    ,
+    <e type="italic">
+     y
+    </e>
+    ,
+    <e type="italic">
+     z
+    </e>
+    with values of 0.03, 0, 0, respectively, while
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    has coordinates 0, 0.04, 0. All coordinates are given in metres. Thus, the distance between
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    is 0.05 metre.
+   </p>
+   <p>
+    <assembly id="a1321" url="/assembly/view/1321">
+     <title>
+      components of Coulomb force
+     </title>
+     <media mediaid="226" type="image" url="/26/226-004-E7AD16A3.jpg"/>
+     <caption>
+      Figure 2: The
+      <e type="italic">
+       x
+      </e>
+      and
+      <e type="italic">
+       y
+      </e>
+      components of the force
+      <e type="bolditalic">
+       F
+      </e>
+      in Figure 4 (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    The magnitude of the force
+    <e type="bolditalic">
+     F
+    </e>
+    on charge
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    as calculated using equation (
+    <inlinemediaref inlinemediaid="i15963">
+     1
+    </inlinemediaref>
+    ) is 3.6 newtons; its direction is shown in
+    <assemblyref assemblyid="a1320">
+     Figure 1
+    </assemblyref>
+    . The force on
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    due to
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    is −
+    <e type="bolditalic">
+     F
+    </e>
+    , which also has a magnitude of 3.6 newtons; its direction, however, is opposite to that of
+    <e type="bolditalic">
+     F
+    </e>
+    . The force
+    <e type="bolditalic">
+     F
+    </e>
+    can be expressed in terms of its components along the
+    <e type="italic">
+     x
+    </e>
+    and
+    <e type="italic">
+     y
+    </e>
+    axes, since the force vector lies in the
+    <e type="italic">
+     x
+    </e>
+    <e type="italic">
+     y
+    </e>
+    plane. This is done with elementary
+    <xref articleid="108709">
+     trigonometry
+    </xref>
+    from the geometry of
+    <assemblyref assemblyid="a1320">
+     Figure 1
+    </assemblyref>
+    , and the results are shown in
+    <assemblyref assemblyid="a1321">
+     Figure 2
+    </assemblyref>
+    . Thus,
+    <formula>
+     <inlinemedia id="i15962" mediaid="15962" url="/62/15962-004-DBDCEBEB.jpg"/>
+    </formula>
+    in newtons. Coulomb’s law describes mathematically the properties of the electric force between charges at rest. If the charges have opposite signs, the force would be attractive; the attraction would be indicated in equation (
+    <inlinemediaref inlinemediaid="i15963">
+     1
+    </inlinemediaref>
+    ) by the negative coefficient of the unit vector
+    <e type="bolditalic">
+     r̂.
+    </e>
+    Thus, the electric force on
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    would have a direction opposite to the unit vector
+    <e type="bolditalic">
+     r̂
+    </e>
+    and would point from
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    to
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    . In Cartesian coordinates, this would result in a change of the signs of both the
+    <e type="italic">
+     x
+    </e>
+    and
+    <e type="italic">
+     y
+    </e>
+    components of the force in equation (
+    <inlinemediaref inlinemediaid="i15962">
+     2
+    </inlinemediaref>
+    ).
+   </p>
+   <p>
+    How can this electric force on
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    be understood? Fundamentally, the force is due to the presence of an
+    <xref articleid="32278">
+     electric field
+    </xref>
+    at the position of
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     1
+    </sub>
+    . The field is caused by the second charge
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    and has a magnitude proportional to the size of
+    <e type="italic">
+     Q
+    </e>
+    <sub>
+     2
+    </sub>
+    . In interacting with this field, the first charge some distance away is either attracted to or repelled from the second charge, depending on the sign of the first charge.
+   </p>
+   <h3 id="h71554">
+    <title>
+     Calculating the value of an electric field
+    </title>
+    <p>
+     In the example, the charge
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     is in the electric field produced by the charge
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     . This field has the value
+     <formula>
+      <inlinemedia id="i15961" mediaid="15961" url="/61/15961-004-2C5290E7.jpg"/>
+     </formula>
+     in newtons per coulomb (N/C). (Electric field can also be expressed in
+     <xref articleid="75698">
+      volts
+     </xref>
+     per metre [V/m], which is the equivalent of newtons per coulomb.) The electric force on
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     is given by
+     <formula>
+      <inlinemedia id="i15962" mediaid="15962" url="/62/15962-004-DBDCEBEB.jpg"/>
+     </formula>
+     in newtons. This equation can be used to define the electric field of a point charge. The electric field
+     <e type="bolditalic">
+      E
+     </e>
+     produced by charge
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     is a vector. The magnitude of the field varies inversely as the square of the distance from
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     ; its direction is away from
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     when
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     is a positive charge and toward
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     when
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     is a negative charge. Using equations (
+     <inlinemediaref inlinemediaid="i15962">
+      2
+     </inlinemediaref>
+     ) and
+     <formula>
+      <inlinemedia id="i15960" mediaid="15960" url="/60/15960-004-DAF404CB.jpg"/>
+     </formula>
+     , the field produced by
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     at the position of
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     is
+     <formula>
+      <inlinemedia id="i15907" mediaid="15907" url="/07/15907-004-352B00D6.jpg"/>
+     </formula>
+     in newtons per coulomb.
+    </p>
+    <p>
+     <assembly id="a1322" url="/assembly/view/1322">
+      <title>
+       electric field
+      </title>
+      <media mediaid="227" type="image" url="/27/227-004-89197511.jpg"/>
+      <caption>
+       Figure 3: Electric field at the location of
+       <e type="italic">
+        Q
+       </e>
+       <sub>
+        1
+       </sub>
+       (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     When there are several charges present, the force on a given charge
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     may be simply calculated as the sum of the individual forces due to the other charges
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     ,
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      3
+     </sub>
+     ,…, etc., until all the charges are included. This sum requires that special attention be given to the direction of the individual forces since forces are vectors. The force on
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     can be obtained with the same amount of effort by first calculating the electric field at the position of
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     due to
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     ,
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      3
+     </sub>
+     ,…, etc. To illustrate this, a third charge is added to the example above. There are now three charges,
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     = +10
+     <sup>
+      −6
+     </sup>
+     C,
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     = +10
+     <sup>
+      −6
+     </sup>
+     C, and
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      3
+     </sub>
+     = −10
+     <sup>
+      −6
+     </sup>
+     C. The locations of the charges, using Cartesian coordinates [
+     <e type="italic">
+      x
+     </e>
+     ,
+     <e type="italic">
+      y
+     </e>
+     ,
+     <e type="italic">
+      z
+     </e>
+     ] are, respectively, [0.03, 0, 0], [0, 0.04, 0], and [−0.02, 0, 0] metre, as shown in
+     <assemblyref assemblyid="a1322">
+      Figure 3
+     </assemblyref>
+     . The goal is to find the force on
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     . From the sign of the charges, it can be seen that
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     is repelled by
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     and attracted by
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      3
+     </sub>
+     . It is also clear that these two forces act along different directions. The electric field at the position of
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     due to charge
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     is, just as in the example above,
+     <inlinemedia id="i15906" mediaid="15906" url="/06/15906-004-0093E279.jpg"/>
+     in newtons per coulomb. The electric field at the location of
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     due to charge
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      3
+     </sub>
+     is
+     <inlinemedia id="i15905" mediaid="15905" url="/05/15905-004-CA3541CC.jpg"/>
+     in newtons per coulomb. Thus, the total electric field at position 1 (i.e., at [0.03, 0, 0]) is the sum of these two fields
+     <e type="bolditalic">
+      E
+     </e>
+     <sub>
+      1,2
+     </sub>
+     +
+     <e type="bolditalic">
+      E
+     </e>
+     <sub>
+      1,3
+     </sub>
+     and is given by
+     <inlinemedia id="i15904" mediaid="15904" url="/04/15904-004-2C9EB100.jpg"/>
+    </p>
+    <p>
+     The fields
+     <e type="bolditalic">
+      E
+     </e>
+     <sub>
+      1,2
+     </sub>
+     and
+     <e type="bolditalic">
+      E
+     </e>
+     <sub>
+      1,3
+     </sub>
+     , as well as their sum, the total electric field at the location of
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     ,
+     <e type="bolditalic">
+      E
+     </e>
+     <sub>
+      1
+     </sub>
+     (
+     <e type="italic">
+      total
+     </e>
+     ), are shown in
+     <assemblyref assemblyid="a1322">
+      Figure 3
+     </assemblyref>
+     . The total force on
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     is then obtained from equation () by multiplying the electric field
+     <e type="bolditalic">
+      E
+     </e>
+     <sub>
+      1
+     </sub>
+     (
+     <e type="italic">
+      total
+     </e>
+     ) by
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     . In Cartesian coordinates, this force, expressed in newtons, is given by its components along the
+     <e type="italic">
+      x
+     </e>
+     and
+     <e type="italic">
+      y
+     </e>
+     axes by
+     <inlinemedia id="i15903" mediaid="15903" url="/03/15903-004-95C8C415.jpg"/>
+    </p>
+    <p>
+     The resulting force on
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     is in the direction of the total electric field at
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     , shown in
+     <assemblyref assemblyid="a1322">
+      Figure 3
+     </assemblyref>
+     . The magnitude of the force, which is obtained as the square root of the sum of the squares of the components of the force given in the above equation, equals 3.22 newtons.
+    </p>
+   </h3>
+   <h3 id="h71555">
+    <title>
+     Superposition principle
+    </title>
+    <p>
+     This calculation demonstrates an important property of the electromagnetic field known as the superposition principle. According to this principle, a field arising from a number of sources is determined by adding the individual fields from each source. The principle is illustrated by
+     <assemblyref assemblyid="a1322">
+      Figure 3
+     </assemblyref>
+     , in which an electric field arising from several sources is determined by the superposition of the fields from each of the sources. In this case, the electric field at the location of
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      1
+     </sub>
+     is the sum of the fields due to
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      2
+     </sub>
+     and
+     <e type="italic">
+      Q
+     </e>
+     <sub>
+      3
+     </sub>
+     . Studies of electric fields over an extremely wide range of magnitudes have established the validity of the superposition principle.
+    </p>
+    <p>
+     The vector nature of an electric field produced by a set of charges introduces a significant complexity. Specifying the field at each point in space requires giving both the magnitude and the direction at each location. In the Cartesian coordinate system, this necessitates knowing the magnitude of the
+     <e type="italic">
+      x
+     </e>
+     ,
+     <e type="italic">
+      y
+     </e>
+     , and
+     <e type="italic">
+      z
+     </e>
+     components of the electric field at each point in space. It would be much simpler if the value of the electric field vector at any point in space could be derived from a
+     <xref articleid="99439">
+      scalar
+     </xref>
+     function with magnitude and sign.
+    </p>
+   </h3>
+   <h3 id="h71556">
+    <title>
+     Electric potential
+    </title>
+    <p>
+     The
+     <xref articleid="32284">
+      electric potential
+     </xref>
+     is just such a scalar function. Electric potential is related to the
+     <xref articleid="77472">
+      work
+     </xref>
+     done by an external force when it transports a
+     <xref articleid="32271">
+      charge
+     </xref>
+     slowly from one position to another in an environment containing other charges at rest. The difference between the potential at point A and the potential at point B is defined by the equation
+     <formula>
+      <inlinemedia id="i15959" mediaid="15959" url="/59/15959-004-0B16051A.jpg"/>
+     </formula>
+    </p>
+    <p>
+     As noted above, electric potential is measured in
+     <xref articleid="75698">
+      volts
+     </xref>
+     . Since work is measured in
+     <xref articleid="44023">
+      joules
+     </xref>
+     in the
+     <xref articleid="42610">
+      Système Internationale d’Unités (SI)
+     </xref>
+     , one volt is equivalent to one joule per
+     <xref articleid="26554">
+      coulomb
+     </xref>
+     . The charge
+     <e type="italic">
+      q
+     </e>
+     is taken as a small test charge; it is assumed that the test charge does not disturb the distribution of the remaining charges during its transport from point B to point A.
+    </p>
+    <p>
+     <assembly id="a1323" url="/assembly/view/1323">
+      <title>
+       moving a charge
+      </title>
+      <media mediaid="228" type="image" url="/28/228-004-A2B86EAE.jpg"/>
+      <caption>
+       Figure 4: Positive charge +
+       <e type="italic">
+        Q
+       </e>
+       and two paths in moving a second charge,
+       <e type="italic">
+        q
+       </e>
+       , from B to A (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     To illustrate the work in equation (
+     <inlinemediaref inlinemediaid="i15959">
+      5
+     </inlinemediaref>
+     ),
+     <assemblyref assemblyid="a1323">
+      Figure 4
+     </assemblyref>
+     shows a positive charge +
+     <e type="italic">
+      Q
+     </e>
+     . Consider the work involved in moving a second charge
+     <e type="italic">
+      q
+     </e>
+     from B to A. Along path 1, work is done to offset the electric repulsion between the two charges. If path 2 is chosen instead, no work is done in moving
+     <e type="italic">
+      q
+     </e>
+     from B to C, since the motion is perpendicular to the
+     <xref articleid="26556">
+      electric force
+     </xref>
+     ; moving
+     <e type="italic">
+      q
+     </e>
+     from C to D, the work is, by symmetry, identical as from B to A, and no work is required from D to A. Thus, the total work done in moving
+     <e type="italic">
+      q
+     </e>
+     from B to A is the same for either path. It can be shown easily that the same is true for any path going from B to A. When the initial and final positions of the charge
+     <e type="italic">
+      q
+     </e>
+     are located on a sphere centred on the location of the +
+     <e type="italic">
+      Q
+     </e>
+     charge, no work is done; the electric potential at the initial position has the same value as at the final position. The sphere in this example is called an equipotential surface. When equation (
+     <inlinemediaref inlinemediaid="i15959">
+      5
+     </inlinemediaref>
+     ), which defines the potential difference between two points, is combined with Coulomb’s law, it yields the following expression for the potential difference
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      <e type="italic">
+       A
+      </e>
+     </sub>
+     −
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      <e type="italic">
+       B
+      </e>
+     </sub>
+     between points A and B:
+     <formula>
+      <inlinemedia id="i15958" mediaid="15958" url="/58/15958-004-1099CA90.jpg"/>
+     </formula>
+     where
+     <e type="italic">
+      r
+     </e>
+     <sub>
+      <e type="italic">
+       a
+      </e>
+     </sub>
+     and
+     <e type="italic">
+      r
+     </e>
+     <sub>
+      <e type="italic">
+       b
+      </e>
+     </sub>
+     are the distances of points A and B from
+     <e type="italic">
+      Q
+     </e>
+     . Choosing B far away from the charge
+     <e type="italic">
+      Q
+     </e>
+     and arbitrarily setting the electric potential to be zero far from the charge results in a simple equation for the potential at A:
+     <formula>
+      <inlinemedia id="i15957" mediaid="15957" url="/57/15957-004-2F5CA11F.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The contribution of a charge to the electric potential at some point in space is thus a scalar quantity directly proportional to the magnitude of the charge and inversely proportional to the distance between the point and the charge. For more than one charge, one simply adds the contributions of the various charges. The result is a
+     <xref articleid="108691">
+      topological
+     </xref>
+     map that gives a value of the electric potential for every point in space.
+    </p>
+    <p>
+     <assembly id="a1324" url="/assembly/view/1324">
+      <title>
+       potential energy landscape
+      </title>
+      <media mediaid="229" type="image" url="/29/229-004-336ECC26.jpg"/>
+      <caption>
+       Figure 5: Potential energy landscape. (A) Potential energy of a positive charge near a second positive charge. (B) Potential energy of a negative charge near a positive charge (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a1324">
+      Figure 5
+     </assemblyref>
+     provides three-dimensional views illustrating the effect of the positive charge +
+     <e type="italic">
+      Q
+     </e>
+     located at the origin on either a second positive charge
+     <e type="italic">
+      q
+     </e>
+     (
+     <assemblyref assemblyid="a1324">
+      Figure 5A
+     </assemblyref>
+     ) or on a negative charge −
+     <e type="italic">
+      q
+     </e>
+     (
+     <assemblyref assemblyid="a1324">
+      Figure 5B
+     </assemblyref>
+     ); the
+     <xref articleid="61056">
+      potential energy
+     </xref>
+     “landscape” is illustrated in each case. The potential energy of a charge
+     <e type="italic">
+      q
+     </e>
+     is the product
+     <e type="italic">
+      q
+     </e>
+     <e type="italic">
+      V
+     </e>
+     of the charge and of the electric potential at the position of the charge. In
+     <assemblyref assemblyid="a1324">
+      Figure 5A
+     </assemblyref>
+     , the positive charge
+     <e type="italic">
+      q
+     </e>
+     would have to be pushed by some external agent in order to get close to the location of +
+     <e type="italic">
+      Q
+     </e>
+     because, as
+     <e type="italic">
+      q
+     </e>
+     approaches, it is subjected to an increasingly repulsive electric force. For the negative charge −
+     <e type="italic">
+      q
+     </e>
+     , the potential energy in
+     <assemblyref assemblyid="a1324">
+      Figure 5B
+     </assemblyref>
+     shows, instead of a steep hill, a deep funnel. The electric potential due to +
+     <e type="italic">
+      Q
+     </e>
+     is still positive, but the potential energy is negative, and the negative charge −
+     <e type="italic">
+      q
+     </e>
+     , in a manner quite analogous to a particle under the influence of
+     <xref articleid="106265">
+      gravity
+     </xref>
+     , is attracted toward the origin where charge +
+     <e type="italic">
+      Q
+     </e>
+     is located.
+    </p>
+    <p>
+     The electric field is related to the variation of the electric potential in space. The potential provides a convenient tool for solving a wide variety of problems in electrostatics. In a region of space where the potential varies, a charge is subjected to an electric force. For a positive charge the direction of this force is opposite the gradient of the potential—that is to say, in the direction in which the potential decreases the most rapidly. A negative charge would be subjected to a force in the direction of the most rapid increase of the potential. In both instances, the magnitude of the force is proportional to the rate of change of the potential in the indicated directions. If the potential in a region of space is constant, there is no force on either positive or negative charge. In a 12-volt car
+     <xref articleid="106044">
+      battery
+     </xref>
+     , positive charges would tend to move away from the positive terminal and toward the negative terminal, while negative charges would tend to move in the opposite direction—i.e., from the negative to the positive terminal. The latter occurs when a
+     <xref articleid="26194">
+      copper
+     </xref>
+     wire, in which there are
+     <xref articleid="32316">
+      electrons
+     </xref>
+     that are free to move, is connected between the two terminals of the battery.
+    </p>
+   </h3>
+   <h3 id="h71557">
+    <title>
+     Deriving electric field from potential
+    </title>
+    <p>
+     The
+     <xref articleid="32278">
+      electric field
+     </xref>
+     has already been described in terms of the force on a charge. If the
+     <xref articleid="32284">
+      electric potential
+     </xref>
+     is known at every point in a region of space, the electric field can be derived from the potential. In vector calculus notation, the electric field is given by the negative of the
+     <xref articleid="472450">
+      gradient
+     </xref>
+     of the electric potential,
+     <e type="bolditalic">
+      E
+     </e>
+     = −
+     <e type="bolditalic">
+      grad
+     </e>
+     <e type="italic">
+      V
+     </e>
+     . This expression specifies how the electric field is calculated at a given point. Since the field is a
+     <xref articleid="218451">
+      vector
+     </xref>
+     , it has both a direction and magnitude. The direction is that in which the potential decreases most rapidly, moving away from the point. The magnitude of the field is the change in potential across a small distance in the indicated direction divided by that distance.
+    </p>
+    <p>
+     <assembly id="a1325" url="/assembly/view/1325">
+      <title>
+       electrode configuration
+      </title>
+      <media mediaid="230" type="image" url="/30/230-004-D4F17445.jpg"/>
+      <caption>
+       Figure 6: Electrode configuration.
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     To become more familiar with the electric potential, a numerically determined solution is presented for a two-dimensional configuration of
+     <xref articleid="32299">
+      electrodes
+     </xref>
+     . A long, circular conducting rod is maintained at an electric potential of −20 volts. Next to the rod, a long L-shaped bracket, also made of conducting material, is maintained at a potential of +20 volts. Both the rod and bracket are placed inside a long, hollow metal tube with a square cross section; this enclosure is at a potential of zero (i.e., it is at “ground” potential).
+     <assemblyref assemblyid="a1325">
+      Figure 6
+     </assemblyref>
+     shows the geometry of the problem. Because the situation is static, there is no electric field inside the material of the
+     <xref articleid="25132">
+      conductors
+     </xref>
+     . If there were such a field, the
+     <xref articleid="32271">
+      charges
+     </xref>
+     that are free to move in a conducting material would do so until equilibrium was reached. The charges are arranged so that their individual contributions to the electric field at points inside the conducting material add up to zero. In a situation of static equilibrium, excess charges are located on the surface of conductors. Because there are no electric fields inside the conducting material, all parts of a given conductor are at the same potential; hence, a conductor is an equipotential in a static situation.
+    </p>
+    <p>
+     <assembly id="a1326" url="/assembly/view/1326">
+      <title>
+       numerical solution
+      </title>
+      <media mediaid="231" type="image" url="/31/231-004-2D622AEE.jpg"/>
+      <caption>
+       Figure 7: Numerical solution for the electrode configuration shown in Figure 6. The electrostatic potentials are in volts (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     In
+     <assemblyref assemblyid="a1326">
+      Figure 7
+     </assemblyref>
+     , the numerical solution of the problem gives the potential at a large number of points inside the cavity. The locations of the +20-volt and −20-volt electrodes can be recognized easily. In carrying out the numerical solution of the electrostatic problem in the figure, the electrostatic potential was determined directly by means of one of its important properties: in a region where there is no charge (in this case, between the conductors), the value of the potential at a given point is the average of the values of the potential in the neighbourhood of the point. This follows from the fact that the electrostatic potential in a charge-free region obeys
+     <xref articleid="47169">
+      Laplace’s equation
+     </xref>
+     , which in vector calculus notation is
+     <e type="italic">
+      div
+     </e>
+     <e type="bolditalic">
+      grad
+     </e>
+     <e type="italic">
+      V
+     </e>
+     = 0. This equation is a special case of Poisson’s equation
+     <e type="italic">
+      div
+     </e>
+     <e type="bolditalic">
+      grad
+     </e>
+     <e type="italic">
+      V
+     </e>
+     = ρ, which is applicable to electrostatic problems in regions where the volume charge density is ρ. Laplace’s equation states that the
+     <xref articleid="472211">
+      divergence
+     </xref>
+     of the gradient of the potential is zero in regions of space with no charge. In the example of
+     <assemblyref assemblyid="a1326">
+      Figure 7
+     </assemblyref>
+     , the potential on the conductors remains constant. Arbitrary values of potential are initially assigned elsewhere inside the cavity. To obtain a solution, a
+     <xref articleid="117728">
+      computer
+     </xref>
+     replaces the potential at each coordinate point that is not on a conductor by the average of the values of the potential around that point; it scans the entire set of points many times until the values of the potentials differ by an amount small enough to indicate a satisfactory solution. Clearly, the larger the number of points, the more accurate the solution will be. The computation time as well as the computer memory size requirement increase rapidly, however, especially in three-dimensional problems with complex geometry. This method of solution is called the “relaxation” method.
+    </p>
+    <p>
+     <assembly id="a1327" url="/assembly/view/1327">
+      <title>
+       equipotential surface
+      </title>
+      <media mediaid="232" type="image" url="/32/232-004-D9940E52.jpg"/>
+      <caption>
+       Figure 8: Equipotential surfaces.
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     In
+     <assemblyref assemblyid="a1327">
+      Figure 8
+     </assemblyref>
+     , points with the same value of electric potential have been connected to reveal a number of important properties associated with conductors in static situations. The lines in the figure represent equipotential surfaces. The distance between two equipotential surfaces tells how rapidly the potential changes, with the smallest distances corresponding to the location of the greatest rate of change and thus to the largest values of the electric field. Looking at the +20-volt and +15-volt equipotential surfaces, one observes immediately that they are closest to each other at the sharp external corners of the right-angle conductor. This shows that the strongest electric fields on the surface of a charged conductor are found on the sharpest external parts of the conductor; electrical breakdowns are most likely to occur there. It also should be noted that the electric field is weakest in the inside corners, both on the inside corner of the right-angle piece and on the inside corners of the square enclosure.
+    </p>
+    <p>
+     <assembly id="a1328" url="/assembly/view/1328">
+      <title>
+       electric field lines
+      </title>
+      <media mediaid="233" type="image" url="/33/233-004-A1D62202.jpg"/>
+      <caption>
+       Figure 9: Electric field lines. The density of the dashed lines indicates the strength of the field (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     In
+     <assemblyref assemblyid="a1328">
+      Figure 9
+     </assemblyref>
+     , dashed lines indicate the direction of the electric field. The strength of the field is reflected by the density of these dashed lines. Again, it can be seen that the field is strongest on outside corners of the charged L-shaped conductor; the largest surface charge density must occur at those locations. The field is weakest in the inside corners. The signs of the charges on the conducting surfaces can be deduced from the fact that electric fields point away from positive charges and toward negative charges. The magnitude of the surface charge density σ on the conductors is measured in
+     <xref articleid="26554">
+      coulombs
+     </xref>
+     per metre squared and is given by
+     <formula>
+      <inlinemedia id="i15956" mediaid="15956" url="/56/15956-004-7F21AC17.jpg"/>
+     </formula>
+     where ε
+     <sub>
+      0
+     </sub>
+     is called the permittivity of free space and has the value of 8.854 × 10
+     <sup>
+      −12
+     </sup>
+     coulomb squared per
+     <xref articleid="55617">
+      newton
+     </xref>
+     -square metre. In addition, ε
+     <sub>
+      0
+     </sub>
+     is related to the constant
+     <e type="italic">
+      k
+     </e>
+     in Coulomb’s law by
+     <formula>
+      <inlinemedia id="i15955" mediaid="15955" url="/55/15955-004-1693265E.jpg"/>
+     </formula>
+    </p>
+    <p>
+     <assembly id="a1329" url="/assembly/view/1329">
+      <title>
+       potential energy
+      </title>
+      <media mediaid="234" type="image" url="/34/234-004-D644BB7F.jpg"/>
+      <caption>
+       Figure 10: Potential energy for a positive charge (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a1328">
+      Figure 9
+     </assemblyref>
+     also illustrates an important property of an electric field in static situations: field lines are always perpendicular to equipotential surfaces. The field lines meet the surfaces of the conductors at right angles, since these surfaces also are equipotentials.
+     <assemblyref assemblyid="a1329">
+      Figure 10
+     </assemblyref>
+     completes this example by showing the
+     <xref articleid="61056">
+      potential energy
+     </xref>
+     landscape of a small positive charge
+     <e type="italic">
+      q
+     </e>
+     in the region. From the variation in potential energy, it is easy to picture how electric forces tend to drive the positive charge
+     <e type="italic">
+      q
+     </e>
+     from higher to lower potential—i.e., from the L-shaped bracket at +20 volts toward the square-shaped enclosure at ground (0 volts) or toward the cylindrical rod maintained at a potential of −20 volts. It also graphically displays the strength of force near the sharp corners of conducting electrodes.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h71558">
+   <title>
+    Capacitance
+   </title>
+   <p>
+    <assembly id="a1330" url="/assembly/view/1330">
+     <title>
+      parallel-plate capacitor
+     </title>
+     <media mediaid="235" type="image" url="/35/235-004-1CED11E5.jpg"/>
+     <caption>
+      Figure 11: Parallel-plate capacitor. (A) This storage device consists of two flat conducting plates, each of area
+      <e type="italic">
+       A
+      </e>
+      . (B) These plates are parallel and separated by a small distance
+      <e type="italic">
+       d
+      </e>
+      (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    A useful device for storing electrical energy consists of two conductors in close proximity and insulated from each other. A simple example of such a storage device is the parallel-plate
+    <xref articleid="471073">
+     capacitor
+    </xref>
+    . If positive charges with total charge +
+    <e type="italic">
+     Q
+    </e>
+    are deposited on one of the conductors and an equal amount of negative charge −
+    <e type="italic">
+     Q
+    </e>
+    is deposited on the second conductor, the capacitor is said to have a charge
+    <e type="italic">
+     Q
+    </e>
+    . As shown in
+    <assemblyref assemblyid="a1330">
+     Figure 11
+    </assemblyref>
+    , it consists of two flat conducting plates, each of area
+    <e type="italic">
+     A
+    </e>
+    , parallel to each other and separated by a distance
+    <e type="italic">
+     d
+    </e>
+    .
+   </p>
+   <h3 id="h71559">
+    <title>
+     Principle of the capacitor
+    </title>
+    <p>
+     To understand how a charged capacitor stores energy, consider the following charging process. With both plates of the capacitor initially uncharged, a small amount of negative charge is removed from the lower plate and placed on the upper plate. Thus, little
+     <xref articleid="77472">
+      work
+     </xref>
+     is required to make the lower plate slightly positive and the upper plate slightly negative. As the process is repeated, however, it becomes increasingly difficult to transport the same amount of negative charge, since the charge is being moved toward a plate that is already negatively charged and away from a plate that is positively charged. The negative charge on the upper plate repels the negative charge moving toward it, and the positive charge on the lower plate exerts an attractive force on the negative charge being moved away. Therefore, work has to be done to charge the capacitor.
+    </p>
+    <p>
+     Where and how is this energy stored? The negative charges on the upper plate are attracted toward the positive charges on the lower plate and could do work if they could leave the plate. Because they cannot leave the plate, however, the energy is stored. A mechanical analogy is the potential energy of a stretched spring. Another way to understand the energy stored in a capacitor is to compare an uncharged capacitor with a charged capacitor. In the uncharged capacitor, there is no electric field between the plates; in the charged capacitor, because of the positive and negative charges on the inside surfaces of the plates, there is an electric field between the plates with the field lines pointing from the positively charged plate to the negatively charged one. The energy stored is the energy that was required to establish the field. In the simple geometry of
+     <assemblyref assemblyid="a1330">
+      Figure 11
+     </assemblyref>
+     , it is apparent that there is a nearly uniform electric field between the plates; the field becomes more uniform as the distance between the plates decreases and the area of the plates increases. It was explained above how the magnitude of the electric field can be obtained from the electric potential. In summary, the electric field is the change in the potential across a small distance in a direction perpendicular to an equipotential surface divided by that small distance. In
+     <assemblyref assemblyid="a1330">
+      Figure 11
+     </assemblyref>
+     , the upper plate is assumed to be at a potential of
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      <e type="italic">
+       a
+      </e>
+     </sub>
+     <xref articleid="75698">
+      volts
+     </xref>
+     , and the lower plate at a potential of
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      <e type="italic">
+       b
+      </e>
+     </sub>
+     volts. The size of the electric field is
+     <formula>
+      <inlinemedia id="i15954" mediaid="15954" url="/54/15954-004-243C5284.jpg"/>
+     </formula>
+     in volts per metre, where
+     <e type="italic">
+      d
+     </e>
+     is the separation of the plates. If the charged capacitor has a total charge of +
+     <e type="italic">
+      Q
+     </e>
+     on the inside surface of the lower plate (it is on the inside surface because it is attracted to the negative charges on the upper plate), the positive charge will be uniformly distributed on the surface with the value
+     <formula>
+      <inlinemedia id="i15953" mediaid="15953" url="/53/15953-004-B3650DBB.jpg"/>
+     </formula>
+     in coulombs per metre squared. Equation (
+     <inlinemediaref inlinemediaid="i15956">
+      8
+     </inlinemediaref>
+     ) gives the electric field when the surface charge density is known as
+     <e type="italic">
+      E
+     </e>
+     = σ/ε
+     <sub>
+      0
+     </sub>
+     . This, in turn, relates the potential difference to the charge on the capacitor and the geometry of the plates. The result is
+     <formula>
+      <inlinemedia id="i15952" mediaid="15952" url="/52/15952-004-2A8653D0.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The quantity
+     <e type="italic">
+      C
+     </e>
+     is termed capacity; for the parallel-plate capacitor,
+     <e type="italic">
+      C
+     </e>
+     is equal to ε
+     <sub>
+      0
+     </sub>
+     <e type="italic">
+      A
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     . The unit used for capacity is the
+     <xref articleid="33715">
+      farad
+     </xref>
+     (F); one farad equals one coulomb per volt. In equation (
+     <inlinemediaref inlinemediaid="i15952">
+      12
+     </inlinemediaref>
+     ), only the potential difference is involved. The potential of either plate can be set arbitrarily without altering the electric field between the plates. Often one of the plates is grounded—i.e., its potential is set at the Earth potential, which is referred to as zero volts. The potential difference is then denoted as Δ
+     <e type="italic">
+      V
+     </e>
+     , or simply as
+     <e type="italic">
+      V
+     </e>
+     .
+    </p>
+    <p>
+     Three equivalent formulas for the total energy
+     <e type="italic">
+      W
+     </e>
+     of a capacitor with charge
+     <e type="italic">
+      Q
+     </e>
+     and potential difference
+     <e type="italic">
+      V
+     </e>
+     are
+     <formula>
+      <inlinemedia id="i15951" mediaid="15951" url="/51/15951-004-AC48EA61.jpg"/>
+     </formula>
+    </p>
+    <p>
+     All are expressed in
+     <xref articleid="44023">
+      joules
+     </xref>
+     . The stored energy in the parallel-plate capacitor also can be expressed in terms of the electric field; it is, in joules,
+     <formula>
+      <inlinemedia id="i15950" mediaid="15950" url="/50/15950-004-76C0373D.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The quantity
+     <e type="italic">
+      A
+     </e>
+     <e type="italic">
+      d
+     </e>
+     , the area of each plate times the separation of the two plates, is the volume between the plates. Thus, the energy per unit volume (i.e., the energy density of the electric field) is given by
+     <fraction>
+      <num>
+       1
+      </num>
+      <den>
+       2
+      </den>
+     </fraction>
+     ε
+     <sub>
+      0
+     </sub>
+     <e type="italic">
+      E
+     </e>
+     <sup>
+      2
+     </sup>
+     in units of joules per metre cubed.
+    </p>
+   </h3>
+   <h3 id="h71560">
+    <title>
+     Dielectrics, polarization, and electric dipole moment
+    </title>
+    <p>
+     The amount of charge stored in a capacitor is the product of the voltage and the capacity. What limits the amount of charge that can be stored on a capacitor? The voltage can be increased, but electric breakdown will occur if the electric field inside the capacitor becomes too large. The capacity can be increased by expanding the electrode areas and by reducing the gap between the electrodes. In general, capacitors that can withstand high voltages have a relatively small capacity. If only low voltages are needed, however, compact capacitors with rather large capacities can be manufactured. One method for increasing capacity is to insert between the conductors an insulating material that reduces the voltage because of its effect on the electric field. Such materials are called
+     <xref articleid="30382">
+      dielectrics
+     </xref>
+     (substances with no free charges). When the molecules of a dielectric are placed in the electric field, their negatively charged
+     <xref articleid="32316">
+      electrons
+     </xref>
+     separate slightly from their positively charged cores. With this separation, referred to as polarization, the
+     <xref articleid="53247">
+      molecules
+     </xref>
+     acquire an electric dipole moment. A cluster of charges with an electric dipole moment is often called an
+     <xref articleid="32274">
+      electric dipole
+     </xref>
+     .
+    </p>
+    <p>
+     Is there an electric force between a charged object and uncharged matter, such as a piece of wood? Surprisingly, the answer is yes, and the force is attractive. The reason is that under the influence of the electric field of a charged object, the negatively charged electrons and positively charged nuclei within the
+     <xref articleid="110411">
+      atoms
+     </xref>
+     and molecules are subjected to forces in opposite directions. As a result, the negative and positive charges separate slightly. Such atoms and molecules are said to be polarized and to have an electric dipole moment. The molecules in the wood acquire an electric dipole moment in the direction of the external electric field. The polarized molecules are attracted toward the charged object because the field increases in the direction of the charged object.
+    </p>
+    <p>
+     The electric dipole moment
+     <e type="bolditalic">
+      p
+     </e>
+     of two charges +
+     <e type="italic">
+      q
+     </e>
+     and −
+     <e type="italic">
+      q
+     </e>
+     separated by a distance
+     <e type="italic">
+      l
+     </e>
+     is a vector of magnitude
+     <e type="italic">
+      p
+     </e>
+     =
+     <e type="italic">
+      q
+     </e>
+     <e type="italic">
+      l
+     </e>
+     with a direction from the negative to the positive charge. An electric dipole in an external electric field is subjected to a
+     <xref articleid="72955">
+      torque
+     </xref>
+     τ =
+     <e type="italic">
+      p
+     </e>
+     <e type="italic">
+      E
+     </e>
+     sin θ, where θ is the angle between
+     <e type="bolditalic">
+      p
+     </e>
+     and
+     <e type="bolditalic">
+      E
+     </e>
+     . The torque tends to align the dipole moment
+     <e type="bolditalic">
+      p
+     </e>
+     in the direction of
+     <e type="bolditalic">
+      E
+     </e>
+     . The potential energy of the dipole is given by
+     <e type="italic">
+      U
+     </e>
+     <sub>
+      <e type="italic">
+       e
+      </e>
+     </sub>
+     = −
+     <e type="italic">
+      p
+     </e>
+     <e type="italic">
+      E
+     </e>
+     cos θ, or in vector notation
+     <e type="italic">
+      U
+     </e>
+     <sub>
+      <e type="italic">
+       e
+      </e>
+     </sub>
+     = −
+     <e type="bolditalic">
+      p
+     </e>
+     ·
+     <e type="bolditalic">
+      E
+     </e>
+     . In a nonuniform electric field, the potential energy of an electric dipole also varies with position, and the dipole can be subjected to a force. The force on the dipole is in the direction of increasing field when
+     <e type="bolditalic">
+      p
+     </e>
+     is aligned with
+     <e type="bolditalic">
+      E
+     </e>
+     , since the potential energy
+     <e type="italic">
+      U
+     </e>
+     <sub>
+      <e type="italic">
+       e
+      </e>
+     </sub>
+     decreases in that direction.
+    </p>
+    <p>
+     The polarization of a medium
+     <e type="bolditalic">
+      P
+     </e>
+     gives the electric dipole moment per unit volume of the material; it is expressed in units of coulombs per metre squared. When a dielectric is placed in an electric field, it acquires a polarization that depends on the field. The electric susceptibility χ
+     <sub>
+      <e type="italic">
+       e
+      </e>
+     </sub>
+     relates the polarization to the electric field as
+     <e type="bolditalic">
+      P
+     </e>
+     = χ
+     <sub>
+      <e type="italic">
+       e
+      </e>
+     </sub>
+     <e type="bolditalic">
+      E
+     </e>
+     . In general, χ
+     <sub>
+      <e type="italic">
+       e
+      </e>
+     </sub>
+     varies slightly depending on the strength of the electric field, but for some materials, called linear dielectrics, it is a constant. The
+     <xref articleid="30383">
+      dielectric constant
+     </xref>
+     κ of a substance is related to its susceptibility as κ = 1 + χ
+     <sub>
+      <e type="italic">
+       e
+      </e>
+     </sub>
+     /ε
+     <sub>
+      0
+     </sub>
+     ; it is a dimensionless quantity. lists the dielectric constants of a few substances.
+    </p>
+    <p>
+     The presence of a dielectric affects many electric quantities. A dielectric reduces by a factor
+     <e type="italic">
+      K
+     </e>
+     the value of the electric field and consequently also the value of the electric potential from a charge within the medium. As seen in, a dielectric can have a large effect. The insertion of a dielectric between the
+     <xref articleid="32299">
+      electrodes
+     </xref>
+     of a capacitor with a given charge reduces the potential difference between the electrodes and thus increases the capacitance of the capacitor by the factor
+     <e type="italic">
+      K
+     </e>
+     . For a parallel-plate capacitor filled with a dielectric, the capacity becomes
+     <e type="italic">
+      C
+     </e>
+     = Κε
+     <sub>
+      0
+     </sub>
+     <e type="italic">
+      A
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     . A third and important effect of a dielectric is to reduce the speed of electromagnetic waves in a medium by the factor
+     <sqroot>
+      <e type="italic">
+       K
+      </e>
+     </sqroot>
+     .
+    </p>
+    <p>
+     Capacitors come in a wide variety of shapes and sizes. Not all have parallel plates; some are cylinders, for example. If two plates, each one square centimetre in area, are separated by a dielectric with Κ = 2 of one millimetre thickness, the capacity is 1.76 × 10
+     <sup>
+      −12
+     </sup>
+     F, about two picofarads. Charged to 20 volts, this capacitor would store about 40 picocoulombs of charge; the electric energy stored would be 400 picojoules. Even small-sized capacitors can store enormous amounts of charge. Modern techniques and dielectric materials permit the manufacture of capacitors that occupy less than one cubic centimetre and yet store 10
+     <sup>
+      10
+     </sup>
+     times more charge and electric energy than in the above example.
+    </p>
+   </h3>
+   <h3 id="h71561">
+    <title>
+     Applications of capacitors
+    </title>
+    <p>
+     Capacitors have many important applications. They are used, for example, in digital circuits so that information stored in large
+     <xref articleid="25051">
+      computer memories
+     </xref>
+     is not lost during a momentary electric power failure; the electric energy stored in such capacitors maintains the information during the temporary loss of power. Capacitors play an even more important role as filters to divert spurious electric signals and thereby prevent damage to sensitive components and circuits caused by electric surges. How capacitors provide such protection is discussed below in the section
+     <xref articleid="106019" refid="h71571">
+      Transient response
+     </xref>
+     .
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h71562">
+  <title>
+   Direct electric current
+  </title>
+  <h2 id="h71563">
+   <title>
+    Basic phenomena and principles
+   </title>
+   <p>
+    Many electric phenomena occur under what is termed steady-state conditions. This means that such electric quantities as
+    <xref articleid="32273">
+     current
+    </xref>
+    , voltage, and
+    <xref articleid="32271">
+     charge
+    </xref>
+    distributions are not affected by the passage of time. For instance, because the current through a filament inside a car headlight does not change with time, the brightness of the headlight remains constant. An example of a nonsteady-state situation is the flow of charge between two
+    <xref articleid="25132">
+     conductors
+    </xref>
+    that are connected by a thin conducting wire and that initially have an equal but opposite charge. As current flows from the positively charged conductor to the negatively charged one, the charges on both conductors decrease with time, as does the potential difference between the conductors. The current therefore also decreases with time and eventually ceases when the conductors are discharged.
+   </p>
+   <p>
+    In an electric circuit under steady-state conditions, the flow of charge does not change with time and the charge distribution stays the same. Since charge flows from one location to another, there must be some mechanism to keep the charge distribution constant. In turn, the values of the
+    <xref articleid="32284">
+     electric potentials
+    </xref>
+    remain unaltered with time. Any device capable of keeping the potentials of
+    <xref articleid="32299">
+     electrodes
+    </xref>
+    unchanged as charge flows from one electrode to another is called a source of
+    <xref articleid="32313">
+     electromotive force
+    </xref>
+    , or simply an emf.
+   </p>
+   <p>
+    <assembly id="a1331" url="/assembly/view/1331">
+     <title>
+      motion of charge in electric current
+     </title>
+     <media mediaid="236" type="image" url="/36/236-004-BF9ABAC1.jpg"/>
+     <caption>
+      Figure 12: Motion of charge in electric current
+      <e type="italic">
+       i
+      </e>
+      (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a1331">
+     Figure 12
+    </assemblyref>
+    shows a wire made of a conducting material such as
+    <xref articleid="26194">
+     copper
+    </xref>
+    . By some external means, an
+    <xref articleid="32278">
+     electric field
+    </xref>
+    is established inside the wire in a direction along its length. The electrons that are free to move will gain some speed. Since they have a negative charge, they move in the direction opposite that of the electric field. The current
+    <e type="italic">
+     i
+    </e>
+    is defined to have a positive value in the direction of flow of positive charges. If the moving charges that constitute the current
+    <e type="italic">
+     i
+    </e>
+    in a wire are
+    <xref articleid="32316">
+     electrons
+    </xref>
+    , the current is a positive number when it is in a direction opposite to the motion of the negatively charged electrons. (If the direction of motion of the electrons were also chosen to be the direction of a current, the current would have a negative value.) The current is the amount of charge crossing a plane transverse to the wire per unit time—i.e., in a period of one second. If there are
+    <e type="italic">
+     n
+    </e>
+    free particles of charge
+    <e type="italic">
+     q
+    </e>
+    per unit volume with average velocity
+    <e type="italic">
+     v
+    </e>
+    and the cross-sectional area of the wire is
+    <e type="italic">
+     A
+    </e>
+    , the current
+    <e type="italic">
+     i
+    </e>
+    , in elementary
+    <xref articleid="18631">
+     calculus
+    </xref>
+    notation, is
+    <formula>
+     <inlinemedia id="i15949" mediaid="15949" url="/49/15949-004-4BC31500.jpg"/>
+    </formula>
+    where
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     Q
+    </e>
+    is the amount of charge that crosses the plane in a time interval
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     t
+    </e>
+    . The unit of current is the
+    <xref articleid="7233">
+     ampere
+    </xref>
+    (A); one ampere equals one
+    <xref articleid="26554">
+     coulomb
+    </xref>
+    per
+    <xref articleid="66514">
+     second
+    </xref>
+    . A useful quantity related to the flow of charge is current density, the flow of current per unit area. Symbolized by
+    <e type="bolditalic">
+     J
+    </e>
+    , it has a magnitude of
+    <e type="italic">
+     i
+    </e>
+    /
+    <e type="italic">
+     A
+    </e>
+    and is measured in amperes per square metre.
+   </p>
+   <p>
+    Wires of different materials have different current densities for a given value of the electric field
+    <e type="bolditalic">
+     E
+    </e>
+    ; for many materials, the current density is directly proportional to the electric field. This behaviour is represented by
+    <xref articleid="56866">
+     Ohm’s law
+    </xref>
+    :
+    <formula>
+     <inlinemedia id="i15948" mediaid="15948" url="/48/15948-004-70D179BF.jpg"/>
+    </formula>
+   </p>
+   <p>
+    The proportionality constant σ
+    <sub>
+     <e type="italic">
+      J
+     </e>
+    </sub>
+    is the conductivity of the material. In a
+    <xref articleid="52266">
+     metallic
+    </xref>
+    conductor, the charge carriers are electrons and, under the influence of an external electric field, they acquire some average drift velocity in the direction opposite the field. In conductors of this variety, the drift velocity is limited by collisions, which heat the conductor.
+   </p>
+   <p>
+    If the wire in
+    <assemblyref assemblyid="a1331">
+     Figure 12
+    </assemblyref>
+    has a length
+    <e type="italic">
+     l
+    </e>
+    and area
+    <e type="italic">
+     A
+    </e>
+    and if an electric potential difference of
+    <e type="italic">
+     V
+    </e>
+    is maintained between the ends of the wire, a current
+    <e type="italic">
+     i
+    </e>
+    will flow in the wire. The electric field
+    <e type="bolditalic">
+     E
+    </e>
+    in the wire has a magnitude
+    <e type="italic">
+     V
+    </e>
+    /
+    <e type="italic">
+     l
+    </e>
+    . The equation for the current, using Ohm’s law, is
+    <formula>
+     <inlinemedia id="i15947" mediaid="15947" url="/47/15947-004-38C6F519.jpg"/>
+    </formula>
+    or
+    <formula>
+     <inlinemedia id="i15946" mediaid="15946" url="/46/15946-004-57145F6A.jpg"/>
+    </formula>
+   </p>
+   <p>
+    <assembly id="a174175" url="/assembly/view/174175">
+     <title>
+      Learn why copper’s low resistance makes it an excellent conductor of electrical currents
+     </title>
+     <media mediaid="161915" thumburl="/15/161915-049-810B7772.jpg" type="video" url=""/>
+     <caption>
+      The relationship between current and resistance in an electric circuit.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a174175"/>
+    The quantity
+    <e type="italic">
+     l
+    </e>
+    /σ
+    <sub>
+     <e type="italic">
+      J
+     </e>
+    </sub>
+    <e type="italic">
+     A
+    </e>
+    , which depends on both the shape and material of the wire, is called the
+    <xref articleid="63265">
+     resistance
+    </xref>
+    <e type="italic">
+     R
+    </e>
+    of the wire. Resistance is measured in
+    <xref articleid="56863">
+     ohms
+    </xref>
+    (Ω). The equation for resistance,
+    <formula>
+     <inlinemedia id="i15945" mediaid="15945" url="/45/15945-004-610E29F5.jpg"/>
+    </formula>
+    is often written as
+    <formula>
+     <inlinemedia id="i15944" mediaid="15944" url="/44/15944-004-6FBF4DB7.jpg"/>
+    </formula>
+    where ρ is the
+    <xref articleid="63268">
+     resistivity
+    </xref>
+    of the material and is simply 1/σ
+    <sub>
+     <e type="italic">
+      J
+     </e>
+    </sub>
+    . The geometric aspects of resistance in equation (
+    <inlinemediaref inlinemediaid="i15944">
+     20
+    </inlinemediaref>
+    ) are easy to appreciate: the longer the wire, the greater the resistance to the flow of charge. A greater cross-sectional area results in a smaller resistance to the flow.
+   </p>
+   <p>
+    The resistive strain gauge is an important application of equation (
+    <inlinemediaref inlinemediaid="i15944">
+     20
+    </inlinemediaref>
+    ).
+    <xref articleid="110310" refid="h77464">
+     Strain
+    </xref>
+    , δ
+    <e type="italic">
+     l
+    </e>
+    /
+    <e type="italic">
+     l
+    </e>
+    , is the fractional change in the length of a body under stress, where δ
+    <e type="italic">
+     l
+    </e>
+    is the change of length and
+    <e type="italic">
+     l
+    </e>
+    is the length. The
+    <xref articleid="69876">
+     strain gauge
+    </xref>
+    consists of a thin wire or narrow strip of a metallic conductor such as constantan, an
+    <xref articleid="5832">
+     alloy
+    </xref>
+    of
+    <xref articleid="55747">
+     nickel
+    </xref>
+    and
+    <xref articleid="26194">
+     copper
+    </xref>
+    . A strain changes the resistance because the length, area, and resistivity of the conductor change. In constantan, the fractional change in resistance δ
+    <e type="italic">
+     R
+    </e>
+    /
+    <e type="italic">
+     R
+    </e>
+    is directly proportional to the strain with a proportionality constant of approximately 2.
+   </p>
+   <p>
+    A common form of Ohm’s law is
+    <formula>
+     <inlinemedia id="i15943" mediaid="15943" url="/43/15943-004-8A90032B.jpg"/>
+    </formula>
+    where
+    <e type="italic">
+     V
+    </e>
+    is the potential difference in volts between the two ends of an element with an electric resistance of
+    <e type="italic">
+     R
+    </e>
+    ohms and where
+    <e type="italic">
+     i
+    </e>
+    is the current through that element.
+   </p>
+   <p>
+    lists the resistivities of certain materials at room temperature. These values depend to some extent on temperature; therefore, in applications where the temperature is very different from room temperature, the proper values of resistivities must be used to calculate the resistance. As an example, equation (
+    <inlinemediaref inlinemediaid="i15944">
+     20
+    </inlinemediaref>
+    ) shows that a copper wire 59 metres long and with a cross-sectional area of one square millimetre has an electric resistance of one ohm at room temperature.
+   </p>
+  </h2>
+  <h2 id="h71564">
+   <title>
+    Conductors, insulators, and semiconductors
+   </title>
+   <p>
+    Materials are classified as
+    <xref articleid="25132">
+     conductors
+    </xref>
+    ,
+    <xref articleid="42511">
+     insulators
+    </xref>
+    , or
+    <xref articleid="66711">
+     semiconductors
+    </xref>
+    according to their electric conductivity. The classifications can be understood in atomic terms.
+    <xref articleid="32316">
+     Electrons
+    </xref>
+    in an
+    <xref articleid="110411">
+     atom
+    </xref>
+    can have only certain well-defined energies, and, depending on their energies, the electrons are said to occupy particular energy levels. In a typical atom with many electrons, the lower energy levels are filled, each with the number of electrons allowed by a
+    <xref articleid="110312">
+     quantum mechanical
+    </xref>
+    rule known as the
+    <xref articleid="58783">
+     Pauli exclusion principle
+    </xref>
+    . Depending on the element, the highest energy level to have electrons may or may not be completely full. If two atoms of some element are brought close enough together so that they interact, the two-atom system has two closely spaced levels for each level of the single atom. If 10 atoms interact, the 10-atom system will have a cluster of 10 levels corresponding to each single level of an individual atom. In a
+    <xref articleid="68592">
+     solid
+    </xref>
+    , the number of atoms and hence the number of levels is extremely large; most of the higher energy levels overlap in a continuous fashion except for certain energies in which there are no levels at all. Energy regions with levels are called energy bands, and regions that have no levels are referred to as
+    <xref articleid="627807">
+     band gaps
+    </xref>
+    .
+   </p>
+   <p>
+    The highest energy band occupied by electrons is the valence band. In a conductor, the valence band is partially filled, and since there are numerous empty levels, the electrons are free to move under the influence of an
+    <xref articleid="32278">
+     electric field
+    </xref>
+    ; thus, in a metal the valence band is also the conduction band. In an insulator, electrons completely fill the valence band; and the gap between it and the next band, which is the conduction band, is large. The electrons cannot move under the influence of an electric field unless they are given enough energy to cross the large energy gap to the conduction band. In a semiconductor, the gap to the conduction band is smaller than in an insulator. At room temperature, the valence band is almost completely filled. A few electrons are missing from the valence band because they have acquired enough thermal energy to cross the band gap to the conduction band; as a result, they can move under the influence of an external electric field. The “holes” left behind in the valence band are mobile charge carriers but behave like positive charge carriers.
+   </p>
+   <p>
+    For many materials, including metals, resistance to the flow of charge tends to increase with
+    <xref articleid="71632">
+     temperature
+    </xref>
+    . For example, an increase of 5° C (9° F) increases the resistivity of
+    <xref articleid="26194">
+     copper
+    </xref>
+    by 2 percent. In contrast, the resistivity of insulators and especially of semiconductors such as
+    <xref articleid="67764">
+     silicon
+    </xref>
+    and
+    <xref articleid="36582">
+     germanium
+    </xref>
+    decreases rapidly with temperature; the increased thermal energy causes some of the electrons to populate levels in the conduction band where, influenced by an external electric field, they are free to move. The energy difference between the valence levels and the conduction band has a strong influence on the conductivity of these materials, with a smaller gap resulting in higher conduction at lower temperatures.
+   </p>
+   <p>
+    The values of electric resistivities listed in show an extremely large variation in the capability of different materials to conduct electricity. The principal reason for the large variation is the wide range in the availability and mobility of charge carriers within the materials. The copper wire in
+    <assemblyref assemblyid="a1331">
+     Figure 12
+    </assemblyref>
+    , for example, has many extremely mobile carriers; each copper atom has approximately one free electron, which is highly mobile because of its small mass. An
+    <xref articleid="32307">
+     electrolyte
+    </xref>
+    , such as a saltwater
+    <xref articleid="68634">
+     solution
+    </xref>
+    , is not as good a conductor as copper. The
+    <xref articleid="68494">
+     sodium
+    </xref>
+    and
+    <xref articleid="82243">
+     chlorine
+    </xref>
+    <xref articleid="42688">
+     ions
+    </xref>
+    in the solution provide the charge carriers. The large mass of each sodium and chlorine ion increases as other attracted ions cluster around them. As a result, the sodium and chlorine ions are far more difficult to move than the free electrons in copper. Pure
+    <xref articleid="76210">
+     water
+    </xref>
+    also is a conductor, although it is a poor one because only a very small fraction of the water
+    <xref articleid="53247">
+     molecules
+    </xref>
+    are dissociated into ions. The
+    <xref articleid="57841">
+     oxygen
+    </xref>
+    ,
+    <xref articleid="55947">
+     nitrogen
+    </xref>
+    , and
+    <xref articleid="9382">
+     argon
+    </xref>
+    <xref articleid="110302">
+     gases
+    </xref>
+    that make up the
+    <xref articleid="126202">
+     atmosphere
+    </xref>
+    are somewhat conductive because a few charge carriers form when the gases are ionized by
+    <xref articleid="109464">
+     radiation
+    </xref>
+    from
+    <xref articleid="110413">
+     radioactive
+    </xref>
+    <xref articleid="110602">
+     elements
+    </xref>
+    on
+    <xref articleid="110147">
+     Earth
+    </xref>
+    as well as from extraterrestrial
+    <xref articleid="26471">
+     cosmic rays
+    </xref>
+    (i.e., high-speed atomic
+    <xref articleid="56462">
+     nuclei
+    </xref>
+    and electrons).
+    <xref articleid="32340">
+     Electrophoresis
+    </xref>
+    is an interesting application based on the mobility of particles suspended in an electrolytic solution. Different particles (
+    <xref articleid="110575">
+     proteins
+    </xref>
+    , for example) move in the same electric field at different speeds; the difference in speed can be used to separate the contents of the suspension.
+   </p>
+   <p>
+    A
+    <xref articleid="32273">
+     current
+    </xref>
+    flowing through a wire heats it. This familiar phenomenon occurs in the heating coils of an electric range or in the hot
+    <xref articleid="73778">
+     tungsten
+    </xref>
+    filament of an electric light bulb. This ohmic heating is the basis for the fuses used to protect electric circuits and prevent fires; if the current exceeds a certain value, a fuse, which is made of an
+    <xref articleid="5832">
+     alloy
+    </xref>
+    with a low
+    <xref articleid="51921">
+     melting point
+    </xref>
+    , melts and interrupts the flow of current. The power
+    <e type="italic">
+     P
+    </e>
+    dissipated in a resistance
+    <e type="italic">
+     R
+    </e>
+    through which current
+    <e type="italic">
+     i
+    </e>
+    flows is given by
+    <formula>
+     <inlinemedia id="i15942" mediaid="15942" url="/42/15942-004-5C15BAD1.jpg"/>
+    </formula>
+    where
+    <e type="italic">
+     P
+    </e>
+    is in
+    <xref articleid="76295">
+     watts
+    </xref>
+    (one watt equals one
+    <xref articleid="44023">
+     joule
+    </xref>
+    per second),
+    <e type="italic">
+     i
+    </e>
+    is in amperes, and
+    <e type="italic">
+     R
+    </e>
+    is in ohms. According to Ohm’s law, the potential difference
+    <e type="italic">
+     V
+    </e>
+    between the two ends of the
+    <xref articleid="63269">
+     resistor
+    </xref>
+    is given by
+    <e type="italic">
+     V
+    </e>
+    =
+    <e type="italic">
+     i
+    </e>
+    <e type="italic">
+     R
+    </e>
+    , and so the power
+    <e type="italic">
+     P
+    </e>
+    can be expressed equivalently as
+    <formula>
+     <inlinemedia id="i15941" mediaid="15941" url="/41/15941-004-A317EE4A.jpg"/>
+    </formula>
+   </p>
+   <p>
+    In certain materials, however, the power dissipation that manifests itself as heat suddenly disappears if the conductor is cooled to a very low temperature. The disappearance of all resistance is a phenomenon known as
+    <xref articleid="70388">
+     superconductivity
+    </xref>
+    . As mentioned earlier, electrons acquire some average drift velocity
+    <e type="italic">
+     v
+    </e>
+    under the influence of an electric field in a wire. Normally the electrons, subjected to a force because of an electric field, accelerate and progressively acquire greater speed. Their velocity is, however, limited in a wire because they lose some of their acquired energy to the wire in collisions with other electrons and in collisions with atoms in the wire. The lost energy is either transferred to other electrons, which later radiate, or the wire becomes excited with tiny mechanical vibrations referred to as
+    <xref articleid="59769">
+     phonons
+    </xref>
+    . Both processes heat the material. The term phonon emphasizes the relationship of these vibrations to another mechanical vibration—namely,
+    <xref articleid="109557">
+     sound
+    </xref>
+    . In a superconductor, a complex quantum mechanical effect prevents these small losses of energy to the medium. The effect involves interactions between electrons and also those between electrons and the rest of the material. It can be visualized by considering the coupling of the electrons in pairs with opposite momenta; the motion of the paired electrons is such that no energy is given up to the medium in inelastic collisions or phonon excitations. One can imagine that an electron about to “collide” with and lose energy to the medium could end up instead colliding with its partner so that they exchange momentum without imparting any to the medium.
+   </p>
+   <p>
+    A superconducting material widely used in the construction of
+    <xref articleid="32309">
+     electromagnets
+    </xref>
+    is an alloy of
+    <xref articleid="55896">
+     niobium
+    </xref>
+    and
+    <xref articleid="72643">
+     titanium
+    </xref>
+    . This material must be cooled to a few degrees above
+    <xref articleid="3400">
+     absolute zero
+    </xref>
+    temperature, −263.66° C (or 9.5 K), in order to exhibit the superconducting property. Such cooling requires the use of liquefied
+    <xref articleid="1713">
+     helium
+    </xref>
+    , which is rather costly. During the late 1980s, materials that exhibit superconducting properties at much higher temperatures were discovered. These temperatures are higher than the −196° C of liquid
+    <xref articleid="55947">
+     nitrogen
+    </xref>
+    , making it possible to use the latter instead of liquid helium. Since liquid nitrogen is plentiful and cheap, such materials may provide great benefits in a wide variety of applications, ranging from
+    <xref articleid="32285">
+     electric power transmission
+    </xref>
+    to high-speed
+    <xref articleid="117728">
+     computing
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h71565">
+   <title>
+    Electromotive force
+   </title>
+   <p>
+    <assembly id="a1332" url="/assembly/view/1332">
+     <title>
+      Van de Graaff accelerator
+     </title>
+     <media mediaid="237" type="image" url="/37/237-004-81986438.jpg"/>
+     <caption>
+      Figure 13: Van de Graaff accelerator.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    A 12-
+    <xref articleid="75698">
+     volt
+    </xref>
+    automobile
+    <xref articleid="106044">
+     battery
+    </xref>
+    can deliver current to a circuit such as that of a car radio for a considerable length of time, during which the potential difference between the terminals of the battery remains close to 12 volts. The battery must have a means of continuously replenishing the excess positive and negative charges that are located on the respective terminals and that are responsible for the 12-volt potential difference between the terminals. The charges must be transported from one terminal to the other in a direction opposite to the electric force on the charges between the terminals. Any device that accomplishes this transport of charge constitutes a source of electromotive force. A car battery, for example, uses chemical reactions to generate
+    <xref articleid="32313">
+     electromotive force
+    </xref>
+    . The Van de Graaff generator shown in
+    <assemblyref assemblyid="a1332">
+     Figure 13
+    </assemblyref>
+    is a mechanical device that produces an electromotive force. Invented by the American physicist
+    <xref articleid="74762">
+     Robert J. Van de Graaff
+    </xref>
+    in the 1930s, this type of particle accelerator has been widely used to study
+    <xref articleid="108593">
+     subatomic particles
+    </xref>
+    . Because it is conceptually simpler than a chemical source of electromotive force, the Van de Graaff generator will be discussed first.
+   </p>
+   <p>
+    An insulating conveyor belt carries positive charge from the base of the Van de Graaff machine to the inside of a large conducting dome. The charge is removed from the belt by the proximity of sharp metal
+    <xref articleid="32299">
+     electrodes
+    </xref>
+    called charge remover points. The charge then moves rapidly to the outside of the conducting dome. The positively charged dome creates an electric field, which points away from the dome and provides a repelling action on additional positive charges transported on the belt toward the dome. Thus, work is done to keep the conveyor belt turning. If a current is allowed to flow from the dome to ground and if an equal current is provided by the transport of charge on the insulating belt, equilibrium is established and the potential of the dome remains at a constant positive value. In this example, the current from the dome to ground consists of a stream of positive ions inside the accelerating tube, moving in the direction of the electric field. The motion of the charge on the belt is in a direction opposite to the force that the electric field of the dome exerts on the charge. This motion of charge in a direction opposite the electric field is a feature common to all sources of electromotive force.
+   </p>
+   <p>
+    In the case of a chemically generated electromotive force,
+    <xref articleid="110109">
+     chemical reactions
+    </xref>
+    release energy. If these reactions take place with chemicals in close proximity to each other (e.g., if they mix), the energy released heats the mixture. To produce a voltaic cell, these reactions must occur in separate locations. A
+    <xref articleid="26194">
+     copper
+    </xref>
+    wire and a
+    <xref articleid="78379">
+     zinc
+    </xref>
+    wire poked into a
+    <xref articleid="47727">
+     lemon
+    </xref>
+    make up a simple voltaic cell. The potential difference between the copper and the zinc wires can be measured easily and is found to be 1.1 volts; the copper wire acts as the positive terminal. Such a “lemon battery” is a rather poor voltaic cell capable of supplying only small amounts of electric power. Another kind of 1.1-volt battery constructed with essentially the same materials can provide much more electricity. In this case, a copper wire is placed in a solution of copper sulfate and a zinc wire in a solution of zinc sulfate; the two solutions are connected electrically by a potassium chloride salt bridge. (A salt bridge is a conductor with ions as charge carriers.) In both kinds of batteries, the energy comes from the difference in the degree of binding between the electrons in copper and those in zinc. Energy is gained when copper ions from the copper sulfate solution are deposited on the copper electrode as neutral copper ions, thus removing free electrons from the copper wire. At the same time, zinc atoms from the zinc wire go into solution as positively charged zinc ions, leaving the zinc wire with excess free electrons. The result is a positively charged copper wire and a negatively charged zinc wire. The two reactions are separated physically, with the salt bridge completing the internal circuit.
+   </p>
+   <p>
+    <assembly id="a1333" url="/assembly/view/1333">
+     <title>
+      12-volt lead-acid battery
+     </title>
+     <media mediaid="238" type="image" url="/38/238-004-478A0E76.jpg"/>
+     <caption>
+      Figure 14: Voltaic cells and electrodes of a 12-volt lead-acid battery.
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a1333">
+     Figure 14
+    </assemblyref>
+    illustrates a 12-volt lead-acid battery, using standard symbols for depicting batteries in a circuit. The battery consists of six voltaic cells, each with an electromotive force of approximately two volts; the cells are connected in series, so that the six individual voltages add up to about 12 volts (
+    <assemblyref assemblyid="a1333">
+     Figure 14A
+    </assemblyref>
+    ). As shown in
+    <assemblyref assemblyid="a1333">
+     Figure 14B
+    </assemblyref>
+    , each two-volt cell consists of a number of positive and negative electrodes connected electrically in parallel. The parallel connection is made to provide a large surface area of electrodes, on which chemical reactions can take place. The higher rate at which the materials of the electrodes are able to undergo chemical transformations allows the battery to deliver a larger current.
+   </p>
+   <p>
+    In the lead-acid battery, each voltaic cell consists of a negative electrode of pure, spongy
+    <xref articleid="47492">
+     lead
+    </xref>
+    (Pb) and a positive electrode of lead oxide (PbO
+    <sub>
+     2
+    </sub>
+    ). Both the lead and lead oxide are in a solution of sulfuric acid (H
+    <sub>
+     2
+    </sub>
+    SO
+    <sub>
+     4
+    </sub>
+    ) and water (H
+    <sub>
+     2
+    </sub>
+    O). At the positive electrode, the chemical reaction is PbO
+    <sub>
+     2
+    </sub>
+    + SO
+    <fraction>
+     <num>
+      −
+     </num>
+     <den>
+      4
+     </den>
+    </fraction>
+    <sup>
+     −
+    </sup>
+    + 4H
+    <sup>
+     +
+    </sup>
+    + 2e
+    <sup>
+     −
+    </sup>
+    → PbSO
+    <sub>
+     4
+    </sub>
+    + 2H
+    <sub>
+     2
+    </sub>
+    O + (1.68 V). At the negative terminal, the reaction is Pb + SO
+    <fraction>
+     <num>
+      −
+     </num>
+     <den>
+      4
+     </den>
+    </fraction>
+    <sup>
+     −
+    </sup>
+    → PbSO
+    <sub>
+     4
+    </sub>
+    + 2e
+    <sup>
+     −
+    </sup>
+    + (0.36 V). The cell potential is 1.68 + 0.36 = 2.04 volts. The 1.68 and 0.36 volts in the above equations are, respectively, the reduction and oxidation potentials; they are related to the binding of the electrons in the chemicals. When the battery is recharged, either by a car generator or by an external power source, the two chemical reactions are reversed.
+   </p>
+  </h2>
+  <h2 id="h71566">
+   <title>
+    Direct-current circuits
+   </title>
+   <p>
+    <assembly id="a1334" url="/assembly/view/1334">
+     <title>
+      direct-current circuit
+     </title>
+     <media mediaid="239" type="image" url="/39/239-004-F94342C6.jpg"/>
+     <caption>
+      Figure 15: Direct-current circuit (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    The simplest
+    <xref articleid="30595">
+     direct-current
+    </xref>
+    (DC) circuit consists of a resistor connected across a source of electromotive force. The symbol for a resistor is shown in
+    <assemblyref assemblyid="a1334">
+     Figure 15
+    </assemblyref>
+    ; here the value of
+    <e type="italic">
+     R
+    </e>
+    , 60Ω, is given by the numerical value adjacent to the symbol. The symbol for a source of electromotive force,
+    <e type="italic">
+     E
+    </e>
+    , is shown with the associated value of the voltage. Convention gives the terminal with the long line a higher (i.e., more positive) potential than the terminal with the short line. Straight lines connecting various elements in a circuit are assumed to have negligible resistance, so that there is no change in potential across these connections. The circuit shows a 12-volt electromotive force connected to a 60Ω resistor. The letters
+    <e type="italic">
+     a
+    </e>
+    ,
+    <e type="italic">
+     b
+    </e>
+    ,
+    <e type="italic">
+     c
+    </e>
+    , and
+    <e type="italic">
+     d
+    </e>
+    on the diagram are reference points.
+   </p>
+   <p>
+    The function of the source of electromotive force is to maintain point
+    <e type="italic">
+     a
+    </e>
+    at a potential 12 volts more positive than point
+    <e type="italic">
+     d
+    </e>
+    . Thus, the potential difference
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      d
+     </e>
+    </sub>
+    is 12 volts. The potential difference across the resistance is
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      c
+     </e>
+    </sub>
+    . From
+    <xref articleid="56866">
+     Ohm’s law
+    </xref>
+    , the current
+    <e type="italic">
+     i
+    </e>
+    flowing through the resistor is
+    <formula>
+     <inlinemedia id="i15940" mediaid="15940" url="/40/15940-004-8034D076.jpg"/>
+    </formula>
+   </p>
+   <p>
+    Since points
+    <e type="italic">
+     a
+    </e>
+    and
+    <e type="italic">
+     b
+    </e>
+    are connected by a conductor of negligible resistance, they are at the same potential. For the same reason,
+    <e type="italic">
+     c
+    </e>
+    and
+    <e type="italic">
+     d
+    </e>
+    are at the same potential. Therefore,
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      c
+     </e>
+    </sub>
+    =
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      d
+     </e>
+    </sub>
+    = 12 volts. The current in the circuit is given by equation (
+    <inlinemediaref inlinemediaid="i15940">
+     24
+    </inlinemediaref>
+    ). Thus,
+    <e type="italic">
+     i
+    </e>
+    = 12/60 = 0.2
+    <xref articleid="7233">
+     ampere
+    </xref>
+    . The power dissipated in the resistor as
+    <xref articleid="39732">
+     heat
+    </xref>
+    is easily calculated using equation (
+    <inlinemediaref inlinemediaid="i15942">
+     22
+    </inlinemediaref>
+    ):
+    <formula>
+     <inlinemedia id="i15902" mediaid="15902" url="/02/15902-004-9C79DA93.jpg"/>
+    </formula>
+   </p>
+   <p>
+    Where does the energy that is dissipated as heat in the resistor come from? It is provided by a source of electromotive force (e.g., a lead-acid battery). Within such a source, for each amount of charge
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     Q
+    </e>
+    moved from the lower potential at
+    <e type="italic">
+     d
+    </e>
+    to the higher potential at
+    <e type="italic">
+     a
+    </e>
+    , an amount of work is done equal to
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     W
+    </e>
+    =
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     Q
+    </e>
+    (
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      d
+     </e>
+    </sub>
+    ). If this work is done in a time interval
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     t
+    </e>
+    , the power delivered by the battery is obtained by dividing
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     W
+    </e>
+    by
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     t
+    </e>
+    . Thus, the power delivered by the battery (in watts) is
+    <formula>
+     <inlinemedia id="i15901" mediaid="15901" url="/01/15901-004-27111A30.jpg"/>
+    </formula>
+   </p>
+   <p>
+    Using the values
+    <e type="italic">
+     i
+    </e>
+    = 0.2 ampere and
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      d
+     </e>
+    </sub>
+    = 12 volts makes
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     W
+    </e>
+    /
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     t
+    </e>
+    = 2.4 watts. As expected, the power delivered by the battery is equal to the power dissipated as heat in the resistor.
+   </p>
+  </h2>
+  <h2 id="h71567">
+   <title>
+    Resistors in series and parallel
+   </title>
+   <p>
+    <assembly id="a1335" url="/assembly/view/1335">
+     <title>
+      resistors
+     </title>
+     <media mediaid="240" type="image" url="/40/240-004-9DAE39EC.jpg"/>
+     <caption>
+      Figure 16:
+      <e type="italic">
+       Resistors.
+      </e>
+      (A) In series. (B) In parallel.
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    If two resistors are connected in
+    <assemblyref assemblyid="a1335">
+     Figure 16A
+    </assemblyref>
+    so that all of the electric charge must traverse both resistors in succession, the equivalent resistance to the flow of current is the sum of the resistances.
+   </p>
+   <p>
+    Using
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    for the individual resistances, the resistance between
+    <e type="italic">
+     a
+    </e>
+    and
+    <e type="italic">
+     b
+    </e>
+    is given by
+    <formula>
+     <inlinemedia id="i15939" mediaid="15939" url="/39/15939-004-28F74F2D.jpg"/>
+    </formula>
+   </p>
+   <p>
+    This result can be appreciated by thinking of the two resistors as two pieces of the same type of thin wire. Connecting the wires in series as shown simply increases their length to equal the sum of their two lengths. As equation (
+    <inlinemediaref inlinemediaid="i15944">
+     20
+    </inlinemediaref>
+    ) indicates, the resistance is the same as that given by equation (
+    <inlinemediaref inlinemediaid="i15939">
+     25a
+    </inlinemediaref>
+    ). The resistances
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    can be replaced in a circuit by the equivalent resistance
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    . If
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    = 5Ω and
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    = 2Ω, then
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    = 7Ω. If two resistors are connected as shown in
+    <assemblyref assemblyid="a1335">
+     Figure 16B
+    </assemblyref>
+    , the electric charges have alternate paths for flowing from
+    <e type="italic">
+     c
+    </e>
+    to
+    <e type="italic">
+     d
+    </e>
+    . The resistance to the flow of charge from
+    <e type="italic">
+     c
+    </e>
+    to
+    <e type="italic">
+     d
+    </e>
+    is clearly less than if either
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    or
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    were missing. Anyone who has ever had to find a way out of a crowded theatre can appreciate how much easier it is to leave a building with several exits than one with a single exit. The value of the equivalent resistance for two resistors in parallel is given by the equation
+    <formula>
+     <inlinemedia id="i15938" mediaid="15938" url="/38/15938-004-0328C1D1.jpg"/>
+    </formula>
+   </p>
+   <p>
+    This relationship follows directly from the definition of resistance in equation (
+    <inlinemediaref inlinemediaid="i15944">
+     20
+    </inlinemediaref>
+    ), where 1/
+    <e type="italic">
+     R
+    </e>
+    is proportional to the area. If the resistors
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    are imagined to be wires of the same length and material, they would be wires with different cross-sectional areas. Connecting them in parallel is equivalent to placing them side by side, increasing the total area available for the flow of charge. Clearly, the equivalent resistance is smaller than the resistance of either resistor individually. As a numerical example, for
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    = 5Ω and
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    = 2Ω, 1/
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     <e type="italic">
+      c
+     </e>
+     <e type="italic">
+      d
+     </e>
+    </sub>
+    = 1/5 + 1/2 = 0.7. Therefore,
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     <e type="italic">
+      c
+     </e>
+     <e type="italic">
+      d
+     </e>
+    </sub>
+    = 1/0.7 = 1.43Ω. As expected, the equivalent resistance of 1.43 ohms is smaller than either 2 ohms or 5 ohms. It should be noted that both equations (
+    <inlinemediaref inlinemediaid="i15939">
+     25a
+    </inlinemediaref>
+    ) and (
+    <inlinemediaref inlinemediaid="i15938">
+     25b
+    </inlinemediaref>
+    ) are given in a form in which they can be extended easily to any number of resistances.
+   </p>
+  </h2>
+  <h2 id="h71568">
+   <title>
+    Kirchhoff’s laws of electric circuits
+   </title>
+   <p>
+    <assembly id="a1336" url="/assembly/view/1336">
+     <title>
+      electric currents at a junction
+     </title>
+     <media mediaid="241" type="image" url="/41/241-004-C72FE323.jpg"/>
+     <caption>
+      Figure 17: Electric currents at a junction (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    Two simple relationships can be used to determine the value of
+    <xref articleid="32273">
+     currents
+    </xref>
+    in
+    <xref articleid="32272">
+     circuits
+    </xref>
+    . They are useful even in rather complex situations such as circuits with multiple loops. The first relationship deals with currents at a junction of
+    <xref articleid="25132">
+     conductors
+    </xref>
+    .
+    <assemblyref assemblyid="a1336">
+     Figure 17
+    </assemblyref>
+    shows three such junctions, with the currents assumed to flow in the directions indicated.
+   </p>
+   <p>
+    Simply stated, the sum of currents entering a junction equals the sum of currents leaving that junction. This statement is commonly called
+    <xref articleid="45598">
+     Kirchhoff’s first law
+    </xref>
+    (after the German physicist
+    <xref articleid="45597">
+     Gustav Robert Kirchhoff
+    </xref>
+    , who formulated it). For
+    <assemblyref assemblyid="a1336">
+     Figure 17A
+    </assemblyref>
+    , the sum is
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     1
+    </sub>
+    +
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     2
+    </sub>
+    =
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     3
+    </sub>
+    . For
+    <assemblyref assemblyid="a1336">
+     Figure 17B
+    </assemblyref>
+    ,
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     1
+    </sub>
+    =
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     2
+    </sub>
+    +
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     3
+    </sub>
+    +
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     4
+    </sub>
+    . For
+    <assemblyref assemblyid="a1336">
+     Figure 17C
+    </assemblyref>
+    ,
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     1
+    </sub>
+    +
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     2
+    </sub>
+    +
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     3
+    </sub>
+    = 0. If this last equation seems puzzling because all the currents appear to flow in and none flows out, it is because of the choice of directions for the individual currents. In solving a problem, the direction chosen for the currents is arbitrary. Once the problem has been solved, some currents have a positive value, and the direction arbitrarily chosen is the one of the actual current. In the solution some currents may have a negative value, in which case the actual current flows in a direction opposite that of the arbitrary initial choice.
+   </p>
+   <p>
+    <assembly id="a1337" url="/assembly/view/1337">
+     <title>
+      Kirchhoff’s loop equation
+     </title>
+     <media mediaid="242" type="image" url="/42/242-004-BFCD975A.jpg"/>
+     <caption>
+      Figure 18: Circuit illustrating Kirchhoff’s loop equation (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    Kirchhoff’s second law is as follows: the sum of electromotive forces in a loop equals the sum of potential drops in the loop. When electromotive forces in a circuit are symbolized as circuit components as in
+    <assemblyref assemblyid="a1334">
+     Figure 15
+    </assemblyref>
+    , this law can be stated quite simply: the sum of the potential differences across all the components in a closed loop equals zero. To illustrate and clarify this relation, one can consider a single circuit with two sources of electromotive forces
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     2
+    </sub>
+    , and two resistances
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    , as shown in
+    <assemblyref assemblyid="a1337">
+     Figure 18
+    </assemblyref>
+    . The direction chosen for the current
+    <e type="italic">
+     i
+    </e>
+    also is indicated. The letters
+    <e type="italic">
+     a
+    </e>
+    ,
+    <e type="italic">
+     b
+    </e>
+    ,
+    <e type="italic">
+     c
+    </e>
+    , and
+    <e type="italic">
+     d
+    </e>
+    are used to indicate certain locations around the circuit. Applying Kirchhoff’s second law to the circuit,
+    <formula>
+     <inlinemedia id="i15937" mediaid="15937" url="/37/15937-004-4B8F771F.jpg"/>
+    </formula>
+   </p>
+   <p>
+    Referring to the circuit in
+    <assemblyref assemblyid="a1337">
+     Figure 18
+    </assemblyref>
+    , the potential differences maintained by the electromotive forces indicated are
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    =
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     1
+    </sub>
+    , and
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      c
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      d
+     </e>
+    </sub>
+    = −
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     2
+    </sub>
+    . From Ohm’s law,
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      c
+     </e>
+    </sub>
+    =
+    <e type="italic">
+     i
+    </e>
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    , and
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      d
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    =
+    <e type="italic">
+     i
+    </e>
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    . Using these four relationships in equation (
+    <inlinemediaref inlinemediaid="i15937">
+     26
+    </inlinemediaref>
+    ), the so-called loop equation becomes
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     1
+    </sub>
+    −
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     2
+    </sub>
+    −
+    <e type="italic">
+     i
+    </e>
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    −
+    <e type="italic">
+     i
+    </e>
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    = 0.
+   </p>
+   <p>
+    Given the values of the resistances
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     R
+    </e>
+    <sub>
+     2
+    </sub>
+    in ohms and of the electromotive forces
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     2
+    </sub>
+    in volts, the value of the current
+    <e type="italic">
+     i
+    </e>
+    in the circuit is obtained. If
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     2
+    </sub>
+    in the circuit had a greater value than
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     1
+    </sub>
+    , the solution for the current
+    <e type="italic">
+     i
+    </e>
+    would be a negative value for
+    <e type="italic">
+     i
+    </e>
+    . This negative sign indicates that the current in the circuit would flow in a direction opposite the one indicated in
+    <assemblyref assemblyid="a1337">
+     Figure 18
+    </assemblyref>
+    .
+   </p>
+   <p>
+    Kirchhoff’s laws can be applied to circuits with several connected loops. The same rules apply, though the algebra required becomes rather tedious as the circuits increase in complexity.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h71569">
+  <title>
+   Alternating electric currents
+  </title>
+  <h2 id="h71570">
+   <title>
+    Basic phenomena and principles
+   </title>
+   <p>
+    Many applications of electricity and
+    <xref articleid="106020">
+     magnetism
+    </xref>
+    involve voltages that vary in time.
+    <xref articleid="32285">
+     Electric power
+    </xref>
+    transmitted over large distances from generating plants to users involves voltages that vary sinusoidally in time, at a frequency of 60 hertz (Hz) in the United States and Canada and 50 hertz in Europe. (One hertz equals one cycle per second.) This means that in the United States, for example, the
+    <xref articleid="32273">
+     current
+    </xref>
+    alternates its direction in the electric conducting wires so that each second it flows 60 times in one direction and 60 times in the opposite direction.
+    <xref articleid="5927">
+     Alternating currents
+    </xref>
+    (AC) are also used in
+    <xref articleid="106101">
+     radio
+    </xref>
+    and
+    <xref articleid="106102">
+     television
+    </xref>
+    transmissions. In an
+    <xref articleid="7260">
+     AM (amplitude-modulation)
+    </xref>
+    radio broadcast,
+    <xref articleid="106022">
+     electromagnetic waves
+    </xref>
+    with a frequency of around one million hertz are generated by currents of the same frequency flowing back and forth in the
+    <xref articleid="7759">
+     antenna
+    </xref>
+    of the station. The information transported by these waves is encoded in the rapid variation of the wave amplitude. When voices and music are broadcast, these variations correspond to the mechanical oscillations of the sound and have frequencies from 50 to 5,000 hertz. In an
+    <xref articleid="35367">
+     FM (frequency-modulation)
+    </xref>
+    system, which is used by both television and FM radio stations, audio information is contained in the rapid fluctuation of the frequency in a narrow range around the frequency of the carrier wave.
+   </p>
+   <p>
+    Circuits that can generate such oscillating currents are called oscillators; they include, in addition to
+    <xref articleid="73201">
+     transistors
+    </xref>
+    , such basic electrical components as
+    <xref articleid="63269">
+     resistors
+    </xref>
+    ,
+    <xref articleid="471073">
+     capacitors
+    </xref>
+    , and inductors. As was mentioned above, resistors dissipate heat while carrying a current. Capacitors store energy in the form of an
+    <xref articleid="32278">
+     electric field
+    </xref>
+    in the volume between oppositely charged
+    <xref articleid="32299">
+     electrodes
+    </xref>
+    . Inductors are essentially coils of conducting wire; they store magnetic energy in the form of a
+    <xref articleid="50022">
+     magnetic field
+    </xref>
+    generated by the current in the coil. All three components provide some impedance to the flow of alternating currents. In the case of capacitors and inductors, the impedance depends on the frequency of the current. With resistors, impedance is independent of frequency and is simply the resistance. This is easily seen from
+    <xref articleid="56866">
+     Ohm’s law
+    </xref>
+    , equation (
+    <inlinemediaref inlinemediaid="i15943">
+     21
+    </inlinemediaref>
+    ), when it is written as
+    <e type="italic">
+     i
+    </e>
+    =
+    <e type="italic">
+     V
+    </e>
+    /
+    <e type="italic">
+     R
+    </e>
+    . For a given voltage difference
+    <e type="italic">
+     V
+    </e>
+    between the ends of a resistor, the current varies inversely with the value of
+    <e type="italic">
+     R
+    </e>
+    . The greater the value
+    <e type="italic">
+     R
+    </e>
+    , the greater is the impedance to the flow of electric current. Before proceeding to circuits with resistors, capacitors, inductors, and sinusoidally varying
+    <xref articleid="32313">
+     electromotive forces
+    </xref>
+    , the behaviour of a
+    <xref articleid="32272">
+     circuit
+    </xref>
+    with a resistor and a capacitor will be discussed to clarify transient behaviour and the impedance properties of the capacitor.
+   </p>
+  </h2>
+  <h2 id="h71571">
+   <title>
+    Transient response
+   </title>
+   <p>
+    <assembly id="a1338" url="/assembly/view/1338">
+     <title>
+      RC circuit
+     </title>
+     <media mediaid="243" type="image" url="/43/243-004-6301189F.jpg"/>
+     <caption>
+      Figure 19: This type of electric circuit consists of both a resistor and a capacitor connected as shown (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    <assembly id="a1339" url="/assembly/view/1339">
+     <title>
+      voltage as a function of time
+     </title>
+     <media mediaid="244" type="image" url="/44/244-004-FBB48A6A.jpg"/>
+     <caption>
+      Figure 20: Voltage as a function of time (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    Consider a circuit consisting of a capacitor and a resistor that are connected as shown in
+    <assemblyref assemblyid="a1338">
+     Figure 19
+    </assemblyref>
+    . What will be the voltage at point
+    <e type="italic">
+     b
+    </e>
+    if the voltage at
+    <e type="italic">
+     a
+    </e>
+    is increased suddenly from
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    = 0 to
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    = +50 volts? Closing the switch produces such a voltage because it connects the positive terminal of a 50-volt
+    <xref articleid="106044">
+     battery
+    </xref>
+    to point
+    <e type="italic">
+     a
+    </e>
+    while the negative terminal is at ground (point
+    <e type="italic">
+     c
+    </e>
+    ).
+    <assemblyref assemblyid="a1339">
+     Figure 20
+    </assemblyref>
+    (left) graphs this voltage
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    as a function of the time.
+   </p>
+   <p>
+    Initially, the capacitor has no charge and does not affect the flow of charge. The initial current is obtained from Ohm’s law,
+    <e type="italic">
+     V
+    </e>
+    =
+    <e type="italic">
+     i
+    </e>
+    <e type="italic">
+     R
+    </e>
+    , where
+    <e type="italic">
+     V
+    </e>
+    =
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    ,
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    is 50 volts and
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    is zero. Using 2,000
+    <xref articleid="56863">
+     ohms
+    </xref>
+    for the value of the resistance in
+    <assemblyref assemblyid="a1338">
+     Figure 19
+    </assemblyref>
+    , there is an initial current of 25 milliamperes in the circuit. This current begins to charge the capacitor, so that a positive charge accumulates on the plate of the capacitor connected to point
+    <e type="italic">
+     b
+    </e>
+    and a negative charge accumulates on the other plate. As a result, the potential at point
+    <e type="italic">
+     b
+    </e>
+    increases from zero to a positive value. As more charge accumulates on the capacitor, this positive potential continues to increase. As it does so, the value of the potential across the resistor is reduced; consequently, the current decreases with time, approaching the value of zero as the capacitor potential reaches 50 volts. The behaviour of the potential at
+    <e type="italic">
+     b
+    </e>
+    in
+    <assemblyref assemblyid="a1339">
+     Figure 20
+    </assemblyref>
+    (right) is described by the equation
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    =
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    (1 −
+    <e type="italic">
+     e
+    </e>
+    <sup>
+     −
+     <e type="italic">
+      t
+     </e>
+     /
+     <e type="italic">
+      R
+     </e>
+     <e type="italic">
+      C
+     </e>
+    </sup>
+    ) in volts. For
+    <e type="italic">
+     R
+    </e>
+    = 2,000Ω and capacitance
+    <e type="italic">
+     C
+    </e>
+    = 2.5 microfarads,
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    = 50(1 −
+    <e type="italic">
+     e
+    </e>
+    <sup>
+     −
+     <e type="italic">
+      t
+     </e>
+     /0.005
+    </sup>
+    ) in volts. The potential
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    at
+    <e type="italic">
+     b
+    </e>
+    in
+    <assemblyref assemblyid="a1339">
+     Figure 20
+    </assemblyref>
+    (right) increases from zero when the capacitor is uncharged and reaches the ultimate value of
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    when equilibrium is reached.
+   </p>
+   <p>
+    <assembly id="a1340" url="/assembly/view/1340">
+     <title>
+      application of superposition principle
+     </title>
+     <media mediaid="245" type="image" url="/45/245-004-103D93F2.jpg"/>
+     <caption>
+      Figure 21: Application of the superposition principle to a problem concerned with voltages as a function of time (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    How would the potential at point
+    <e type="italic">
+     b
+    </e>
+    vary if the potential at point
+    <e type="italic">
+     a
+    </e>
+    , instead of being maintained at +50 volts, were to remain at +50 volts for only a short time, say, one millisecond, and then return to zero? The superposition principle (see above) is used to solve the problem. The voltage at
+    <e type="italic">
+     a
+    </e>
+    starts at zero, goes to +50 volts at
+    <e type="italic">
+     t
+    </e>
+    = 0, then returns to zero at
+    <e type="italic">
+     t
+    </e>
+    = +0.001 second. This voltage can be viewed as the sum of two voltages,
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     1
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    +
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     2
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    , where
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     1
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    becomes +50 volts at
+    <e type="italic">
+     t
+    </e>
+    = 0 and remains there indefinitely, and
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     2
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    becomes −50 volts at
+    <e type="italic">
+     t
+    </e>
+    = 0.001 second and remains there indefinitely. This superposition is shown graphically on the left side of
+    <assemblyref assemblyid="a1340">
+     Figure 21
+    </assemblyref>
+    . Since the solutions for
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     1
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    and
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     2
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    corresponding to
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     1
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    and
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     2
+     <e type="italic">
+      a
+     </e>
+    </sub>
+    are known from the previous example, their sum
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      b
+     </e>
+    </sub>
+    is the answer to the problem. The individual solutions and their sum are given graphically on the right side of
+    <assemblyref assemblyid="a1340">
+     Figure 21
+    </assemblyref>
+    .
+   </p>
+   <p>
+    The voltage at
+    <e type="italic">
+     b
+    </e>
+    reaches a maximum of only 9
+    <xref articleid="75698">
+     volts
+    </xref>
+    . The superposition illustrated in
+    <assemblyref assemblyid="a1340">
+     Figure 21
+    </assemblyref>
+    also shows that the shorter the duration of the positive “pulse” at
+    <e type="italic">
+     a
+    </e>
+    , the smaller is the value of the voltage generated at
+    <e type="italic">
+     b
+    </e>
+    . Increasing the size of the capacitor also decreases the maximum voltage at
+    <e type="italic">
+     b
+    </e>
+    . This decrease in the potential of a transient explains the “guardian role” that capacitors play in protecting delicate and complex electronic circuits from damage by large transient voltages. These transients, which generally occur at high frequency, produce effects similar to those produced by pulses of short duration. They can damage equipment when they induce circuit components to break down electrically. Transient voltages are often introduced into electronic circuits through power supplies. A concise way to describe the role of the capacitor in the above example is to say that its impedance to an electric signal decreases with increasing frequency. In the example, much of the signal is shunted to ground instead of appearing at point
+    <e type="italic">
+     b
+    </e>
+    .
+   </p>
+  </h2>
+  <h2 id="h71572">
+   <title>
+    Alternating-current circuits
+   </title>
+   <p>
+    <assembly id="a1341" url="/assembly/view/1341">
+     <title>
+      sinusoidal voltage
+     </title>
+     <media mediaid="246" type="image" url="/46/246-004-33FD385D.jpg"/>
+     <caption>
+      Figure 22: A sinusoidal voltage (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    Certain circuits include sources of alternating electromotive forces of the sinusoidal form
+    <e type="italic">
+     V
+    </e>
+    =
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     0
+    </sub>
+    cos(ω
+    <e type="italic">
+     t
+    </e>
+    ) or
+    <e type="italic">
+     V
+    </e>
+    =
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     0
+    </sub>
+    sin(ω
+    <e type="italic">
+     t
+    </e>
+    ). The sine and cosine functions have values that vary between +1 and −1; either of the equations for the voltage represents a potential that varies with respect to time and has values from +
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     0
+    </sub>
+    to −
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     0
+    </sub>
+    . The voltage varies with time at a rate given by the numerical value of ω; ω, which is called the angular frequency, is expressed in radians per second.
+    <assemblyref assemblyid="a1341">
+     Figure 22
+    </assemblyref>
+    shows an example with
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     0
+    </sub>
+    = 170 volts and ω = 377 radians per second, so that
+    <e type="italic">
+     V
+    </e>
+    = 170 cos(377
+    <e type="italic">
+     t
+    </e>
+    ). The time interval required for the pattern to be repeated is called the period
+    <e type="italic">
+     T
+    </e>
+    , given by
+    <e type="italic">
+     T
+    </e>
+    = 2π/ω. In
+    <assemblyref assemblyid="a1341">
+     Figure 22
+    </assemblyref>
+    , the pattern is repeated every 16.7 milliseconds, which is the period. The frequency of the voltage is symbolized by
+    <e type="italic">
+     f
+    </e>
+    and given by
+    <e type="italic">
+     f
+    </e>
+    = 1/
+    <e type="italic">
+     T
+    </e>
+    . In terms of ω,
+    <e type="italic">
+     f
+    </e>
+    = ω/2π, in hertz.
+   </p>
+   <p>
+    The root-mean-square (rms) voltage of a sinusoidal source of electromotive force (
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      rms
+     </e>
+    </sub>
+    ) is used to characterize the source. It is the square root of the time average of the voltage squared. The value of
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     <e type="italic">
+      rms
+     </e>
+    </sub>
+    is
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     0
+    </sub>
+    /
+    <sqroot>
+     2
+    </sqroot>
+    , or, equivalently, 0.707
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     0
+    </sub>
+    . Thus, the 60-hertz, 120-volt alternating current, which is available from most electric outlets in U.S. homes and which is illustrated in
+    <assemblyref assemblyid="a1341">
+     Figure 22
+    </assemblyref>
+    , has
+    <e type="italic">
+     V
+    </e>
+    <sub>
+     0
+    </sub>
+    = 120/0.707 = 170 volts. The potential difference at the outlet varies from +170 volts to −170 volts and back to +170 volts 60 times each second. The rms values of voltage and current are especially useful in calculating average power in AC circuits.
+   </p>
+   <p>
+    A sinusoidal electromotive force can be generated using the principles described in Faraday’s law of electromagnetic induction (
+    <e type="italic">
+     see
+    </e>
+    \
+    <xref articleid="106021" refid="h71591">
+     electromagnetism: Faraday’s law of induction
+    </xref>
+    ). Briefly, an alternating electromotive force can be induced in a loop of conducting wire by rotating the loop of wire in a uniform magnetic field.
+   </p>
+   <p>
+    In AC circuits, it is often necessary to find the currents as a function of time in the various parts of the circuit for a given source of sinusoidal electromotive force. While the problems can become quite complex, the solutions are based on Kirchhoff’s two laws discussed above (
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="106019" refid="h71568">
+     Kirchhoff’s laws of electric circuits
+    </xref>
+    ). The solution for the current in a given loop takes the form
+    <e type="italic">
+     i
+    </e>
+    =
+    <e type="italic">
+     i
+    </e>
+    <sub>
+     0
+    </sub>
+    cos(ω
+    <e type="italic">
+     t
+    </e>
+    − ϕ). The current has the same frequency as the applied voltage but is not necessarily “in phase” with that voltage. When the phase angle ϕ does not equal zero, the maximum of the current does not occur when the driving voltage is at its maximum.
+   </p>
+   <h3 id="h71573">
+    <title>
+     Behaviour of an AC circuit
+    </title>
+    <p>
+     <assembly id="a1342" url="/assembly/view/1342">
+      <title>
+       series RLC circuit
+      </title>
+      <media mediaid="247" type="image" url="/47/247-004-E8BBBE3C.jpg"/>
+      <caption>
+       Figure 23: This type of electric circuit has an inductor, resistor, and capacitor connected in series (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     The way an AC circuit functions can be better understood by examining one that includes a source of sinusoidally varying electromotive force, a resistor, a capacitor, and an inductor, all connected in series. For this single-loop problem, only the second of Kirchhoff’s laws is needed since there is only one current. The circuit is shown in
+     <assemblyref assemblyid="a1342">
+      Figure 23
+     </assemblyref>
+     with the points
+     <e type="italic">
+      a
+     </e>
+     ,
+     <e type="italic">
+      b
+     </e>
+     ,
+     <e type="italic">
+      c
+     </e>
+     , and
+     <e type="italic">
+      d
+     </e>
+     at various positions in the circuit located between the various elements. The letters
+     <e type="italic">
+      R
+     </e>
+     ,
+     <e type="italic">
+      L
+     </e>
+     , and
+     <e type="italic">
+      C
+     </e>
+     represent, respectively, the values of the resistance in ohms, the inductance in
+     <xref articleid="40047">
+      henrys
+     </xref>
+     , and the capacitance in
+     <xref articleid="33715">
+      farads
+     </xref>
+     . The source of the AC electromotive force is located between
+     <e type="italic">
+      a
+     </e>
+     and
+     <e type="italic">
+      b
+     </e>
+     . The wavy symbol is a reminder of the sinusoidal nature of the voltage that is responsible for making the current flow in the loop. For the potential between
+     <e type="italic">
+      b
+     </e>
+     and
+     <e type="italic">
+      a
+     </e>
+     ,
+     <formula>
+      <inlinemedia id="i15936" mediaid="15936" url="/36/15936-004-D7596C36.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Equation (
+     <inlinemediaref inlinemediaid="i15936">
+      27a
+     </inlinemediaref>
+     ) represents a potential difference that has its maximum positive value at
+     <e type="italic">
+      t
+     </e>
+     = 0.
+    </p>
+    <p>
+     The direction chosen for the current
+     <e type="italic">
+      i
+     </e>
+     in the circuit in
+     <assemblyref assemblyid="a1342">
+      Figure 23
+     </assemblyref>
+     represents the direction of that current at some particular time, since AC circuits feature continuous reversals of the direction of the flow of charge. The direction chosen for the current is important, however, because the loop equation must consider all the elements at the same instant in time. The potential difference across the resistor is given by Ohm’s law as
+     <formula>
+      <inlinemedia id="i15935" mediaid="15935" url="/35/15935-004-3DF7174E.jpg"/>
+     </formula>
+    </p>
+    <p>
+     For equation (
+     <inlinemediaref inlinemediaid="i15935">
+      27b
+     </inlinemediaref>
+     ), the direction of the current is important. The potential difference across the capacitor,
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      <e type="italic">
+       c
+      </e>
+     </sub>
+     −
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      <e type="italic">
+       d
+      </e>
+     </sub>
+     , depends on the charge on the capacitor. When the charge on the upper plate of the capacitor in
+     <assemblyref assemblyid="a1342">
+      Figure 23
+     </assemblyref>
+     has a value
+     <e type="italic">
+      Q
+     </e>
+     , the potential difference across the capacitor is
+     <formula>
+      <inlinemedia id="i15934" mediaid="15934" url="/34/15934-004-219E6B97.jpg"/>
+     </formula>
+     which is a variant of equation (
+     <inlinemediaref inlinemediaid="i15952">
+      12
+     </inlinemediaref>
+     ). One must be careful labeling the charge and the direction of the current, since the charge on the other plate is −
+     <e type="italic">
+      Q
+     </e>
+     . For the choices shown in the figure, the current in the circuit is given by the rate of change of the charge
+     <e type="italic">
+      Q
+     </e>
+     —that is,
+     <e type="italic">
+      i
+     </e>
+     =
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      Q
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      t
+     </e>
+     . Finally, the value of the potential difference
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      <e type="italic">
+       d
+      </e>
+     </sub>
+     −
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      <e type="italic">
+       a
+      </e>
+     </sub>
+     across the inductor depends on the rate of change of the current through the inductor,
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      i
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      t
+     </e>
+     . For the direction chosen for
+     <e type="italic">
+      i
+     </e>
+     , the value is
+     <formula>
+      <inlinemedia id="i15933" mediaid="15933" url="/33/15933-004-00177C5D.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The result of combining equations (
+     <inlinemediaref inlinemediaid="i15936">
+      27a
+     </inlinemediaref>
+     ,
+     <inlinemediaref inlinemediaid="i15935">
+      b
+     </inlinemediaref>
+     ,
+     <inlinemediaref inlinemediaid="i15934">
+      c
+     </inlinemediaref>
+     ,
+     <inlinemediaref inlinemediaid="i15933">
+      d
+     </inlinemediaref>
+     ) in accordance with Kirchhoff’s second law for the loop in
+     <assemblyref assemblyid="a1342">
+      Figure 23
+     </assemblyref>
+     is
+     <formula>
+      <inlinemedia id="i15932" mediaid="15932" url="/32/15932-004-006A4C4B.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Both the current
+     <e type="italic">
+      i
+     </e>
+     and the rate of change of the current
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      i
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      t
+     </e>
+     can be eliminated from equation (
+     <inlinemediaref inlinemediaid="i15932">
+      28
+     </inlinemediaref>
+     ), since
+     <e type="italic">
+      i
+     </e>
+     =
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      Q
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      t
+     </e>
+     , and
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      i
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      t
+     </e>
+     =
+     <e type="italic">
+      d
+     </e>
+     <sup>
+      2
+     </sup>
+     <e type="italic">
+      Q
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      t
+     </e>
+     <sup>
+      2
+     </sup>
+     . The result is a linear, inhomogeneous, second-order
+     <xref articleid="30412">
+      differential equation
+     </xref>
+     with well-known solutions for the charge
+     <e type="italic">
+      Q
+     </e>
+     as a function of time. The most important solution describes the current and voltages after transient effects have been dampened; the transient effects last only a short time after the circuit is completed. Once the charge is known, the current in the circuit can be obtained by taking the first derivative of the charge. The expression for the current in the circuit is
+     <formula>
+      <inlinemedia id="i15931" mediaid="15931" url="/31/15931-004-AB7E4EEA.jpg"/>
+     </formula>
+    </p>
+    <p>
+     In equation (
+     <inlinemediaref inlinemediaid="i15931">
+      29
+     </inlinemediaref>
+     ),
+     <e type="italic">
+      Z
+     </e>
+     is the impedance of the circuit; impedance, like resistance, is measured in units of ohms.
+     <e type="italic">
+      Z
+     </e>
+     is a function of the frequency of the source of applied electromotive force. The equation for
+     <e type="italic">
+      Z
+     </e>
+     is
+     <formula>
+      <inlinemedia id="i15930" mediaid="15930" url="/30/15930-004-817F3F3B.jpg"/>
+     </formula>
+    </p>
+    <p>
+     If the resistor were the only element in the circuit, the impedance would be
+     <e type="italic">
+      Z
+     </e>
+     =
+     <e type="italic">
+      R
+     </e>
+     , the resistance of the resistor. For a capacitor alone,
+     <e type="italic">
+      Z
+     </e>
+     = 1/ω
+     <e type="italic">
+      C
+     </e>
+     , showing that the impedance of a capacitor decreases as the frequency increases. For an inductor alone,
+     <e type="italic">
+      Z
+     </e>
+     = ω
+     <e type="italic">
+      L
+     </e>
+     ; the reason why the impedance of the inductor increases with frequency will become clear once Faraday’s law of magnetic induction is discussed in detail below. Here it is sufficient to say that an induced electromotive force in the inductor opposes the change in current, and it is directly proportional to the frequency.
+    </p>
+    <p>
+     The phase angle ϕ in equation (
+     <inlinemediaref inlinemediaid="i15931">
+      29
+     </inlinemediaref>
+     ) gives the time relationship between the current in the circuit and the driving electromotive force,
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      0
+     </sub>
+     cos(ω
+     <e type="italic">
+      t
+     </e>
+     ). The tangent of the angle ϕ is
+     <formula>
+      <inlinemedia id="i15929" mediaid="15929" url="/29/15929-004-20763B1C.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Depending on the values of ω,
+     <e type="italic">
+      L
+     </e>
+     , and
+     <e type="italic">
+      C
+     </e>
+     , the angle ϕ can be positive, negative, or zero. If ϕ is positive, the current “lags” the voltage, while for negative values of ϕ, the current “leads” the voltage.
+    </p>
+    <p>
+     The
+     <xref articleid="61127">
+      power
+     </xref>
+     dissipated in the circuit is the same as the power delivered by the source of electromotive force, and both are measured in
+     <xref articleid="487113">
+      watts
+     </xref>
+     . Using equation (
+     <inlinemediaref inlinemediaid="i15941">
+      23
+     </inlinemediaref>
+     ), the power is given by
+     <formula>
+      <inlinemedia id="i15928" mediaid="15928" url="/28/15928-004-0FD31CF3.jpg"/>
+     </formula>
+    </p>
+    <p>
+     An expression for the average power dissipated in the circuit can be written either in terms of the peak values
+     <e type="italic">
+      i
+     </e>
+     <sub>
+      0
+     </sub>
+     and
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      0
+     </sub>
+     or in terms of the rms values
+     <e type="italic">
+      i
+     </e>
+     <sub>
+      <e type="italic">
+       rms
+      </e>
+     </sub>
+     and
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      <e type="italic">
+       rms
+      </e>
+     </sub>
+     . The average power is
+     <formula>
+      <inlinemedia id="i15927" mediaid="15927" url="/27/15927-004-376E97BA.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The cos ϕ in equation (
+     <inlinemediaref inlinemediaid="i15927">
+      33
+     </inlinemediaref>
+     ) is called the power factor. It is evident that the only element that can dissipate energy is the resistance.
+    </p>
+   </h3>
+   <h3 id="h71574">
+    <title>
+     Resonance
+    </title>
+    <p>
+     <assembly id="a1343" url="/assembly/view/1343">
+      <title>
+       current amplitude as a function of frequency
+      </title>
+      <media mediaid="248" type="image" url="/48/248-004-F3616177.jpg"/>
+      <caption>
+       Figure 24: Current amplitude (peak current) as a function of
+       <e type="italic">
+        ω
+       </e>
+       (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     A most interesting condition known as resonance occurs when the phase angle is zero in equation (
+     <inlinemediaref inlinemediaid="i15929">
+      31
+     </inlinemediaref>
+     ), or equivalently, when the angular frequency ω has the value ω = ω
+     <sub>
+      <e type="italic">
+       r
+      </e>
+     </sub>
+     =
+     <sqroot>
+      1/
+      <e type="italic">
+       L
+      </e>
+      <e type="italic">
+       C
+      </e>
+     </sqroot>
+     . The impedance in equation (
+     <inlinemediaref inlinemediaid="i15930">
+      30
+     </inlinemediaref>
+     ) then has its minimum value and equals the resistance
+     <e type="italic">
+      R
+     </e>
+     . The amplitude of the current in the circuit,
+     <e type="italic">
+      i
+     </e>
+     <sub>
+      0
+     </sub>
+     , is at its maximum value (see equation [
+     <inlinemediaref inlinemediaid="i15931">
+      29
+     </inlinemediaref>
+     ]).
+     <assemblyref assemblyid="a1343">
+      Figure 24
+     </assemblyref>
+     shows the dependence of
+     <e type="italic">
+      i
+     </e>
+     <sub>
+      0
+     </sub>
+     on the angular frequency ω of the source of alternating electromotive force. The values of the electric parameters for the figure are
+     <e type="italic">
+      V
+     </e>
+     <sub>
+      0
+     </sub>
+     = 50 volts,
+     <e type="italic">
+      R
+     </e>
+     = 25 ohms,
+     <e type="italic">
+      L
+     </e>
+     = 4.5 millihenrys, and
+     <e type="italic">
+      C
+     </e>
+     = 0.2 microfarad. With these values, the resonant angular frequency ω
+     <sub>
+      <e type="italic">
+       r
+      </e>
+     </sub>
+     of the circuit in
+     <assemblyref assemblyid="a1342">
+      Figure 23
+     </assemblyref>
+     is 3.33 × 10
+     <sup>
+      4
+     </sup>
+     radians per second.
+    </p>
+    <p>
+     <assembly id="a1344" url="/assembly/view/1344">
+      <title>
+       average power dissipation
+      </title>
+      <media mediaid="249" type="image" url="/49/249-004-982F5892.jpg"/>
+      <caption>
+       Figure 25: Average power dissipation versus
+       <e type="italic">
+        ω
+       </e>
+       (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     The peaking in the current shown in
+     <assemblyref assemblyid="a1343">
+      Figure 24
+     </assemblyref>
+     constitutes a resonance. At the resonant frequency, in this case when ω
+     <sub>
+      <e type="italic">
+       r
+      </e>
+     </sub>
+     equals 3.33 × 10
+     <sup>
+      4
+     </sup>
+     radians per second, the impedance
+     <e type="italic">
+      Z
+     </e>
+     of the circuit is at a minimum and the power dissipated is at a maximum. The phase angle ϕ is zero so that the current is in phase with the driving voltage, and the power factor, cos ϕ, is 1.
+     <assemblyref assemblyid="a1344">
+      Figure 25
+     </assemblyref>
+     illustrates the variation of the average power with the angular frequency of the sinusoidal electromotive force. The resonance is seen to be even more pronounced. The quality factor
+     <e type="italic">
+      Q
+     </e>
+     for the circuit is the electric energy stored in the circuit divided by the energy dissipated in one period. The
+     <e type="italic">
+      Q
+     </e>
+     of a circuit is an important quantity in certain applications, as in the case of electromagnetic
+     <xref articleid="76319">
+      waveguides
+     </xref>
+     and radio-frequency cavities where
+     <e type="italic">
+      Q
+     </e>
+     has values around 10,000 and where high voltages and
+     <xref articleid="32278">
+      electric fields
+     </xref>
+     are desired. For the present circuit,
+     <e type="italic">
+      Q
+     </e>
+     = ω
+     <sub>
+      <e type="italic">
+       r
+      </e>
+     </sub>
+     <e type="italic">
+      L
+     </e>
+     /
+     <e type="italic">
+      R
+     </e>
+     .
+     <e type="italic">
+      Q
+     </e>
+     also can be obtained from the average power graph as the ratio ω
+     <sub>
+      <e type="italic">
+       r
+      </e>
+     </sub>
+     /(ω
+     <sub>
+      2
+     </sub>
+     − ω
+     <sub>
+      1
+     </sub>
+     ), where ω
+     <sub>
+      1
+     </sub>
+     and ω
+     <sub>
+      2
+     </sub>
+     are the angular frequencies at which the average power dissipated in the circuit is one-half its maximum value. For the circuit here,
+     <e type="italic">
+      Q
+     </e>
+     = 6.
+    </p>
+    <p>
+     <assembly id="a1345" url="/assembly/view/1345">
+      <title>
+       electromotive force
+      </title>
+      <media mediaid="250" type="image" url="/50/250-004-43BADC96.jpg"/>
+      <caption>
+       Figure 26: Electromotive force across
+       <e type="italic">
+        L
+       </e>
+       versus
+       <e type="italic">
+        ω
+       </e>
+       (see text).
+      </caption>
+      <credit>
+       Courtesy of the Department of Physics and Astronomy, Michigan State University
+      </credit>
+     </assembly>
+     What is the maximum value of the potential difference across the inductor? Since it is given by
+     <e type="italic">
+      L
+     </e>
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      i
+     </e>
+     /
+     <e type="italic">
+      d
+     </e>
+     <e type="italic">
+      t
+     </e>
+     , it will occur when the current has the maximum rate of change.
+     <assemblyref assemblyid="a1345">
+      Figure 26
+     </assemblyref>
+     shows the amplitude of the potential difference as a function of ω.
+    </p>
+    <p>
+     The maximum amplitude of the voltage across the inductor, 300 volts, is much greater than the 50-volt amplitude of the driving sinusoidal electromotive force. This result is typical of resonance phenomena. In a familiar mechanical system, children on swings time their kicks to attain very large swings (much larger than they could attain with a single kick). In a more spectacular, albeit costly, example, the collapse of the
+     <xref articleid="70874">
+      Tacoma Narrows Bridge
+     </xref>
+     (a suspension bridge across the Narrows of Puget Sound, Washington) on November 7, 1940, was the result of the large amplitudes of oscillations that the span attained as it was driven in resonance by high winds. A ubiquitous example of electric resonance occurs when a
+     <xref articleid="106101">
+      radio
+     </xref>
+     dial is turned to receive a broadcast. Turning the dial changes the value of the tuning capacitor of the radio. When the circuit attains a resonance frequency corresponding to the frequency of the radio wave, the voltage induced is enhanced and processed to produce sound.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h71575">
+  <title>
+   Electric properties of matter
+  </title>
+  <h2 id="h71576">
+   <title>
+    Piezoelectricity
+   </title>
+   <p>
+    Some
+    <xref articleid="68592">
+     solids
+    </xref>
+    , notably certain
+    <xref articleid="110297">
+     crystals
+    </xref>
+    , have permanent electric polarization. Other crystals become electrically polarized when subjected to stress. In electric polarization, the centre of positive
+    <xref articleid="32271">
+     charge
+    </xref>
+    within an
+    <xref articleid="110411">
+     atom
+    </xref>
+    ,
+    <xref articleid="53247">
+     molecule
+    </xref>
+    , or crystal lattice element is separated slightly from the centre of negative charge.
+    <xref articleid="59986">
+     Piezoelectricity
+    </xref>
+    (literally “pressure electricity”) is observed if a stress is applied to a solid, for example, by bending, twisting, or squeezing it. If a thin slice of
+    <xref articleid="62182">
+     quartz
+    </xref>
+    is compressed between two
+    <xref articleid="32299">
+     electrodes
+    </xref>
+    , a potential difference occurs; conversely, if the quartz crystal is inserted into an
+    <xref articleid="32278">
+     electric field
+    </xref>
+    , the resulting stress changes its dimensions. Piezoelectricity is responsible for the great precision of
+    <xref articleid="24419">
+     clocks
+    </xref>
+    and
+    <xref articleid="76208">
+     watches
+    </xref>
+    equipped with quartz oscillators. It also is used in electric
+    <xref articleid="38459">
+     guitars
+    </xref>
+    and various other musical instruments to transform mechanical vibrations into corresponding electric signals, which are then amplified and converted to sound by acoustical speakers.
+   </p>
+   <p>
+    A crystal under stress exhibits the direct piezoelectric effect; a polarization
+    <e type="italic">
+     P
+    </e>
+    , proportional to the stress, is produced. In the converse effect, an applied electric field produces a distortion of the crystal, represented by a strain proportional to the applied field. The basic equations of piezoelectricity are
+    <e type="italic">
+     P
+    </e>
+    =
+    <e type="italic">
+     d
+    </e>
+    ×
+    <e type="italic">
+     stress
+    </e>
+    and
+    <e type="italic">
+     E
+    </e>
+    =
+    <e type="italic">
+     strain
+    </e>
+    /
+    <e type="italic">
+     d
+    </e>
+    . The piezoelectric coefficient
+    <e type="italic">
+     d
+    </e>
+    (in metres per
+    <xref articleid="75698">
+     volt
+    </xref>
+    ) is approximately 3 × 10
+    <sup>
+     −12
+    </sup>
+    for quartz, 5 × −10
+    <sup>
+     −11
+    </sup>
+    for ammonium dihydrogen phosphate, and 3 × 10
+    <sup>
+     −10
+    </sup>
+    for lead zirconate titanate.
+   </p>
+   <p>
+    For an elastic body, the stress is proportional to the strain—i.e.,
+    <e type="italic">
+     stress
+    </e>
+    =
+    <e type="italic">
+     Y
+    </e>
+    <sub>
+     <e type="italic">
+      e
+     </e>
+    </sub>
+    ×
+    <e type="italic">
+     strain
+    </e>
+    . The proportionality constant is the coefficient of elasticity
+    <e type="italic">
+     Y
+    </e>
+    <sub>
+     <e type="italic">
+      e
+     </e>
+    </sub>
+    , also called
+    <xref articleid="78084">
+     Young’s modulus
+    </xref>
+    for the English physicist
+    <xref articleid="78063">
+     Thomas Young
+    </xref>
+    . Using that relation, the induced polarization can be written as
+    <e type="italic">
+     P
+    </e>
+    =
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     Y
+    </e>
+    <sub>
+     <e type="italic">
+      e
+     </e>
+    </sub>
+    ×
+    <e type="italic">
+     strain
+    </e>
+    , while the stress required to keep the strain constant when the crystal is in an electric field is
+    <e type="italic">
+     stress
+    </e>
+    = −
+    <e type="italic">
+     d
+    </e>
+    <e type="italic">
+     Y
+    </e>
+    <sub>
+     <e type="italic">
+      e
+     </e>
+    </sub>
+    <e type="italic">
+     E
+    </e>
+    . The strain in a deformed elastic body is the fractional change in the dimensions of the body in various directions; the stress is the internal pressure along the various directions. Both are second-rank
+    <xref articleid="71717">
+     tensors
+    </xref>
+    , and, since electric field and polarization are
+    <xref articleid="218451">
+     vectors
+    </xref>
+    , the detailed treatment of piezoelectricity is complex. The equations above are oversimplified but can be used for crystals in certain orientations.
+   </p>
+   <p>
+    The polarization effects responsible for piezoelectricity arise from small displacements of
+    <xref articleid="42688">
+     ions
+    </xref>
+    in the crystal lattice. Such an effect is not found in crystals with a centre of symmetry. The direct effect can be quite strong; a potential
+    <e type="italic">
+     V
+    </e>
+    =
+    <e type="italic">
+     Y
+    </e>
+    <sub>
+     <e type="italic">
+      e
+     </e>
+    </sub>
+    <e type="italic">
+     d
+    </e>
+    δ/ε
+    <sub>
+     0
+    </sub>
+    <e type="italic">
+     K
+    </e>
+    is generated in a crystal compressed by an amount δ, where
+    <e type="italic">
+     K
+    </e>
+    is the
+    <xref articleid="30383">
+     dielectric constant
+    </xref>
+    . If
+    <xref articleid="47492">
+     lead
+    </xref>
+    zirconate titanate is placed between two electrodes and a pressure causing a reduction of only 1/20th of one millimetre is applied, a 100,000-volt potential is produced. The direct effect is used, for example, to generate an electric spark with which to ignite
+    <xref articleid="110439">
+     natural gas
+    </xref>
+    in a heating unit or an outdoor cooking grill.
+   </p>
+   <p>
+    In practice, the converse piezoelectric effect, which occurs when an external electric field changes the dimensions of a crystal, is small because the electric fields that can be generated in a laboratory are minuscule compared to those existing naturally in matter. A static electric field of 10
+    <sup>
+     6
+    </sup>
+    volts per metre produces a change of only about 0.001 millimetre in the length of a one-centimetre quartz crystal. The effect can be enhanced by the application of an alternating electric field of the same frequency as the natural mechanical vibration frequency of the crystal. Many of the crystals have a quality factor
+    <e type="italic">
+     Q
+    </e>
+    of several hundred, and, in the case of quartz, the value can be 10
+    <sup>
+     6
+    </sup>
+    . The result is a piezoelectric coefficient a factor
+    <e type="italic">
+     Q
+    </e>
+    higher than for a static electric field. The very large
+    <e type="italic">
+     Q
+    </e>
+    of quartz is exploited in electronic oscillator circuits to make remarkably accurate timepieces. The mechanical vibrations that can be induced in a crystal by the converse piezoelectric effect are also used to generate
+    <xref articleid="74179">
+     ultrasound
+    </xref>
+    , which is sound with a frequency far higher than frequencies audible to the
+    <xref articleid="109529">
+     human ear
+    </xref>
+    —above 20 kilohertz. The reflected
+    <xref articleid="109557">
+     sound
+    </xref>
+    is detectable by the direct effect. Such effects form the basis of ultrasound systems used to fathom the depths of
+    <xref articleid="108459">
+     lakes
+    </xref>
+    and waterways and to locate
+    <xref articleid="111049">
+     fish
+    </xref>
+    . Ultrasound has found application in medical imaging (e.g., fetal monitoring and the detection of abnormalities such as
+    <xref articleid="126090">
+     prostate tumours
+    </xref>
+    ). The use of ultrasound makes it possible to produce detailed pictures of
+    <xref articleid="57347">
+     organs
+    </xref>
+    and other internal structures because of the variation in the reflection of sound from various body tissues. Thin films of polymeric plastic with a piezoelectric coefficient of about 10
+    <sup>
+     −11
+    </sup>
+    metres per volt have been developed and have numerous applications as pressure transducers.
+   </p>
+  </h2>
+  <h2 id="h71577">
+   <title>
+    Electro-optic phenomena
+   </title>
+   <p>
+    The index of refraction
+    <e type="italic">
+     n
+    </e>
+    of a transparent substance is related to its electric polarizability and is given by
+    <e type="italic">
+     n
+    </e>
+    <sup>
+     2
+    </sup>
+    = 1 + χ
+    <sub>
+     <e type="italic">
+      e
+     </e>
+    </sub>
+    /ε
+    <sub>
+     0
+    </sub>
+    . As discussed earlier, χ
+    <sub>
+     <e type="italic">
+      e
+     </e>
+    </sub>
+    is the electric susceptibility of a medium, and the equation
+    <e type="bolditalic">
+     P
+    </e>
+    = χ
+    <sub>
+     <e type="italic">
+      e
+     </e>
+    </sub>
+    <e type="bolditalic">
+     E
+    </e>
+    relates the polarization of the medium to the applied electric field. For most matter, χ
+    <sub>
+     <e type="italic">
+      e
+     </e>
+    </sub>
+    is not a constant independent of the value of the
+    <xref articleid="32278">
+     electric field
+    </xref>
+    , but rather depends to a small degree on the value of the field. Thus, the index of
+    <xref articleid="63033">
+     refraction
+    </xref>
+    can be changed by applying an external electric field to a medium. In liquids,
+    <xref articleid="36988">
+     glasses
+    </xref>
+    , and crystals that have a centre of symmetry, the change is usually very small. Called the
+    <xref articleid="45171">
+     Kerr effect
+    </xref>
+    (for its discoverer, the Scottish physicist John Kerr), it is proportional to the square of the applied electric field. In noncentrosymmetric crystals, the change in the index of refraction
+    <e type="italic">
+     n
+    </e>
+    is generally much greater; it depends linearly on the applied electric field and is known as the Pockels effect (after the German physicist F. R. Pockels).
+   </p>
+   <p>
+    A varying electric field applied to a medium will modulate its index of refraction. This change in the index of refraction can be used to modulate
+    <xref articleid="110443">
+     light
+    </xref>
+    and make it carry information. A crystal widely used for its Pockels effect is potassium dihydrogen phosphate, which has good optical properties and low dielectric losses even at
+    <xref articleid="52523">
+     microwave
+    </xref>
+    frequencies.
+   </p>
+   <p>
+    An unusually large Kerr effect is found in
+    <xref articleid="55945">
+     nitrobenzene
+    </xref>
+    , a
+    <xref articleid="110301">
+     liquid
+    </xref>
+    with highly “acentric”
+    <xref articleid="53247">
+     molecules
+    </xref>
+    that have large
+    <xref articleid="32274">
+     electric dipole
+    </xref>
+    moments. Applying an external electric field partially aligns the otherwise randomly oriented dipole moments and greatly enhances the influence of the field on the index of refraction. The length of the path of light through nitrobenzene can be adjusted easily because it is a liquid.
+   </p>
+  </h2>
+  <h2 id="h71578">
+   <title>
+    Thermoelectricity
+   </title>
+   <p>
+    When two
+    <xref articleid="52266">
+     metals
+    </xref>
+    are placed in electric contact,
+    <xref articleid="32316">
+     electrons
+    </xref>
+    flow out of the one in which the electrons are less bound and into the other. The binding is measured by the location of the so-called Fermi level of electrons in the metal; the higher the level, the lower is the binding. The Fermi level represents the demarcation in energy within the conduction band of a metal between the energy levels occupied by electrons and those that are unoccupied. The energy of an electron at the Fermi level is −
+    <e type="italic">
+     W
+    </e>
+    relative to a free electron outside the metal. The flow of electrons between the two
+    <xref articleid="25132">
+     conductors
+    </xref>
+    in contact continues until the change in electrostatic potential brings the Fermi levels of the two metals (
+    <e type="italic">
+     W
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     W
+    </e>
+    <sub>
+     2
+    </sub>
+    ) to the same value. This electrostatic potential is called the contact potential ϕ
+    <sub>
+     12
+    </sub>
+    and is given by
+    <e type="italic">
+     e
+    </e>
+    ϕ
+    <sub>
+     12
+    </sub>
+    =
+    <e type="italic">
+     W
+    </e>
+    <sub>
+     1
+    </sub>
+    −
+    <e type="italic">
+     W
+    </e>
+    <sub>
+     2
+    </sub>
+    , where
+    <e type="italic">
+     e
+    </e>
+    is 1.6 × 10
+    <sup>
+     −19
+    </sup>
+    <xref articleid="26554">
+     coulomb
+    </xref>
+    .
+   </p>
+   <p>
+    If a closed
+    <xref articleid="32272">
+     circuit
+    </xref>
+    is made of two different metals, there will be no net
+    <xref articleid="32313">
+     electromotive force
+    </xref>
+    in the circuit because the two contact potentials oppose each other and no
+    <xref articleid="32273">
+     current
+    </xref>
+    will flow. There will be a current if the temperature of one of the junctions is raised with respect to that of the second. There is a net electromotive force generated in the circuit, as it is unlikely that the two metals will have Fermi levels with identical
+    <xref articleid="71632">
+     temperature
+    </xref>
+    dependence. To maintain the temperature difference, heat must enter the hot junction and leave the cold junction; this is consistent with the fact that the current can be used to do mechanical
+    <xref articleid="77472">
+     work
+    </xref>
+    . The generation of a thermal electromotive force at a junction is called the
+    <xref articleid="66565">
+     Seebeck effect
+    </xref>
+    (after the Estonian-born German physicist
+    <xref articleid="66564">
+     Thomas Johann Seebeck
+    </xref>
+    ). The electromotive force is approximately linear with the temperature difference between two junctions of dissimilar metals, which are called a
+    <xref articleid="72080">
+     thermocouple
+    </xref>
+    . For a thermocouple made of
+    <xref articleid="42794">
+     iron
+    </xref>
+    and constantan (an
+    <xref articleid="5832">
+     alloy
+    </xref>
+    of 60 percent
+    <xref articleid="26194">
+     copper
+    </xref>
+    and 40 percent
+    <xref articleid="55747">
+     nickel
+    </xref>
+    ), the electromotive force is about five millivolts when the cold junction is at 0° C and the hot junction at 100° C. One of the principal applications of the Seebeck effect is the measurement of temperature. The chemical properties of the medium, the temperature of which is measured, and the sensitivity required dictate the choice of components of a thermocouple.
+   </p>
+   <p>
+    The absorption or release of heat at a junction in which there is an electric current is called the
+    <xref articleid="59021">
+     Peltier effect
+    </xref>
+    (after the French physicist Jean-Charles Peltier). Both the Seebeck and Peltier effects also occur at the junction between a metal and a
+    <xref articleid="66711">
+     semiconductor
+    </xref>
+    and at the junction between two semiconductors. The development of semiconductor thermocouples (e.g., those consisting of
+    <e type="italic">
+     n
+    </e>
+    -type and
+    <e type="italic">
+     p
+    </e>
+    -type
+    <xref articleid="80309">
+     bismuth
+    </xref>
+    telluride) has made the use of the Peltier effect practical for
+    <xref articleid="63037">
+     refrigeration
+    </xref>
+    . Sets of such thermocouples are connected electrically in series and thermally in parallel. When an electric current is made to flow, a temperature difference, which depends on the current, develops between the two junctions. If the temperature of the hotter junction is kept low by removing heat, the second junction can be tens of degrees colder and act as a refrigerator. Peltier refrigerators are used to cool small bodies; they are compact, have no moving mechanical parts, and can be regulated to maintain precise and stable temperatures. They are employed in numerous applications, as, for example, to keep the temperature of a sample constant while it is on a
+    <xref articleid="108723">
+     microscope
+    </xref>
+    stage.
+   </p>
+  </h2>
+  <h2 id="h71579">
+   <title>
+    Thermionic emission
+   </title>
+   <p>
+    A metal contains mobile electrons in a partially filled band of energy levels—i.e., the conduction band. These electrons, though mobile within the metal, are rather tightly bound to it. The energy that is required to release a mobile electron from the metal varies from about 1.5 to 6
+    <xref articleid="32330">
+     electron volts
+    </xref>
+    , depending on the metal. In
+    <xref articleid="72075">
+     thermionic emission
+    </xref>
+    , some of the electrons acquire enough energy from thermal collisions to escape from the metal. The number of electrons emitted and therefore the thermionic emission current depend critically on temperature.
+   </p>
+   <p>
+    In a metal the conduction-band levels are filled up to the Fermi level, which lies at an energy −
+    <e type="italic">
+     W
+    </e>
+    relative to a free electron outside the metal. The work function of the metal, which is the energy required to remove an electron from the metal, is therefore equal to
+    <e type="italic">
+     W
+    </e>
+    . At a temperature of 1,000 K only a small fraction of the mobile electrons have sufficient energy to escape. The electrons that can escape are moving so fast in the metal and have such high kinetic energies that they are unaffected by the periodic potential caused by atoms of the metallic lattice. They behave like electrons trapped in a region of constant potential. Because of this, when the rate at which electrons escape from the metal is calculated, the detailed structure of the metal has little influence on the final result. A formula known as Richardson’s law (first proposed by the English physicist Owen W. Richardson) is roughly valid for all metals. It is usually expressed in terms of the emission current density (
+    <e type="italic">
+     J
+    </e>
+    ) as
+    <formula>
+     <inlinemedia id="i15899" mediaid="15899" url="/99/15899-004-8FC5871A.jpg"/>
+    </formula>
+    in
+    <xref articleid="7233">
+     amperes
+    </xref>
+    per square metre. The
+    <xref articleid="80520">
+     Boltzmann constant
+    </xref>
+    <e type="italic">
+     k
+    </e>
+    has the value 8.62 × 10
+    <sup>
+     −5
+    </sup>
+    electron volts per
+    <xref articleid="45037">
+     kelvin
+    </xref>
+    , and temperature
+    <e type="italic">
+     T
+    </e>
+    is in kelvins. The constant
+    <e type="italic">
+     A
+    </e>
+    is 1.2 × 10
+    <sup>
+     6
+    </sup>
+    ampere degree squared per square metre, and varies slightly for different metals. For
+    <xref articleid="73778">
+     tungsten
+    </xref>
+    , which has a work function
+    <e type="italic">
+     W
+    </e>
+    of 4.5 electron volts, the value of
+    <e type="italic">
+     A
+    </e>
+    is 7 × 10
+    <sup>
+     5
+    </sup>
+    amperes per square metre kelvin squared and the current density at
+    <e type="italic">
+     T
+    </e>
+    equaling 2,400 K is 0.14 ampere per square centimetre.
+    <e type="italic">
+     J
+    </e>
+    rises rapidly with temperature. If
+    <e type="italic">
+     T
+    </e>
+    is increased to 2,600 K,
+    <e type="italic">
+     J
+    </e>
+    rises to 0.9 ampere per square centimetre. Tungsten does not emit appreciably at 2,000 K or below (less than 0.05 milliampere per square centimetre) because its work function of 4.5 electron volts is large compared to the thermal energy
+    <e type="italic">
+     k
+    </e>
+    <e type="italic">
+     T
+    </e>
+    , which is only 0.16 electron volt. At 1,000 K, a mixture of
+    <xref articleid="13372">
+     barium
+    </xref>
+    and
+    <xref articleid="69994">
+     strontium
+    </xref>
+    oxides has a work function of approximately 1.3 electron volts and is a reasonably good conductor. Currents of several amperes per square centimetre can be drawn from such oxide cathodes, but in practice the current density is generally less than 0.2 ampere per square centimetre. The oxide layer deteriorates rapidly when higher current densities are drawn.
+   </p>
+  </h2>
+  <h2 id="h71580">
+   <title>
+    Secondary electron emission
+   </title>
+   <p>
+    If electrons with energies of 10 to 1,000 electron volts strike a metal surface in a vacuum, their energy is lost in collisions in a region near the surface, and most of it is transferred to other electrons in the metal. Because this occurs near the surface, some of these electrons may be ejected from the metal and form a secondary emission current. The ratio of secondary
+    <xref articleid="32316">
+     electrons
+    </xref>
+    to incident electrons is known as the secondary emission coefficient. For low-incident energies (below about one electron volt), the primary electrons tend to be reflected and the secondary emission coefficient is near unity. With increasing energy, the coefficient at first falls and then at about 10 electron volts begins to rise again, usually reaching a peak of value between 2 and 4 at energies of a few hundred electron volts. At higher energies, the primary electrons penetrate so far below the surface before losing energy that the excited electrons have little chance of reaching the surface and escaping. The secondary emission coefficients fall and, when the electrons have energies exceeding 20 kiloelectron volts, are usually well below unity. Secondary emission also can occur in
+    <xref articleid="42511">
+     insulators
+    </xref>
+    . Because many insulators have rather high secondary emission coefficients, it is often useful when high secondary emission yields are required to coat a metal electrode with a thin insulator layer a few
+    <xref articleid="110411">
+     atoms
+    </xref>
+    thick.
+   </p>
+  </h2>
+  <h2 id="h71581">
+   <title>
+    Photoelectric conductivity
+   </title>
+   <p>
+    If
+    <xref articleid="110443">
+     light
+    </xref>
+    with a
+    <xref articleid="59817">
+     photon
+    </xref>
+    energy
+    <e type="italic">
+     h
+    </e>
+    ν that exceeds the work function
+    <e type="italic">
+     W
+    </e>
+    falls on a metal surface, some of the incident photons will transfer their energy to electrons, which then will be ejected from the metal. Since
+    <e type="italic">
+     h
+    </e>
+    ν is greater than
+    <e type="italic">
+     W
+    </e>
+    , the excess energy
+    <e type="italic">
+     h
+    </e>
+    ν −
+    <e type="italic">
+     W
+    </e>
+    transferred to the electrons will be observed as their kinetic energy outside the metal. The relation between electron kinetic energy
+    <e type="italic">
+     E
+    </e>
+    and the frequency ν (that is,
+    <e type="italic">
+     E
+    </e>
+    =
+    <e type="italic">
+     h
+    </e>
+    ν −
+    <e type="italic">
+     W
+    </e>
+    ) is known as the Einstein relation, and its experimental verification helped to establish the validity of
+    <xref articleid="110312">
+     quantum theory
+    </xref>
+    . The energy of the electrons depends on the frequency of the light, while the intensity of the light determines the rate of photoelectric emission.
+   </p>
+   <p>
+    In a
+    <xref articleid="66711">
+     semiconductor
+    </xref>
+    the valence band of energy levels is almost completely full while the conduction band is almost empty. The conductivity of the material derives from the few holes present in the valence band and the few electrons in the conduction band. Electrons can be excited from the valence to the conduction band by light photons having an energy
+    <e type="italic">
+     h
+    </e>
+    ν that is larger than energy gap
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     <e type="italic">
+      g
+     </e>
+    </sub>
+    between the bands. The process is an internal
+    <xref articleid="59805">
+     photoelectric effect
+    </xref>
+    . The value of
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     <e type="italic">
+      g
+     </e>
+    </sub>
+    varies from semiconductor to semiconductor. For
+    <xref articleid="47492">
+     lead
+    </xref>
+    sulfide, the threshold frequency occurs in the
+    <xref articleid="42403">
+     infrared
+    </xref>
+    , whereas for
+    <xref articleid="78379">
+     zinc
+    </xref>
+    oxide it is in the
+    <xref articleid="74181">
+     ultraviolet
+    </xref>
+    . For
+    <xref articleid="67764">
+     silicon
+    </xref>
+    ,
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     <e type="italic">
+      g
+     </e>
+    </sub>
+    equals 1.1 electron volts, and the threshold wavelength is in the infrared, about 1,100 nanometres. Visible radiation produces electron transitions with almost unity quantum efficiency in silicon. Each transition yields a hole–electron pair (i.e., two carriers) that contributes to electric conductivity. For example, if one milliwatt of light strikes a sample of pure silicon in the form of a thin plate one square centimetre in area and 0.03 centimetre thick (which is thick enough to absorb all incident light), the resistance of the plate will be decreased by a factor of about 1,000. In practice, photoconductive effects are not usually as large as this, but this example indicates that appreciable changes in conductivity can occur even with low illumination. Photoconductive devices are simple to construct and are used to detect visible, infrared, and ultraviolet radiation.
+   </p>
+  </h2>
+  <h2 id="h71582">
+   <title>
+    Electroluminescence
+   </title>
+   <p>
+    Conduction electrons moving in a solid under the influence of an electric field usually lose kinetic energy in low-energy collisions as fast as they acquire it from the field. Under certain circumstances in semiconductors, however, they can acquire enough energy between collisions to excite atoms in the next collision and produce radiation as the atoms de-excite. A voltage applied across a thin layer of zinc sulfide powder causes just such an electroluminescent effect. Electroluminescent panels are of more interest as signal indicators and display devices than as a source of general illumination.
+   </p>
+   <p>
+    A somewhat similar effect occurs at the junction in a reverse-biased semiconductor
+    <e type="italic">
+     p
+    </e>
+    –
+    <e type="italic">
+     n
+    </e>
+    junction diode—i.e., a
+    <e type="italic">
+     p
+    </e>
+    –
+    <e type="italic">
+     n
+    </e>
+    junction diode in which the applied potential is in the direction of small current flow. Electrons in the intense field at the depleted junction easily acquire enough energy to excite atoms. Little of this energy finally emerges as light, though the effect is readily visible under a microscope.
+   </p>
+   <p>
+    When a junction between a heavily doped
+    <e type="italic">
+     n
+    </e>
+    -type material and a less doped
+    <e type="italic">
+     p
+    </e>
+    -type material is forward-biased so that a current will flow easily, the current consists mainly of electrons injected from the
+    <e type="italic">
+     n
+    </e>
+    -type material into the conduction band of the
+    <e type="italic">
+     p
+    </e>
+    -type material. These electrons ultimately drop into holes in the valence band and release energy equal to the energy gap of the material. In most cases, this energy
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     <e type="italic">
+      g
+     </e>
+    </sub>
+    is dissipated as heat, but in gallium phosphide and especially in gallium arsenide, an appreciable fraction appears as radiation, the frequency ν of which satisfies the relation
+    <e type="italic">
+     h
+    </e>
+    ν =
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     <e type="italic">
+      g
+     </e>
+    </sub>
+    . In gallium arsenide, though up to 30 percent of the input electric energy is available as radiation, the characteristic wavelength of 900 nanometres is in the infrared.
+    <xref articleid="35919">
+     Gallium
+    </xref>
+    phosphide gives off visible green light but is inefficient; other related III-V compound semiconductors emit light of different colours. Electroluminescent injection diodes of such materials, commonly known as
+    <xref articleid="2311">
+     light-emitting diodes (LEDs)
+    </xref>
+    , are employed mainly as indicator lamps and numeric displays. Semiconductor
+    <xref articleid="47248">
+     lasers
+    </xref>
+    built with layers of
+    <xref articleid="42325">
+     indium
+    </xref>
+    phosphide and of gallium indium arsenide phosphide have proved more useful. Unlike gas or optically pumped lasers, these semiconductor lasers can be modulated directly at high frequencies. They are used not only in devices such as
+    <xref articleid="25003">
+     compact disc
+    </xref>
+    players but also as light sources for long-distance
+    <xref articleid="34170">
+     optical fibre
+    </xref>
+    communications systems.
+   </p>
+  </h2>
+  <h2 id="h71583">
+   <title>
+    Bioelectric effects
+   </title>
+   <p>
+    Bioelectricity refers to the generation or action of electric currents or voltages in biological processes. Bioelectric phenomena include fast signaling in nerves and the triggering of physical processes in
+    <xref articleid="110701">
+     muscles
+    </xref>
+    or
+    <xref articleid="36971">
+     glands
+    </xref>
+    . There is some similarity among the nerves, muscles, and glands of all organisms, possibly because fairly efficient electrochemical systems evolved early. Scientific studies tend to focus on the following: nerve or muscle tissue; such
+    <xref articleid="57347">
+     organs
+    </xref>
+    as the
+    <xref articleid="39718">
+     heart
+    </xref>
+    ,
+    <xref articleid="16178">
+     brain
+    </xref>
+    ,
+    <xref articleid="109527">
+     eye
+    </xref>
+    ,
+    <xref articleid="109529">
+     ear
+    </xref>
+    ,
+    <xref articleid="69790">
+     stomach
+    </xref>
+    , and certain glands; electric organs in some
+    <xref articleid="111049">
+     fish
+    </xref>
+    ; and potentials associated with damaged tissue.
+   </p>
+   <p>
+    Electric activity in living tissue is a cellular phenomenon, dependent on the cell membrane. The membrane acts like a
+    <xref articleid="471073">
+     capacitor
+    </xref>
+    , storing energy as electrically charged
+    <xref articleid="42688">
+     ions
+    </xref>
+    on opposite sides of the membrane. The stored energy is available for rapid utilization and stabilizes the membrane system so that it is not activated by small disturbances.
+   </p>
+   <p>
+    <xref articleid="106125">
+     Cells
+    </xref>
+    capable of electric activity show a resting potential in which their interiors are negative by about 0.1 volt or less compared with the outside of the cell. When the cell is activated, the resting potential may reverse suddenly in sign; as a result, the outside of the cell becomes negative and the inside positive. This condition lasts for a short time, after which the cell returns to its original resting state. This sequence, called depolarization and repolarization, is accompanied by a flow of substantial current through the active cell membrane, so that a “dipole-current source” exists for a short period. Small currents flow from this source through the aqueous medium containing the cell and are detectable at considerable distances from it. These currents, originating in active membrane, are functionally significant very close to their site of origin but must be considered incidental at any distance from it. In
+    <xref articleid="32270">
+     electric fish
+    </xref>
+    , however, adaptations have occurred, and this otherwise incidental electric current is actually utilized. In some species the external current is apparently used for sensing purposes, while in others it is used to stun or kill prey. In both cases, voltages from many cells add up in series, thus assuring that the specialized functions can be performed. Bioelectric potentials detected at some distance from the cells generating them may be as small as the 20 or 30 microvolts associated with certain components of the human
+    <xref articleid="32300">
+     electroencephalogram
+    </xref>
+    or the millivolt of the human
+    <xref articleid="32295">
+     electrocardiogram
+    </xref>
+    . On the other hand,
+    <xref articleid="32277">
+     electric eels
+    </xref>
+    can deliver electric shocks with voltages as large as 1,000 volts.
+   </p>
+   <p>
+    In addition to the potentials originating in nerve or muscle cells, relatively steady or slowly varying potentials (often designated dc) are known. These dc potentials occur in the following cases: in areas where cells have been damaged and where ionized potassium is leaking (as much as 50 millivolts); when one part of the
+    <xref articleid="16178">
+     brain
+    </xref>
+    is compared with another part (up to one millivolt); when different areas of the
+    <xref articleid="106316">
+     skin
+    </xref>
+    are compared (up to 10 millivolts); within pockets in active glands, e.g., follicles in the
+    <xref articleid="72364">
+     thyroid
+    </xref>
+    (as high as 60 millivolts); and in special structures in the inner ear (about 80 millivolts).
+   </p>
+   <p>
+    A small electric shock caused by static electricity during cold, dry weather is a familiar experience. While the sudden muscular reaction it engenders is sometimes unpleasant, it is usually harmless. Even though static potentials of several thousand volts are involved, a current exists for only a brief time and the total charge is very small. A steady current of two milliamperes through the body is barely noticeable. Severe electrical shock can occur above 10 milliamperes, however. Lethal current levels range from 100 to 200 milliamperes. Larger currents, which produce burns and unconsciousness, are not fatal if the victim is given prompt medical care. (Above 200 milliamperes, the heart is clamped during the shock and does not undergo ventricular fibrillation.) Prevention clearly includes avoiding contact with live electric wiring; risk of injury increases considerably if the skin is wet, as the electric resistance of wet skin may be hundreds of times smaller than that of dry skin.
+   </p>
+   <signature>
+    Frank Neville H. Robinson
+   </signature>
+   <signature>
+    Eustace E. Suckling
+   </signature>
+   <signature>
+    Edwin Kashy
+   </signature>
+  </h2>
+ </h1>
+ <h1 id="h71584">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    P.C.W. Davies
+   </e>
+   ,
+   <e type="italic">
+    The Forces of Nature
+   </e>
+   , 2nd ed. (1986), is an interesting, readable account.
+   <e type="smallcap">
+    Edward M. Purcell
+   </e>
+   ,
+   <e type="italic">
+    Electricity and Magnetism
+   </e>
+   , 2nd ed. (1985), is superbly illustrated and treats key principles and phenomena with remarkable insight. Many examples and problems on electricity, as well as elementary discussions of vectors and other aspects of physics, are found in
+   <e type="smallcap">
+    David Halliday
+   </e>
+   ,
+   <e type="smallcap">
+    Robert Resnick
+   </e>
+   , and
+   <e type="smallcap">
+    Jearl Walker
+   </e>
+   ,
+   <e type="italic">
+    Fundamentals of Physics
+   </e>
+   , 7th ed., extended (2005). Useful physics textbooks with illustrations, examples, and problems include
+   <e type="smallcap">
+    Richard Wolfson
+   </e>
+   and
+   <e type="smallcap">
+    Jay M. Pasachoff
+   </e>
+   ,
+   <e type="italic">
+    Physics
+   </e>
+   , 3rd ed., 2 vol. (1999); and
+   <e type="smallcap">
+    Hugh D. Young
+   </e>
+   ,
+   <e type="italic">
+    University Physics
+   </e>
+   , 8th ed. (1992).
+  </p>
+  <signature>
+   Edwin Kashy
+  </signature>
+  <signature>
+   Sharon Bertsch McGrayne
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

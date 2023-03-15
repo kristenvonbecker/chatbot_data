@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="35414" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 22:07:06" url="/article/friction/35414" version="7">
+ <title>
+  friction
+ </title>
+ <p>
+  <assembly id="a246488" url="/assembly/view/246488">
+   <title>
+    friction forces
+   </title>
+   <media mediaid="199699" type="image" url="/99/199699-004-6632459A.jpg"/>
+   <caption>
+    Diagram illustrating how friction forces, including kinetic friction and static friction, act upon objects at rest and in motion.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   friction
+  </e>
+  ,
+  <assemblyref assemblyid="a246488"/>
+  <xref articleid="34834">
+   force
+  </xref>
+  that resists the sliding or rolling of one solid object over another. Frictional forces, such as the traction needed to walk without slipping, may be beneficial, but they also present a great measure of opposition to motion. About 20 percent of the engine power of
+  <xref articleid="110735">
+   automobiles
+  </xref>
+  is consumed in overcoming frictional forces in the moving parts.
+ </p>
+ <p>
+  The major cause of friction between
+  <xref articleid="52266">
+   metals
+  </xref>
+  appears to be the forces of attraction, known as adhesion, between the contact regions of the surfaces, which are always microscopically irregular. Friction arises from shearing these “welded” junctions and from the action of the irregularities of the harder surface plowing across the softer surface.
+ </p>
+ <p>
+  Two simple experimental facts characterize the friction of sliding solids. First, the amount of friction is nearly independent of the area of contact. If a brick is pulled along a table, the frictional force is the same whether the brick is lying flat or standing on end. Second, friction is proportional to the load or weight that presses the surfaces together. If a pile of three bricks is pulled along a table, the friction is three times greater than if one brick is pulled. Thus, the ratio of friction
+  <e type="italic">
+   F
+  </e>
+  to load
+  <e type="italic">
+   L
+  </e>
+  is constant. This constant ratio is called the coefficient of friction and is usually symbolized by the Greek letter mu (
+  <e type="italic">
+   μ
+  </e>
+  ). Mathematically,
+  <e type="italic">
+   μ
+  </e>
+  =
+  <e type="italic">
+   F
+  </e>
+  /
+  <e type="italic">
+   L.
+  </e>
+  Because both friction and load are measured in units of force (such as
+  <xref articleid="61099">
+   pounds
+  </xref>
+  or
+  <xref articleid="55617">
+   newtons
+  </xref>
+  ), the coefficient of friction is dimensionless. The value of the coefficient of friction for a case of one or more bricks sliding on a clean wooden table is about 0.5, which implies that a force equal to half the weight of the bricks is required just to overcome friction in keeping the bricks moving along at a constant speed. The frictional force itself is directed oppositely to the motion of the object. Because the friction thus far described arises between surfaces in relative motion, it is called kinetic friction.
+ </p>
+ <p>
+  Static friction, in contrast, acts between surfaces at rest with respect to each other. The value of static friction varies between zero and the smallest force needed to start motion. This smallest force required to start motion, or to overcome static friction, is always greater than the force required to continue the motion, or to overcome kinetic friction.
+ </p>
+ <p>
+  Rolling friction occurs when a wheel, ball, or cylinder rolls freely over a surface, as in ball and roller bearings. The main source of friction in rolling appears to be dissipation of energy involved in deformation of the objects. If a hard ball is rolling on a level surface, the ball is somewhat flattened and the level surface somewhat indented in the regions in contact. The elastic deformation or compression produced at the leading section of the area in contact is a hindrance to motion that is not fully compensated as the substances spring back to normal shape at the trailing section. The internal losses in the two substances are similar to those that keep a ball from bouncing back to the level from which it is dropped. Coefficients of sliding friction are generally 100 to 1,000 times greater than coefficients of rolling friction for corresponding materials. This advantage was realized historically with the transition from
+  <xref articleid="68178">
+   sledge
+  </xref>
+  to
+  <xref articleid="76749">
+   wheel
+  </xref>
+  . (
+  <e type="italic">
+   See
+  </e>
+  <xref articleid="110307">
+   mechanics
+  </xref>
+  .)
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

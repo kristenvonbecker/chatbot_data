@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="473028" articletypeid="1" language="en_us" lastupdate="2021-Aug-06 11:30:26" url="/article/pattern-recognition/473028" version="2">
+ <title>
+  pattern recognition
+ </title>
+ <p>
+  <e type="bold">
+   pattern recognition
+  </e>
+  , in
+  <xref articleid="109626">
+   computer science
+  </xref>
+  , the imposition of identity on input data, such as speech, images, or a stream of text, by the recognition and delineation of patterns it contains and their relationships. Stages in pattern recognition may involve measurement of the object to identify distinguishing attributes, extraction of features for the defining attributes, and comparison with known patterns to determine a match or mismatch. Pattern recognition has extensive application in
+  <xref articleid="108656">
+   astronomy
+  </xref>
+  ,
+  <xref articleid="110314">
+   medicine
+  </xref>
+  ,
+  <xref articleid="473204">
+   robotics
+  </xref>
+  , and remote sensing by
+  <xref articleid="65844">
+   satellites
+  </xref>
+  .
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="126497">
+   speech recognition
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="30421" articletypeid="1" language="en_us" lastupdate="2022-Oct-13 08:56:55" url="/article/diffusion/30421" version="5">
+ <title>
+  diffusion
+ </title>
+ <p>
+  <assembly id="a66779" url="/assembly/view/66779">
+   <title>
+    ion diffusion across a semipermeable membrane
+   </title>
+   <media mediaid="54958" type="image" url="/58/54958-004-1272EA1A.jpg"/>
+   <caption>
+    Diffusion of ions across a semipermeable membrane. (A) A high concentration of KCl is placed on side 1, opposite a semipermeable membrane from a low concentration. The membrane allows only K
+    <sup>
+     +
+    </sup>
+    to diffuse, thereby establishing an electrical potential difference across the membrane. (B) The separation of charge creates an electrostatic voltage force, which draws some K
+    <sup>
+     +
+    </sup>
+    back to side 1. (C) At equilibrium, there is no net flux of K
+    <sup>
+     +
+    </sup>
+    in either direction. Side 1, with the higher concentration of KCl, has a negative charge compared with side 2.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   diffusion
+  </e>
+  ,
+  <assemblyref assemblyid="a66779"/>
+  process resulting from random motion of
+  <xref articleid="53247">
+   molecules
+  </xref>
+  by which there is a net flow of
+  <xref articleid="51438">
+   matter
+  </xref>
+  from a region of high concentration to a region of low concentration. A familiar example is the perfume of a
+  <xref articleid="34656">
+   flower
+  </xref>
+  that quickly permeates the still air of a room.
+ </p>
+ <p>
+  <xref articleid="39732">
+   Heat
+  </xref>
+  conduction in fluids involves thermal energy transported, or diffused, from higher to lower
+  <xref articleid="71632">
+   temperature
+  </xref>
+  . Operation of a
+  <xref articleid="106041">
+   nuclear reactor
+  </xref>
+  involves the diffusion of
+  <xref articleid="55406">
+   neutrons
+  </xref>
+  through a medium that causes frequent scattering but only rare absorption of neutrons.
+ </p>
+ <p>
+  The rate of flow of the diffusing substance is found to be proportional to the concentration gradient. If
+  <e type="italic">
+   j
+  </e>
+  is the amount of substance passing through a reference surface of unit area per unit time, if the coordinate
+  <e type="italic">
+   x
+  </e>
+  is perpendicular to this reference area, if
+  <e type="italic">
+   c
+  </e>
+  is the concentration of the substance, and if the constant of proportionality is
+  <e type="italic">
+   D,
+  </e>
+  then
+  <e type="italic">
+   j
+  </e>
+  = −
+  <e type="italic">
+   D
+  </e>
+  (
+  <e type="italic">
+   dc
+  </e>
+  /
+  <e type="italic">
+   dx
+  </e>
+  );
+  <e type="italic">
+   dc
+  </e>
+  /
+  <e type="italic">
+   dx
+  </e>
+  is the rate of change of concentration in the direction
+  <e type="italic">
+   x,
+  </e>
+  and the minus sign indicates the flow is from higher to lower concentration.
+  <e type="italic">
+   D
+  </e>
+  is called the diffusivity and governs the rate of diffusion.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

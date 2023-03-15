@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="41660" articletypeid="1" language="en_us" lastupdate="2022-Mar-18 18:30:49" url="/article/Huygens-principle/41660" version="2">
+ <title>
+  Huygens’ principle
+ </title>
+ <p>
+  <assembly id="a3156" url="/assembly/view/3156">
+   <title>
+    Huygens’ principle
+   </title>
+   <media mediaid="5704" type="image" url="/04/5704-004-0E039DFE.jpg"/>
+   <caption>
+    (A) Huygens’ principle applied to both plane and spherical waves. Each point on the wave front
+    <e type="italic">
+     AA
+    </e>
+    ′ can be thought of as a radiator of a spherical wave that expands out with velocity
+    <e type="italic">
+     c
+    </e>
+    , traveling a distance
+    <e type="italic">
+     ct
+    </e>
+    after time
+    <e type="italic">
+     t
+    </e>
+    . A secondary wave front
+    <e type="italic">
+     BB
+    </e>
+    ′ is formed from the addition of all the wave amplitudes from the wave front
+    <e type="italic">
+     AA
+    </e>
+    ′. (B) Huygens’ construction of a diffracted wave from a transmission grating. The wave front is constructed by adding spherical waves from each slit of the grating. The wave emitted at a given slit is delayed by one full cycle with respect to the wave from an adjacent slit.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   Huygens’ principle
+  </e>
+  , also called
+  <e type="bold">
+   Huygens-Fresnel principle
+  </e>
+  ,
+  <assemblyref assemblyid="a3156"/>
+  a statement that all points of a wave front of sound in a transmitting medium or of light in a vacuum or transparent medium may be regarded as new sources of wavelets that expand in every direction at a rate depending on their velocities. Proposed by the Dutch mathematician, physicist, and astronomer Christiaan Huygens in 1690, it is a powerful method for studying various optical phenomena.
+ </p>
+ <p>
+  <assembly id="a3537" url="/assembly/view/3537">
+   <title>
+    Huygens’ principle
+   </title>
+   <media mediaid="4321" type="image" url="/21/4321-004-C2D80BB7.jpg"/>
+   <caption>
+    Originating along the fronts of (A) circular waves and (B) plane waves, wavelets recombine to produce the propagating wave front. (C) The diffraction of sound around a corner arising from Huygens’ wavelets.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a3537"/>
+  A surface tangent to the wavelets constitutes the new wave front and is called the envelope of the wavelets. If a medium is homogeneous and has the same properties throughout (i.e., is isotropic), permitting light or sound to travel with the same speed regardless of its direction of propagation, the three-dimensional envelope of a point source will be spherical; otherwise, as is the case of light with many crystals, the envelope will be ellipsoidal in shape (
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="1617">
+   double refraction
+  </xref>
+  ). An extended light source will consist of an infinite number of point sources and may be thought of as generating a plane wave front.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

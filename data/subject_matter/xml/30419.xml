@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="30419" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:36:46" url="/article/diffraction/30419" version="3">
+ <title>
+  diffraction
+ </title>
+ <p>
+  <assembly id="a159541" url="/assembly/view/159541">
+   <title>
+    Discover diffraction as a property of sound, electromagnetic radiation, and small moving particles
+   </title>
+   <media mediaid="151069" thumburl="/69/151069-049-B52BED1D.jpg" type="video" url=""/>
+   <caption>
+    Learn about diffraction of sound, electromagnetic radiation, and small moving particles.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   diffraction
+  </e>
+  ,
+  <assemblyref assemblyid="a159541"/>
+  the spreading of waves around obstacles. Diffraction takes place with sound; with
+  <xref articleid="106022">
+   electromagnetic radiation
+  </xref>
+  , such as
+  <xref articleid="110443">
+   light
+  </xref>
+  ,
+  <xref articleid="77656">
+   X-rays
+  </xref>
+  , and
+  <xref articleid="35974">
+   gamma rays
+  </xref>
+  ; and with very small moving particles such as
+  <xref articleid="110411">
+   atoms
+  </xref>
+  ,
+  <xref articleid="55406">
+   neutrons
+  </xref>
+  , and
+  <xref articleid="32316">
+   electrons
+  </xref>
+  , which show wavelike properties. One consequence of diffraction is that sharp shadows are not produced. The phenomenon is the result of interference (i.e., when waves are superimposed, they may reinforce or cancel each other out) and is most pronounced when the wavelength of the radiation is comparable to the linear dimensions of the obstacle. When sound of various wavelengths or frequencies is emitted from a loudspeaker, the loudspeaker itself acts as an obstacle and casts a shadow to its rear so that only the longer bass notes are diffracted there. When a beam of light falls on the edge of an object, it will not continue in a straight line but will be slightly bent by the contact, causing a blur at the edge of the shadow of the object; the amount of bending will be proportional to the wavelength. When a stream of fast particles impinges on the atoms of a crystal, their paths are bent into a regular pattern, which can be recorded by directing the diffracted beam onto a photographic film.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

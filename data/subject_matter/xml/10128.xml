@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="10128" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 20:29:23" url="/article/atomic-clock/10128" version="10">
+ <title>
+  atomic clock
+ </title>
+ <p>
+  <e type="bold">
+   atomic clock
+  </e>
+  , type of clock that uses certain resonance frequencies of atoms (usually
+  <xref articleid="22171">
+   cesium
+  </xref>
+  or
+  <xref articleid="64322">
+   rubidium
+  </xref>
+  ) to keep time with extreme accuracy. The electronic components of atomic clocks are regulated by the frequency of the
+  <xref articleid="106022" refid="h59182">
+   microwave
+  </xref>
+  electromagnetic radiation. Only when this radiation is maintained at a highly specific frequency will it induce the quantum transition (energy change) of the cesium or rubidium atoms. In an atomic clock these quantum transitions are observed and maintained in a feedback loop that trims the frequency of the electromagnetic radiation; like the recurrent events in other types of
+  <xref articleid="24419">
+   clocks
+  </xref>
+  , these waves are then counted.
+ </p>
+ <p>
+  In 1967 the 13th General Conference on Weights and Measures redefined the
+  <xref articleid="66514">
+   second
+  </xref>
+  , the unit of time in the
+  <xref articleid="42610">
+   International System of Units
+  </xref>
+  , in terms of the cesium standard so as to equal the second of
+  <xref articleid="32763">
+   Ephemeris Time
+  </xref>
+  . The conference defined the second as “the duration of 9,192,631,770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the cesium-133 atom.”
+ </p>
+ <p>
+  <assembly id="a107848" url="/assembly/view/107848">
+   <title>
+    cesium atomic clock
+   </title>
+   <media mediaid="99010" type="image" url="/10/99010-004-E79A90B6.jpg"/>
+   <caption>
+    Cesium atomic clock.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a107848"/>
+  Until the 1990s the cesium beam atomic clock was the most accurate standard of
+  <xref articleid="10134">
+   atomic time
+  </xref>
+  and frequency. The principle underlying the cesium clock is that all atoms of cesium-133 are identical and, when they absorb or release energy, produce radiation of exactly the same frequency, which makes the atoms perfect timepieces. Since that time, laboratories around the world have steadily improved the accuracy of cesium fountain atomic clocks. These clocks get their name from the fountainlike motion of the constituent cesium gas. The timing process begins by introducing cesium gas into a vacuum chamber and directing six infrared
+  <xref articleid="47248">
+   lasers
+  </xref>
+  (located at right angles to one another) to compact and cool (slow down) the cesium atoms to a temperature near
+  <xref articleid="3400">
+   absolute zero
+  </xref>
+  . Then two vertical lasers are used to nudge the atoms up about a metre (creating a “fountain”) through a microwave-filled cavity. The microwave frequency is tuned to maximize the observed fluorescence, which occurs at the natural resonance frequency (9,192,631,770 Hz) of the cesium atom. Because the round-trip through the microwave cavity takes about a second, control of the microwave frequency has resulted in greater timekeeping accuracy. The best cesium fountain atomic clocks are now predicted to be off by less than one second in more than 50 million years.
+ </p>
+ <signature>
+  Jonathan D. Betts
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

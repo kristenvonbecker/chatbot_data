@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="59299" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 00:25:55" url="/article/permutations-and-combinations/59299" version="6">
+ <title>
+  permutations and combinations
+ </title>
+ <p>
+  <e type="bold">
+   permutations and combinations
+  </e>
+  , the various ways in which objects from a set may be selected, generally without replacement, to form subsets. This selection of subsets is called a permutation when the order of selection is a factor, a combination when order is not a factor. By considering the ratio of the number of desired subsets to the number of all possible subsets for many games of chance in the 17th century, the French mathematicians
+  <xref articleid="108317">
+   Blaise Pascal
+  </xref>
+  and
+  <xref articleid="34048">
+   Pierre de Fermat
+  </xref>
+  gave impetus to the development of
+  <xref articleid="109623">
+   combinatorics
+  </xref>
+  and
+  <xref articleid="109439">
+   probability theory
+  </xref>
+  .
+ </p>
+ <p>
+  The concepts of and differences between permutations and combinations can be illustrated by examination of all the different ways in which a pair of objects can be selected from five distinguishable objects—such as the letters A, B, C, D, and E. If both the letters selected and the order of selection are considered, then the following 20 outcomes are possible:
+  <formula>
+   <inlinemedia id="i14408" mediaid="14408" url="/08/14408-004-C021CA11.jpg"/>
+  </formula>
+ </p>
+ <p>
+  Each of these 20 different possible selections is called a permutation. In particular, they are called the permutations of five objects taken two at a time, and the number of such permutations possible is denoted by the symbol
+  <sub>
+   5
+  </sub>
+  <e type="italic">
+   P
+  </e>
+  <sub>
+   2
+  </sub>
+  , read “5 permute 2.” In general, if there are
+  <e type="italic">
+   n
+  </e>
+  objects available from which to select, and permutations (
+  <e type="italic">
+   P
+  </e>
+  ) are to be formed using
+  <e type="italic">
+   k
+  </e>
+  of the objects at a time, the number of different permutations possible is denoted by the symbol
+  <sub>
+   <e type="italic">
+    n
+   </e>
+  </sub>
+  <e type="italic">
+   P
+  </e>
+  <sub>
+   <e type="italic">
+    k
+   </e>
+  </sub>
+  . A formula for its evaluation is
+  <formula>
+   <sub>
+    <e type="italic">
+     n
+    </e>
+   </sub>
+   <e type="italic">
+    P
+   </e>
+   <sub>
+    <e type="italic">
+     k
+    </e>
+   </sub>
+   =
+   <e type="italic">
+    n
+   </e>
+   !/(
+   <e type="italic">
+    n
+   </e>
+   −
+   <e type="italic">
+    k
+   </e>
+   )!
+  </formula>
+  The expression
+  <e type="italic">
+   n
+  </e>
+  !—read “
+  <e type="italic">
+   n
+  </e>
+  <xref articleid="33545">
+   factorial
+  </xref>
+  ”—indicates that all the consecutive positive integers from 1 up to and including
+  <e type="italic">
+   n
+  </e>
+  are to be multiplied together, and 0! is defined to equal 1. For example, using this formula, the number of permutations of five objects taken two at a time is
+  <formula>
+   <inlinemedia id="i14406" mediaid="14406" url="/06/14406-004-2A89BF34.jpg"/>
+  </formula>
+ </p>
+ <p>
+  (For
+  <e type="italic">
+   k
+  </e>
+  =
+  <e type="italic">
+   n
+  </e>
+  ,
+  <sub>
+   <e type="italic">
+    n
+   </e>
+  </sub>
+  <e type="italic">
+   P
+  </e>
+  <sub>
+   <e type="italic">
+    k
+   </e>
+  </sub>
+  =
+  <e type="italic">
+   n
+  </e>
+  ! Thus, for 5 objects there are 5! = 120 arrangements.)
+ </p>
+ <p>
+  For combinations,
+  <e type="italic">
+   k
+  </e>
+  objects are selected from a set of
+  <e type="italic">
+   n
+  </e>
+  objects to produce subsets without ordering. Contrasting the previous permutation example with the corresponding combination, the AB and BA subsets are no longer distinct selections; by eliminating such cases there remain only 10 different possible subsets—AB, AC, AD, AE, BC, BD, BE, CD, CE, and DE.
+ </p>
+ <p>
+  The number of such subsets is denoted by
+  <sub>
+   <e type="italic">
+    n
+   </e>
+  </sub>
+  <e type="italic">
+   C
+  </e>
+  <sub>
+   <e type="italic">
+    k
+   </e>
+  </sub>
+  , read “
+  <e type="italic">
+   n
+  </e>
+  choose
+  <e type="italic">
+   k
+  </e>
+  .” For combinations, since
+  <e type="italic">
+   k
+  </e>
+  objects have
+  <e type="italic">
+   k
+  </e>
+  ! arrangements, there are
+  <e type="italic">
+   k
+  </e>
+  ! indistinguishable permutations for each choice of
+  <e type="italic">
+   k
+  </e>
+  objects; hence dividing the permutation formula by
+  <e type="italic">
+   k
+  </e>
+  ! yields the following combination formula:
+  <formula>
+   <inlinemedia id="i14405" mediaid="14405" url="/05/14405-004-5E09C8F7.jpg"/>
+  </formula>
+ </p>
+ <p>
+  This is the same as the (
+  <e type="italic">
+   n
+  </e>
+  ,
+  <e type="italic">
+   k
+  </e>
+  ) binomial coefficient (
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="79241">
+   binomial theorem
+  </xref>
+  ; these combinations are sometimes called
+  <e type="italic">
+   k
+  </e>
+  -subsets). For example, the number of combinations of five objects taken two at a time is
+  <formula>
+   <inlinemedia id="i14404" mediaid="14404" url="/04/14404-004-196D8E11.jpg"/>
+  </formula>
+ </p>
+ <p>
+  The formulas for
+  <sub>
+   <e type="italic">
+    n
+   </e>
+  </sub>
+  <e type="italic">
+   P
+  </e>
+  <sub>
+   <e type="italic">
+    k
+   </e>
+  </sub>
+  and
+  <sub>
+   <e type="italic">
+    n
+   </e>
+  </sub>
+  <e type="italic">
+   C
+  </e>
+  <sub>
+   <e type="italic">
+    k
+   </e>
+  </sub>
+  are called counting formulas since they can be used to count the number of possible permutations or combinations in a given situation without having to list them all.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

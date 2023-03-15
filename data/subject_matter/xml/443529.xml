@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="443529" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 05:51:12" url="/article/artificial-intelligence-situated-approach/443529" version="3">
+ <title>
+  artificial intelligence, situated approach
+ </title>
+ <p>
+  <e type="bold">
+   artificial intelligence, situated approach
+  </e>
+  , method of achieving
+  <xref articleid="9711">
+   artificial intelligence
+  </xref>
+  (AI). Traditional AI has by and large attempted to build disembodied intelligences whose only interaction with the world has been indirect (
+  <xref articleid="443525">
+   CYC
+  </xref>
+  , for example).
+  <xref articleid="443528">
+   Nouvelle AI
+  </xref>
+  , on the other hand, attempts to build embodied intelligences situated in the real world—a method that has come to be known as the situated approach. Australian AI researcher
+  <xref articleid="344566">
+   Rodney Brooks
+  </xref>
+  quoted approvingly from the brief sketches that the British mathematician and logician
+  <xref articleid="73839">
+   Alan Turing
+  </xref>
+  gave in 1948 and 1950 of the situated approach. By equipping a machine “with the best sense organs that money can buy,” Turing wrote, the machine might be taught “to understand and speak English” by a process that would “follow the normal teaching of a child.” Turing contrasted this with the approach to AI that focuses on abstract activities, such as the playing of
+  <xref articleid="105867">
+   chess
+  </xref>
+  . He advocated that both approaches be pursued, but, until nearly the end of the 20th century, little attention was paid to the situated approach.
+ </p>
+ <p>
+  The situated approach was also anticipated in the writings of the philosopher Bert Dreyfus of the University of California at Berkeley. Beginning in the early 1960s, Dreyfus opposed the physical symbol system hypothesis, arguing that intelligent behaviour cannot be completely captured by symbolic descriptions. As an alternative, Dreyfus advocated a view of intelligence that stressed the need for a body that could move about, interacting directly with tangible physical objects. Once reviled by advocates of AI, Dreyfus is now regarded as a prophet of the situated approach.
+ </p>
+ <p>
+  Critics of nouvelle AI point out the failure to produce a system exhibiting anything like the complexity of behaviour found in real insects. Suggestions by researchers that their nouvelle systems may soon be conscious and possess language seem entirely premature.
+ </p>
+ <signature>
+  B.J. Copeland
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

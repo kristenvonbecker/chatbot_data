@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="384399" articletypeid="1" language="en_us" lastupdate="2021-Dec-14 13:24:24" url="/article/infinity/384399" version="10">
+ <title>
+  infinity
+ </title>
+ <p>
+  <e type="bold">
+   infinity
+  </e>
+  , the concept of something that is unlimited, endless, without bound. The common symbol for infinity, ∞, was invented by the English mathematician
+  <xref articleid="75990">
+   John Wallis
+  </xref>
+  in 1655. Three main types of infinity may be distinguished: the mathematical, the physical, and the metaphysical. Mathematical infinities occur, for instance, as the number of points on a continuous line or as the size of the endless sequence of counting numbers: 1, 2, 3,…. Spatial and temporal concepts of infinity occur in physics when one asks if there are infinitely many stars or if the universe will last forever. In a metaphysical discussion of God or the Absolute, there are questions of whether an ultimate entity must be infinite and whether lesser things could be infinite as well.
+ </p>
+ <h1 id="h252427">
+  <title>
+   Mathematical infinities
+  </title>
+  <p>
+   The ancient Greeks expressed infinity by the word
+   <e type="italic">
+    apeiron
+   </e>
+   , which had connotations of being unbounded, indefinite, undefined, and formless. One of the earliest appearances of infinity in mathematics regards the ratio between the diagonal and the side of a square.
+   <xref articleid="62073">
+    Pythagoras
+   </xref>
+   (c. 580–500
+   <e type="smallcap">
+    bce
+   </e>
+   ) and his followers initially believed that any aspect of the world could be expressed by an arrangement involving just the whole numbers (0, 1, 2, 3,…), but they were surprised to discover that the diagonal and the side of a square are
+   <xref articleid="126484">
+    incommensurable
+   </xref>
+   —that is, their lengths cannot both be expressed as whole-number multiples of any shared unit (or measuring stick). In modern mathematics this discovery is expressed by saying that the ratio is
+   <xref articleid="42816">
+    irrational
+   </xref>
+   and that it is the
+   <xref articleid="48305">
+    limit
+   </xref>
+   of an endless, nonrepeating decimal series. In the case of a square with sides of length 1, the diagonal is
+   <sqroot>
+    2
+   </sqroot>
+   , written as 1.414213562…, where the ellipsis (…) indicates an endless sequence of digits with no pattern.
+  </p>
+  <p>
+   Both
+   <xref articleid="108556">
+    Plato
+   </xref>
+   (428/427–348/347
+   <e type="smallcap">
+    bce
+   </e>
+   ) and
+   <xref articleid="108312">
+    Aristotle
+   </xref>
+   (384–322
+   <e type="smallcap">
+    bce
+   </e>
+   ) shared the general Greek abhorrence of the notion of infinity. Aristotle influenced subsequent thought for more than a millennium with his rejection of “actual” infinity (spatial, temporal, or numerical), which he distinguished from the “potential” infinity of being able to count without end. To avoid the use of actual infinity,
+   <xref articleid="33194">
+    Eudoxus of Cnidus
+   </xref>
+   (c. 400–350
+   <e type="smallcap">
+    bce
+   </e>
+   ) and
+   <xref articleid="109383">
+    Archimedes
+   </xref>
+   (c. 285–212/211
+   <e type="smallcap">
+    bce
+   </e>
+   ) developed a technique, later known as the
+   <xref articleid="33426">
+    method of exhaustion
+   </xref>
+   , whereby an area was calculated by halving the measuring unit at successive stages until the remaining area was below some fixed value (the remaining region having been “exhausted”).
+  </p>
+  <p>
+   The issue of infinitely small numbers led to the discovery of
+   <xref articleid="18631">
+    calculus
+   </xref>
+   in the late 1600s by the English mathematician
+   <xref articleid="108764">
+    Isaac Newton
+   </xref>
+   and the German mathematician
+   <xref articleid="47669">
+    Gottfried Wilhelm Leibniz
+   </xref>
+   . Newton introduced his own theory of infinitely small numbers, or
+   <xref articleid="42392">
+    infinitesimals
+   </xref>
+   , to justify the calculation of
+   <xref articleid="30012">
+    derivatives
+   </xref>
+   , or slopes. In order to find the slope (that is, the change in
+   <e type="italic">
+    y
+   </e>
+   over the change in
+   <e type="italic">
+    x
+   </e>
+   ) for a line touching a curve at a given point (
+   <e type="italic">
+    x
+   </e>
+   ,
+   <e type="italic">
+    y
+   </e>
+   ), he found it useful to look at the ratio between
+   <e type="italic">
+    d
+   </e>
+   <e type="italic">
+    y
+   </e>
+   and
+   <e type="italic">
+    d
+   </e>
+   <e type="italic">
+    x
+   </e>
+   , where
+   <e type="italic">
+    d
+   </e>
+   <e type="italic">
+    y
+   </e>
+   is an infinitesimal change in
+   <e type="italic">
+    y
+   </e>
+   produced by moving an infinitesimal amount
+   <e type="italic">
+    d
+   </e>
+   <e type="italic">
+    x
+   </e>
+   from
+   <e type="italic">
+    x
+   </e>
+   . Infinitesimals were heavily criticized, and much of the early history of analysis revolved around efforts to find an alternate, rigorous foundation for the subject. The use of infinitesimal numbers finally gained a firm footing with the development of
+   <xref articleid="111001" refid="h218300">
+    nonstandard analysis
+   </xref>
+   by the German-born mathematician Abraham Robinson in the 1960s.
+  </p>
+  <p>
+   <assembly id="a85037" url="/assembly/view/85037">
+    <title>
+     concentric circles and infinity
+    </title>
+    <media mediaid="91947" type="image" url="/47/91947-004-A0BA8A74.jpg"/>
+    <caption>
+     Concentric circles demonstrate that twice infinity is the same as infinity.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   A more direct use of infinity in mathematics arises with efforts to compare the sizes of infinite sets, such as the set of points on a line (
+   <xref articleid="62869">
+    real numbers
+   </xref>
+   ) or the set of counting numbers. Mathematicians are quickly struck by the fact that ordinary intuitions about numbers are misleading when talking about infinite sizes. Medieval thinkers were aware of the paradoxical fact that line segments of varying lengths seemed to have the same number of points. For instance, draw two concentric circles, one twice the radius (and thus twice the circumference) of the other, as shown in the
+   <assemblyref assemblyid="a85037">
+    figure
+   </assemblyref>
+   . Surprisingly, each point
+   <e type="italic">
+    P
+   </e>
+   on the outer circle can be paired with a unique point
+   <e type="italic">
+    P
+   </e>
+   ′ on the inner circle by drawing a line from their common centre
+   <e type="italic">
+    O
+   </e>
+   to
+   <e type="italic">
+    P
+   </e>
+   and labeling its intersection with the inner circle
+   <e type="italic">
+    P
+   </e>
+   ′. Intuition suggests that the outer circle should have twice as many points as the inner circle, but in this case infinity seems to be the same as twice infinity. In the early 1600s, the Italian scientist
+   <xref articleid="105766">
+    Galileo Galilei
+   </xref>
+   addressed this and a similar nonintuitive result now known as Galileo’s paradox. Galileo demonstrated that the set of counting numbers could be put in a one-to-one correspondence with the apparently much smaller set of their squares. He similarly showed that the set of counting numbers and their doubles (i.e., the set of even numbers) could be paired up. Galileo concluded that “we cannot speak of infinite quantities as being the one greater or less than or equal to another.” Such examples led the German mathematician
+   <xref articleid="29718">
+    Richard Dedekind
+   </xref>
+   in 1872 to suggest a definition of an infinite set as one that could be put in a one-to-one relationship with some proper subset.
+  </p>
+  <p>
+   The confusion about infinite numbers was resolved by the German mathematician
+   <xref articleid="20082">
+    Georg Cantor
+   </xref>
+   beginning in 1873. First Cantor rigorously demonstrated that the set of rational numbers (fractions) is the same size as the counting numbers; hence, they are called countable, or denumerable. Of course this came as no real shock, but later that same year Cantor proved the surprising result that not all infinities are equal. Using a so-called “diagonal argument,” Cantor showed that the size of the counting numbers is strictly less than the size of the real numbers. This result is known as Cantor’s theorem.
+  </p>
+  <p>
+   To compare sets, Cantor first distinguished between a specific set and the abstract notion of its size, or cardinality. Unlike a finite set, an infinite set can have the same cardinality as a proper subset of itself. Cantor used a diagonal argument to show that the cardinality of any set must be less than the cardinality of its power set—i.e., the set that contains all the given set’s possible subsets. In general, a set with
+   <e type="italic">
+    n
+   </e>
+   elements has a power set with 2
+   <sup>
+    <e type="italic">
+     n
+    </e>
+   </sup>
+   elements, and these two cardinalities are different even when
+   <e type="italic">
+    n
+   </e>
+   is infinite. Cantor called the sizes of his infinite sets “transfinite cardinals.” His arguments showed that there are transfinite cardinals of endlessly many different sizes (such as the cardinals of the set of counting numbers and the set of real numbers).
+  </p>
+  <p>
+   The transfinite cardinals include aleph-null (the size of the set of whole numbers), aleph-one (the next larger infinity), and the continuum (the size of real numbers). These three numbers are also written as ℵ
+   <sub>
+    0
+   </sub>
+   , ℵ
+   <sub>
+    1
+   </sub>
+   , and
+   <e type="italic">
+    c
+   </e>
+   , respectively. By definition ℵ
+   <sub>
+    0
+   </sub>
+   is less than ℵ
+   <sub>
+    1
+   </sub>
+   , and by Cantor’s theorem ℵ
+   <sub>
+    1
+   </sub>
+   is less than or equal to
+   <e type="italic">
+    c
+   </e>
+   . Along with a principle known as the
+   <xref articleid="384403">
+    axiom of choice
+   </xref>
+   , the proof method of Cantor’s theorem can be used to ensure an endless sequence of transfinite cardinals continuing past ℵ
+   <sub>
+    1
+   </sub>
+   to such numbers as ℵ
+   <sub>
+    2
+   </sub>
+   and ℵ
+   <sub>
+    ℵ
+    <sub>
+     0
+    </sub>
+   </sub>
+   .
+  </p>
+  <p>
+   The continuum problem is the question of which of the alephs is equal to the continuum cardinality. Cantor conjectured that
+   <e type="italic">
+    c
+   </e>
+   = ℵ
+   <sub>
+    1
+   </sub>
+   ; this is known as Cantor’s
+   <xref articleid="384404">
+    continuum hypothesis
+   </xref>
+   (CH). CH can also be thought of as stating that any set of points on the line either must be countable (of size less than or equal to ℵ
+   <sub>
+    0
+   </sub>
+   ) or must have a size as large as the entire space (be of size
+   <e type="italic">
+    c
+   </e>
+   ).
+  </p>
+  <p>
+   In the early 1900s a thorough theory of infinite sets was developed. This theory is known as ZFC, which stands for Zermelo-Fraenkel set theory with the axiom of choice. CH is known to be undecidable on the basis of the axioms in ZFC. In 1940 the Austrian-born logician
+   <xref articleid="37162">
+    Kurt Gödel
+   </xref>
+   was able to show that ZFC cannot disprove CH, and in 1963 the American mathematician
+   <xref articleid="85726">
+    Paul Cohen
+   </xref>
+   showed that ZFC cannot prove CH. Set theorists continue to explore ways to extend the ZFC axioms in a reasonable way so as to resolve CH. Recent work suggests that CH may be false and that the true size of
+   <e type="italic">
+    c
+   </e>
+   may be the larger infinity ℵ
+   <sub>
+    2
+   </sub>
+   .
+  </p>
+ </h1>
+ <h1 id="h252428">
+  <title>
+   Physical infinities
+  </title>
+  <p>
+   The science of physical infinities is much less developed than the science of mathematical infinities. The main reason is simply that the status of physical infinities is quite undecided. In physics one might look for infinities in space, time, divisibility, or dimensionality.
+  </p>
+  <p>
+   Although some have speculated that three-dimensional space is infinite, cosmologists generally believe that the universe is curved in such a way as to make it finite but unbounded—akin to the surface of a sphere. Some theories of cosmology view the universe as being embedded in a higher-dimensional superspace, which could perhaps be infinite in extent.
+  </p>
+  <p>
+   In the light of the
+   <xref articleid="79147">
+    big-bang model
+   </xref>
+   of the origin of the universe, cosmologists generally believe that the universe has a finitely long past; whether it might have an endless future is an open question. Under the “infinite future” view, space may continue much as it is now, with the galaxies drifting farther and farther apart, the stars burning to dust, and the remaining particles possibly decaying into radiation. Alternatively, in the “finite future” view, a cosmic catastrophe at some definite time in the future may destroy the universe: space may collapse to a point, or perhaps a parallel sheet of space (a “brane”) will collide with our universe, annihilating everything. In any of the catastrophic finite future scenarios, speculation exists that the end of the universe may be followed by the birth of a new universe, in which case the future may in some sense be infinite after all.
+  </p>
+  <p>
+   If matter were to be infinitely divisible, then each object would in principle contain a potentially infinite collection of particles. But
+   <xref articleid="110312">
+    quantum mechanics
+   </xref>
+   rules out, or at least poses a formidable barrier to, notions of endless divisibility.
+  </p>
+  <p>
+   There is also a possibility that physical reality might enjoy an infinite number of dimensions; indeed, quantum mechanics is often formulated in terms of an infinite-dimensional
+   <xref articleid="384376">
+    Hilbert space
+   </xref>
+   . But these dimensions are more useful fictions than solid realities.
+  </p>
+ </h1>
+ <h1 id="h252429">
+  <title>
+   Metaphysical infinities
+  </title>
+  <p>
+   Perhaps the most familiar context for discussing infinity is in metaphysics and theology. Cantor originated the distinction between the infinities of mathematics, physics, and metaphysics. Although Plato thought of the Absolute as finite, all theologians and metaphysicians from
+   <xref articleid="60438">
+    Plotinus
+   </xref>
+   (205–270
+   <e type="smallcap">
+    ce
+   </e>
+   ) on have supposed the Absolute to be infinite. What is meant by “the Absolute” depends, of course, upon the philosopher in question; it might be taken to mean God, an overarching universal mind, or simply the class of all possible thoughts.
+  </p>
+  <p>
+   The Bohemian mathematician
+   <xref articleid="80527">
+    Bernard Bolzano
+   </xref>
+   (1781–1848) formulated an argument for the infinitude of the class of all possible thoughts. If
+   <e type="italic">
+    T
+   </e>
+   is a thought, let
+   <e type="italic">
+    T
+   </e>
+   * stand for the notion “
+   <e type="italic">
+    T
+   </e>
+   is a thought.”
+   <e type="italic">
+    T
+   </e>
+   and
+   <e type="italic">
+    T
+   </e>
+   * are in turn distinct thoughts, so that, starting with any single thought
+   <e type="italic">
+    T
+   </e>
+   , one can obtain an endless sequence of possible thoughts:
+   <e type="italic">
+    T
+   </e>
+   ,
+   <e type="italic">
+    T
+   </e>
+   *,
+   <e type="italic">
+    T
+   </e>
+   **,
+   <e type="italic">
+    T
+   </e>
+   ***, and so on. Some view this as evidence that the Absolute is infinite.
+  </p>
+  <p>
+   The infinitude of the Absolute can in turn be used as evidence for the existence of infinite thoughts or of infinite mathematical forms. The reasoning here is based on the metaphysical notion that, as the greatest possible thing, the Absolute should in some sense be formally unknowable. That is, the Absolute should lie beyond any human attempt to describe it fully. This means that it should be impossible to formulate a simple property
+   <e type="italic">
+    P
+   </e>
+   and then to define the Absolute as the unique thing that enjoys property
+   <e type="italic">
+    P
+   </e>
+   .
+  </p>
+  <p>
+   This line of thought leads to what logicians call the reflection principle. According to the reflection principle, if
+   <e type="italic">
+    P
+   </e>
+   is any simply describable property enjoyed by the Absolute, then there must be something smaller than the Absolute that also has property
+   <e type="italic">
+    P
+   </e>
+   . The motivation for the reflection principle is that, if it were to fail for some property
+   <e type="italic">
+    P
+   </e>
+   , then the Absolute could be defined as the unique thing that has property
+   <e type="italic">
+    P
+   </e>
+   , thus violating the principle that the Absolute should transcend any human description of it.
+  </p>
+  <p>
+   Perhaps surprisingly, metaphysical-sounding notions such as the reflection principle are used by set theorists in their mathematical investigations of the levels of infinity. One can, for instance, use the reflection principle argument to argue for the existence of infinite sets: the Absolute universe of all sets is infinite; therefore, by reflection there must be an ordinary set that is also infinite.
+  </p>
+  <p>
+   There is a sense in which
+   <xref articleid="109532">
+    set theory
+   </xref>
+   can be thought of as a form of highly mathematical metaphysics. Conspicuously lacking, however, is any physical application for the transfinite numbers of set theory. Cantor himself conjectured that the universe might contain different types of matter, with the different types of matter decomposable into infinite sets of differing sizes. But nobody has ever found a way to incorporate this notion usefully into modern physics.
+  </p>
+  <signature>
+   Rudy Rucker
+  </signature>
+ </h1>
+ <h1 id="h252426">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Amir D. Aczel
+   </e>
+   ,
+   <e type="italic">
+    The Mystery of the Aleph: Mathematics, the Kabbalah, and the Search for Infinity
+   </e>
+   (2001), is a popular account of the history of infinity.
+   <e type="smallcap">
+    Rudy Rucker
+   </e>
+   ,
+   <e type="italic">
+    Infinity and the Mind: The Science and Philosophy of the Infinite
+   </e>
+   (1982), discusses the history of infinity and its mathematical, physical, and metaphysical aspects, expanding upon the topics mentioned in this article.
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

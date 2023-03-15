@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="71598" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 01:37:33" url="/article/telex/71598" version="2">
+ <title>
+  telex
+ </title>
+ <p>
+  <e type="bold">
+   telex
+  </e>
+  , international message-transfer service consisting of a network of teleprinters connected by a system of switched exchanges. Subscribers to a telex service can exchange textual communications and data directly and securely with one another. Communication is opened by entering the assigned call number of the destination subscriber. On older telex equipment, this is done using a dial or the keyboard on the sender’s teleprinter, but it can also be done via the keyboard on telex terminals or on personal computers connected to the telex network. The destination subscriber responds with an code verifying its identity, and the communication line is opened. The typed message is converted to a low-bit-rate electrical signal, which is transmitted over the network—usually channels leased from the telephone system and routed by switching centres operated by the telex provider. When the message arrives at the destination, it is either printed immediately or stored for subsequent printing or display on a monitor.
+ </p>
+ <p>
+  Telex systems originated in the United Kingdom and several other European countries during the early 1930s. In 1931 the American Telephone and Telegraph Company (AT&amp;T) introduced its teletypewriter exchange service, TWX. Telex systems in the United States continued to be operated by private corporations, while in most other countries they were operated by government agencies responsible for postal, telegraph, or telephone services. In 1962 the Western Union Telegraph Company established its Telex system in the United States (where the name Telex is a registered trademark); eight years later it acquired TWX from AT&amp;T. Telex and TWX could not communicate directly with one another because the keyboard coding schemes and transmission speeds were different for the two systems. The amalgamated systems were connected by processing computers that translated between the two codes during transmission. This permitted direct communication, though on a somewhat delayed basis. In subsequent decades telex systems around the world were modernized by computer-based switching, which provided enhanced performance and also allowed automated conversion to and from formats used in other data-transmission services.
+ </p>
+ <p>
+  Beginning in the 1980s, the ability to conduct high-speed digital communication—particularly fax transmission—over nonleased dial-up telephone lines led to a decline in the use of telex. Western Union sold its Telex network to AT&amp;T in 1990, before declaring bankruptcy in 1993. In 2008 both AT&amp;T and British Telecoms (BT) announced that they would no longer directly provide telex, though access to their telephone networks was obtained by smaller companies that continued to provide the service.
+ </p>
+ <p>
+  Telex is still available as a data-transmission service for applications in which high transmission speeds are not necessary or for areas where more modern data equipment may not be available. Owing to the secure transmission lines and the verification protocols exchanged between telex senders and receivers, transmitted telex messages are considered to be legally valid documents. For this reason the service is still used by many financial institutions. Telex is also still common on merchant ships.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

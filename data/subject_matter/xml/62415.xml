@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="62415" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 00:43:42" url="/article/radio-range/62415" version="2">
+ <title>
+  radio range
+ </title>
+ <p>
+  <e type="bold">
+   radio range
+  </e>
+  , in aerial navigation, a system of radio transmitting stations, each of which transmits a signal that not only carries identification but also is of intrinsic value to a navigator in fixing his position. The older “
+  <e type="italic">
+   A
+  </e>
+  –
+  <e type="italic">
+   N
+  </e>
+  ” type, dating from 1927, operates at low and medium frequencies. The only equipment needed in the aircraft is an ordinary radio receiver. Each station transmits
+  <xref articleid="53835">
+   International Morse Code
+  </xref>
+  letters
+  <e type="italic">
+   A
+  </e>
+  (· —) and
+  <e type="italic">
+   N
+  </e>
+  (— ·) in alternate lobes of its radiation pattern. In the narrow radiants where adjacent lobes overlap, the dots and dashes of the different Morse signals blend into a continuous tone. A pilot following the steady tone knows he is flying directly toward the station or away from it; when he strays off course, he knows, by virtue of which letter he hears (
+  <e type="italic">
+   A
+  </e>
+  or
+  <e type="italic">
+   N
+  </e>
+  ), which way to turn in order to get back on course.
+ </p>
+ <p>
+  Modern very-high-frequency omnidirectional range (VOR) has been developed in various forms since about 1930. It transmits two signals simultaneously in all directions. Operating in the very high frequency (VHF) range, it is less subject than the lower-frequency radio range to disturbances by day-night alternation, weather, and other causes. The two simultaneously emitted signals have a difference in electrical phase that varies precisely with the direction from the station. Special receiving equipment in the aircraft detects the difference and displays it to the pilot in the form of a bearing. Used with distance-measuring equipment (DME), VOR provides a basic point-to-point guidance system for airliners.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

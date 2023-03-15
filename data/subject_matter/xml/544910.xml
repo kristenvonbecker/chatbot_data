@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="544910" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 06:40:04" url="/article/heliosphere/544910" version="6">
+ <title>
+  heliosphere
+ </title>
+ <p>
+  <assembly id="a170702" url="/assembly/view/170702">
+   <media mediaid="124507" type="image" url="/07/124507-004-274443E7.jpg"/>
+   <caption>
+    Illustration of the heliosphere. The solar wind first encounters the interstellar medium at the bow shock. At the heliopause the outward pressure of the solar wind balances the pressure of the incoming interstellar medium.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   heliosphere
+  </e>
+  ,
+  <assemblyref assemblyid="a170702"/>
+  the region surrounding the
+  <xref articleid="110144">
+   Sun
+  </xref>
+  and the
+  <xref articleid="110143">
+   solar system
+  </xref>
+  that is filled with the solar magnetic field and the protons and electrons of the
+  <xref articleid="68567">
+   solar wind
+  </xref>
+  .
+ </p>
+ <p>
+  <assembly id="a123425" url="/assembly/view/123425">
+   <title>
+    interplanetary medium
+   </title>
+   <media mediaid="128139" type="image" url="/39/128139-004-6ADA3287.jpg"/>
+   <caption>
+    The heliospheric current sheet. Its shape results from the influence of the Sun’s rotating magnetic field on the plasma in the interplanetary medium.
+   </caption>
+   <credit>
+    Werner Heil/NASA
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a123425"/>
+  The solar magnetic field in the heliosphere has a dipole structure. The magnetic field lines that are carried outward from the Sun by the solar wind remain attached to the Sun’s surface. Because of the Sun’s rotation, the lines are drawn into a spiral structure. In one hemisphere (either the northern or the southern), the magnetic field lines are directed inward, and in the other they are directed outward. Between these two different hemispheres is a structure called the heliospheric current sheet.
+ </p>
+ <p>
+  The solar wind flows outward through the solar system into the
+  <xref articleid="42624">
+   interstellar medium
+  </xref>
+  (ISM) and begins to feel the effects of the ISM at the termination shock, where the solar wind starts to lose speed. The region beyond the termination shock in which the solar wind slows is called the heliosheath. Neutral
+  <xref articleid="110411">
+   atoms
+  </xref>
+  in the heliosheath form a “ribbon” that is probably caused by solar wind particles being reflected back into the solar system by the magnetic field in the ISM. At the outward boundary of the heliosheath is the
+  <xref articleid="39889">
+   heliopause
+  </xref>
+  , where the outward pressure of the solar wind balances the pressure of the incoming ISM. The heliopause is usually considered to be the boundary of the solar system and is about 123
+  <xref articleid="10001">
+   astronomical units
+  </xref>
+  (AU; 1 astronomical unit = 150 million km) from the Sun. (By comparison, Neptune, the outermost planet, is 30 AU from the Sun.)
+ </p>
+ <p>
+  It was originally thought that the heliosphere was stretched into a teardrop shape by its encounter with the ISM. The U.S. space probes
+  <xref articleid="75768">
+   Voyager
+  </xref>
+  1 and 2 crossed the termination shock at a distance of 94 and 84 AU from the Sun in 2004 and 2007, respectively. Since the two Voyagers are traveling out of the solar system in different directions, this implied that the heliosphere has an asymmetrical shape. However, subsequent observations of atoms in the heliosheath by the
+  <xref articleid="471246">
+   Cassini
+  </xref>
+  spacecraft orbiting
+  <xref articleid="110151">
+   Saturn
+  </xref>
+  and the Interstellar Boundary Explorer orbiting
+  <xref articleid="110147">
+   Earth
+  </xref>
+  showed the heliosphere was actually a sphere. Voyager 1 crossed the heliopause on August 25, 2012.
+ </p>
+ <signature>
+  Erik Gregersen
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,3040 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="110443" articletypeid="1" language="en_us" lastupdate="2022-Jul-28 08:00:25" url="/article/light/110443" version="26">
+ <title>
+  light
+ </title>
+ <p>
+  <assembly id="a91330" url="/assembly/view/91330">
+   <title>
+    visible spectrum of light
+   </title>
+   <media mediaid="27030" type="image" url="/30/27030-004-9960F136.jpg"/>
+   <caption>
+    When white light is spread apart by a prism or a diffraction grating, the colours of the visible spectrum appear. The colours vary according to their wavelengths. Violet has the highest frequencies and shortest wavelengths, and red has the lowest frequencies and the longest wavelengths.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   light
+  </e>
+  ,
+  <assemblyref assemblyid="a91330"/>
+  <xref articleid="106022">
+   electromagnetic radiation
+  </xref>
+  that can be detected by the
+  <xref articleid="109527">
+   human eye
+  </xref>
+  . Electromagnetic radiation occurs over an extremely wide range of
+  <xref articleid="76325">
+   wavelengths
+  </xref>
+  , from
+  <xref articleid="35974">
+   gamma rays
+  </xref>
+  with wavelengths less than about 1 × 10
+  <sup>
+   −11
+  </sup>
+  metre to
+  <xref articleid="473149">
+   radio waves
+  </xref>
+  measured in metres. Within that broad spectrum the wavelengths visible to humans occupy a very narrow band, from about 700 nanometres (nm; billionths of a metre) for red light down to about 400 nm for violet light. The spectral regions adjacent to the visible band are often referred to as light also,
+  <xref articleid="42403">
+   infrared
+  </xref>
+  at the one end and
+  <xref articleid="74181">
+   ultraviolet
+  </xref>
+  at the other. The
+  <xref articleid="471069">
+   speed of light
+  </xref>
+  in a vacuum is a fundamental physical constant, the currently accepted value of which is exactly 299,792,458 metres per second, or about 186,282 miles per second.
+ </p>
+ <p>
+  <assembly id="a158311" url="/assembly/view/158311">
+   <title>
+    Sun
+   </title>
+   <media mediaid="150780" type="image" url="/80/150780-004-83AAD576.jpg"/>
+   <caption>
+    The Sun shining from behind clouds.
+   </caption>
+   <credit>
+    © Matthew Bowden/Fotolia
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a158311"/>
+  No single answer to the question “What is light?” satisfies the many contexts in which light is experienced, explored, and exploited. The physicist is interested in the physical properties of light, the artist in an aesthetic appreciation of the visual world. Through the sense of sight, light is a primary tool for perceiving the world and communicating within it. Light from the
+  <xref articleid="110144">
+   Sun
+  </xref>
+  warms the
+  <xref articleid="110147">
+   Earth
+  </xref>
+  , drives global
+  <xref articleid="76362">
+   weather
+  </xref>
+  patterns, and initiates the life-sustaining process of
+  <xref articleid="108553">
+   photosynthesis
+  </xref>
+  . On the grandest scale, light’s interactions with
+  <xref articleid="51438">
+   matter
+  </xref>
+  have helped shape the structure of the
+  <xref articleid="74362">
+   universe
+  </xref>
+  . Indeed, light provides a window on the universe, from
+  <xref articleid="26473">
+   cosmological
+  </xref>
+  to atomic scales. Almost all of the information about the rest of the universe reaches Earth in the form of electromagnetic radiation. By interpreting that radiation,
+  <xref articleid="108656">
+   astronomers
+  </xref>
+  can glimpse the earliest epochs of the universe, measure the general expansion of the universe, and determine the chemical composition of
+  <xref articleid="110472">
+   stars
+  </xref>
+  and the
+  <xref articleid="42624">
+   interstellar medium
+  </xref>
+  . Just as the invention of the
+  <xref articleid="111077">
+   telescope
+  </xref>
+  dramatically broadened exploration of the universe, so too the invention of the
+  <xref articleid="108723">
+   microscope
+  </xref>
+  opened the intricate world of the
+  <xref articleid="106125">
+   cell
+  </xref>
+  . The analysis of the frequencies of light emitted and absorbed by
+  <xref articleid="110411">
+   atoms
+  </xref>
+  was a principal impetus for the development of
+  <xref articleid="110312">
+   quantum mechanics
+  </xref>
+  . Atomic and molecular spectroscopies continue to be primary tools for probing the structure of matter, providing ultrasensitive tests of atomic and molecular models and contributing to studies of fundamental
+  <xref articleid="110114">
+   photochemical reactions
+  </xref>
+  .
+ </p>
+ <p>
+  Light transmits spatial and temporal information. This property forms the basis of the fields of
+  <xref articleid="108567">
+   optics
+  </xref>
+  and optical communications and a myriad of related technologies, both mature and emerging. Technological applications based on the manipulations of light include
+  <xref articleid="47248">
+   lasers
+  </xref>
+  ,
+  <xref articleid="40823">
+   holography
+  </xref>
+  , and
+  <xref articleid="34170">
+   fibre-optic
+  </xref>
+  <xref articleid="110258">
+   telecommunications systems
+  </xref>
+  .
+ </p>
+ <p>
+  In most everyday circumstances, the properties of light can be derived from the theory of classical
+  <xref articleid="106021">
+   electromagnetism
+  </xref>
+  , in which light is described as coupled
+  <xref articleid="32278">
+   electric
+  </xref>
+  and
+  <xref articleid="50022">
+   magnetic fields
+  </xref>
+  propagating through space as a traveling wave. However, this wave theory, developed in the mid-19th century, is not sufficient to explain the properties of light at very low intensities. At that level a quantum theory is needed to explain the characteristics of light and to explain the interactions of light with atoms and
+  <xref articleid="53247">
+   molecules
+  </xref>
+  . In its simplest form, quantum theory describes light as consisting of discrete packets of energy, called
+  <xref articleid="59817">
+   photons
+  </xref>
+  . However, neither a classical wave model nor a classical particle model correctly describes light; light has a dual nature that is revealed only in quantum mechanics. This surprising
+  <xref articleid="76323">
+   wave-particle duality
+  </xref>
+  is shared by all of the primary constituents of nature (e.g.,
+  <xref articleid="32316">
+   electrons
+  </xref>
+  have both particle-like and wavelike aspects). Since the mid-20th century, a more comprehensive theory of light, known as
+  <xref articleid="62163">
+   quantum electrodynamics
+  </xref>
+  (QED), has been regarded by physicists as complete. QED combines the ideas of classical electromagnetism, quantum mechanics, and the special theory of
+  <xref articleid="109465">
+   relativity
+  </xref>
+  .
+ </p>
+ <p>
+  This article focuses on the physical characteristics of light and the theoretical models that describe the nature of light. Its major themes include introductions to the fundamentals of geometrical optics, classical electromagnetic waves and the interference effects associated with those waves, and the foundational ideas of the quantum theory of light. More detailed and technical presentations of these topics can be found in the articles
+  <xref articleid="108567">
+   optics
+  </xref>
+  ,
+  <xref articleid="106022">
+   electromagnetic radiation
+  </xref>
+  ,
+  <xref articleid="110312">
+   quantum mechanics
+  </xref>
+  , and
+  <xref articleid="62163">
+   quantum electrodynamics
+  </xref>
+  .
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="109465">
+   relativity
+  </xref>
+  for details of how contemplation of the speed of light as measured in different reference frames was pivotal to the development of
+  <xref articleid="106018">
+   Albert Einstein
+  </xref>
+  ’s theory of special relativity in 1905.
+ </p>
+ <h1 id="h258388">
+  <title>
+   Theories of light through history
+  </title>
+  <h2 id="h258389">
+   <title>
+    Ray theories in the ancient world
+   </title>
+   <p>
+    <assembly id="a123097" url="/assembly/view/123097">
+     <title>
+      Pythagoras
+     </title>
+     <media mediaid="127557" type="image" url="/57/127557-004-EB8991DF.jpg"/>
+     <caption>
+      Pythagoras, portrait bust.
+     </caption>
+     <credit>
+      © Photos.com/Jupiterimages
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a123097"/>
+    While there is clear evidence that simple optical instruments such as plane and curved
+    <xref articleid="52946">
+     mirrors
+    </xref>
+    and convex
+    <xref articleid="47770">
+     lenses
+    </xref>
+    were used by a number of early civilizations,
+    <xref articleid="106269">
+     ancient Greek
+    </xref>
+    philosophers are generally credited with the first formal speculations about the nature of light. The conceptual hurdle of distinguishing the
+    <xref articleid="109527">
+     human perception of visual effects
+    </xref>
+    from the physical nature of light hampered the development of theories of light. Contemplation of the mechanism of vision dominated these early studies.
+    <xref articleid="62073">
+     Pythagoras
+    </xref>
+    (
+    <e type="italic">
+     c.
+    </e>
+    500
+    <e type="smallcap">
+     bce
+    </e>
+    ) proposed that sight is caused by visual rays emanating from the eye and striking objects, whereas
+    <xref articleid="32550">
+     Empedocles
+    </xref>
+    (
+    <e type="italic">
+     c.
+    </e>
+    450
+    <e type="smallcap">
+     bce
+    </e>
+    ) seems to have developed a model of vision in which light was emitted both by objects and the eye.
+    <xref articleid="32785">
+     Epicurus
+    </xref>
+    (
+    <e type="italic">
+     c.
+    </e>
+    300
+    <e type="smallcap">
+     bce
+    </e>
+    ) believed that light is emitted by sources other than the eye and that vision is produced when light reflects off objects and enters the eye.
+    <xref articleid="33178">
+     Euclid
+    </xref>
+    (
+    <e type="italic">
+     c.
+    </e>
+    300
+    <e type="smallcap">
+     bce
+    </e>
+    ), in his
+    <e type="italic">
+     Optics
+    </e>
+    , presented a law of
+    <xref articleid="63017">
+     reflection
+    </xref>
+    and discussed the propagation of light rays in straight lines.
+    <xref articleid="61778">
+     Ptolemy
+    </xref>
+    (
+    <e type="italic">
+     c.
+    </e>
+    100
+    <e type="smallcap">
+     ce
+    </e>
+    ) undertook one of the first quantitative studies of the
+    <xref articleid="63033">
+     refraction
+    </xref>
+    of light as it passes from one transparent medium to another, tabulating pairs of angles of incidence and transmission for combinations of several media.
+   </p>
+   <p>
+    <assembly id="a161955" url="/assembly/view/161955">
+     <title>
+      Roger Bacon
+     </title>
+     <media mediaid="147406" type="image" url="/06/147406-004-CEEDC2D2.jpg"/>
+     <caption>
+      English Franciscan philosopher and educational reformer Roger Bacon shown in his observatory at the Franciscan monastery, Oxford, England, engraving c. 1867.
+     </caption>
+     <credit>
+      © Photos.com/Thinkstock
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a161955"/>
+    With the decline of the Greco-Roman realm, scientific progress shifted to the Islamic world. In particular,
+    <xref articleid="50418">
+     al-Maʾmūn
+    </xref>
+    , the seventh
+    <xref articleid="3236">
+     ʿAbbāsid
+    </xref>
+    <xref articleid="18680">
+     caliph
+    </xref>
+    of Baghdad, founded the House of Wisdom (Bayt al-Hikma) in 830
+    <e type="smallcap">
+     ce
+    </e>
+    to translate, study, and improve upon Hellenistic works of science and philosophy. Among the initial scholars were
+    <xref articleid="45366">
+     al-Khwārizmī
+    </xref>
+    and
+    <xref articleid="45485">
+     al-Kindī
+    </xref>
+    . Known as the “philosopher of the Arabs,” al-Kindī extended the concept of rectilinearly propagating light rays and discussed the mechanism of vision. By 1000, the
+    <xref articleid="108670">
+     Pythagorean
+    </xref>
+    model of light had been abandoned, and a ray model, containing the basic conceptual elements of what is now known as geometrical optics, had emerged. In particular,
+    <xref articleid="5710">
+     Ibn al-Haytham
+    </xref>
+    (Latinized as Alhazen), in
+    <e type="italic">
+     Kitab al-manazir
+    </e>
+    (
+    <e type="italic">
+     c.
+    </e>
+    1038; “Optics”), correctly attributed vision to the passive reception of light rays reflected from objects rather than an active emanation of light rays from the eyes. He also studied the mathematical properties of the reflection of light from spherical and parabolic mirrors and drew detailed pictures of the optical components of the human eye. Ibn al-Haytham’s work was translated into Latin in the 13th century and was a motivating influence on the
+    <xref articleid="35137">
+     Franciscan
+    </xref>
+    friar and natural philosopher
+    <xref articleid="11664">
+     Roger Bacon
+    </xref>
+    . Bacon studied the propagation of light through simple lenses and is credited as one of the first to have described the use of lenses to correct vision.
+   </p>
+  </h2>
+  <h2 id="h258390">
+   <title>
+    Early particle and wave theories
+   </title>
+   <p>
+    With the dawn of the 17th century, significant progress was reawakened in Europe.
+    <xref articleid="108723" refid="h8853">
+     Compound microscopes
+    </xref>
+    were first constructed in the Netherlands between 1590 and 1608 (probably by Hans and Zacharias Jansen), and most sources credit another Dutchman,
+    <xref articleid="48449">
+     Hans Lippershey
+    </xref>
+    , with the invention of the telescope in 1608. The Italian astronomer
+    <xref articleid="105766">
+     Galileo
+    </xref>
+    quickly improved upon the design of the
+    <xref articleid="111077" refid="h44206">
+     refracting telescope
+    </xref>
+    and used it in his discoveries of the moons of
+    <xref articleid="110150">
+     Jupiter
+    </xref>
+    and the rings of
+    <xref articleid="110151">
+     Saturn
+    </xref>
+    in 1610. (Refraction refers to the passage of light from one medium into another—in this case, from air into a glass lens.) The German astronomer
+    <xref articleid="105767">
+     Johannes Kepler
+    </xref>
+    presented an approximate mathematical analysis of the focusing properties of lenses in
+    <e type="italic">
+     Dioptrice
+    </e>
+    (1611). An empirical advance was made by the Dutch astronomer
+    <xref articleid="105549">
+     Willebrord Snell
+    </xref>
+    in 1621 with his discovery of the mathematical relation (
+    <xref articleid="68375">
+     Snell’s law
+    </xref>
+    ) between the angles of incidence and transmission for a light ray refracting through an interface between two media. In 1657 the French mathematician
+    <xref articleid="34048">
+     Pierre de Fermat
+    </xref>
+    presented an intriguing derivation of Snell’s law based on
+    <xref articleid="34051">
+     his principle of least time
+    </xref>
+    , which asserted that light follows the path of minimum time in traveling from one point to another. The posthumous publication of the Jesuit mathematician Francesco Grimaldi’s studies in 1665 first described what are now called
+    <xref articleid="30419">
+     diffraction
+    </xref>
+    effects, in which light passing an obstacle is seen to penetrate into the geometrical shadow. In 1676 the Danish astronomer
+    <xref articleid="83854">
+     Ole Rømer
+    </xref>
+    used his measurements of the changes in the apparent orbital periods of the moons of Jupiter over the course of a year to deduce an approximate value for the speed of light. The significance of Rømer’s work was the realization that the speed of light is not infinite.
+   </p>
+   <p>
+    <assembly id="a188951" url="/assembly/view/188951">
+     <title>
+      René Descartes
+     </title>
+     <media mediaid="176962" type="image" url="/62/176962-004-CEA12B6E.jpg"/>
+     <caption>
+      René Descartes.
+     </caption>
+     <credit>
+      National Library of Medicine, Bethesda, Maryland
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a188951"/>
+    Seminal physical models of the nature of light were developed in parallel with the many empirical discoveries of the 17th century. Two competing models of light, as a collection of fast-moving particles and as a propagating wave, were advanced. In
+    <e type="italic">
+     La Dioptrique
+    </e>
+    (1637), French philosopher-mathematician
+    <xref articleid="108563">
+     René Descartes
+    </xref>
+    described light as a pressure wave transmitted at infinite speed through a pervasive elastic medium. The prominent English physicist
+    <xref articleid="40979">
+     Robert Hooke
+    </xref>
+    studied diffraction effects and thin-film interference and concluded in
+    <e type="italic">
+     Micrographia
+    </e>
+    (1665) that light is a rapid vibration of any medium through which it propagates. In his
+    <e type="italic">
+     Traité de la Lumière
+    </e>
+    (1690; “Treatise on Light”), the Dutch mathematician-astronomer
+    <xref articleid="41658">
+     Christiaan Huygens
+    </xref>
+    formulated the first detailed wave theory of light, in the context of which he was also able to derive the laws of reflection and refraction.
+   </p>
+   <p>
+    The most prominent advocate of a particle theory of light was
+    <xref articleid="108764">
+     Isaac Newton
+    </xref>
+    . Newton’s careful investigations into the properties of light in the 1660s led to his discovery that white light consists of a mixture of colours. He struggled with a formulation of the nature of light, ultimately asserting in
+    <e type="italic">
+     Opticks
+    </e>
+    (1704) that light consists of a stream of corpuscles, or particles. To reconcile his particle model with the known law of refraction, Newton speculated that transparent objects (such as glass) exert attractive forces on the particles, with the consequence that the speed of light in a transparent medium is always greater than the speed of light in a vacuum. He also postulated that particles of different colours of light have slightly different masses, leading to different speeds in transparent media and hence different angles of refraction. Newton presented his speculations in
+    <e type="italic">
+     Opticks
+    </e>
+    in the form of a series of queries rather than as a set of postulates, possibly conveying an ambivalence regarding the ultimate nature of light. Because of his immense authority in the scientific community, there were few challenges to his particle model of light in the century after his death in 1727.
+   </p>
+   <p>
+    Newton’s corpuscular model survived into the early years of the 19th century, at which time evidence for the wave nature of light became overwhelming. Theoretical and experimental work in the mid to late 19th century convincingly established light as an electromagnetic wave, and the issue seemed to be resolved by 1900. With the arrival of
+    <xref articleid="110312">
+     quantum mechanics
+    </xref>
+    in the early decades of the 20th century, however, the controversy over the nature of light resurfaced. As will be seen in the following sections, this scientific conflict between particle and wave models of light permeates the history of the subject.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h258391">
+  <title>
+   Geometrical optics: light as rays
+  </title>
+  <p>
+   A detailed understanding of the nature of light was not needed for the development, beginning in the 1600s, of a practical science of
+   <xref articleid="108567">
+    optics
+   </xref>
+   and optical instrument design. Rather, a set of empirical rules describing the behaviour of light as it traverses transparent materials and reflects off smooth surfaces was adequate to support practical advances in optics. Known collectively today as geometrical optics, the rules constitute an extremely useful, though very approximate, model of light. Their primary applications are the analysis of optical systems—
+   <xref articleid="18803">
+    cameras
+   </xref>
+   , microscopes, telescopes—and the explanation of simple optical phenomena in nature.
+  </p>
+  <h2 id="h258392">
+   <title>
+    Light rays
+   </title>
+   <p>
+    The basic element in geometrical optics is the light ray, a hypothetical construct that indicates the direction of the propagation of light at any point in space. The origin of this concept dates back to early speculations regarding the nature of light. By the 17th century the Pythagorean notion of visual rays had long been abandoned, but the observation that light travels in straight lines led naturally to the development of the ray concept. It is easy to imagine representing a narrow beam of light by a collection of parallel arrows—a bundle of rays. As the beam of light moves from one medium to another, reflects off surfaces, disperses, or comes to a focus, the bundle of rays traces the beam’s progress in a simple geometrical manner.
+   </p>
+   <p>
+    Geometrical optics consists of a set of rules that determine the paths followed by light rays. In any uniform medium the rays travel in straight lines. The light emitted by a small localized source is represented by a collection of rays pointing radially outward from an idealized “point source.” A collection of parallel rays is used to represent light flowing with uniform intensity through space; examples include the light from a distant star and the light from a
+    <xref articleid="47248">
+     laser
+    </xref>
+    . The formation of a sharp shadow when an object is illuminated by a parallel beam of light is easily explained by tracing the paths of the rays that are not blocked by the object.
+   </p>
+  </h2>
+  <h2 id="h258393">
+   <title>
+    Reflection and refraction
+   </title>
+   <p>
+    <assembly id="a91333" url="/assembly/view/91333">
+     <title>
+      angle of incidence and angle of reflection
+     </title>
+     <media mediaid="96587" type="image" url="/87/96587-004-A0E35F35.jpg"/>
+     <caption>
+      For a smooth surface the angle of incidence (θ
+      <sub>
+       1
+      </sub>
+      ) equals the angle of reflection (θ
+      <sub>
+       2
+      </sub>
+      ), as measured with reference to the normal (line perpendicular) to the surface.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assembly id="a91831" url="/assembly/view/91831">
+     <title>
+      reflection of light in a mirror
+     </title>
+     <media mediaid="96588" type="image" url="/88/96588-004-522003C5.jpg"/>
+     <caption>
+      According to the law of reflection, images are reflected from a smooth surface, such as a mirror, at the same angle (θ
+      <sub>
+       2
+      </sub>
+      ) as the incidence angle (θ
+      <sub>
+       1
+      </sub>
+      ). When the eye “sees” an object in three-dimensional space in a mirror, it is actually viewing an image along sight lines created by the reflection of light from the surface of the mirror.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assembly id="a91334" url="/assembly/view/91334">
+     <title>
+      diffuse reflection of light
+     </title>
+     <media mediaid="96589" type="image" url="/89/96589-004-D948B367.jpg"/>
+     <caption>
+      When light strikes rough surfaces, it reflects at many angles. This diffuse reflection enables illuminated objects to be seen from almost any line-of-sight location.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a91333"/>
+    <assemblyref assemblyid="a91831"/>
+    <assemblyref assemblyid="a91334"/>
+    Light rays change direction when they reflect off a surface, move from one transparent medium into another, or travel through a medium whose composition is continuously changing. The law of reflection states that, on reflection from a smooth surface, the angle of the reflected ray is equal to the angle of the incident ray. (By convention, all angles in geometrical optics are measured with respect to the normal to the surface—that is, to a line perpendicular to the surface.) The reflected ray is always in the plane defined by the incident ray and the normal to the surface. The law of reflection can be used to understand the images produced by plane and curved mirrors. Unlike mirrors, most natural surfaces are rough on the scale of the wavelength of light, and, as a consequence, parallel incident light rays are reflected in many different directions, or diffusely. Diffuse reflection is responsible for the ability to see most illuminated surfaces from any position—rays reach the eyes after reflecting off every portion of the surface.
+   </p>
+   <p>
+    <assembly id="a91336" url="/assembly/view/91336">
+     <title>
+      law of refraction
+     </title>
+     <media mediaid="96591" type="image" url="/91/96591-004-959BC455.jpg"/>
+     <caption>
+      The law of refraction, or Snell’s law, predicts the angle at which a light ray will bend, or refract, as it passes from one medium to another.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a91336"/>
+    When light traveling in one transparent medium encounters a boundary with a second transparent medium (e.g., air and glass), a portion of the light is reflected and a portion is transmitted into the second medium. As the transmitted light moves into the second medium, it changes its direction of travel; that is, it is refracted. The law of refraction, also known as
+    <xref articleid="68375">
+     Snell’s law
+    </xref>
+    , describes the relationship between the angle of incidence (θ
+    <sub>
+     1
+    </sub>
+    ) and the angle of refraction (θ
+    <sub>
+     2
+    </sub>
+    ), measured with respect to the normal (“perpendicular line”) to the surface, in mathematical terms:
+    <e type="italic">
+     n
+    </e>
+    <sub>
+     1
+    </sub>
+    sin θ
+    <sub>
+     1
+    </sub>
+    =
+    <e type="italic">
+     n
+    </e>
+    <sub>
+     2
+    </sub>
+    sin θ
+    <sub>
+     2
+    </sub>
+    , where
+    <e type="italic">
+     n
+    </e>
+    <sub>
+     1
+    </sub>
+    and
+    <e type="italic">
+     n
+    </e>
+    <sub>
+     2
+    </sub>
+    are the index of refraction of the first and second media, respectively. The index of refraction for any medium is a dimensionless constant equal to the ratio of the speed of light in a vacuum to its speed in that medium.
+   </p>
+   <p>
+    By definition, the index of refraction for a vacuum is exactly 1. Because the speed of light in any transparent medium is always less than the speed of light in a vacuum, the indices of refraction of all media are greater than one, with indices for typical transparent materials between one and two. For example, the index of refraction of air at standard conditions is 1.0003, water is 1.33, and glass is about 1.5.
+   </p>
+   <p>
+    The basic features of refraction are easily derived from Snell’s law. The amount of bending of a light ray as it crosses a boundary between two media is dictated by the difference in the two indices of refraction. When light passes into a denser medium, the ray is bent toward the normal. Conversely, light emerging obliquely from a denser medium is bent away from the normal. In the special case where the incident beam is perpendicular to the boundary (that is, equal to the normal), there is no change in the direction of the light as it enters the second medium.
+   </p>
+   <p>
+    <assembly id="a91409" url="/assembly/view/91409">
+     <title>
+      double convex lens
+     </title>
+     <media mediaid="96592" type="image" url="/92/96592-004-10A78D14.jpg"/>
+     <caption>
+      A double convex lens, or converging lens, focuses the diverging, or blurred, light rays from a distant object by refracting (bending) the rays twice. At the front side of the lens, the rays are bent toward the normal (the perpendicular to the surface) because the glass is a denser medium than the air, and, at the back side of the lens, the rays are bent away from the normal as the rays pass into the less-dense medium of the air. This double bending causes the rays to converge at a focal point behind the lens so that a sharper image can be seen or photographed.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a91409"/>
+    Snell’s law governs the imaging properties of
+    <xref articleid="47770">
+     lenses
+    </xref>
+    . Light rays passing through a lens are bent at both surfaces of the lens. With proper design of the curvatures of the surfaces, various focusing effects can be realized. For example, rays initially diverging from a point source of light can be redirected by a lens to converge at a point in space, forming a focused image. The optics of the human eye is centred around the focusing properties of the
+    <xref articleid="26332">
+     cornea
+    </xref>
+    and the crystalline
+    <xref articleid="47769">
+     lens
+    </xref>
+    . Light rays from distant objects pass through these two components and are focused into a sharp image on the light-sensitive
+    <xref articleid="63313">
+     retina
+    </xref>
+    . Other optical imaging systems range from simple single-lens applications, such as the magnifying glass, the eyeglass, and the
+    <xref articleid="26033">
+     contact lens
+    </xref>
+    , to complex configurations of multiple lenses. It is not unusual for a modern camera to have a half dozen or more separate lens elements, chosen to produce specific magnifications, minimize light losses via unwanted reflections, and minimize image distortion caused by
+    <xref articleid="108567" refid="h37971">
+     lens aberrations
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h258394">
+   <title>
+    Total internal reflection
+   </title>
+   <p>
+    <assembly id="a91408" url="/assembly/view/91408">
+     <title>
+      total internal reflection
+     </title>
+     <media mediaid="96593" type="image" url="/93/96593-004-98AD6BE7.jpg"/>
+     <caption>
+      When a light ray strikes the interface between two mediums, it is refracted through an angle that depends on the index of refraction of each material and the ray’s angle of incidence, as measured relative to the normal (perpendicular) between the surfaces. At the critical angle of incidence (Θ), light is refracted such that it just remains within the original medium, as shown in ray
+      <e type="italic">
+       B
+      </e>
+      . For any light ray, such as
+      <e type="italic">
+       C
+      </e>
+      , that strikes the interface at a larger angle, all of the light is reflected internally. For angles less than the critical angle, such as
+      <e type="italic">
+       A
+      </e>
+      , some of the light passes through into the second medium.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a91408"/>
+    One interesting consequence of the law of refraction is associated with light passing into a medium with a lower index of refraction. As previously mentioned, in this case light rays are bent away from the normal of the interface between the media. At what is called the critical angle of incidence (Θ), the refracted rays make an angle of 90° with the normal—in other words, they just skim the boundary of the two media. The sine of the critical angle is easily derived from the law of refraction: sin Θ =
+    <fraction>
+     <num>
+      <e type="italic">
+       n
+      </e>
+      <sub>
+       2
+      </sub>
+     </num>
+     <den>
+      <e type="italic">
+       n
+      </e>
+      <sub>
+       1
+      </sub>
+     </den>
+    </fraction>
+    .
+   </p>
+   <p>
+    For any incident angle greater than the critical angle, light rays are completely reflected inside the material. This phenomenon, called total internal reflection, is commonly taken advantage of to “pipe” light in a curved path. When light is directed down a narrow fibre of glass or plastic, the light repeatedly reflects off the fibre-air interface at a large incident angle—larger than the critical angle (for a glass-air interface the critical angle is about 42°). Optical fibres with diameters from 10 to 50 micrometres can transmit light over long distances with little loss of intensity (
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="34170">
+     fibre optics
+    </xref>
+    ). Optical communications uses sequences of light pulses to transmit information through an optical fibre network. Medical instruments such as
+    <xref articleid="32622">
+     endoscopes
+    </xref>
+    rely on the total internal reflection of light through an optical fibre bundle to image internal organs.
+   </p>
+  </h2>
+  <h2 id="h258395">
+   <title>
+    Dispersion
+   </title>
+   <p>
+    <assembly id="a90651" url="/assembly/view/90651">
+     <title>
+      prism spreading light
+     </title>
+     <media mediaid="78158" type="image" url="/58/78158-004-8AA4F856.jpg"/>
+     <caption>
+      A prism spreads white light into its various component wavelengths, or colours.
+     </caption>
+     <credit>
+      © Getty Images
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a90651"/>
+    Through his careful investigation of the refraction of white light as it passed through a
+    <xref articleid="36988">
+     glass
+    </xref>
+    <xref articleid="61433">
+     prism
+    </xref>
+    , Newton was famously credited with the discovery that white light consists of a spectrum of
+    <xref articleid="109620">
+     colours
+    </xref>
+    . The dispersion of white light into its constituent colours is caused by a variation of the index of
+    <xref articleid="63033">
+     refraction
+    </xref>
+    of glass with colour. This effect, known as chromatic dispersion, results from the fact that the speed of light in glass depends on the wavelength of the light. The speed slightly decreases with decreasing wavelength; this means that the index of refraction, which is inversely proportional to the speed, slightly increases with decreasing wavelength. For glass, the index of refraction for red light (the longest visible wavelength) is about 1 percent less than that for violet light (the shortest visible wavelength).
+   </p>
+   <p>
+    The focusing properties of glass lenses, being determined by their indices of refraction, are slightly dependent on colour. When a single lens images a distant white-light point source, such as a star, the image is slightly distorted because of dispersion in the lens; this effect is called
+    <xref articleid="471070">
+     chromatic aberration
+    </xref>
+    . In an effort to improve upon the chromatic aberration of the refracting telescope,
+    <xref articleid="108764">
+     Isaac Newton
+    </xref>
+    invented the reflecting telescope, in which the imaging and magnification are accomplished with mirrors.
+   </p>
+   <p>
+    <assembly id="a91829" url="/assembly/view/91829">
+     <title>
+      rainbow effect
+     </title>
+     <media mediaid="96594" type="image" url="/94/96594-004-40F89659.jpg"/>
+     <caption>
+      As sunlight enters water droplets in the atmosphere, its constituent colours (wavelengths) are bent (refracted) by slightly different amounts during its passage from the air into the water. A portion of the light striking the back of each water droplet is internally reflected and then refracted a second time as it reemerges into the air. Violet light is refracted most and reemerges at an angle of about 40° compared with the incident sunlight; red light is refracted least and reemerges at an angle of 42° compared with the incident sunlight. In order for observers to see a rainbow, they must have the Sun behind them such that the angle between the incident sunlight and their line of sight is about 42°. Thus, a rainbow forms a full circular arc with a central angle from the observer of 42°. However, the lower portion of the arc is obscured by the surface of the Earth; consequently, the maximum arc (a semicircle) can be seen near sunset.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a91829"/>
+    Dispersion is not restricted to glass; all transparent media exhibit some dispersion. Many beautiful optical effects are explained by the phenomena of dispersion, refraction, and reflection. Principal among them is the
+    <xref articleid="62494">
+     rainbow
+    </xref>
+    , for which
+    <xref articleid="108563">
+     René Descartes
+    </xref>
+    and Newton are credited with the first solid quantitative analyses. A rainbow is formed when sunlight is refracted by spherical water droplets in the atmosphere; two refractions and one reflection, combined with the chromatic dispersion of water, produce the primary arcs of colour. The laws of geometrical optics also explain the formation of mirages and halos and the rarely observed “green flash” of a setting Sun.
+   </p>
+   <p>
+    The rules of geometrical optics, developed through centuries of observation, can be derived from the classical electromagnetic-wave model of light. However, as long as the physical dimensions of the objects that light encounters (and the apertures through which it passes) are significantly greater than the wavelength of the electromagnetic wave, there is no need for the mathematical formalism of the wave model. In those circumstances, light is adequately modeled as a collection of rays following the rules of geometrical optics. Most everyday optical phenomena can be handled within this approximation, since the wavelengths of visible light are relatively short (400 to 700 nm). However, as the dimensions of objects and apertures approach the wavelength of light, the wave character of light cannot be disregarded. Many optical effects, often subtle in nature, cannot be understood without a wave model. For example, on close inspection the shadows of objects in parallel light are seen not to be infinitely sharp. This is a consequence of the “bending” of waves around corners—a phenomenon best explained by the wave model. Another class of phenomena involves the polarization of light waves. These issues are addressed below.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h258396">
+  <title>
+   Light as a wave
+  </title>
+  <p>
+   <xref articleid="108764">
+    Isaac Newton
+   </xref>
+   ’s corpuscular model of light (
+   <e type="italic">
+    see
+   </e>
+   <xref articleid="110443" refid="h258390">
+    Early particle and wave theories
+   </xref>
+   ) was championed by most of the European scientific community throughout the 1700s, but by the start of the 19th century it was facing challenges. About 1802
+   <xref articleid="78063">
+    Thomas Young
+   </xref>
+   , an English physician and physicist, showed that an interference pattern is produced when light from two sources overlaps. Though it took some time for Young’s contemporaries fully to accept the implications of his landmark discovery, it conclusively demonstrated that light has wavelike characteristics. Young’s work ushered in a period of intense experimental and theoretical activity that culminated 60 years later in a fully developed wave theory of light. By the latter years of the 19th century, corpuscular theories were abandoned. Before describing Young’s work, an introduction to the relevant features of waves is in order.
+  </p>
+  <h2 id="h258397">
+   <title>
+    Characteristics of waves
+   </title>
+   <p>
+    From ripples on a pond to deep ocean swells, sound waves, and light, all waves share some basic characteristics. Broadly speaking, a wave is a disturbance that propagates through space. Most waves move through a supporting medium, with the disturbance being a physical displacement of the medium. The time dependence of the displacement at any single point in space is often an oscillation about some equilibrium position. For example, a sound wave travels through the medium of air, and the disturbance is a small collective displacement of air molecules—individual molecules oscillate back and forth as the wave passes.
+   </p>
+   <p>
+    Unlike particles, which have well-defined positions and trajectories, waves are not localized in space. Rather, waves fill regions of space, and their evolutions in time are not described by simple trajectories. Nevertheless, some waves are more localized than others, and so it is useful to distinguish two broad classes. (1) A wave pulse is a relatively localized disturbance. For example, when a stone is dropped into a pond, the resulting ripples, which constitute a surface wave, extend over only a small portion of the surface at any instant of time. (2) At the opposite extreme, periodic waves can extend over great distances. In the example above, if the water surface is repeatedly disturbed at one point for a long period of time, the surface ripples eventually will blanket a large area.
+   </p>
+   <p>
+    <assembly id="a91339" url="/assembly/view/91339">
+     <title>
+      harmonic waves
+     </title>
+     <media mediaid="2109" type="image" url="/09/2109-004-9E6FA4CD.jpg"/>
+     <caption>
+      Snapshots of a harmonic wave can be taken at a fixed time to display the wave’s variation with position (top) or at a fixed location to display the wave’s variation with time (bottom).
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a91339"/>
+    A simple and useful example of a periodic wave is a harmonic wave. The wavelength λ of the wave is the physical separation between successive crests. The maximum displacement of the wave, or amplitude, is denoted by
+    <e type="italic">
+     A
+    </e>
+    . The time between successive oscillations is called the period τ of the wave. The number of oscillations per second is the wave frequency
+    <e type="italic">
+     f
+    </e>
+    , which is the reciprocal of the period,
+    <fraction>
+     <num>
+      1
+     </num>
+     <den>
+      τ
+     </den>
+    </fraction>
+    .
+   </p>
+   <p>
+    Harmonic waves propagate with well-defined velocities that are related to their frequency and wavelength. Fixing attention on a single point in space, the number of wave crests that pass that point per second is the wave frequency
+    <e type="italic">
+     f
+    </e>
+    . The distance traveled past that point by any one crest in one second—the wave velocity
+    <e type="italic">
+     v
+    </e>
+    —is equal to the distance between crests λ multiplied by the frequency:
+    <e type="italic">
+     v
+    </e>
+    = λ
+    <e type="italic">
+     f
+    </e>
+    .
+   </p>
+   <p>
+    The properties of harmonic waves are illustrated in the mathematical expression for the displacement in both space and time. For a harmonic wave traveling in the
+    <e type="italic">
+     x
+    </e>
+    -direction, the spatial and time dependence of the displacement ϕ is
+    <formula>
+     <inlinemedia id="i79406" mediaid="79406" url="/06/79406-004-574F7C7B.jpg"/>
+    </formula>
+   </p>
+  </h2>
+  <h2 id="h258398">
+   <title>
+    Interference
+   </title>
+   <p>
+    A defining characteristic of all waves is superposition, which describes the behaviour of overlapping waves. The superposition principle states that when two or more waves overlap in space, the resultant disturbance is equal to the algebraic sum of the individual disturbances. (This is sometimes violated for large disturbances;
+    <e type="italic">
+     see below
+    </e>
+    <xref articleid="110443" refid="h258425">
+     Nonlinear interactions
+    </xref>
+    .) This simple underlying behaviour leads to a number of effects that are collectively called interference phenomena.
+   </p>
+   <p>
+    <assembly id="a91340" url="/assembly/view/91340">
+     <title>
+      examples of interference
+     </title>
+     <media mediaid="96595" type="image" url="/95/96595-004-D2952591.jpg"/>
+     <caption>
+      When two waves of identical wavelength are in phase, they form a new wave with an amplitude equal to the sum of their individual amplitudes (constructive interference). When two waves are of completely opposite phase, they either form a new wave of reduced amplitude (partial destructive interference) or cancel each other out (complete destructive interference). Much more complicated constructive and destructive interference patterns emerge when waves with different wavelengths interact.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a91340"/>
+    There are two extreme limits to interference effects. In constructive interference the crests of two waves coincide, and the waves are said to be in phase with each other. Their superposition results in a reinforcement of the disturbance; the amplitude of the resulting combined wave is the sum of the individual amplitudes. Conversely, in destructive interference the crest of one wave coincides with the valley of a second wave, and they are said to be out of phase. The amplitude of the combined wave equals the difference between the amplitudes of the individual waves. In the special case where those individual amplitudes are equal, the destructive interference is complete, and the net disturbance to the medium is zero.
+   </p>
+   <h3 id="h258399">
+    <title>
+     Young’s double-slit experiment
+    </title>
+    <p>
+     The observation of interference effects definitively indicates the presence of overlapping waves.
+     <xref articleid="78063">
+      Thomas Young
+     </xref>
+     postulated that light is a wave and is subject to the superposition principle; his great experimental achievement was to demonstrate the constructive and destructive interference of light (c. 1801). In a modern version of Young’s experiment, differing in its essentials only in the source of light, a laser equally illuminates two parallel slits in an otherwise opaque surface. The light passing through the two slits is observed on a distant screen. When the widths of the slits are significantly greater than the wavelength of the light, the rules of geometrical optics hold—the light casts two shadows, and there are two illuminated regions on the screen. However, as the slits are narrowed in width, the light diffracts into the geometrical shadow, and the light waves overlap on the screen. (Diffraction is itself caused by the wave nature of light, being another example of an interference effect—it is discussed in more detail below.)
+    </p>
+    <p>
+     <assembly id="a91986" url="/assembly/view/91986">
+      <title>
+       Young’s double-slit experiment
+      </title>
+      <media mediaid="96596" type="image" url="/96/96596-004-1D8E9F0F.jpg"/>
+      <caption>
+       When monochromatic light passing through two narrow slits illuminates a distant screen, a characteristic pattern of bright and dark fringes is observed. This interference pattern is caused by the superposition of overlapping light waves originating from the two slits. Regions of constructive interference, corresponding to bright fringes, are produced when the path difference from the two slits to the fringe is an integral number of wavelengths of the light. Destructive interference and dark fringes are produced when the path difference is a half-integral number of wavelengths.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a91986"/>
+     The superposition principle determines the resulting intensity pattern on the illuminated screen. Constructive interference occurs whenever the difference in paths from the two slits to a point on the screen equals an integral number of wavelengths (0, λ, 2λ,…). This path difference guarantees that crests from the two waves arrive simultaneously. Destructive interference arises from path differences that equal a half-integral number of wavelengths (λ/2, 3λ/2,…). Young used geometrical arguments to show that the superposition of the two waves results in a series of equally spaced bands, or fringes, of high intensity, corresponding to regions of constructive interference, separated by dark regions of complete destructive interference.
+    </p>
+    <p>
+     An important parameter in the double-slit geometry is the ratio of the wavelength of the light λ to the spacing of the slits
+     <e type="italic">
+      d
+     </e>
+     . If λ/
+     <e type="italic">
+      d
+     </e>
+     is much smaller than 1, the spacing between consecutive interference fringes will be small, and the interference effects may not be observable. Using narrowly separated slits, Young was able to separate the interference fringes. In this way he determined the wavelengths of the colours of visible light. The very short wavelengths of visible light explain why interference effects are observed only in special circumstances—the spacing between the sources of the interfering light waves must be very small to separate regions of constructive and destructive interference.
+    </p>
+    <p>
+     Observing interference effects is challenging because of two other difficulties. Most light sources emit a continuous range of wavelengths, which result in many overlapping interference patterns, each with a different fringe spacing. The multiple interference patterns wash out the most pronounced interference effects, such as the regions of complete darkness. Second, for an interference pattern to be observable over any extended period of time, the two sources of light must be coherent with respect to each other. This means that the light sources must maintain a constant phase relationship. For example, two harmonic waves of the same frequency always have a fixed phase relationship at every point in space, being either in phase, out of phase, or in some intermediate relationship. However, most light sources do not emit true harmonic waves; instead, they emit waves that undergo random phase changes millions of times per second. Such light is called incoherent. Interference still occurs when light waves from two incoherent sources overlap in space, but the interference pattern fluctuates randomly as the phases of the waves shift randomly. Detectors of light, including the eye, cannot register the quickly shifting interference patterns, and only a time-averaged intensity is observed. Laser light is approximately monochromatic (consisting of a single wavelength) and is highly coherent; it is thus an ideal source for revealing interference effects.
+    </p>
+    <p>
+     After 1802, Young’s measurements of the wavelengths of visible light could be combined with the relatively crude determinations of the speed of light available at the time in order to calculate the approximate frequencies of light. For example, the frequency of green light is about 6 × 10
+     <sup>
+      14
+     </sup>
+     Hz (
+     <xref articleid="40251">
+      hertz
+     </xref>
+     , or cycles per second). This frequency is many orders of magnitude larger than the frequencies of common mechanical waves. For comparison, humans can hear
+     <xref articleid="109557">
+      sound
+     </xref>
+     waves with frequencies up to about 2 × 10
+     <sup>
+      4
+     </sup>
+     Hz. Exactly what was oscillating at such a high rate remained a mystery for another 60 years.
+    </p>
+   </h3>
+   <h3 id="h258400">
+    <title>
+     Thin-film interference
+    </title>
+    <p>
+     Observable interference effects are not limited to the double-slit geometry used by Thomas Young. The phenomenon of thin-film interference results whenever light reflects off two surfaces separated by a distance comparable to its wavelength. The “film” between the surfaces can be a vacuum, air, or any transparent liquid or solid. In visible light, noticeable interference effects are restricted to films with thicknesses on the order of a few micrometres. A familiar example is the film of a soap bubble. Light reflected from a bubble is a superposition of two waves—one reflecting off the front surface and a second reflecting off the back surface. The two reflected waves overlap in space and interfere. Depending on the thickness of the soap film, the two waves may interfere constructively or destructively. A full analysis shows that, for light of a single wavelength λ, there are constructive interference for film thicknesses equal to λ/4, 3λ/4, 5λ/4,… and destructive interference for thicknesses equal to λ/2, λ, 3λ/2,….
+    </p>
+    <p>
+     When white light illuminates a soap film, bright bands of colour are observed as different wavelengths suffer destructive interference and are removed from the reflection. The remaining reflected light appears as the complementary colour of the removed wavelength (e.g., if red light is removed by destructive interference, the reflected light will appear as cyan). Thin films of oil on water produce a similar effect. In nature, the feathers of certain birds, including
+     <xref articleid="58859">
+      peacocks
+     </xref>
+     and
+     <xref articleid="41505">
+      hummingbirds
+     </xref>
+     , and the shells of some
+     <xref articleid="14115">
+      beetles
+     </xref>
+     display
+     <xref articleid="42766">
+      iridescence
+     </xref>
+     , in which the colour on reflection changes with the viewing angle. This is caused by the interference of reflected light waves from thinly layered structures or regular arrays of reflecting rods. In a similar fashion,
+     <xref articleid="58874">
+      pearls
+     </xref>
+     and
+     <xref articleid="3222">
+      abalone
+     </xref>
+     shells are iridescent from the interference caused by reflections from multiple layers of nacre.
+     <xref articleid="36349">
+      Gemstones
+     </xref>
+     such as
+     <xref articleid="57166">
+      opal
+     </xref>
+     exhibit beautiful interference effects arising from the scattering of light from regular patterns of microscopic spherical particles.
+    </p>
+    <p>
+     There are many technological applications of interference effects in light. Common antireflection coatings on camera lenses are thin films with thicknesses and indices of refraction chosen to produce destructive interference on reflection for visible light. More-specialized coatings, consisting of multiple layers of thin films, are designed to transmit light only within a narrow range of wavelengths and thus act as wavelength filters. Multilayer coatings are also used to enhance the reflectivity of mirrors in astronomical telescopes and in the optical cavities of lasers. The precision techniques of interferometry measure small changes in relative distances by monitoring the fringe shifts in the interference patterns of reflected light. For example, the curvatures of surfaces in optical components are monitored to fractions of an optical wavelength with interferometric methods.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h258401">
+   <title>
+    Diffraction
+   </title>
+   <p>
+    The subtle pattern of light and dark fringes seen in the geometrical shadow when light passes an obstacle, first observed by the Jesuit mathematician Francesco Grimaldi in the 17th century, is an example of the wave phenomenon of diffraction.
+    <xref articleid="30419">
+     Diffraction
+    </xref>
+    is a product of the superposition of waves—it is an interference effect. Whenever a wave is obstructed, those portions of the wave not affected by the obstruction interfere with one another in the region of space beyond the obstruction. The
+    <xref articleid="109827">
+     mathematics
+    </xref>
+    of diffraction is considerably complicated, and a detailed, systematic theory was not worked out until 1818 by the French physicist
+    <xref articleid="35384">
+     Augustin-Jean Fresnel
+    </xref>
+    .
+   </p>
+   <p>
+    <assembly id="a91987" url="/assembly/view/91987">
+     <title>
+      single-slit diffraction
+     </title>
+     <media mediaid="96597" type="image" url="/97/96597-004-4602C228.jpg"/>
+     <caption>
+      When monochromatic light passing through a single slit illuminates a screen, a characteristic diffraction pattern is observed. Diffraction is a product of the superposition of waves—i.e., it is an interference effect. The detailed pattern of constructive and destructive interference fringes can be derived by treating every point on the wave front passing through the slit as a secondary source of spherical waves. The paths from three representative secondary sources to the viewing screen are shown here. The central bright fringe in a single-slit diffraction pattern is produced by the constructive interference of all of the secondary sources. The width of the central fringe is inversely proportional to the width of the slit. Diffraction effects become pronounced only when the width of the slit is an appreciable fraction of the wavelength of the light.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a91987"/>
+    The Dutch scientist
+    <xref articleid="41658">
+     Christiaan Huygens
+    </xref>
+    first stated the fundamental principle for understanding diffraction: every point on a wave front can be considered a secondary source of spherical wavelets. The shape of the advancing wave front is determined by the envelope of the overlapping spherical wavelets. If the wave is unobstructed,
+    <xref articleid="41660">
+     Huygens’s principle
+    </xref>
+    will not be needed for determining its evolution—the rules of geometrical optics will suffice. (However, note that the light rays of geometrical optics are always perpendicular to the advancing wavefront; in this sense, the progress of a light ray is ultimately always determined by Huygens’s principle.) Huygens’s principle becomes necessary when a wave meets an obstacle or an aperture in an otherwise opaque surface. Thus, for a plane wave passing through a small aperture, only wavelets originating within the aperture contribute to the transmitted wave, which is seen to spread into the region of the aperture’s geometric shadow.
+   </p>
+   <p>
+    <assembly id="a245191" url="/assembly/view/245191">
+     <title>
+      Discover why the diffraction of starlight appear pointy in telescopes and to the human eye
+     </title>
+     <media mediaid="214990" thumburl="/90/214990-049-5C34B78E.jpg" type="video" url="ZUMBmLTR"/>
+     <caption>
+      Overview of the diffraction of starlight.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a245191"/>
+    Fresnel incorporated Young’s principle of interference into Huygens’s construction and calculated the detailed intensity patterns produced by interfering secondary wavelets. For a viewing screen a distance
+    <e type="italic">
+     L
+    </e>
+    from a slit of width
+    <e type="italic">
+     a
+    </e>
+    , light of wavelength λ produces a central intensity maximum that is approximately λ
+    <e type="italic">
+     L
+    </e>
+    /
+    <e type="italic">
+     a
+    </e>
+    in width. This result highlights the most important qualitative feature of diffraction: the effect is normally apparent only when the sizes of obstacles or apertures are on the order of the wavelength of the wave. For example, audible sound waves have wavelengths of about one metre, which easily diffract around commonplace objects. This is why sound is heard around corners. On the other hand, visible light has wavelengths of a fraction of a micrometre, and it therefore does not noticeably bend around large objects. Only the most careful measurements by Young, Fresnel, and their early 19th-century contemporaries revealed the details of the diffraction of visible light.
+   </p>
+  </h2>
+  <h2 id="h258402">
+   <title>
+    Diffraction effects
+   </title>
+   <h3 id="h258403">
+    <title>
+     Poisson’s spot
+    </title>
+    <p>
+     Fresnel presented much of his work on diffraction as an entry to a competition on the subject sponsored by the French
+     <xref articleid="66291">
+      Academy of Sciences
+     </xref>
+     . The committee of judges included a number of prominent advocates of Newton’s corpuscular model of light, one of whom,
+     <xref articleid="60562">
+      Siméon-Denis Poisson
+     </xref>
+     , pointed out that Fresnel’s model predicted a seemingly absurd result: If a parallel beam of light falls on a small spherical obstacle, there will be a bright spot at the centre of the circular shadow—a spot nearly as bright as if the obstacle were not there at all. An experiment was subsequently performed by the French physicist
+     <xref articleid="9171">
+      François Arago
+     </xref>
+     , and
+     <xref articleid="471071">
+      Poisson’s spot
+     </xref>
+     was seen, vindicating Fresnel.
+    </p>
+   </h3>
+   <h3 id="h258404">
+    <title>
+     Circular apertures and image resolution
+    </title>
+    <p>
+     Circular apertures also produce diffraction patterns. When a parallel beam of light passes through a converging lens, the rules of geometrical optics predict that the light comes to a tight focus behind the lens, forming a point image. In reality, the pattern in the lens’s image plane is complicated by diffraction effects. The lens, considered as a circular aperture with diameter
+     <e type="italic">
+      D
+     </e>
+     , produces a two-dimensional diffraction pattern with a central intensity maximum of angular width about λ/
+     <e type="italic">
+      D
+     </e>
+     . Angular width refers to the angle, measured in radians, that is defined by the two intensity minima on either side of the central maximum.
+    </p>
+    <p>
+     Diffraction effects from circular apertures have an important practical consequence: the intensity patterns in optical images produced by circular lenses and mirrors are limited in their ability to resolve closely spaced features. Each point in the object is imaged into a diffraction pattern of finite width, and the final image is a sum of individual diffraction patterns.
+     <xref articleid="62821">
+      Baron Rayleigh
+     </xref>
+     , a leading figure of late 19th-century physics, showed that the images of two point sources are resolvable only if their angular separation, relative to an imaging element of diameter
+     <e type="italic">
+      D
+     </e>
+     , is greater than about 1.2λ/
+     <e type="italic">
+      D
+     </e>
+     (“Rayleigh’s criterion”).
+    </p>
+    <p>
+     Circular aperture diffraction effects limit the resolving power of telescopes and microscopes. This is one of the reasons why the best astronomical telescopes have large-diameter mirrors; in addition to the obvious advantage of an increased light-gathering capability, larger mirrors decrease the resolvable angular separation of astronomical objects. To minimize diffraction effects, optical microscopes are sometimes designed to use ultraviolet light rather than longer-wavelength visible light. Nevertheless, diffraction is often the limiting factor in the ability of a microscope to resolve the fine details of objects.
+    </p>
+    <p>
+     The late 19th-century French painter
+     <xref articleid="66929">
+      Georges Seurat
+     </xref>
+     created a new technique, known as
+     <xref articleid="30691">
+      pointillism
+     </xref>
+     , based on diffraction effects. His paintings consist of thousands of closely spaced small dots of colour. When viewed up close, the individual points of colour are apparent to the eye. Viewed from afar, the individual points cannot be resolved because of the diffraction of the images produced by the lens of the eye. The overlapping images on the retina combine to produce colours other than those used in the individual dots of paint. The same physics underlies the use of closely spaced arrays of red, blue, and green
+     <xref articleid="59779">
+      phosphors
+     </xref>
+     on
+     <xref articleid="106102">
+      television
+     </xref>
+     screens and
+     <xref articleid="117728">
+      computer
+     </xref>
+     monitors; diffraction effects in the eye mix the three primary colours to produce a wide range of hues.
+    </p>
+   </h3>
+   <h3 id="h258405">
+    <title>
+     Atmospheric diffraction effects
+    </title>
+    <p>
+     <assembly id="a92145" url="/assembly/view/92145">
+      <title>
+       diffraction rings
+      </title>
+      <media mediaid="96802" type="image" url="/02/96802-004-90F31D8C.jpg"/>
+      <caption>
+       Diffraction rings, called a glory, occur most commonly when the Sun shines on a cloud or fog. The radius of a ring is dependent on the size of the cloud droplets—the smaller the droplets, the larger the radius. Moreover, the droplets must be nearly uniform in size for the phenomenon to appear.
+      </caption>
+      <credit>
+       Harald Edens
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a92145"/>
+     Diffraction is also responsible for certain optical effects in Earth’s
+     <xref articleid="126202">
+      atmosphere
+     </xref>
+     . A set of concentric coloured rings, known as an
+     <xref articleid="10120">
+      atmospheric corona
+     </xref>
+     , often overlapping to produce a single diffuse whitish ring, is sometimes observed around the
+     <xref articleid="53598">
+      Moon
+     </xref>
+     . The corona is produced as light reflected from the Moon diffracts through water droplets or ice crystals in Earth’s upper atmosphere. When the droplets are of uniform diameter, the different colours are clearly distinct in the diffraction pattern. A related and beautiful atmospheric phenomenon is the glory. Seen in backscattered light from water droplets, commonly forming a fog or mist, the glory is a set of rings of coloured light surrounding the shadow of the observer. The rings of light, with angular diameters of a few degrees, are created by the interplay of refraction, reflection, and diffraction in the water droplets. The glory, once a phenomenon rarely observed, is now frequently seen by airline travelers as coloured rings surrounding their airplane’s shadow on a nearby cloud. Finally, as pointed out in the section
+     <xref articleid="110443" refid="h258395">
+      Dispersion
+     </xref>
+     , the primary and secondary arcs of a rainbow are adequately explained by geometrical optics. However, the more subtle supernumerary bows—weak arcs of light occasionally seen below the primary arc of colours—are caused by diffraction effects in the water droplets that form the rainbow.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h258406">
+   <title>
+    Doppler effect
+   </title>
+   <p>
+    In 1842 Austrian physicist
+    <xref articleid="30954">
+     Christian Doppler
+    </xref>
+    established that the apparent frequency of sound waves from an approaching source is greater than the frequency emitted by the source and that the apparent frequency of a receding source is lower. The
+    <xref articleid="30955">
+     Doppler effect
+    </xref>
+    , which is easily noticed with approaching or receding police sirens, also applies to light waves. The light from an approaching source is shifted up in frequency, or blueshifted, while light from a receding source is shifted down in frequency, or redshifted. The frequency shift depends on the velocity of the source relative to the observer; for velocities much less than the speed of light, the shift is proportional to the velocity.
+   </p>
+   <p>
+    The observation of Doppler shifts in atomic spectral lines is a powerful tool to measure relative motion in astronomy. Most notably, redshifted light from distant
+    <xref articleid="110642">
+     galaxies
+    </xref>
+    is the primary evidence for the general expansion of the universe. There are a host of other astronomical applications, including the determination of
+    <xref articleid="79221">
+     binary star
+    </xref>
+    orbits and the rotation rates of galaxies. The most common terrestrial application of the Doppler effect occurs in
+    <xref articleid="109463">
+     radar
+    </xref>
+    systems. Electromagnetic waves reflected from a moving object undergo Doppler shifts that can then be used to determine the object’s speed. In these applications, ranging from monitoring
+    <xref articleid="110735">
+     automobile
+    </xref>
+    speeds to monitoring
+    <xref articleid="77159">
+     wind
+    </xref>
+    speeds in the atmosphere, radio waves or microwaves are used instead of visible light.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h258407">
+  <title>
+   Light as electromagnetic radiation
+  </title>
+  <p>
+   In spite of theoretical and experimental advances in the first half of the 19th century that established the wave properties of light, the nature of light was not yet revealed—the identity of the wave oscillations remained a mystery. This situation dramatically changed in the 1860s when the Scottish physicist
+   <xref articleid="108468">
+    James Clerk Maxwell
+   </xref>
+   , in a watershed theoretical treatment, unified the fields of
+   <xref articleid="106019">
+    electricity
+   </xref>
+   ,
+   <xref articleid="106020">
+    magnetism
+   </xref>
+   , and
+   <xref articleid="108567">
+    optics
+   </xref>
+   . In his formulation of electromagnetism, Maxwell described light as a propagating wave of electric and magnetic fields. More generally, he predicted the existence of
+   <xref articleid="106022">
+    electromagnetic radiation
+   </xref>
+   : coupled electric and magnetic fields traveling as waves at a speed equal to the known speed of light. In 1888 German physicist
+   <xref articleid="40253">
+    Heinrich Hertz
+   </xref>
+   succeeded in demonstrating the existence of long-wavelength electromagnetic waves and showed that their properties are consistent with those of the shorter-wavelength visible light.
+  </p>
+  <h2 id="h258408">
+   <title>
+    Electric and magnetic fields
+   </title>
+   <p>
+    The subjects of electricity and magnetism were well developed by the time Maxwell began his synthesizing work. English physician
+    <xref articleid="36815">
+     William Gilbert
+    </xref>
+    initiated the careful study of magnetic phenomena in the late 16th century. In the late 1700s an understanding of electric phenomena was pioneered by
+    <xref articleid="109416">
+     Benjamin Franklin
+    </xref>
+    ,
+    <xref articleid="26555">
+     Charles-Augustin de Coulomb
+    </xref>
+    , and others.
+    <xref articleid="60562">
+     Siméon-Denis Poisson
+    </xref>
+    ,
+    <xref articleid="47167">
+     Pierre-Simon Laplace
+    </xref>
+    , and
+    <xref articleid="109423">
+     Carl Friedrich Gauss
+    </xref>
+    developed powerful mathematical descriptions of electrostatics and magnetostatics that stand to the present time. The first connection between electric and magnetic effects was discovered by Danish physicist
+    <xref articleid="57470">
+     Hans Christian Ørsted
+    </xref>
+    in 1820 when he found that electric currents produce magnetic forces. Soon after, French physicist
+    <xref articleid="7234">
+     André-Marie Ampère
+    </xref>
+    developed a mathematical formulation (
+    <xref articleid="7236">
+     Ampère’s law
+    </xref>
+    ) relating currents to magnetic effects. In 1831 the great English experimentalist
+    <xref articleid="109756">
+     Michael Faraday
+    </xref>
+    discovered
+    <xref articleid="42355">
+     electromagnetic induction
+    </xref>
+    , in which a moving
+    <xref articleid="50017">
+     magnet
+    </xref>
+    (more generally, a changing magnetic flux) induces an
+    <xref articleid="32273">
+     electric current
+    </xref>
+    in a conducting circuit.
+   </p>
+   <p>
+    Faraday’s conception of electric and magnetic effects laid the groundwork for
+    <xref articleid="51564">
+     Maxwell’s equations
+    </xref>
+    . Faraday visualized electric charges as producing fields that extend through space and transmit electric and magnetic forces to other distant charges. The notion of electric and magnetic fields is central to the theory of electromagnetism, and so it requires some explanation. A field is used to represent any physical quantity whose value changes from one point in space to another. For example, the temperature of Earth’s atmosphere has a definite value at every point above the surface of Earth; to specify the atmospheric temperature completely thus requires specifying a distribution of numbers—one for each spatial point. The temperature “field” is simply a mathematical accounting of those numbers; it may be expressed as a function of the spatial coordinates. The values of the temperature field can also vary with time; therefore, the field is more generally expressed as a function of spatial coordinates and time:
+    <e type="italic">
+     T
+    </e>
+    (
+    <e type="italic">
+     x
+    </e>
+    ,
+    <e type="italic">
+     y
+    </e>
+    ,
+    <e type="italic">
+     z
+    </e>
+    ,
+    <e type="italic">
+     t
+    </e>
+    ), where
+    <e type="italic">
+     T
+    </e>
+    is the temperature field,
+    <e type="italic">
+     x
+    </e>
+    ,
+    <e type="italic">
+     y
+    </e>
+    , and
+    <e type="italic">
+     z
+    </e>
+    are the spatial coordinates, and
+    <e type="italic">
+     t
+    </e>
+    is the time.
+   </p>
+   <p>
+    Temperature is an example of a scalar field; its complete specification requires only one number for each spatial point.
+    <xref articleid="384392">
+     Vector
+    </xref>
+    fields, on the other hand, describe physical quantities that have a direction and magnitude at each point in space. A familiar example is the velocity field of a fluid. Electric and magnetic fields are also vector fields; the electric field is written as
+    <e type="italic">
+     E
+    </e>
+    (
+    <e type="italic">
+     x
+    </e>
+    ,
+    <e type="italic">
+     y
+    </e>
+    ,
+    <e type="italic">
+     z
+    </e>
+    ,
+    <e type="italic">
+     t
+    </e>
+    ) and the magnetic field as
+    <e type="italic">
+     B
+    </e>
+    (
+    <e type="italic">
+     x
+    </e>
+    ,
+    <e type="italic">
+     y
+    </e>
+    ,
+    <e type="italic">
+     z
+    </e>
+    ,
+    <e type="italic">
+     t
+    </e>
+    ).
+   </p>
+  </h2>
+  <h2 id="h258409">
+   <title>
+    Maxwell’s equations
+   </title>
+   <p>
+    In the early 1860s, Maxwell completed a study of electric and magnetic phenomena. He presented a mathematical formulation in which the values of the electric and magnetic fields at all points in space can be calculated from a knowledge of the sources of the fields. By Faraday’s time, it was known that electric charges are the source of electric fields and that electric currents (charges in motion) are the source of magnetic fields. Faraday’s electromagnetic induction showed that there is a second source of electric fields—changing magnetic fields. In a significant step in the development of his theory, Maxwell postulated that changing electric fields are sources of magnetic fields. In its modern form, Maxwell’s electromagnetic theory is expressed as four
+    <xref articleid="102198">
+     partial differential equations
+    </xref>
+    for the fields
+    <e type="italic">
+     E
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    . Known as
+    <xref articleid="51564">
+     Maxwell’s equations
+    </xref>
+    , these four statements relating the fields to their sources, along with the expression for the forces exerted by the fields on electric charges, constitute the whole of classical electromagnetism.
+   </p>
+  </h2>
+  <h2 id="h258410">
+   <title>
+    Electromagnetic waves and the electromagnetic spectrum
+   </title>
+   <h3 id="h258411">
+    <title>
+     Electromagnetic waves
+    </title>
+    <p>
+     A manipulation of the four equations for the electric and magnetic fields led Maxwell to wave equations for the fields, the solutions of which are traveling harmonic waves. Though the mathematical treatment is detailed, the underlying origin of the waves can be understood qualitatively: changing magnetic fields produce electric fields, and changing electric fields produce magnetic fields. This implies the possibility of an electromagnetic field in which a changing electric field continually gives rise to a changing magnetic field, and vice versa.
+    </p>
+    <p>
+     Electromagnetic waves do not represent physical displacements that propagate through a medium like mechanical sound and water waves; instead, they describe propagating oscillations in the strengths of electric and magnetic fields. Maxwell’s wave equation showed that the speed of the waves, labeled
+     <e type="italic">
+      c
+     </e>
+     , is determined by a combination of constants in the laws of electrostatics and magnetostatics—in modern notation:
+     <formula>
+      <inlinemedia id="i79407" mediaid="79407" url="/07/79407-004-E78715E3.jpg"/>
+     </formula>
+     where ε
+     <sub>
+      0
+     </sub>
+     , the
+     <xref articleid="59298">
+      permittivity
+     </xref>
+     of free space, has an experimentally determined value of 8.85 × 10
+     <sup>
+      −12
+     </sup>
+     square coulomb per newton square metre, and μ
+     <sub>
+      0
+     </sub>
+     , the
+     <xref articleid="50027">
+      magnetic permeability
+     </xref>
+     of free space, has a value of 1.26 × 10
+     <sup>
+      −6
+     </sup>
+     newton square seconds per square coulomb. The calculated speed, about 3 × 10
+     <sup>
+      8
+     </sup>
+     metres per second, agreed with the known speed of light. In an 1864 lecture before the
+     <xref articleid="64290">
+      Royal Society
+     </xref>
+     of London, “A Dynamical Theory of the Electro-Magnetic Field,” Maxwell asserted:
+    </p>
+    <quote>
+     <p>
+      We have strong reason to conclude that light itself—including radiant heat and other radiation, if any—is an electromagnetic disturbance in the form of waves propagated through the electro-magnetic field according to electro-magnetic laws.
+     </p>
+    </quote>
+    <p>
+     Maxwell’s achievement ranks as one of the greatest advances of physics. For the physicist of the late 19th century, the study of light became a study of an electromagnetic phenomenon—the fields of electricity, magnetism, and optics were unified in one grand design. While an understanding of light has undergone some profound changes since the 1860s as a result of the discovery of light’s
+     <xref articleid="110312">
+      quantum mechanical
+     </xref>
+     nature, Maxwell’s electromagnetic wave model remains completely adequate for many purposes.
+    </p>
+   </h3>
+   <h3 id="h258412">
+    <title>
+     The electromagnetic spectrum
+    </title>
+    <p>
+     <assembly id="a73677" url="/assembly/view/73677">
+      <title>
+       visible light in the electromagnetic spectrum
+      </title>
+      <media mediaid="276" type="image" url="/76/276-004-404D8CFF.jpg"/>
+      <caption>
+       The position of light in the electromagnetic spectrum. The narrow range of visible light is shown enlarged at the right.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a73677"/>
+     Heinrich Hertz’s production in 1888 of what are now called radio waves, his verification that these waves travel at the same speed as visible light, and his measurements of their reflection, refraction, diffraction, and polarization properties were a convincing demonstration of the existence of Maxwell’s waves. Visible light is but one example of a much broader set of phenomena—an electromagnetic spectrum with no theoretical upper or lower limit to frequencies and wavelengths. While there are no theoretical distinctions between electromagnetic waves of any wavelength, the spectrum is conventionally divided into different regions on the basis of historical developments, the methods of production and detection of the waves, and their technological uses.
+    </p>
+   </h3>
+   <h3 id="h258413">
+    <title>
+     Sources of electromagnetic waves
+    </title>
+    <p>
+     The sources of classical electromagnetic waves are accelerating electric charges. (Note that acceleration refers to a change in velocity, which occurs whenever a particle’s speed or its direction of motion changes.) A common example is the generation of radio waves by oscillating electric charges in an
+     <xref articleid="7759">
+      antenna
+     </xref>
+     . When a charge moves in a linear antenna with an oscillation frequency
+     <e type="italic">
+      f
+     </e>
+     , the oscillatory motion constitutes an acceleration, and an electromagnetic wave with the same frequency propagates away from the antenna. At frequencies above the microwave region, with a few prominent exceptions (
+     <e type="italic">
+      see
+     </e>
+     <xref articleid="16345">
+      bremsstrahlung
+     </xref>
+     ;
+     <xref articleid="70743">
+      synchrotron radiation
+     </xref>
+     ), the classical picture of an accelerating electric charge producing an electromagnetic wave is less and less applicable. In the infrared, visible, and ultraviolet regions, the primary radiators are the charged particles in atoms and molecules. In this regime a quantum mechanical radiation model is far more relevant.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h258414">
+   <title>
+    The speed of light
+   </title>
+   <h3 id="h258415">
+    <title>
+     Early measurements
+    </title>
+    <p>
+     <assembly id="a73199" url="/assembly/view/73199">
+      <title>
+       Armand Fizeau light experiment
+      </title>
+      <media mediaid="2114" type="image" url="/14/2114-004-1FD624CE.jpg"/>
+      <caption>
+       In 1849 Armand Fizeau sent light pulses through a rotating toothed wheel. A distant mirror on the other side reflected the pulses back through gaps in the wheel. By rotating the wheel at a certain speed, each light pulse that went through a gap on the way out was blocked by the next tooth as it came around. Knowing the distance to the mirror and the speed of rotation of the wheel enabled Fizeau to obtain one of the earliest measurements of the speed of light.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a73199"/>
+     Measurements of the
+     <xref articleid="471069">
+      speed of light
+     </xref>
+     have challenged scientists for centuries. The assumption that the speed is infinite was dispelled by the Danish astronomer
+     <xref articleid="83854">
+      Ole Rømer
+     </xref>
+     in 1676. French physicist
+     <xref articleid="34454">
+      Armand-Hippolyte-Louis Fizeau
+     </xref>
+     was the first to succeed in a terrestrial measurement in 1849, sending a light beam along a 17.3-km round-trip path across the outskirts of
+     <xref articleid="108530">
+      Paris
+     </xref>
+     . At the light source, the exiting beam was chopped by a rotating toothed wheel; the measured rotational rate of the wheel at which the beam, upon its return, was eclipsed by the toothed rim was used to determine the beam’s travel time. Fizeau reported a light speed that differs by only about 5 percent from the currently accepted value. One year later, French physicist
+     <xref articleid="35012">
+      Léon Foucault
+     </xref>
+     improved the accuracy of the technique to about 1 percent.
+    </p>
+    <p>
+     In the same year, Foucault showed that the speed of light in water is less than its speed in air by the ratio of the indices of refraction of air and water:
+     <formula>
+      <inlinemedia id="i79408" mediaid="79408" url="/08/79408-004-32E1791A.jpg"/>
+     </formula>
+    </p>
+    <p>
+     This measurement established the index of refraction of a material as the ratio of the speed of light in vacuum to the speed within the material. The more general finding, that light is slowed in transparent media, directly contradicted Isaac Newton’s assertion that light corpuscles travel faster in media than in vacuum and settled any lingering 19th-century doubts about the corpuscle–wave debate.
+    </p>
+   </h3>
+   <h3 id="h258416">
+    <title>
+     The Michelson-Morley experiment
+    </title>
+    <p>
+     The German-born American physicist
+     <xref articleid="52478">
+      A.A. Michelson
+     </xref>
+     set the early standard for measurements of the speed of light in the late 1870s, determining a speed within 0.02 percent of the modern value. Michelson’s most noteworthy measurements of the speed of light, however, were yet to come. From the first speculations on the wave nature of light by Huygens through the progressively more refined theories of Young, Fresnel, and Maxwell, it was assumed that an underlying physical medium supports the transmission of light, in much the same way that air supports the transmission of sound. Called the
+     <xref articleid="33121">
+      ether
+     </xref>
+     , or the luminiferous ether, this medium was thought to permeate all of space. The inferred physical properties of the ether were problematic—to support the high-frequency transverse oscillations of light, it would have to be very rigid, but its lack of effect on planetary motion and the fact that it was not observed in any terrestrial circumstances required it to be tenuous and chemically undetectable. While there is no reference to the properties of a supporting medium in the mathematics of Maxwell’s electromagnetic theory, even he subscribed to the ether’s existence, writing an article on the subject for the ninth edition of the
+     <e type="italic">
+      Encyclopædia Britannica
+     </e>
+     in the 1870s. (
+     <e type="italic">
+      See
+     </e>
+     the Britannica Classic “
+     <xref articleid="117899">
+      Ether
+     </xref>
+     .”) In 1887 Michelson, in collaboration with American chemist
+     <xref articleid="53766">
+      Edward Morley
+     </xref>
+     , completed a precise set of optical measurements designed to detect the motion of Earth through the ether as it orbited the Sun.
+    </p>
+    <p>
+     <assembly id="a17906" url="/assembly/view/17906">
+      <title>
+       Michelson interferometer
+      </title>
+      <media mediaid="279" type="image" url="/79/279-004-30B43892.jpg"/>
+      <caption>
+       The Michelson interferometer consists of a half-transparent mirror oriented at a 45° angle to a light beam so that the light is divided into two equal parts (
+       <e type="italic">
+        A
+       </e>
+       and
+       <e type="italic">
+        B
+       </e>
+       ), one of which is transmitted to a fixed mirror and the other of which is reflected to a movable mirror. The half-transparent mirror has the same effect on the returning beams, splitting each of them into two beams. Thus, two diminished light beams reach the screen, where interference patterns can be observed by varying the position of the movable mirror.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a17906"/>
+     The measurements in the
+     <xref articleid="52479">
+      Michelson-Morley experiment
+     </xref>
+     were based on the assumption that an observer at rest in the ether would determine a different speed from an observer moving through the ether. Because Earth’s speed relative to the Sun is about 29,000 metres per second, or about 0.01 percent of the speed of light, Earth provides a convenient vantage point for measuring any change in the relative speed of light due to motion. Using a Michelson
+     <xref articleid="57230">
+      optical interferometer
+     </xref>
+     , interference effects between two light beams traveling parallel to, and perpendicular to, Earth’s orbital motion were monitored during the course of its orbit. The instrument was capable of detecting a difference in light speeds along the two paths of the interferometer as small as 5,000 metres per second (less than 2 parts in 100,000 of the speed of light). No difference was found. If Earth indeed moved through the ether, that motion seemed to have no effect on the measured speed of light.
+    </p>
+    <p>
+     What is now known as the most famous experimental null result in physics was reconciled in 1905 when
+     <xref articleid="106018">
+      Albert Einstein
+     </xref>
+     , in his formulation of
+     <xref articleid="109465">
+      special relativity
+     </xref>
+     , postulated that the speed of light is the same in all
+     <xref articleid="63015">
+      reference frames
+     </xref>
+     ; i.e., the measured speed of light is independent of the relative motion of the observer and the light source. The hypothetical ether, with its preferred reference frame, was eventually abandoned as an unnecessary construct.
+    </p>
+   </h3>
+   <h3 id="h258417">
+    <title>
+     Fundamental constant of nature
+    </title>
+    <p>
+     Since Einstein’s work, the speed of light is considered a fundamental constant of nature. Its significance is far broader than its role in describing a property of electromagnetic waves. It serves as the single limiting velocity in the universe, being an upper bound to the propagation speed of signals and to the speeds of all material particles. In the famous relativity equation,
+     <e type="italic">
+      E
+     </e>
+     =
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      c
+     </e>
+     <sup>
+      2
+     </sup>
+     , the speed of light (
+     <e type="italic">
+      c
+     </e>
+     ) serves as a constant of proportionality linking the formerly disparate concepts of mass (
+     <e type="italic">
+      m
+     </e>
+     ) and energy (
+     <e type="italic">
+      E
+     </e>
+     ).
+    </p>
+    <p>
+     Measurements of the speed of light were successively refined in the 20th century, eventually reaching a precision limited by the definitions of the units of length and time—the metre and the second. In 1983 the 17th General Conference on Weights and Measures fixed the speed of light as a defined constant at exactly 299,792,458 metres per second. The metre became a derived unit, equaling the distance traveled by light in 1/299,792,458 of a second (
+     <e type="italic">
+      see
+     </e>
+     <xref articleid="42610">
+      International System of Units
+     </xref>
+     ).
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h258418">
+   <title>
+    Polarization
+   </title>
+   <h3 id="h258419">
+    <title>
+     Transverse waves
+    </title>
+    <p>
+     Waves come in two varieties. In a longitudinal wave the oscillating disturbance is parallel to the direction of propagation. A familiar example is a sound wave in air—the oscillating motions of the air molecules are induced in the direction of the advancing wave. Transverse waves consist of disturbances that are at right angles to the direction of propagation; for example, as a wave travels horizontally through a body of water, its surface bobs up and down.
+    </p>
+    <p>
+     <assembly id="a73202" url="/assembly/view/73202">
+      <title>
+       double refraction
+      </title>
+      <media mediaid="2127" type="image" url="/27/2127-004-A78A6E56.jpg"/>
+      <caption>
+       Double refraction (or birefringence), showing two rays emerging when a single light ray strikes a calcite crystal at a right angle to one face. This effect occurs from the anisotropic difference in the speed of light traveling along different axes in the crystal.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a73202"/>
+     A number of puzzling optical effects, first observed in the mid-17th century, were resolved when light was understood as a wave phenomenon and the directions of its oscillations were uncovered. The first so-called polarization effect was discovered by the Danish physician
+     <xref articleid="13525">
+      Erasmus Bartholin
+     </xref>
+     in 1669. Bartholin observed
+     <xref articleid="1617">
+      double refraction
+     </xref>
+     , or birefringence, in
+     <xref articleid="109693">
+      calcite
+     </xref>
+     (a common crystalline form of calcium carbonate). When light passes through calcite, the crystal splits the light, producing two images offset from each other. Newton was aware of this effect and speculated that perhaps his corpuscles of light had an asymmetry or “sidedness” that could explain the formation of the two images. Huygens, a contemporary of Newton, could account for double refraction with his elementary wave theory, but he did not recognize the true implications of the effect. Double refraction remained a mystery until
+     <xref articleid="78063">
+      Thomas Young
+     </xref>
+     , and independently the French physicist
+     <xref articleid="35384">
+      Augustin-Jean Fresnel
+     </xref>
+     , suggested that light waves are transverse. This simple notion provided a natural and uncomplicated framework for the analysis of polarization effects. (The polarization of the entering light wave can be described as a combination of two perpendicular polarizations, each with its own wave speed. Because of their different wave speeds, the two polarization components have different indices of refraction, and they therefore refract differently through the material, producing two images.) Fresnel quickly developed a comprehensive model of transverse light waves that accounted for double refraction and a host of other optical effects. Forty years later, Maxwell’s electromagnetic theory elegantly provided the basis for the transverse nature of light.
+    </p>
+    <p>
+     <assembly id="a73678" url="/assembly/view/73678">
+      <title>
+       electromagnetic wave
+      </title>
+      <media mediaid="2129" type="image" url="/29/2129-004-5F346A09.jpg"/>
+      <caption>
+       Electromagnetic wave, showing that electric field vector
+       <e type="italic">
+        E
+       </e>
+       and magnetic field vector
+       <e type="italic">
+        H
+       </e>
+       are in phase.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a73678"/>
+     Maxwell’s electromagnetic waves are transverse, with the electric and magnetic fields oscillating in directions perpendicular to the propagation direction. The fields are also perpendicular to one another, with the electric field direction, magnetic field direction, and propagation direction forming a right-handed coordinate system. For a wave with frequency
+     <e type="italic">
+      f
+     </e>
+     and wavelength λ (related by λ
+     <e type="italic">
+      f
+     </e>
+     =
+     <e type="italic">
+      c
+     </e>
+     ) propagating in the positive
+     <e type="italic">
+      x
+     </e>
+     -direction, the fields are described mathematically by
+     <formula>
+      <inlinemedia id="i79409" mediaid="79409" url="/09/79409-004-49BD320E.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The equations show that the electric and magnetic fields are in phase with each other; at any given point in space, they reach their maximum values,
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      0
+     </sub>
+     and
+     <e type="italic">
+      B
+     </e>
+     <sub>
+      0
+     </sub>
+     , at the same time. The amplitudes of the fields are not independent; Maxwell’s equations show that
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      0
+     </sub>
+     =
+     <e type="italic">
+      c
+     </e>
+     <e type="italic">
+      B
+     </e>
+     <sub>
+      0
+     </sub>
+     for all electromagnetic waves in a vacuum.
+    </p>
+    <p>
+     In describing the orientation of the electric and magnetic fields of a light wave, it is common practice to specify only the direction of the electric field; the magnetic field direction then follows from the requirement that the fields are perpendicular to one another, as well as the direction of wave propagation. A linearly polarized wave has the property that the fields oscillate in fixed directions as the wave propagates. Other polarization states are possible. In a circularly polarized light wave, the electric and magnetic field vectors rotate about the propagation direction while maintaining fixed amplitudes. Elliptically polarized light refers to a situation intermediate between the linear and circular polarization states.
+    </p>
+   </h3>
+   <h3 id="h258420">
+    <title>
+     Unpolarized light
+    </title>
+    <p>
+     The atoms on the surface of a heated filament, which generate light, act independently of one another. Each of their emissions can be approximately modeled as a short “wave train” lasting from about 10
+     <sup>
+      −9
+     </sup>
+     to 10
+     <sup>
+      −8
+     </sup>
+     second. The electromagnetic wave emanating from the filament is a superposition of these wave trains, each having its own polarization direction. The sum of the randomly oriented wave trains results in a wave whose direction of polarization changes rapidly and randomly. Such a wave is said to be unpolarized. All common sources of light, including the Sun,
+     <xref articleid="42238">
+      incandescent
+     </xref>
+     and
+     <xref articleid="34676">
+      fluorescent lights
+     </xref>
+     , and flames, produce unpolarized light. However, natural light is often partially polarized because of multiple scatterings and reflections.
+    </p>
+   </h3>
+   <h3 id="h258421">
+    <title>
+     Sources of polarized light
+    </title>
+    <p>
+     <assembly id="a91341" url="/assembly/view/91341">
+      <title>
+       polarized lenses
+      </title>
+      <media mediaid="96598" type="image" url="/98/96598-004-F3209784.jpg"/>
+      <caption>
+       Polarized lenses selectively block light of horizontal orientation—resulting in a dramatic decrease in glare, which consists mostly of light reflected off horizontal surfaces. Polarized lenses are commonly used in sunglasses, binoculars, telescopes, and cameras.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a91341"/>
+     Polarized light can be produced in circumstances where a spatial orientation is defined. One example is
+     <xref articleid="70743">
+      synchrotron radiation
+     </xref>
+     , where highly energetic charged particles move in a magnetic field and emit polarized electromagnetic waves. There are many known astronomical sources of synchrotron radiation, including
+     <xref articleid="32536">
+      emission nebulae
+     </xref>
+     ,
+     <xref articleid="474181">
+      supernova remnants
+     </xref>
+     , and
+     <xref articleid="471698">
+      active galactic nuclei
+     </xref>
+     ; the polarization of astronomical light is studied in order to infer the properties of these sources.
+    </p>
+    <p>
+     <assembly id="a91342" url="/assembly/view/91342">
+      <title>
+       polarizing filter
+      </title>
+      <media mediaid="96590" type="image" url="/90/96590-004-2BC5042A.jpg"/>
+      <caption>
+       A polarizing filter has its molecules all aligned in the same direction. Light waves with the same orientation as the filter are absorbed by the molecules’ vibrations, thereby reducing the intensity of the light passing through the filter.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a91342"/>
+     Natural light is polarized in passage through a number of materials, the most common being
+     <xref articleid="60598">
+      polaroid
+     </xref>
+     . Invented by the American physicist
+     <xref articleid="47025">
+      Edwin Land
+     </xref>
+     , a sheet of polaroid consists of long-chain
+     <xref articleid="41720">
+      hydrocarbon
+     </xref>
+     molecules aligned in one direction through a heat-treatment process. The molecules preferentially absorb any light with an electric field parallel to the alignment direction. The light emerging from a polaroid is linearly polarized with its electric field perpendicular to the alignment direction. Polaroid is used in many applications, including sunglasses and camera filters, to remove reflected and scattered light.
+    </p>
+    <p>
+     In 1808 the French physicist
+     <xref articleid="50384">
+      Étienne-Louis Malus
+     </xref>
+     discovered that, when natural light reflects off a nonmetallic surface, it is partially polarized. The degree of polarization depends on the angle of incidence and the index of refraction of the reflecting material. At one extreme, when the tangent of the incident angle of light in air equals the index of refraction of the reflecting material, the reflected light is 100 percent linearly polarized; this is known as
+     <xref articleid="16399">
+      Brewster’s law
+     </xref>
+     (after its discoverer, the Scottish physicist
+     <xref articleid="16395">
+      David Brewster
+     </xref>
+     ). The direction of polarization is parallel to the reflecting surface. Because daytime glare typically originates from reflections off horizontal surfaces such as roads and water, polarizing filters are often used in sunglasses to remove horizontally polarized light, hence selectively removing glare.
+    </p>
+    <p>
+     The scattering of unpolarized light by very small objects, with sizes much less than the wavelength of the light (called
+     <xref articleid="62822">
+      Rayleigh scattering
+     </xref>
+     , after the English scientist
+     <xref articleid="62821">
+      Lord Rayleigh
+     </xref>
+     ), also produces a partial polarization. When sunlight passes through Earth’s atmosphere, it is scattered by air molecules. The scattered light that reaches the ground is partially linearly polarized, the extent of its polarization depending on the scattering angle. Because human eyes are not sensitive to the polarization of light, this effect generally goes unnoticed. However, the eyes of many
+     <xref articleid="105953">
+      insects
+     </xref>
+     are responsive to polarization properties, and they use the relative polarization of ambient sky light as a navigational tool. A common camera filter employed to reduce background light in bright sunshine is a simple linear polarizer designed to reject Rayleigh scattered light from the sky.
+    </p>
+    <p>
+     Polarization effects are observable in optically anisotropic materials (in which the index of refraction varies with polarization direction) such as birefringent
+     <xref articleid="110297">
+      crystals
+     </xref>
+     and some biological structures and in optically active materials. Technological applications include polarizing microscopes,
+     <xref articleid="126254">
+      liquid crystal displays
+     </xref>
+     , and optical instrumentation for materials testing.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h258422">
+   <title>
+    Energy transport
+   </title>
+   <p>
+    The transport of
+    <xref articleid="32627">
+     energy
+    </xref>
+    by light plays a critical role in life. About 10
+    <sup>
+     22
+    </sup>
+    <xref articleid="44023">
+     joules
+    </xref>
+    of solar radiant energy reaches
+    <xref articleid="110147">
+     Earth
+    </xref>
+    each day. Perhaps half of that energy reaches Earth’s surface, the rest being absorbed or scattered in the atmosphere. In turn, Earth continuously reradiates electromagnetic energy (predominantly in the infrared). Together, these energy-transport processes determine Earth’s energy balance, setting its average temperature and driving its global weather patterns. The transformation of solar energy into chemical energy by
+    <xref articleid="108553">
+     photosynthesis
+    </xref>
+    in plants maintains
+    <xref articleid="106478">
+     life
+    </xref>
+    on Earth. The
+    <xref articleid="35002">
+     fossil fuels
+    </xref>
+    that power industrial society—
+    <xref articleid="110439">
+     natural gas
+    </xref>
+    ,
+    <xref articleid="110438">
+     petroleum
+    </xref>
+    , and
+    <xref articleid="110442">
+     coal
+    </xref>
+    —are ultimately stored organic forms of solar energy deposited on Earth millions of years ago.
+   </p>
+   <p>
+    The electromagnetic-wave model of light accounts naturally for the origin of energy transport. In an electromagnetic wave, energy is stored in the electric and magnetic fields; as the fields propagate at the speed of light, the energy content is transported. The proper measure of energy transport in an electromagnetic wave is its irradiance, or intensity, which equals the rate at which energy passes a unit area oriented perpendicular to the direction of propagation. The time-averaged irradiance
+    <e type="italic">
+     I
+    </e>
+    for a harmonic electromagnetic wave is related to the amplitudes of the electric and magnetic fields:
+    <e type="italic">
+     I
+    </e>
+    = ε
+    <sub>
+     0
+    </sub>
+    <e type="italic">
+     c
+    </e>
+    <sup>
+     2
+    </sup>
+    <e type="italic">
+     E
+    </e>
+    <sub>
+     0
+    </sub>
+    <e type="italic">
+     B
+    </e>
+    <sub>
+     0
+    </sub>
+    /2 watts per square metre.
+   </p>
+   <p>
+    The irradiance of sunlight at the top of Earth’s atmosphere is about 1,350 watts per square metre; this factor is referred to as the solar constant. Considerable efforts have gone into developing technologies to transform this
+    <xref articleid="68559">
+     solar energy
+    </xref>
+    into directly usable thermal or electric energy.
+   </p>
+   <h3 id="h258423">
+    <title>
+     Radiation pressure
+    </title>
+    <p>
+     In addition to carrying energy, light transports momentum and is capable of exerting mechanical forces on objects. When an electromagnetic wave is absorbed by an object, the wave exerts a pressure (
+     <e type="italic">
+      P
+     </e>
+     ) on the object that equals the wave’s irradiance (
+     <e type="italic">
+      I
+     </e>
+     ) divided by the speed of light (
+     <e type="italic">
+      c
+     </e>
+     ):
+     <e type="italic">
+      P
+     </e>
+     =
+     <e type="italic">
+      I
+     </e>
+     /
+     <e type="italic">
+      c
+     </e>
+     newtons per square metre.
+    </p>
+    <p>
+     Most natural light sources exert negligibly small forces on objects; this subtle effect was first demonstrated in 1903 by the American physicists Ernest Fox Nichols and Gordon Hull. However, radiation pressure is consequential in a number of astronomical settings. Perhaps most important, the equilibrium conditions of stellar structure are determined largely by the opposing forces of gravitational attraction on the one hand and radiation pressure and thermal pressure on the other. The outward force of the light escaping the core of a star, working with thermal pressure, acts to balance the inward gravitational forces on the outer layers of the star. Another, visually dramatic, example of radiation pressure is the formation of
+     <xref articleid="110156">
+      cometary
+     </xref>
+     tails, in which dust particles released by cometary nuclei are pushed by solar radiation into characteristic trailing patterns.
+    </p>
+    <p>
+     Terrestrial applications of radiation pressure became feasible with the advent of
+     <xref articleid="47248">
+      lasers
+     </xref>
+     in the 1960s. In part because of the small diameters of their output beams and the excellent focusing properties of the beams, laser intensities are generally orders of magnitude larger than the intensities of natural light sources. On the largest scale, the most powerful laser systems are designed to compress and heat target materials in nuclear fusion inertial confinement schemes. The radiation forces from table-top laser systems are used to manipulate atoms and microscopic objects. The techniques of laser cooling and trapping, pioneered by the Nobelists
+     <xref articleid="110821">
+      Steven Chu
+     </xref>
+     ,
+     <xref articleid="110823">
+      William Phillips
+     </xref>
+     , and
+     <xref articleid="110822">
+      Claude Cohen-Tannoudji
+     </xref>
+     , slow a gas of atoms in an “optical molasses” of intersecting laser beams. Temperatures below 10
+     <sup>
+      −6
+     </sup>
+     K (one-millionth of a degree above
+     <xref articleid="3400">
+      absolute zero
+     </xref>
+     ) have been achieved. “Optical tweezers” is a related technique in which a tightly focused laser beam exerts a radiation force large enough to deflect, guide, and trap micron-sized objects ranging from dielectric spheres to biological samples such as
+     <xref articleid="106000">
+      viruses
+     </xref>
+     , single living cells, and
+     <xref articleid="98575">
+      organelles
+     </xref>
+     within cells.
+    </p>
+   </h3>
+   <h3 id="h258424">
+    <title>
+     Interactions of light with matter
+    </title>
+    <p>
+     The transmission of light through a piece of glass, the reflections and refractions of light in a raindrop, and the scattering of sunlight in Earth’s atmosphere are examples of interactions of light with matter. On an atomic scale, these interactions are governed by the quantum mechanical natures of matter and light, but many are adequately explained by the interactions of classical electromagnetic radiation with charged particles.
+    </p>
+    <p>
+     A detailed presentation of the classical model of an interaction between an electromagnetic wave and an atom can be found in the article
+     <xref articleid="106022">
+      electromagnetic radiation
+     </xref>
+     . In brief, the electric and magnetic fields of the wave exert forces on the bound electrons of the atom, causing them to oscillate at the frequency of the wave. Oscillating charges are sources of electromagnetic radiation; the oscillating electrons radiate waves at the same frequency as the incoming fields. This constitutes the microscopic origin of the scattering of an electromagnetic wave. The
+     <xref articleid="32316">
+      electrons
+     </xref>
+     initially absorb energy from the incoming wave as they are set in motion, and they redirect that energy in the form of scattered light of the same frequency.
+    </p>
+    <p>
+     Through interference effects, the superposition of the reradiated waves from all of the participating atoms determines the net outcome of the scattering interactions. Two examples illustrate this point. As a light beam passes through transparent glass, the reradiated waves within the glass interfere destructively in all directions except the original propagation direction of the beam, resulting in little or no light’s being scattered out of the original beam. Therefore, the light advances without loss through the glass. When sunlight passes through Earth’s upper atmosphere, on the other hand, the reradiated waves generated by the gaseous molecules do not suffer destructive interference, so that a significant amount of light is scattered in many directions. The outcomes of these two scattering interactions are quite different, primarily because of differences in the densities of the scatterers. Generally, when the mean spacing between scatterers is significantly less than the wavelength of the light (as in glass), destructive interference effects significantly limit the amount of lateral scattering; when the mean spacing is greater than, or on the order of, the wavelength and the scatterers are randomly distributed in space (as in the upper atmosphere), interference effects do not play a significant role in the lateral scattering.
+    </p>
+    <p>
+     Lord Rayleigh’s analysis in 1871 of the scattering of light by atoms and molecules in the atmosphere showed that the intensity of the scattered light increases as the fourth power of its frequency; this strong dependence on frequency explains the colour of the sunlit sky. Being at the high-frequency end of the visible spectrum, blue light is scattered far more by air molecules than the lower-frequency colours; the sky appears blue. On the other hand, when
+     <xref articleid="70375">
+      sunlight
+     </xref>
+     passes through a long column of air, such as at sunrise or sunset, the high-frequency components are selectively scattered out of the beam and the remaining light appears reddish.
+    </p>
+   </h3>
+   <h3 id="h258425">
+    <title>
+     Nonlinear interactions
+    </title>
+    <p>
+     The interactions of light waves with matter become progressively richer as intensities are increased. The field of nonlinear optics describes interactions in which the response of the atomic oscillators is no longer simply proportional to the intensity of the incoming light wave. Nonlinear optics has many significant applications in communications and photonics,
+     <xref articleid="106312">
+      information processing
+     </xref>
+     , schemes for optical computing and storage, and
+     <xref articleid="110407">
+      spectroscopy
+     </xref>
+     .
+    </p>
+    <p>
+     Nonlinear effects generally become observable in a material when the strength of the electric field in the light wave is appreciable in comparison with the electric fields within the atoms of the material. Laser sources, particularly pulsed sources, easily achieve the required light intensities for this regime. Nonlinear effects are characterized by the generation of light with frequencies differing from the frequency of the incoming light beam. Classically, this is understood as resulting from the large driving forces of the
+     <xref articleid="32278">
+      electric fields
+     </xref>
+     of the incoming wave on the atomic oscillators. As an illustration, consider second harmonic generation, the first nonlinear effect observed in a crystal (1961). When high-intensity light of frequency
+     <e type="italic">
+      f
+     </e>
+     passes through an appropriate nonlinear crystal (quartz was used in the first observations), a fraction of that light is converted to light of frequency 2
+     <e type="italic">
+      f
+     </e>
+     . Higher harmonics can also be generated with appropriate media, as well as combinations of frequencies when two or more light beams are used as input.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h258426">
+  <title>
+   Quantum theory of light
+  </title>
+  <p>
+   By the end of the 19th century, the battle over the nature of light as a wave or a collection of particles seemed over.
+   <xref articleid="108468">
+    James Clerk Maxwell
+   </xref>
+   ’s synthesis of electric, magnetic, and optical phenomena and the discovery by
+   <xref articleid="40253">
+    Heinrich Hertz
+   </xref>
+   of electromagnetic waves were theoretical and experimental triumphs of the first order. Along with Newtonian
+   <xref articleid="110307">
+    mechanics
+   </xref>
+   and
+   <xref articleid="108582">
+    thermodynamics
+   </xref>
+   , Maxwell’s
+   <xref articleid="106021">
+    electromagnetism
+   </xref>
+   took its place as a foundational element of physics. However, just when everything seemed to be settled, a period of revolutionary change was ushered in at the beginning of the 20th century. A new interpretation of the emission of light by heated objects and new experimental methods that opened the atomic world for study led to a radical departure from the classical theories of Newton and Maxwell—
+   <xref articleid="110312">
+    quantum mechanics
+   </xref>
+   was born. Once again the question of the nature of light was reopened.
+  </p>
+  <h2 id="h258427">
+   <title>
+    Principal historical developments
+   </title>
+   <h3 id="h258428">
+    <title>
+     Blackbody radiation
+    </title>
+    <p>
+     <xref articleid="15527">
+      Blackbody
+     </xref>
+     radiation refers to the spectrum of light emitted by any heated object; common examples include the heating element of a toaster and the filament of a light bulb. The spectral intensity of blackbody radiation peaks at a frequency that increases with the temperature of the emitting body: room temperature objects (about 300 K) emit radiation with a peak intensity in the far
+     <xref articleid="42403">
+      infrared
+     </xref>
+     ; radiation from toaster filaments and light bulb
+     <xref articleid="34245">
+      filaments
+     </xref>
+     (about 700 K and 2,000 K, respectively) also peak in the infrared, though their spectra extend progressively into the visible; while the 6,000 K surface of the Sun emits blackbody radiation that peaks in the centre of the visible range. In the late 1890s, calculations of the spectrum of blackbody radiation based on classical electromagnetic theory and
+     <xref articleid="108582">
+      thermodynamics
+     </xref>
+     could not duplicate the results of careful measurements. In fact, the calculations predicted the absurd result that, at any temperature, the spectral intensity increases without limit as a function of frequency.
+    </p>
+    <p>
+     In 1900 the German physicist
+     <xref articleid="108525">
+      Max Planck
+     </xref>
+     succeeded in calculating a blackbody spectrum that matched experimental results by proposing that the elementary oscillators at the surface of any object (the detailed structure of the oscillators was not relevant) could emit and absorb electromagnetic radiation only in discrete packets, with the energy of a packet being directly proportional to the frequency of the radiation,
+     <e type="italic">
+      E
+     </e>
+     =
+     <e type="italic">
+      h
+     </e>
+     <e type="italic">
+      f
+     </e>
+     . The constant of proportionality,
+     <e type="italic">
+      h
+     </e>
+     , which Planck determined by comparing his theoretical results with the existing experimental data, is now called
+     <xref articleid="60293">
+      Planck’s constant
+     </xref>
+     and has the approximate value 6.626 × 10
+     <sup>
+      −34
+     </sup>
+     joule∙second.
+    </p>
+   </h3>
+   <h3 id="h258429">
+    <title>
+     Photons
+    </title>
+    <p>
+     Planck did not offer a physical basis for his proposal; it was largely a mathematical construct needed to match the calculated blackbody spectrum to the observed spectrum. In 1905
+     <xref articleid="106018">
+      Albert Einstein
+     </xref>
+     gave a ground-breaking physical interpretation to Planck’s mathematics when he proposed that electromagnetic radiation itself is granular, consisting of quanta, each with an energy
+     <e type="italic">
+      h
+     </e>
+     <e type="italic">
+      f
+     </e>
+     . He based his conclusion on thermodynamic arguments applied to a radiation field that obeys
+     <xref articleid="60294">
+      Planck’s radiation law
+     </xref>
+     . The term
+     <e type="italic">
+      photon
+     </e>
+     , which is now applied to the energy quantum of light, was later coined by the American chemist
+     <xref articleid="48018">
+      Gilbert N. Lewis
+     </xref>
+     .
+    </p>
+    <p>
+     Einstein supported his photon hypothesis with an analysis of the
+     <xref articleid="59805">
+      photoelectric effect
+     </xref>
+     , a process, discovered by Hertz in 1887, in which electrons are ejected from a metallic surface illuminated by light. Detailed measurements showed that the onset of the effect is determined solely by the frequency of the light and the makeup of the surface and is independent of the light intensity. This behaviour was puzzling in the context of classical electromagnetic waves, whose energies are proportional to intensity and independent of frequency. Einstein supposed that a minimum amount of energy is required to liberate an electron from a surface—only
+     <xref articleid="59817">
+      photons
+     </xref>
+     with energies greater than this minimum can induce electron emission. This requires a minimum light frequency, in agreement with experiment. Einstein’s prediction of the dependence of the
+     <xref articleid="45490">
+      kinetic energy
+     </xref>
+     of the ejected electrons on the light frequency, based on his photon model, was experimentally verified by the American physicist
+     <xref articleid="52732">
+      Robert Millikan
+     </xref>
+     in 1916.
+    </p>
+    <p>
+     In 1922 American Nobelist
+     <xref articleid="25040">
+      Arthur Compton
+     </xref>
+     treated the scattering of
+     <xref articleid="77656">
+      X-rays
+     </xref>
+     from electrons as a set of collisions between photons and electrons. Adapting the relation between momentum and energy for a classical electromagnetic wave to an individual photon,
+     <e type="italic">
+      p
+     </e>
+     =
+     <e type="italic">
+      E
+     </e>
+     /
+     <e type="italic">
+      c
+     </e>
+     =
+     <e type="italic">
+      h
+     </e>
+     <e type="italic">
+      f
+     </e>
+     /
+     <e type="italic">
+      c
+     </e>
+     =
+     <e type="italic">
+      h
+     </e>
+     /λ, Compton used the
+     <xref articleid="25938">
+      conservation laws
+     </xref>
+     of momentum and energy to derive an expression for the wavelength shift of scattered X-rays as a function of their scattering angle. His formula matched his experimental findings, and the
+     <xref articleid="25044">
+      Compton effect
+     </xref>
+     , as it became known, was considered further convincing evidence for the existence of particles of electromagnetic radiation.
+    </p>
+    <p>
+     The energy of a photon of visible light is very small, being on the order of 4 × 10
+     <sup>
+      −19
+     </sup>
+     <xref articleid="44023">
+      joule
+     </xref>
+     . A more convenient energy unit in this regime is the electron volt (eV). One electron volt equals the energy gained by an electron when its electric potential is changed by one
+     <xref articleid="75698">
+      volt
+     </xref>
+     : 1 eV = 1.6 × 10
+     <sup>
+      −19
+     </sup>
+     joule. The spectrum of visible light includes photons with energies ranging from about 1.8 eV (red light) to about 3.1 eV (violet light). Human vision cannot detect individual photons, although, at the peak of its spectral response (about 510 nm, in the green), the dark-adapted eye comes close. Under normal daylight conditions, the discrete nature of the light entering the human eye is completely obscured by the very large number of photons involved. For example, a standard 100-watt light bulb emits on the order of 10
+     <sup>
+      20
+     </sup>
+     photons per second; at a distance of 10 metres from the bulb, perhaps 10
+     <sup>
+      11
+     </sup>
+     photons per second will enter a normally adjusted pupil of a diameter of 2 mm.
+    </p>
+    <p>
+     Photons of visible light are energetic enough to initiate some critically important chemical reactions, most notably
+     <xref articleid="108553">
+      photosynthesis
+     </xref>
+     through absorption by
+     <xref articleid="82254">
+      chlorophyll
+     </xref>
+     molecules. Photovoltaic systems are engineered to convert light energy to electric energy through the absorption of visible photons by
+     <xref articleid="66711">
+      semiconductor materials
+     </xref>
+     . More-energetic
+     <xref articleid="74181">
+      ultraviolet
+     </xref>
+     photons (4 to 10 eV) can initiate
+     <xref articleid="110114">
+      photochemical reactions
+     </xref>
+     such as molecular dissociation and atomic and molecular ionization. Modern methods for detecting light are based on the response of materials to individual photons. Photoemissive detectors, such as
+     <xref articleid="59816">
+      photomultiplier tubes
+     </xref>
+     , collect electrons emitted by the
+     <xref articleid="59805">
+      photoelectric effect
+     </xref>
+     ; in photoconductive detectors the absorption of a photon causes a change in the conductivity of a semiconductor material.
+    </p>
+    <p>
+     A number of subtle influences of
+     <xref articleid="106265">
+      gravity
+     </xref>
+     on light, predicted by Einstein’s
+     <xref articleid="109465" refid="h252889">
+      general theory of relativity
+     </xref>
+     , are most easily understood in the context of a photon model of light and are presented here. (However, note that general relativity is not itself a theory of quantum physics.)
+    </p>
+    <p>
+     Through the famous relativity equation
+     <xref articleid="487261">
+      <e type="italic">
+       E
+      </e>
+      =
+      <e type="italic">
+       m
+      </e>
+      <e type="italic">
+       c
+      </e>
+      <sup>
+       2
+      </sup>
+     </xref>
+     , a photon of frequency
+     <e type="italic">
+      f
+     </e>
+     and energy
+     <e type="italic">
+      E
+     </e>
+     =
+     <e type="italic">
+      h
+     </e>
+     <e type="italic">
+      f
+     </e>
+     can be considered to have an effective mass of
+     <e type="italic">
+      m
+     </e>
+     =
+     <e type="italic">
+      h
+     </e>
+     <e type="italic">
+      f
+     </e>
+     /
+     <e type="italic">
+      c
+     </e>
+     <sup>
+      2
+     </sup>
+     . Note that this effective mass is distinct from the “rest mass” of a photon, which is zero. General
+     <xref articleid="109465">
+      relativity
+     </xref>
+     predicts that the path of light is deflected in the gravitational field of a massive object; this can be somewhat simplistically understood as resulting from a gravitational attraction proportional to the effective mass of the photons. In addition, when light travels toward a massive object, its energy increases, and its frequency thus increases (gravitational blueshift). Gravitational redshift describes the converse situation where light traveling away from a massive object loses energy and its frequency decreases.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h258430">
+   <title>
+    Quantum mechanics
+   </title>
+   <p>
+    The first two decades of the 20th century left the status of the nature of light confused. That light is a wave phenomenon was indisputable: there were countless examples of interference effects—the signature of waves—and a well-developed electromagnetic wave theory. However, there was also undeniable evidence that light consists of a collection of particles with well-defined energies and momenta. This paradoxical wave-particle duality was soon seen to be shared by all elements of the material world.
+   </p>
+   <p>
+    In 1923 the French physicist
+    <xref articleid="16585">
+     Louis de Broglie
+    </xref>
+    suggested that
+    <xref articleid="76323">
+     wave-particle duality
+    </xref>
+    is a feature common to light and all matter. In direct analogy to photons, de Broglie proposed that electrons with momentum
+    <e type="italic">
+     p
+    </e>
+    should exhibit wave properties with an associated wavelength λ =
+    <e type="italic">
+     h
+    </e>
+    /
+    <e type="italic">
+     p
+    </e>
+    . Four years later, de Broglie’s hypothesis of matter waves, or
+    <xref articleid="29586">
+     de Broglie waves
+    </xref>
+    , was experimentally confirmed by
+    <xref articleid="29530">
+     Clinton Davisson
+    </xref>
+    and
+    <xref articleid="36589">
+     Lester Germer
+    </xref>
+    at Bell Laboratories with their observation of electron diffraction effects.
+   </p>
+   <p>
+    A radically new mathematical framework for describing the microscopic world, incorporating de Broglie’s hypothesis, was formulated in 1926–27 by the German physicist
+    <xref articleid="106280">
+     Werner Heisenberg
+    </xref>
+    and the Austrian physicist
+    <xref articleid="66219">
+     Erwin Schrödinger
+    </xref>
+    , among others. In quantum mechanics, the dominant theory of 20th-century physics, the Newtonian notion of a classical particle with a well-defined trajectory is replaced by the
+    <xref articleid="76318">
+     wave function
+    </xref>
+    , a nonlocalized function of space and time. The interpretation of the wave function, originally suggested by the German physicist
+    <xref articleid="80764">
+     Max Born
+    </xref>
+    , is statistical—the wave function provides the means for calculating the probability of finding a particle at any point in space. When a measurement is made to detect a particle, it always appears as pointlike, and its position immediately after the measurement is well defined. But before a measurement is made, or between successive measurements, the particle’s position is not well defined; instead, the state of the particle is specified by its evolving wave function.
+   </p>
+   <p>
+    The quantum mechanics embodied in the 1926–27 formulation is nonrelativistic—that is, it applies only to particles whose speeds are significantly less than the speed of light. The quantum mechanical description of light was not fully realized until the late 1940s (
+    <e type="italic">
+     see below
+    </e>
+    <xref articleid="110443" refid="h258437">
+     Quantum electrodynamics
+    </xref>
+    ). However, light and matter share a common central feature—a complementary relation between wave and particle aspects—that can be illustrated without resorting to the formalisms of relativistic quantum mechanics.
+   </p>
+   <h3 id="h258431">
+    <title>
+     Wave-particle duality
+    </title>
+    <p>
+     The same interference pattern demonstrated in Young’s double-slit experiment is produced when a beam of matter, such as
+     <xref articleid="32316">
+      electrons
+     </xref>
+     , impinges on a double-slit apparatus. Concentrating on light, the interference pattern clearly demonstrates its wave properties. But what of its particle properties? Can an individual photon be followed through the two-slit apparatus, and if so, what is the origin of the resulting interference pattern? The superposition of two waves, one passing through each slit, produces the pattern in Young’s apparatus. Yet, if light is considered a collection of particle-like photons, each can pass only through one slit or the other. Soon after Einstein’s photon hypothesis in 1905, it was suggested that the two-slit interference pattern might be caused by the interaction of photons that passed through different slits. This interpretation was ruled out in 1909 when the English physicist
+     <xref articleid="473457">
+      Geoffrey Taylor
+     </xref>
+     reported a diffraction pattern in the shadow of a needle recorded on a photographic plate exposed to a very weak light source, weak enough that only one photon could be present in the apparatus at any one time. Photons were not interfering with one another; each photon was contributing to the diffraction pattern on its own.
+    </p>
+    <p>
+     In modern versions of this two-slit interference experiment, the photographic plate is replaced with a detector that is capable of recording the arrival of individual photons. Each photon arrives whole and intact at one point on the detector. It is impossible to predict the arrival position of any one photon, but the cumulative effect of many independent photon impacts on the detector results in the gradual buildup of an interference pattern. The magnitude of the classical interference pattern at any one point is therefore a measure of the probability of any one photon’s arriving at that point. The interpretation of this seemingly paradoxical behaviour (shared by light and matter), which is in fact predicted by the laws of quantum mechanics, has been debated by the scientific community since its discovery more than 100 years ago. The American physicist
+     <xref articleid="34161">
+      Richard Feynman
+     </xref>
+     summarized the situation in 1965:
+    </p>
+    <quote>
+     <p>
+      We choose to examine a phenomenon which is impossible, absolutely impossible, to explain in any classical way, and which has in it the heart of quantum mechanics. In reality, it contains the only mystery.
+     </p>
+    </quote>
+    <p>
+     In a wholly unexpected fashion, quantum mechanics resolved the long wave-particle debate over the nature of light by rejecting both models. The behaviour of light cannot be fully accounted for by a classical wave model or by a classical particle model. These pictures are useful in their respective regimes, but ultimately they are approximate, complementary descriptions of an underlying reality that is described quantum mechanically.
+    </p>
+   </h3>
+   <h3 id="h258432">
+    <title>
+     Quantum optics
+    </title>
+    <p>
+     Quantum optics, the study and application of the quantum interactions of light with matter, is an active and expanding field of experiment and theory. Progress in the development of light sources and detection techniques since the early 1980s has allowed increasingly sophisticated optical tests of the foundations of quantum mechanics. Basic quantum effects such as single photon interference, along with more esoteric issues such as the meaning of the measurement process, have been more clearly elucidated. Entangled states of two or more photons with highly correlated properties (such as polarization direction) have been generated and used to test the fundamental issue of nonlocality in quantum mechanics (
+     <e type="italic">
+      see
+     </e>
+     <xref articleid="110312" refid="h77522">
+      quantum mechanics: Paradox of Einstein, Podolsky, and Rosen
+     </xref>
+     ). Novel technological applications of quantum optics are also under study, including quantum cryptography and
+     <xref articleid="343823">
+      quantum computing
+     </xref>
+     .
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h258433">
+   <title>
+    Emission and absorption processes
+   </title>
+   <h3 id="h258434">
+    <title>
+     Bohr model
+    </title>
+    <p>
+     <assembly id="a165416" url="/assembly/view/165416">
+      <title>
+       emission of light
+      </title>
+      <media mediaid="108844" type="image" url="/44/108844-004-190CEC56.jpg"/>
+      <caption>
+       Modern theory explains the emission of light by matter in terms of electronic energy levels. An electron of relatively high energy may jump to a condition of lower energy, giving off the energy difference as electromagnetic radiation.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a165416"/>
+     That materials, when heated in flames or put in electrical discharges, emit light at well-defined and characteristic frequencies was known by the mid-19th century. The study of the emission and absorption spectra of atoms was crucial to the development of a successful theory of atomic structure. Attempts to describe the origin of the emission and absorption lines (i.e., the frequencies of emission and absorption) of even the simplest atom,
+     <xref articleid="110604">
+      hydrogen
+     </xref>
+     , in the framework of classical mechanics and electromagnetism failed miserably. Then, in 1913, Danish physicist
+     <xref articleid="106088">
+      Niels Bohr
+     </xref>
+     proposed a model for the hydrogen atom that succeeded in explaining the regularities of its spectrum. In what is known as the
+     <xref articleid="80432">
+      Bohr atomic model
+     </xref>
+     , the orbiting electrons in an atom are found in only certain allowed “stationary states” with well-defined energies. An atom can absorb or emit one photon when an electron makes a transition from one stationary state, or energy level, to another.
+     <xref articleid="32628">
+      Conservation of energy
+     </xref>
+     determines the energy of the photon and thus the frequency of the emitted or absorbed light. Though Bohr’s model was superseded by quantum mechanics, it still offers a useful, though simplistic, picture of atomic transitions.
+    </p>
+   </h3>
+   <h3 id="h258435">
+    <title>
+     Spontaneous emission
+    </title>
+    <p>
+     When an isolated atom is excited into a high-energy state, it generally remains in the excited state for a short time before emitting a photon and making a transition to a lower energy state. This fundamental process is called spontaneous emission. The emission of a photon is a probabilistic event; that is, the likelihood of its occurrence is described by a probability per unit time. For many excited states of atoms, the average time before the spontaneous emission of a photon is on the order of 10
+     <sup>
+      −9
+     </sup>
+     to 10
+     <sup>
+      −8
+     </sup>
+     second.
+    </p>
+   </h3>
+   <h3 id="h258436">
+    <title>
+     Stimulated emission
+    </title>
+    <p>
+     The absorption of a photon by an atom is also a probabilistic event, with the probability per unit time being proportional to the intensity of the light falling on the atom. In 1917 Einstein, though not knowing the exact mechanisms for the emission and absorption of photons, showed through thermodynamic arguments that there must be a third type of radiative transition in an atom—stimulated emission. In stimulated emission the presence of photons with an appropriate energy triggers an atom in an excited state to emit a photon of identical energy and to make a transition to a lower state. As with absorption, the probability of stimulated emission is proportional to the intensity of the light bathing the atom. Einstein mathematically expressed the statistical nature of the three possible radiative transition routes (spontaneous emission, stimulated emission, and absorption) with the so-called Einstein coefficients and quantified the relations between the three processes. One of the early successes of quantum mechanics was the correct prediction of the numerical values of the Einstein coefficients for the hydrogen atom.
+    </p>
+    <p>
+     Einstein’s description of the stimulated emission process showed that the emitted photon is identical in every respect to the stimulating photons, having the same energy and polarization, traveling in the same direction, and being in phase with those photons. Some 40 years after Einstein’s work, the
+     <xref articleid="47248">
+      laser
+     </xref>
+     was invented, a device that is directly based on the stimulated emission process. (The acronym
+     <e type="italic">
+      laser
+     </e>
+     stands for “light amplification by stimulated emission of radiation.”) Laser light, because of the underlying properties of stimulated emission, is highly monochromatic, directional, and coherent. Many modern spectroscopic techniques for probing atomic and molecular structure and dynamics, as well as innumerable technological applications, take advantage of these properties of laser light.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h258437">
+   <title>
+    Quantum electrodynamics
+   </title>
+   <p>
+    The foundations of a quantum mechanical theory of light and its interactions with matter were developed in the late 1920s and ’30s by
+    <xref articleid="30591">
+     Paul Dirac
+    </xref>
+    ,
+    <xref articleid="106280">
+     Werner Heisenberg
+    </xref>
+    ,
+    <xref articleid="43978">
+     Pascual Jordan
+    </xref>
+    ,
+    <xref articleid="58782">
+     Wolfgang Pauli
+    </xref>
+    , and others. The fully developed theory, called quantum electrodynamics (QED), is credited to the independent work of
+    <xref articleid="34161">
+     Richard Feynman
+    </xref>
+    ,
+    <xref articleid="66277">
+     Julian S. Schwinger
+    </xref>
+    , and
+    <xref articleid="72839">
+     Tomonaga Shin’ichirō
+    </xref>
+    . QED describes the interactions of electromagnetic radiation with charged particles and the interactions of charged particles with one another. The electric and magnetic fields described in Maxwell’s equations are quantized, and photons appear as excitations of those quantized fields. In QED, photons serve as carriers of electric and magnetic forces. For example, two identical charged particles electrically repel one another because they are exchanging what are called virtual photons. (Virtual photons cannot be directly detected; their existence violates the
+    <xref articleid="25938">
+     conservation laws
+    </xref>
+    of energy and momentum.) Photons can also be freely emitted by charged particles, in which case they are detectable as light. Though the mathematical complexities of QED are formidable, it is a highly successful theory that has now withstood decades of precise experimental tests. It is considered the prototype field theory in physics; great efforts have gone into adapting its core concepts and calculational approaches to the description of other fundamental forces in nature (
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="74254">
+     unified field theory
+    </xref>
+    ).
+   </p>
+   <p>
+    QED provides a theoretical framework for processes involving the transformations of matter into photons and photons into matter. In pair creation, a photon interacting with an atomic nucleus (to conserve momentum) disappears, and its energy is converted into an electron and a
+    <xref articleid="61025">
+     positron
+    </xref>
+    (a particle-antiparticle pair). In pair annihilation, an electron-positron pair disappears, and two high-energy photons are created. These processes are of central importance in cosmology—once again demonstrating that light is a primary component of the physical universe.
+   </p>
+   <signature>
+    Glenn Stark
+   </signature>
+  </h2>
+ </h1>
+ <h1 id="h69333">
+  <title>
+   Bibliography
+  </title>
+  <h2 id="h69334">
+   <title>
+    General science and historical works concerning light
+   </title>
+   <p>
+    Excellent general science books on the nature of light and special visual effects include
+    <e type="smallcap">
+     David K. Lynch
+    </e>
+    and
+    <e type="smallcap">
+     William Livingston
+    </e>
+    ,
+    <e type="italic">
+     Color and Light in Nature
+    </e>
+    , 2nd ed. (2001); and
+    <e type="smallcap">
+     David Greenler
+    </e>
+    ,
+    <e type="italic">
+     Rainbows, Haloes, and Glories
+    </e>
+    (1980). Three excellent histories of the study of light and its role in human experience are
+    <e type="smallcap">
+     David Park
+    </e>
+    ,
+    <e type="italic">
+     The Fire Within the Eye
+    </e>
+    (1997);
+    <e type="smallcap">
+     Sidney Perkowitz
+    </e>
+    ,
+    <e type="italic">
+     Empire of Light: A History of Discovery in Science and Art
+    </e>
+    (1998); and
+    <e type="smallcap">
+     Arthur Zajonc
+    </e>
+    ,
+    <e type="italic">
+     Catching the Light
+    </e>
+    (1995).
+   </p>
+  </h2>
+  <h2 id="h69335">
+   <title>
+    Textbook introductions
+   </title>
+   <p>
+    Textbooks aimed at nonscience majors and requiring minimal mathematics are
+    <e type="smallcap">
+     Thomas Rossing
+    </e>
+    and
+    <e type="smallcap">
+     Christopher Chiaverina
+    </e>
+    ,
+    <e type="italic">
+     Light Science: Physics and the Visual Arts
+    </e>
+    (1999);
+    <e type="smallcap">
+     Gary Waldman
+    </e>
+    ,
+    <e type="italic">
+     Introduction to Light: The Physics of Light, Vision, and Color
+    </e>
+    (1983); and
+    <e type="smallcap">
+     David Falk
+    </e>
+    ,
+    <e type="smallcap">
+     Dieter Brill
+    </e>
+    , and
+    <e type="smallcap">
+     David Stork
+    </e>
+    ,
+    <e type="italic">
+     Seeing the Light
+    </e>
+    (1986).
+    <e type="smallcap">
+     Edmund Whittaker
+    </e>
+    ,
+    <e type="italic">
+     A History of the Theories of Aether &amp; Electricity
+    </e>
+    , rev. and enlarged ed., 2 vol. (1951–53, reissued in 1 vol., 1989), is a detailed presentation of the development of electromagnetic theory in the 19th century. Technical presentations of the science of optics can be found in the comprehensive treatise by
+    <e type="smallcap">
+     Eugene Hecht
+    </e>
+    ,
+    <e type="italic">
+     Optics
+    </e>
+    , 4th ed. (2001). Introductions to the quantum mechanical nature of light include
+    <e type="smallcap">
+     Richard Feynman
+    </e>
+    ,
+    <e type="italic">
+     QED: The Strange Theory of Light and Matter
+    </e>
+    (1986); and
+    <e type="smallcap">
+     Bruce Wheaton
+    </e>
+    ,
+    <e type="italic">
+     The Tiger and the Shark: Empirical Roots of Wave-Particle Dualism
+    </e>
+    (1983).
+   </p>
+   <signature>
+    Glenn Stark
+   </signature>
+  </h2>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

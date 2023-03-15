@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="35365" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 22:06:50" url="/article/frequency/35365" version="5">
+ <title>
+  frequency
+ </title>
+ <p>
+  <e type="bold">
+   frequency
+  </e>
+  , in
+  <xref articleid="108654">
+   physics
+  </xref>
+  , the number of
+  <xref articleid="473598">
+   waves
+  </xref>
+  that pass a fixed point in unit time; also, the number of cycles or vibrations undergone during one unit of time by a body in
+  <xref articleid="59261">
+   periodic motion
+  </xref>
+  . A body in periodic motion is said to have undergone one cycle or one vibration after passing through a series of events or positions and returning to its original state.
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="7613">
+   angular velocity
+  </xref>
+  ;
+  <xref articleid="67869">
+   simple harmonic motion
+  </xref>
+  .
+ </p>
+ <p>
+  If the period, or time interval, required to complete one cycle or vibration is
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    2
+   </den>
+  </fraction>
+  second, the frequency is 2 per second; if the period is
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    100
+   </den>
+  </fraction>
+  of an hour, the frequency is 100 per hour. In general, the frequency is the reciprocal of the period, or time interval; i.e., frequency = 1/period = 1/(time interval). The frequency with which the
+  <xref articleid="53598">
+   Moon
+  </xref>
+  revolves around
+  <xref articleid="110147">
+   Earth
+  </xref>
+  is slightly more than 12 cycles per year. The frequency of the A string of a
+  <xref articleid="75451">
+   violin
+  </xref>
+  is 440 vibrations or cycles per second.
+ </p>
+ <p>
+  The symbols most often used for frequency are
+  <e type="italic">
+   f
+  </e>
+  and the Greek letters nu (ν) and omega (ω). Nu is used more often when specifying
+  <xref articleid="106022">
+   electromagnetic waves
+  </xref>
+  , such as
+  <xref articleid="110443">
+   light
+  </xref>
+  ,
+  <xref articleid="77656">
+   X-rays
+  </xref>
+  , and
+  <xref articleid="35974">
+   gamma rays
+  </xref>
+  . Omega is usually used to describe the angular frequency—that is, how much an object rotates or revolves in radians per unit time. Usually, frequency is expressed in the
+  <xref articleid="40251">
+   hertz
+  </xref>
+  unit, named in honour of the 19th-century German physicist
+  <xref articleid="40253">
+   Heinrich Rudolf Hertz
+  </xref>
+  , one hertz being equal to one cycle per second, abbreviated Hz; one kilohertz (kHz) is 1,000 Hz, and one megahertz (MHz) is 1,000,000 Hz. In
+  <xref articleid="110407">
+   spectroscopy
+  </xref>
+  another unit of frequency, the
+  <xref articleid="76322">
+   wavenumber
+  </xref>
+  , the number of waves in a unit of distance, is sometimes used.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

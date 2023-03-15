@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="72515" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 01:45:21" url="/article/time-sharing/72515" version="3">
+ <title>
+  time-sharing
+ </title>
+ <p>
+  <e type="bold">
+   time-sharing
+  </e>
+  , in data processing, method of operation in which multiple users with different programs interact nearly simultaneously with the
+  <xref articleid="22087">
+   central processing unit
+  </xref>
+  (CPU) of a large-scale
+  <xref articleid="30431">
+   digital computer
+  </xref>
+  . Because the CPU operates substantially faster than most
+  <xref articleid="42483">
+   peripheral
+  </xref>
+  equipment (e.g., video display terminals and printers), it has sufficient time to solve several discrete problems during the input/output process. Even though the CPU addresses the problem of each user in sequence, access to and retrieval from the time-sharing system seems instantaneous from the standpoint of remote terminals since the solutions are available to them the moment the problem is completely entered.
+ </p>
+ <p>
+  Time-sharing was developed during the late 1950s and early ’60s to make more efficient use of expensive processor time. Commonly used time-sharing techniques include multiprocessing, parallel operation, and multiprogramming. Also, many
+  <xref articleid="1625">
+   computer networks
+  </xref>
+  organized for the purpose of exchanging data and resources are centred on time-sharing systems.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

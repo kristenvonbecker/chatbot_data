@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="69401" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 01:24:36" url="/article/standing-wave/69401" version="6">
+ <title>
+  standing wave
+ </title>
+ <p>
+  <assembly id="a7570" url="/assembly/view/7570">
+   <title>
+    fixed nodes in a standing wave
+   </title>
+   <media mediaid="4418" type="image" url="/18/4418-004-EF21A9E2.jpg"/>
+   <caption>
+    Location of fixed nodes in a standing wave.
+   </caption>
+   <credit>
+    From
+    <e type="italic">
+     Physics
+    </e>
+    by Erich Hausmann and Edgar P. Slack © by Litton Educational Publishing, Inc. Reprinted by permission of Van Nostrand Reinhold Company
+   </credit>
+  </assembly>
+  <e type="bold">
+   standing wave
+  </e>
+  , also called
+  <e type="bold">
+   stationary wave
+  </e>
+  ,
+  <assemblyref assemblyid="a7570"/>
+  combination of two waves moving in opposite directions, each having the same amplitude and frequency. The phenomenon is the result of interference; that is, when waves are superimposed, their energies are either added together or canceled out. In the case of waves moving in the same direction, interference produces a traveling wave. For oppositely moving waves, interference produces an oscillating wave fixed in space.
+ </p>
+ <p>
+  A vibrating rope tied at one end will produce a standing wave; the wave train, after arriving at the fixed end of the rope, will be reflected back and superimposed on itself as another train of waves in the same plane. Because of interference between the two waves, the resultant amplitude of the two waves will be the sum of their individual amplitudes. At all times there are positions along the rope, called nodes, at which there is no movement at all; there the two wave trains are always in opposition. On either side of a node is a vibrating antinode. The antinodes alternate in the direction of displacement so that the rope at any instant resembles a graph of the mathematical function called the sine. Both longitudinal (e.g., sound) waves and transverse (e.g., water) waves can form standing waves.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

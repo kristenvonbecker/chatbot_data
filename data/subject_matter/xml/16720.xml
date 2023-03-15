@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="16720" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 20:52:03" url="/article/Brownian-motion/16720" version="12">
+ <title>
+  Brownian motion
+ </title>
+ <p>
+  <assembly id="a4639" url="/assembly/view/4639">
+   <title>
+    Brownian particle
+   </title>
+   <media mediaid="6920" type="image" url="/20/6920-004-D4740437.jpg"/>
+   <caption>
+    (Left) Random motion of a Brownian particle and (right) random discrepancy between the molecular pressures on different surfaces of the particle that cause motion.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   Brownian motion
+  </e>
+  , also called
+  <e type="bold">
+   Brownian movement
+  </e>
+  ,
+  <assemblyref assemblyid="a4639"/>
+  any of various physical phenomena in which some quantity is constantly undergoing small, random fluctuations. It was named for the Scottish botanist
+  <xref articleid="16693">
+   Robert Brown
+  </xref>
+  , the first to study such fluctuations (1827).
+ </p>
+ <p>
+  If a number of particles subject to Brownian motion are present in a given medium and there is no preferred direction for the random oscillations, then over a period of time the particles will tend to be spread evenly throughout the medium. Thus, if
+  <e type="italic">
+   A
+  </e>
+  and
+  <e type="italic">
+   B
+  </e>
+  are two adjacent regions and, at time
+  <e type="italic">
+   t
+  </e>
+  ,
+  <e type="italic">
+   A
+  </e>
+  contains twice as many particles as
+  <e type="italic">
+   B
+  </e>
+  , at that instant the probability of a particle’s leaving
+  <e type="italic">
+   A
+  </e>
+  to enter
+  <e type="italic">
+   B
+  </e>
+  is twice as great as the probability that a particle will leave
+  <e type="italic">
+   B
+  </e>
+  to enter
+  <e type="italic">
+   A
+  </e>
+  . The physical process in which a substance tends to spread steadily from regions of high concentration to regions of lower concentration is called
+  <xref articleid="30421">
+   diffusion
+  </xref>
+  . Diffusion can therefore be considered a macroscopic manifestation of Brownian motion on the microscopic level. Thus, it is possible to study diffusion by simulating the motion of a Brownian particle and computing its average behaviour. A few examples of the countless diffusion processes that are studied in terms of Brownian motion include the diffusion of pollutants through the
+  <xref articleid="126202">
+   atmosphere
+  </xref>
+  , the diffusion of “holes” (minute regions in which the electrical charge potential is positive) through a
+  <xref articleid="66711">
+   semiconductor
+  </xref>
+  , and the diffusion of calcium through bone tissue in living organisms.
+ </p>
+ <h1 id="h283816">
+  <title>
+   Early investigations
+  </title>
+  <p>
+   The term “classical Brownian motion” describes the random movement of microscopic particles suspended in a liquid or gas. Brown was investigating the fertilization process in
+   <e type="italic">
+    Clarkia pulchella
+   </e>
+   , then a newly discovered species of flowering plant, when he noticed a “rapid oscillatory motion” of the microscopic particles within the
+   <xref articleid="60648">
+    pollen
+   </xref>
+   grains suspended in water under the
+   <xref articleid="108723">
+    microscope
+   </xref>
+   . Other researchers had noticed this phenomenon earlier, but Brown was the first to study it. Initially he believed that such motion was a vital activity peculiar to the male sex cells of plants, but he then checked to see if the pollen of plants dead for over a century showed the same movement. Brown called this a “very unexpected fact of seeming vitality being retained by these ‘molecules’ so long after the death of the plant.” Further study revealed that the same motion could be observed not only with particles of other organic substances but even with chips of glass or granite and particles of smoke. Finally, in inarguable support of the nonliving nature of the phenomenon, he demonstrated it in fluid-filled vesicles in rock from the
+   <xref articleid="69103">
+    Great Sphinx
+   </xref>
+   .
+  </p>
+  <p>
+   Early explanations attributed the motion to thermal
+   <xref articleid="26084">
+    convection
+   </xref>
+   currents in the fluid. When observation showed that nearby particles exhibited totally uncorrelated activity, however, this simple explanation was abandoned. By the 1860s theoretical physicists had become interested in Brownian motion and were searching for a consistent explanation of its various characteristics: a given particle appeared equally likely to move in any direction; further motion seemed totally unrelated to past motion; and the motion never stopped. An experiment (1865) in which a suspension was sealed in glass for a year showed that the Brownian motion persisted. More systematic investigation in 1889 determined that small particle size and low viscosity of the surrounding fluid resulted in faster motion.
+  </p>
+ </h1>
+ <h1 id="h283817">
+  <title>
+   Einstein’s theory of Brownian motion
+  </title>
+  <p>
+   Since higher temperatures also led to more-rapid Brownian motion, in 1877 it was suggested that its cause lay in the “thermal molecular motion in the liquid environment.” The idea that molecules of a liquid or gas are constantly in motion, colliding with each other and bouncing back and forth, is a prominent part of the
+   <xref articleid="45492">
+    kinetic theory of gases
+   </xref>
+   developed in the third quarter of the 19th century by the physicists
+   <xref articleid="108468">
+    James Clerk Maxwell
+   </xref>
+   ,
+   <xref articleid="80519">
+    Ludwig Boltzmann
+   </xref>
+   , and
+   <xref articleid="24255">
+    Rudolf Clausius
+   </xref>
+   in explanation of heat phenomena. According to the theory, the
+   <xref articleid="71632">
+    temperature
+   </xref>
+   of a substance is proportional to the average
+   <xref articleid="45490">
+    kinetic energy
+   </xref>
+   with which the molecules of the substance are moving or vibrating. It was natural to guess that somehow this motion might be imparted to larger particles that could be observed under the microscope; if true, this would be the first directly observable effect that would corroborate the kinetic theory. This line of reasoning led the German physicist
+   <xref articleid="106018">
+    Albert Einstein
+   </xref>
+   in 1905 to produce his quantitative theory of Brownian motion. Similar studies were carried out on Brownian motion, independently and almost at the same time, by the Polish physicist Marian Smoluchowski, who used methods somewhat different from Einstein’s.
+  </p>
+  <p>
+   Einstein wrote later that his major aim was to find facts that would guarantee as much as possible the existence of
+   <xref articleid="110411">
+    atoms
+   </xref>
+   of definite size. In the midst of this work, he discovered that according to atomic theory there would have to be an observable movement of suspended microscopic particles. Einstein did not realize that observations concerning the Brownian motion were already long familiar. Reasoning on the basis of
+   <xref articleid="69479">
+    statistical mechanics
+   </xref>
+   , he showed that for such a microscopic particle the random difference between the pressure of molecular bombardment on two opposite sides would cause it to constantly wobble back and forth. A smaller particle, a less viscous fluid, and a higher temperature would each increase the amount of motion one could expect to observe. Over a period of time, the particle would tend to drift from its starting point, and, on the basis of kinetic theory, it is possible to compute the probability (
+   <e type="italic">
+    P
+   </e>
+   ) of a particle’s moving a certain distance (
+   <e type="italic">
+    x
+   </e>
+   ) in any given direction (the total distance it moves will be greater than
+   <e type="italic">
+    x
+   </e>
+   ) during a certain time interval (
+   <e type="italic">
+    t
+   </e>
+   ) in a medium whose coefficient of diffusion (
+   <e type="italic">
+    D
+   </e>
+   ) is known,
+   <e type="italic">
+    D
+   </e>
+   being equal to one-half the average of the square of the displacement in the
+   <e type="italic">
+    x
+   </e>
+   -direction. This formula for probability “density” allows
+   <e type="italic">
+    P
+   </e>
+   to be plotted against
+   <e type="italic">
+    x
+   </e>
+   . The graph is the familiar bell-shaped Gaussian “normal” curve that typically arises when the random variable is the sum of many independent, statistically identical random variables, in this case the many little pushes that add up to the total motion. The equation for this relationship is
+  </p>
+  <p>
+   <inlinemedia id="i16931" mediaid="16931" url="/31/16931-004-64CA8215.jpg"/>
+  </p>
+  <p>
+   The introduction of the
+   <xref articleid="74176">
+    ultramicroscope
+   </xref>
+   in 1903 aided quantitative studies by making visible small colloidal particles whose greater activity could be measured more easily. Several important measurements of this kind were made from 1905 to 1911. During this period the French physicist
+   <xref articleid="59322">
+    Jean-Baptiste Perrin
+   </xref>
+   was successful in verifying Einstein’s analysis, and for this work he was awarded the Nobel Prize for Physics in 1926. His work established the physical theory of Brownian motion and ended the skepticism about the existence of atoms and molecules as actual physical entities.
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

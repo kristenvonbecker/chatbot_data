@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="26471" articletypeid="1" language="en_us" lastupdate="2021-Sep-27 09:11:05" url="/article/cosmic-ray/26471" version="8">
+ <title>
+  cosmic ray
+ </title>
+ <p>
+  <e type="bold">
+   cosmic ray
+  </e>
+  , a high-speed particle—either an atomic
+  <xref articleid="56462">
+   nucleus
+  </xref>
+  or an
+  <xref articleid="32316">
+   electron
+  </xref>
+  —that travels through space. Most of these particles come from sources within the
+  <xref articleid="110643">
+   Milky Way Galaxy
+  </xref>
+  and are known as galactic cosmic rays (GCRs). The rest of the cosmic rays originate either from the
+  <xref articleid="110144">
+   Sun
+  </xref>
+  or, almost certainly in the case of the particles with the highest energies, outside the Milky Way Galaxy.
+ </p>
+ <h1 id="h302387">
+  <title>
+   Arrival at Earth
+  </title>
+  <p>
+   Cosmic ray particles are not directly observed on the surface of
+   <xref articleid="110147">
+    Earth
+   </xref>
+   . This is because cosmic ray “primaries”—that is, the particles that arrive at the outer edge of Earth’s
+   <xref articleid="126202">
+    atmosphere
+   </xref>
+   —collide with atmospheric
+   <xref articleid="56462">
+    nuclei
+   </xref>
+   and give rise to “secondaries.” Some secondaries are fragments of the colliding nuclei, including neutrons, and others are short-lived particles created from the energy of the collisions. Secondary nuclei soon have their own collisions. It is the secondaries (neutrons and short-lived particles such as muons) that are observed at
+   <xref articleid="66445">
+    sea level
+   </xref>
+   . Primaries must be studied by using either high-altitude balloons or spacecraft.
+  </p>
+  <p>
+   Among the GCRs, the relative abundances of the different nuclei and electrons vary with energy. Above about 1 GeV per nucleon (gigaelectron volts, or one billion electron volts, per nucleon), the proportions are about 85 percent
+   <xref articleid="61626">
+    protons
+   </xref>
+   (nuclei of
+   <xref articleid="110604">
+    hydrogen
+   </xref>
+   atoms), with approximately 13 percent consisting of
+   <xref articleid="5891">
+    alpha particles
+   </xref>
+   (
+   <xref articleid="1713">
+    helium
+   </xref>
+   nuclei). (An energy of 1 GeV corresponds to speeds greater than about 87 percent of the speed of light.) The remaining 2 percent are electrons and nuclei of heavier atoms. At energies of several hundred MeV per nucleon (megaelectron volts, or one million electron volts, per nucleon), the corresponding figures are about 90, 9, and 1 percent.
+  </p>
+  <p>
+   Most of the GCRs detected near Earth have
+   <xref articleid="45490">
+    kinetic energies
+   </xref>
+   in excess of about 1 GeV per nucleon. The steady flux of these primaries at the top layer of the atmosphere is around 1,500 particles per square metre per second. The number of particles drops rapidly with increasing energy, but individual particles with energies as high as several times 10
+   <sup>
+    20
+   </sup>
+   eV have been detected. (This energy is comparable to that of a baseball thrown at 160 km [100 miles] per hour.)
+  </p>
+  <p>
+   The trajectories of the lowest-energy cosmic ray primaries are strongly influenced by Earth’s
+   <xref articleid="36468">
+    magnetic field
+   </xref>
+   . Consequently, at energies below about 1 GeV per nucleon, at each geomagnetic latitude there is a cutoff energy below which primary GCRs are not detected. The flux of these low-energy particles is influenced by solar activity, and the amount of cosmic radiation reaching Earth is inversely correlated with the number of
+   <xref articleid="70383">
+    sunspots
+   </xref>
+   through the 11-year
+   <xref articleid="68557">
+    solar cycle
+   </xref>
+   . This inverse correlation is called the
+   <xref articleid="34832">
+    Forbush effect
+   </xref>
+   and occurs because, at maximum solar activity, stronger magnetic fields are carried out into interplanetary space by the solar wind, and these fields block the cosmic rays.
+  </p>
+ </h1>
+ <h1 id="h302388">
+  <title>
+   Origin of cosmic rays
+  </title>
+  <p>
+   Because of their deflection by
+   <xref articleid="50022">
+    magnetic fields
+   </xref>
+   in the
+   <xref articleid="110643">
+    Milky Way Galaxy
+   </xref>
+   , primary GCRs follow convoluted paths and arrive at the top of
+   <xref articleid="110147">
+    Earth
+   </xref>
+   ’s
+   <xref articleid="126202">
+    atmosphere
+   </xref>
+   nearly uniformly from all directions. Consequently, cosmic ray sources cannot be identified from the direction of arrival but rather must be inferred from the elemental and
+   <xref articleid="110412">
+    isotopic
+   </xref>
+   abundances of those cosmic rays that are atomic nuclei. This can be attempted by comparing cosmic ray abundances with those deduced spectroscopically for
+   <xref articleid="110472">
+    stars
+   </xref>
+   and interstellar regions. The relative abundances of different elements among cosmic ray nuclei have been well studied for particles with energies from roughly 100 MeV to several tens of GeV per nucleon. Abundances have been measured for
+   <xref articleid="110602">
+    elements
+   </xref>
+   up to uranium. From such data it has been possible to reconstruct much of the history of the cosmic ray particles’ journeys through the Milky Way Galaxy. The light elements
+   <xref articleid="48516">
+    lithium
+   </xref>
+   ,
+   <xref articleid="78918">
+    beryllium
+   </xref>
+   , and
+   <xref articleid="80773">
+    boron
+   </xref>
+   are rare throughout the universe but are surprisingly abundant among the primary GCRs. It is accepted that these light
+   <xref articleid="56462">
+    nuclei
+   </xref>
+   are produced when heavier primaries (e.g.,
+   <xref articleid="20244">
+    carbon
+   </xref>
+   and
+   <xref articleid="57841">
+    oxygen
+   </xref>
+   ) are fragmented during collisions with the thin interstellar gas composed mostly of
+   <xref articleid="110604">
+    hydrogen
+   </xref>
+   .
+  </p>
+  <p>
+   After appropriate corrections for the collisions of GCRs with interstellar gas, it is found that the inferred composition of the sources is similar to that of general
+   <xref articleid="110143">
+    solar-system
+   </xref>
+   matter; however, too little hydrogen and
+   <xref articleid="1713">
+    helium
+   </xref>
+   are present, and significant differences exist for isotopes of neon and iron. Those elements that preferentially form dust grains are found to have enhanced abundances. It is thought that the cosmic rays represent a mixture of material, with about 80 percent having solar-system composition and with about 20 percent of nuclei coming from massive evolved stars, such as Type II, or core-collapse,
+   <xref articleid="70402">
+    supernovas
+   </xref>
+   and Wolf-Rayet stars that are found in groups of young, hot stars called OB associations.
+  </p>
+  <p>
+   With an average life of 15 million years, GCRs must be replenished at an average power level of about 10
+   <sup>
+    41
+   </sup>
+   ergs per second. Supernova explosions can supply this much power as they occur about every 50 years in the galaxy. Core-collapse supernovas, coming from OB stars, comprise about 85 percent of all galactic supernovas, and close to 90 percent of heavy GCRs are probably accelerated there. While it appears that particle acceleration can be accomplished by the expanding shock waves from supernovas, details of the processes involved in cosmic ray production and acceleration remain unclear.
+  </p>
+  <p>
+   The GCRs must have been traveling for about 15 million years to produce enough interstellar collisions to yield the observed number of light nuclei. The timescale for this travel is based in part on the observation of such
+   <xref articleid="110413">
+    radioactive
+   </xref>
+   fragments as beryllium-10. This radionuclide has a
+   <xref articleid="38880">
+    half-life
+   </xref>
+   of 1.5 million years, and the number of such particles that can survive to be detected on Earth depends on their total travel time.
+  </p>
+ </h1>
+ <h1 id="h302389">
+  <title>
+   Electrons in cosmic rays
+  </title>
+  <p>
+   Most of the
+   <xref articleid="32316">
+    electrons
+   </xref>
+   in the primaries are produced in the original cosmic ray sources that produce the primary nuclei. A small portion of the electrons do come from collisions between primary cosmic ray atomic nuclei and interstellar hydrogen, which produce charged
+   <xref articleid="52218">
+    mesons
+   </xref>
+   —mostly pions. These pions have half-lives of about two hundred-millionths of a second and decay into
+   <xref articleid="54309">
+    muons
+   </xref>
+   ; the muons then decay and produce electrons,
+   <xref articleid="61025">
+    positrons
+   </xref>
+   , and
+   <xref articleid="55405">
+    neutrinos
+   </xref>
+   . The electrons and positrons travel along spiral paths in the galactic magnetic field and so generate
+   <xref articleid="70743">
+    synchrotron radiation
+   </xref>
+   , which is detected by
+   <xref articleid="62417">
+    radio telescopes
+   </xref>
+   . There is general agreement between radio observations of the synchrotron radiation and the intensities calculated from the electron flux. Synchrotron radiation has been detected from
+   <xref articleid="474181">
+    supernova remnants
+   </xref>
+   such as the
+   <xref articleid="26716">
+    Crab Nebula
+   </xref>
+   , confirming their identification as potential cosmic-ray sources.
+  </p>
+  <p>
+   Interstellar cosmic ray collisions also yield neutral pions, which decay quickly to produce high-energy
+   <xref articleid="35974">
+    gamma rays
+   </xref>
+   . Gamma-ray surveys (conducted from Earth-orbiting satellites) indicate that cosmic rays are strongly concentrated in the disk of the
+   <xref articleid="110643">
+    Milky Way Galaxy
+   </xref>
+   , with a much smaller percentage in the surrounding halo. The measured intensity of the gamma rays is in general agreement with calculated values.
+  </p>
+ </h1>
+ <h1 id="h302390">
+  <title>
+   Very high-energy cosmic rays
+  </title>
+  <p>
+   Primary particles with energies above about 10
+   <sup>
+    18
+   </sup>
+   eV are so rare that they can be detected only through the extensive air showers (EASs) that they produce in the
+   <xref articleid="126202">
+    atmosphere
+   </xref>
+   . An EAS may consist of billions of secondaries including photons,
+   <xref articleid="32316">
+    electrons
+   </xref>
+   ,
+   <xref articleid="54309">
+    muons
+   </xref>
+   , and some
+   <xref articleid="55406">
+    neutrons
+   </xref>
+   that arrive at ground level over areas of many square kilometres. Very high-energy primaries arrive at the top of the atmosphere at a rate of about one per square kilometre per century, and detection of their showers can involve an array of over a thousand particle detectors over a wide area. Primary gamma rays with energies above about 1 TeV (teraelectron volt, or one trillion electron volts) can also be detected by large-area ground arrays or atmospheric Cerenkov telescopes.
+  </p>
+  <p>
+   The galactic magnetic field is not strong enough to confine the most energetic primary particles within the Milky Way Galaxy, and there have been suggestions that the origins of these particles lie outside the Milky Way, perhaps in active galaxies powered by supermassive
+   <xref articleid="15483">
+    black holes
+   </xref>
+   with masses a hundred million times the mass of the
+   <xref articleid="110144">
+    Sun
+   </xref>
+   . A small anisotropy in arrival directions has been reported at multi-TeV energies. The anisotropy is a few tenths of a percent, but it is not understood.
+  </p>
+  <p>
+   The intergalactic magnetic fields are still strong enough to deflect most cosmic ray particles in their transit, making it difficult to use their arrival directions to pinpoint their precise origins. There is, however, a constraint on the distances that these particles can travel: major energy losses will occur in their collisions with photons of the
+   <xref articleid="471314">
+    cosmic microwave background
+   </xref>
+   . Consequently, there might be an upper limit to the energies of detectable particles, but this has not yet been definitively observed.
+  </p>
+  <p>
+   Because of the small number of very high-energy particles observed, strong inferences cannot yet be drawn from their analysis. An alternative analysis of shower data has suggested an increased proportion of heavy nuclei (such as
+   <xref articleid="42794">
+    iron
+   </xref>
+   ) among the primaries.
+  </p>
+  <p>
+   Some high-energy showers are produced by cosmic gamma rays, which are of particular interest because their paths are not affected by magnetic fields. Their arrival directions can point to sources in very energetic cosmic objects—e.g.,
+   <xref articleid="474181">
+    supernova remnants
+   </xref>
+   such as the
+   <xref articleid="26716">
+    Crab Nebula
+   </xref>
+   and
+   <xref articleid="73975">
+    Tycho’s Nova
+   </xref>
+   and active galaxies such as Markarian 421 and 501. These can also be sources of cosmic ray particles.
+  </p>
+ </h1>
+ <h1 id="h302391">
+  <title>
+   Cosmic rays from the Sun
+  </title>
+  <p>
+   Energetic particles emerge from
+   <xref articleid="68560">
+    solar flares
+   </xref>
+   and
+   <xref articleid="343049">
+    coronal mass ejections
+   </xref>
+   where they have been accelerated by the strong magnetic fields near the Sun. Most of these particles are
+   <xref articleid="61626">
+    protons
+   </xref>
+   , with decreasing numbers of
+   <xref articleid="1713">
+    helium
+   </xref>
+   and heavier
+   <xref articleid="56462">
+    nuclei
+   </xref>
+   . Observations of the helium-
+   <xref articleid="57841">
+    oxygen
+   </xref>
+   ratio among energetic solar particles have contributed significantly to solar studies, because the
+   <xref articleid="110144">
+    Sun
+   </xref>
+   ’s helium abundance is difficult to estimate by means of conventional spectroscopy. The energy spectrum of solar particles, as compared with that of GCRs, generally decreases more rapidly with increasing energy, but there is great variability in the shape of the spectrum from one solar flare event to another, and the energy spectrum rarely extends above about 1 GeV per nucleon.
+  </p>
+ </h1>
+ <h1 id="h302392">
+  <title>
+   Studying cosmic rays
+  </title>
+  <p>
+   The first cosmic ray studies were conducted atop mountains, where only secondary particles were detectable. Since then further studies have been carried out from far below
+   <xref articleid="110147">
+    Earth
+   </xref>
+   ’s surface to outer space. Some secondary
+   <xref articleid="54309">
+    muons
+   </xref>
+   have such high energies that they are able to penetrate Earth to depths of more than 3.2 km (2 miles). To study primary cosmic rays directly, high-altitude
+   <xref articleid="12019">
+    balloons
+   </xref>
+   (typically reaching altitudes of 37 km [about 120,000 feet]) have been extensively used.
+   <xref articleid="106040">
+    Rockets
+   </xref>
+   can reach greater heights but carry smaller payloads and remain at those altitudes for only a few minutes. Cosmic ray observations also have been made from Earth-orbiting satellites and from long-range probes. Cosmic rays are observed with instruments such as
+   <xref articleid="1249">
+    scintillation counters
+   </xref>
+   and
+   <xref articleid="110408" refid="h80704">
+    proportional counters
+   </xref>
+   .
+  </p>
+  <p>
+   From the early 1930s to the 1950s, cosmic rays played a critical role in the scientific study of the atomic
+   <xref articleid="56462">
+    nucleus
+   </xref>
+   and its components, for they were the only source of high-energy particles. Short-lived
+   <xref articleid="108593">
+    subatomic particles
+   </xref>
+   were discovered through cosmic ray collisions. The field of particle physics was in fact established as a result of such discoveries, beginning with those of the
+   <xref articleid="61025">
+    positron
+   </xref>
+   and the
+   <xref articleid="54309">
+    muon
+   </xref>
+   . Even with the advent of powerful (multi-GeV)
+   <xref articleid="108531">
+    particle accelerators
+   </xref>
+   in the 1950s, investigators in the field have continued to study cosmic rays, albeit on a more-limited scale, because they contain particles with energies far beyond those attainable under laboratory conditions. Astroparticle physics is a vibrant research field.
+  </p>
+  <signature>
+   Michael Wulf Friedlander
+  </signature>
+ </h1>
+ <h1 id="h302386">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Michael W. Friedlander
+   </e>
+   ,
+   <e type="italic">
+    A Thin Cosmic Rain: Particles from Outer Space
+   </e>
+   (2000), is a book on cosmic rays for the general reader. At a distinctly higher level, for college or graduate students, are
+   <e type="smallcap">
+    Thomas K. Gaisser
+   </e>
+   ,
+   <e type="italic">
+    Cosmic Rays and Particle Physics
+   </e>
+   (1991);
+   <e type="smallcap">
+    Peter K.F. Grieder
+   </e>
+   ,
+   <e type="italic">
+    Cosmic Rays at Earth: Researcher’s Reference Manual and Data Book
+   </e>
+   (2001); and
+   <e type="smallcap">
+    Malcolm S. Longair
+   </e>
+   ,
+   <e type="italic">
+    High Energy Astrophysics
+   </e>
+   , 3rd ed. (2011).
+  </p>
+  <signature>
+   Michael Wulf Friedlander
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

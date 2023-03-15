@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="58395" articletypeid="1" language="en_us" lastupdate="2022-Mar-28 08:44:38" url="/article/parallax/58395" version="9">
+ <title>
+  parallax
+ </title>
+ <p>
+  <e type="bold">
+   parallax
+  </e>
+  , in
+  <xref articleid="108656">
+   astronomy
+  </xref>
+  , the difference in direction of a celestial object as seen by an observer from two widely separated points. The measurement of parallax is used directly to find the distance of the body from
+  <xref articleid="110147">
+   Earth
+  </xref>
+  (geocentric parallax) and from the
+  <xref articleid="110144">
+   Sun
+  </xref>
+  (heliocentric parallax). The two positions of the observer and the position of the object form a triangle; if the base line between the two observing points is known and the direction of the object as seen from each has been measured, the apex angle (the parallax) and the distance of the object from the observer can be found simply.
+ </p>
+ <p>
+  <assembly id="a148686" url="/assembly/view/148686">
+   <title>
+    stellar distances
+   </title>
+   <media mediaid="114277" type="image" url="/77/114277-004-F65282FE.jpg"/>
+   <caption>
+    Calculating stellar distances.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a148686"/>
+  In the determination of a celestial distance by parallax measurement, the base line is taken as long as possible in order to obtain the greatest precision of measurement. For the Sun and
+  <xref articleid="110148">
+   Moon
+  </xref>
+  , the base line used is the distance between two widely separated points on Earth; for all bodies outside the solar system, the base line is the axis of Earth’s orbit. The largest measured stellar parallax is 0.75″, for the nearest
+  <xref articleid="110472">
+   star
+  </xref>
+  ,
+  <xref articleid="5888">
+   Alpha Centauri
+  </xref>
+  ; the smallest that can be directly measured is about 25 times smaller, but indirect methods discussed below permit calculation of the parallax, inversely proportional to the distance, for more and more distant objects but also with more and more uncertainty.
+ </p>
+ <p>
+  <assembly id="a6849" url="/assembly/view/6849">
+   <media mediaid="3384" type="image" url="/84/3384-004-2CC4D0BE.jpg"/>
+   <caption>
+    Change of parallactic angle with altitude.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a6849"/>
+  The parallax of the Sun or Moon is defined as the difference in direction as seen from the observer and from Earth’s centre. If O is the observer on the surface of Earth, E the centre of Earth, and M the position of the Moon, then the angle OME is the parallax. This varies with the altitude of the Moon. If the Moon is directly overhead, the parallax is zero, and parallax is greatest when the body is on the horizon. With an angular distance
+  <e type="italic">
+   z
+  </e>
+  from the zenith, Z, it can be found from the triangle OME that sin
+  <e type="italic">
+   p
+  </e>
+  =
+  <e type="italic">
+   a
+  </e>
+  /
+  <e type="italic">
+   r
+  </e>
+  sin
+  <e type="italic">
+   z
+  </e>
+  . When
+  <e type="italic">
+   z
+  </e>
+  = 90°, sin
+  <e type="italic">
+   p
+  </e>
+  =
+  <e type="italic">
+   a
+  </e>
+  /
+  <e type="italic">
+   r
+  </e>
+  , and this value is called the horizontal parallax or, briefly, the parallax. For all bodies except the Moon,
+  <e type="italic">
+   p
+  </e>
+  is so small that it does not differ appreciably from sin
+  <e type="italic">
+   p
+  </e>
+  , and it is usually expressed in angular measure. The definitions of lunar and solar parallax must be further refined because of the spheroidal figure of Earth. The numerical values generally given are those of the equatorial horizontal parallax. The solar parallax is usually derived from measurements of the positions of other bodies of the
+  <xref articleid="110143">
+   solar system
+  </xref>
+  .
+ </p>
+ <h1 id="h5513">
+  <title>
+   Lunar parallax
+  </title>
+  <p>
+   <assembly id="a6850" url="/assembly/view/6850">
+    <media mediaid="3385" type="image" url="/85/3385-004-21E2A1CE.jpg"/>
+    <caption>
+     Measurement of parallax by observations from a northern and a southern observatory.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a6850"/>
+   The first parallax determination was for the
+   <xref articleid="110148">
+    Moon
+   </xref>
+   , by far the nearest celestial body.
+   <xref articleid="40534">
+    Hipparchus
+   </xref>
+   (150
+   <e type="smallcap">
+    bce
+   </e>
+   ) determined the Moon’s parallax to be 58′ for a distance of approximately 59 times
+   <xref articleid="110147">
+    Earth
+   </xref>
+   ’s equatorial radius, as compared with the modern value of 57′02.6″—that is, a mean value of 60.2 times. Lunar parallax is directly determined from observations made at two places, such as G, Greenwich, Eng., and C, the Cape of Good Hope, that are nearly on the same meridian. Angles
+   <e type="italic">
+    z
+   </e>
+   <sub>
+    1
+   </sub>
+   and
+   <e type="italic">
+    z
+   </e>
+   <sub>
+    2
+   </sub>
+   are observed, and other data are obtained from the latitudes of the observatories and the known size and shape of Earth. In practice,
+   <xref articleid="110472">
+    stars
+   </xref>
+   near the Moon are observed also to eliminate errors of refraction and instruments.
+  </p>
+  <p>
+   Another method rests on a comparison of the force of
+   <xref articleid="106265">
+    gravity
+   </xref>
+   at Earth’s surface with its value at the Moon. If M and
+   <e type="italic">
+    m
+   </e>
+   are the masses of Earth and the Moon,
+   <e type="italic">
+    r
+   </e>
+   the mean distance, P the sidereal period of revolution of the Moon about Earth, and
+   <e type="italic">
+    G
+   </e>
+   the constant of gravitation,
+   <e type="italic">
+    G
+   </e>
+   (M +
+   <e type="italic">
+    m
+   </e>
+   ) = 4π
+   <sup>
+    2
+   </sup>
+   <e type="italic">
+    r
+   </e>
+   <sup>
+    3
+   </sup>
+   /P
+   <sup>
+    2
+   </sup>
+   where π = 3.14. Also,
+   <e type="italic">
+    g
+   </e>
+   , the value of gravity at the Earth’s surface, determined from pendulum observations, is equal to
+   <e type="italic">
+    G
+   </e>
+   M/
+   <e type="italic">
+    a
+   </e>
+   <sup>
+    2
+   </sup>
+   . Hence
+   <formula>
+    <inlinemedia id="i14452" mediaid="14452" url="/52/14452-004-94A01809.jpg"/>
+   </formula>
+  </p>
+  <p>
+   As the quantities on the right-hand side are known with great accuracy,
+   <e type="italic">
+    a
+   </e>
+   /
+   <e type="italic">
+    r
+   </e>
+   is accurately determined as 57′2.7″.
+  </p>
+  <p>
+   <xref articleid="109463">
+    Radar
+   </xref>
+   and
+   <xref articleid="47248">
+    laser
+   </xref>
+   measures of the distance from Earth to the Moon have provided a recent value of the lunar parallax. Radar and laser ranges have the advantage of being a direct distance measure, although the ranges are affected by variations in the surface topography of the Moon and require assumptions about the lunar radius and the centre of mass. The International Astronomical Union in 1964 adopted a value of 57′02.608″ for the lunar parallax corresponding to a mean distance of 384,400 km (238,900 miles).
+  </p>
+ </h1>
+ <h1 id="h5514">
+  <title>
+   Solar parallax
+  </title>
+  <p>
+   The basic method used for determining solar parallax is the determination of trigonometric parallax.
+   <e type="italic"/>
+   In accordance with the law of
+   <xref articleid="106265">
+    gravitation
+   </xref>
+   , the relative distances of the
+   <xref articleid="60298">
+    planets
+   </xref>
+   from the
+   <xref articleid="110144">
+    Sun
+   </xref>
+   are known, and the distance of the Sun from
+   <xref articleid="110147">
+    Earth
+   </xref>
+   can be taken as the unit of length. The measurement of the distance or parallax of any planet will determine the value of this unit. The smaller the distance of the planet from Earth, the larger will be the parallactic displacements to be measured, with a corresponding increase in accuracy of the determined parallax. The most favourable conditions are therefore provided by the observation, near the time of opposition, of planets approaching close to Earth. The determination can be based either on simultaneous or nearly simultaneous observations from two different places on Earth’s surface, or on observations made after sunset and before sunrise at the same place, when the displacement of the place of observation produced by the rotation of Earth provides the base line for the measurements.
+  </p>
+  <p>
+   The first reasonably accurate determination of the Sun’s parallax was made in 1672 from observations of Mars at Cayenne, French Guiana, and Paris, from which a value of 9.5″ was obtained.
+  </p>
+  <p>
+   Methods depending on
+   <xref articleid="471069">
+    velocity of light
+   </xref>
+   are also employed to ascertain solar parallax. The value of the velocity of light has been determined with very high precision and may be utilized in several different ways. A direct method is the converse of the procedure of
+   <xref articleid="83854">
+    Ole Rømer
+   </xref>
+   in the discovery of the velocity of light; i.e., to use the light equation, or time taken by the light to reach us at the varying distances of
+   <xref articleid="110150">
+    Jupiter
+   </xref>
+   , but great accuracy is hardly obtainable in this way. A second method is by means of the
+   <xref articleid="3334">
+    constant of aberration
+   </xref>
+   , which gives the ratio of the velocity of Earth in its orbit to the velocity of light. As aberration produces an annual term of amplitude 20.496″ in the positions of all stars, its amount has been determined in numerous ways. Observations made at Greenwich in the years 1911 to 1936 gave the value 20.489″ ± 0.003″ leading to the value 8.797″ ± 0.013″ for solar parallax. This method is not free from the suspicion of systematic error.
+  </p>
+  <p>
+   The velocities of stars toward or away from Earth are determined from spectroscopic observations. By choosing times when the orbital motion of Earth is carrying it toward or from a
+   <xref articleid="110472">
+    star
+   </xref>
+   , astronomers are able to determine mathematically the velocity of the Earth in its orbit. In this way the solar parallax was found from observations at the Cape of Good Hope to be 8.802″ ± 0.004″.
+  </p>
+  <p>
+   Radar measures of the distance from Earth to
+   <xref articleid="110146">
+    Venus
+   </xref>
+   have provided the best determination of the solar parallax. By measuring the flight time of a radar pulse to Venus, the distance between the two planets can be obtained, allowing the determination of the unit distance between Earth and the Sun.
+  </p>
+  <p>
+   The present value for the
+   <xref articleid="10001">
+    astronomical unit
+   </xref>
+   is 149,597,871 km (92,955,807 miles). The principal limitations of using radar to measure the astronomical unit are the dependence on knowledge of the planetary orbits, the uncertainty in the value of the velocity of light, and the possibility of electromagnetic effects in the Earth–Venus
+   <xref articleid="110303">
+    plasma
+   </xref>
+   delaying the radar pulse.
+  </p>
+  <p>
+   Gravitational methods are still another means of determining solar parallax. In lunar theory there is a term of period one month known as the parallactic inequality. The coefficient of the term contains the ratio of the parallaxes of the Sun and Moon as a factor. The coefficient’s large size makes it of value.
+  </p>
+  <p>
+   The ratio of the combined mass of Earth and the Moon to that of the Sun may be determined from the disturbing action of Earth and Moon on the elliptic motion of the planets. The ratio of the Moon’s mass to that of Earth is 1/81.30, and thus the ratio of Earth’s mass to that of the Sun is found. In a manner similar to that described above for the Moon’s parallax, the solar parallax is then derived.
+  </p>
+ </h1>
+ <h1 id="h5515">
+  <title>
+   Stellar parallax
+  </title>
+  <p>
+   <assembly id="a6851" url="/assembly/view/6851">
+    <media mediaid="3386" type="image" url="/86/3386-004-32EE0336.jpg"/>
+    <caption>
+     Stellar parallax.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a6851"/>
+   The
+   <xref articleid="110472">
+    stars
+   </xref>
+   are too distant for any difference of position to be perceptible from two places on
+   <xref articleid="110147">
+    Earth
+   </xref>
+   ’s surface, but, as Earth revolves at 149,600,000 km from the
+   <xref articleid="110144">
+    Sun
+   </xref>
+   , stars are seen from widely different viewpoints during the year. The effect on their positions is called annual parallax, defined as the difference in position of a star as seen from Earth and from the Sun. Its amount and direction vary with the time of year, and its maximum is
+   <e type="italic">
+    a
+   </e>
+   /
+   <e type="italic">
+    r
+   </e>
+   , where
+   <e type="italic">
+    a
+   </e>
+   is the radius of the Earth’s
+   <xref articleid="57286">
+    orbit
+   </xref>
+   and
+   <e type="italic">
+    r
+   </e>
+   the distance of the star. The quantity is very small and never reaches 1/206,265 in radians, or 1″ in sexagesimal measure.
+  </p>
+  <p>
+   Using a
+   <xref articleid="488030">
+    heliometer
+   </xref>
+   designed by German physicist
+   <xref articleid="35214">
+    Joseph von Fraunhofer
+   </xref>
+   , German astronomer
+   <xref articleid="78931">
+    Friedrich Wilhelm Bessel
+   </xref>
+   was the first to measure stellar parallax in 1838. Choosing
+   <xref articleid="68052">
+    61 Cygni
+   </xref>
+   , a star barely visible to the naked eye and known to possess a relatively high velocity in the plane of the sky, Bessel showed in 1838 that, after correcting for velocity, the star apparently moved in an ellipse every year. This back-and-forth motion was the annual parallax. Astronomers had known for centuries that such an effect must occur, but Bessel was the first to demonstrate it accurately. Bessel’s parallax of about one-third of a second of arc corresponds to a distance of about 10.3
+   <xref articleid="48225">
+    light-year
+   </xref>
+   s from Earth to 61 Cygni, though Bessel did not express it this way. (The nearest star known is
+   <xref articleid="5888">
+    Alpha Centauri
+   </xref>
+   , 4.3 light-years away, with a parallax of about 0.75″.)
+  </p>
+ </h1>
+ <h1 id="h5516">
+  <title>
+   Direct measurement
+  </title>
+  <p>
+   The introduction of the photographic method by American astronomer Frank Schlesinger in 1903 considerably improved the accuracy of stellar parallaxes. In practice a few photographs are taken when the
+   <xref articleid="110472">
+    star
+   </xref>
+   is on the meridian shortly after sunset at one period (epoch) of the year and shortly before sunrise six months later. Since the star’s positions also change because of its motion across the sky (
+   <xref articleid="61555">
+    proper motion
+   </xref>
+   ), a minimum of three such sets of observations is necessary for obtaining the parallax. From approximately 25 photographs taken over five epochs, the parallax of a star usually is determined with an accuracy of about ± 0.010″ (probable error), even though the diameter of the photographic disk of the star is rarely less than 2.0″.
+  </p>
+  <p>
+   The unit in which stellar distances are expressed by astronomers, the
+   <xref articleid="58565">
+    parsec
+   </xref>
+   , is the distance of a star whose parallax is 1″. This is equal to 206,265 times
+   <xref articleid="110147">
+    Earth
+   </xref>
+   ’s distance from the
+   <xref articleid="110144">
+    Sun
+   </xref>
+   , or approximately 30,000,000,000,000 km. When
+   <e type="italic">
+    p
+   </e>
+   is measured in seconds of arc and the distance
+   <e type="italic">
+    d
+   </e>
+   in parsecs, the simple relation
+   <e type="italic">
+    d
+   </e>
+   = 1/
+   <e type="italic">
+    p
+   </e>
+   holds. One parsec is equal to 3.26
+   <xref articleid="48225">
+    light-years
+   </xref>
+   .
+  </p>
+  <p>
+   The star with the largest known parallax, 0.75″, is
+   <xref articleid="5888">
+    Alpha Centauri
+   </xref>
+   . Seventy-four separate stars are known within a distance of five parsecs from the Sun. These stars include the bright stars Alpha Centauri,
+   <xref articleid="67991">
+    Sirius
+   </xref>
+   , and
+   <xref articleid="61483">
+    Procyon
+   </xref>
+   , but the majority are faint telescopic objects.
+  </p>
+ </h1>
+ <h1 id="h5517">
+  <title>
+   Indirect measurement
+  </title>
+  <p>
+   For
+   <xref articleid="110472">
+    stars
+   </xref>
+   beyond a distance of 1,000
+   <xref articleid="58565">
+    parsecs
+   </xref>
+   (parallactic angle 0.001″), the trigonometric method is in general not sufficiently accurate, and other methods must be used to determine their distances.
+  </p>
+  <p>
+   The parallax can be derived from the apparent
+   <xref articleid="50048">
+    magnitude
+   </xref>
+   of the star if there are any means of knowing the absolute magnitude of the star—i.e., the magnitude the star would have at the standard distance of 10 parsecs. For many stars a reasonable estimate can be made from their spectral types or their
+   <xref articleid="61555">
+    proper motions
+   </xref>
+   . The formula connecting the absolute magnitude,
+   <e type="italic">
+    M
+   </e>
+   , and the apparent magnitude,
+   <e type="italic">
+    m
+   </e>
+   , with parallax,
+   <e type="italic">
+    p
+   </e>
+   , is
+   <formula>
+    <inlinemedia id="i14451" mediaid="14451" url="/51/14451-004-DE0E8707.jpg"/>
+   </formula>
+  </p>
+  <p>
+   expressing the condition that the
+   <xref articleid="110443">
+    light
+   </xref>
+   received from a star varies inversely as the square of the distance.
+  </p>
+  <p>
+   Some groups of stars, such as the
+   <xref articleid="41679">
+    Hyades
+   </xref>
+   cluster in
+   <xref articleid="71413">
+    Taurus
+   </xref>
+   and the Ursa Major cluster, have proper motions converging toward a definite point on the celestial sphere and are called moving clusters. The apparent convergence is due to the effect of perspective on parallel motions. Once the direction toward the convergent point is known, and the proper and radial motion of a member star is known, the parallax can be determined from the geometry.
+  </p>
+  <p>
+   One method of indirect measurement involves the determination of mean, or average, stellar parallaxes. The
+   <xref articleid="110143">
+    solar system
+   </xref>
+   is moving through space with a velocity of 13.4 km (8.3 miles) per second, carrying it three times
+   <xref articleid="110147">
+    Earth
+   </xref>
+   ’s distance from the
+   <xref articleid="110144">
+    Sun
+   </xref>
+   in one year. This produces a general drift in the angular movement of the stars away from the apex, or point in the sky to which the movement is directed. Were the stars at rest, this would give a ready means of determining their individual distances. As the stars are all moving, the method gives the average distance of a group of stars examined, on the assumption that their peculiar motions are eliminated. In this way the mean parallaxes of stars of successive apparent magnitudes, of different galactic latitudes, and of different spectral types are obtained. Thus the mean parallax of fifth magnitude stars (i.e., of stars just visible to the naked eye) is 0.018″, and of the 10th magnitude stars (i.e., of stars each giving about 1/100 of the light of a star of the fifth magnitude) is 0.0027″.
+  </p>
+  <p>
+   Stellar parallaxes are also deduced from spectroscopic observations. The spectra of nearly all stars can be grouped into a small number of classes, which form a continuous sequence depending on the effective (surface) temperatures of the stars. The Henry Draper (HD)
+   <xref articleid="39418">
+    stellar classification
+   </xref>
+   , which is of this kind, uses the letters O–B–A–F–G–K–M–L–T to denote classes with temperatures descending from about 50,000 K for class O to about 800 K for class T. The HD system has been generally adopted, usually in combination with a decimal subdivision for refined work.
+  </p>
+  <p>
+   Empirical studies show that the spectra of the stars also include important clues to their true luminosities. In 1914 Walter Adams and Arnold Kohlschütter established the spectroscopic differences between giant and dwarf stars of the same spectral type and laid the foundation for the determination of spectroscopic parallaxes. These differences, depending upon the intrinsic brightness of the star, allow an estimate of its absolute magnitude, and the parallax can then be deduced by means of the equation (2) given above. This method has been applied to most of the brighter stars in the Northern Hemisphere, using stars of known parallax as standards.
+  </p>
+  <p>
+   A two-dimensional classification system of stellar spectra, which has been universally adopted, has greatly improved the accuracy of spectroscopic parallaxes. The system, called the MK system, assigns a precise system of Draper classes and five luminosity classes, using the Roman numerals I to V. The system divides the majority of stars into supergiants, bright giants, subgiants, and main sequence (dwarf) stars, depending upon their intrinsic brightness, as determined from the spectral lines most sensitive to this property. The luminosity classes are then calibrated in terms of absolute magnitude.
+  </p>
+  <p>
+   The colours of the stars can also be used as indicators of their absolute magnitude, as first shown by
+   <xref articleid="40258">
+    Ejnar Hertzsprung
+   </xref>
+   in 1905 and 1907. A measure of the colour of a star is the difference in brightness, measured in magnitudes, in two selected wavelength bands of its spectrum. Initially the difference between the visual and the photographic magnitude of a star was defined as the colour of its light and called its colour index. A comparison between the colour index and the spectral classification of a star has made it possible to develop a quantitative method of measuring a star’s absolute magnitude. Several photometric systems have been developed. The most widely used system is the two-dimensional quantitative classification method based upon photoelectric measurements in three wavelength bands in the ultraviolet, blue, and yellow (or visual) regions of the spectrum, hence called the
+   <e type="italic">
+    UBV
+   </e>
+   system. The system of the two colour indices
+   <e type="italic">
+    U-B
+   </e>
+   and
+   <e type="italic">
+    B-V
+   </e>
+   is calibrated in terms of spectral class and luminosity class on the MK system, based upon a set of standard stars. The relationship between the two indices in the
+   <e type="italic">
+    UBV
+   </e>
+   system and the absolute magnitudes for the main-sequence stars is of particular interest. By means of this relationship and the inverse square law, it is possible to determine the distances to galactic clusters from photoelectric observations of main-sequence stars in these clusters. In other words, such photometric parallaxes are obtained from a comparison of the observed apparent magnitudes of the stars and the absolute magnitudes inferred from their spectral types.
+  </p>
+  <p>
+   If the relative orbit of a visual
+   <xref articleid="79221">
+    binary
+   </xref>
+   system is known, the following relation connects the combined mass,
+   <e type="italic">
+    M
+   </e>
+   , of the two stars, expressed in the Sun’s mass as unit; the orbital period, P, expressed in years, the semimajor axis of the relative
+   <xref articleid="57286">
+    orbit
+   </xref>
+   ;
+   <e type="italic">
+    a
+   </e>
+   , expressed in seconds of arc; and the parallax
+   <e type="italic">
+    p
+   </e>
+   <e type="italic">
+    :
+   </e>
+   <e type="italic">
+    p
+   </e>
+   =
+   <e type="italic">
+    a
+   </e>
+   /
+   <sup>
+    3
+   </sup>
+   <sqroot>
+    <e type="italic">
+     M
+    </e>
+    P
+    <sup>
+     2
+    </sup>
+   </sqroot>
+   . Both
+   <e type="italic">
+    a
+   </e>
+   and P are known, but not
+   <e type="italic">
+    M
+   </e>
+   ; it will be noted that an error in the value of
+   <e type="italic">
+    M
+   </e>
+   gives rise to a much smaller error in
+   <e type="italic">
+    p
+   </e>
+   . Thus, for instance, increasing
+   <e type="italic">
+    M
+   </e>
+   by a factor of 8 only halves the value of
+   <e type="italic">
+    p
+   </e>
+   . The value of
+   <e type="italic">
+    p
+   </e>
+   obtained by assuming the combined mass to be equal to the mass of the Sun is called the hypothetical parallax.
+  </p>
+  <p>
+   In many visual pairs the complete orbit has not been observed. If
+   <e type="italic">
+    s
+   </e>
+   denotes the apparent distance in seconds of arc and ω the relative motion in seconds of arc per year, a hypothetical parallax can be derived from the formula
+   <e type="italic">
+    p
+   </e>
+   = 0.418
+   <sup>
+    3
+   </sup>
+   <sqroot>
+    <e type="italic">
+     s
+    </e>
+    ω
+    <sup>
+     2
+    </sup>
+   </sqroot>
+   . By use of the relationship between mass and luminosity of a star, it is possible, knowing the spectral type of the star, to derive a correcting factor that will give a more accurate value of the parallax. Parallaxes so determined are called dynamical parallaxes.
+  </p>
+  <signature>
+   Kaj Aa. Strand
+  </signature>
+  <signature>
+   EB Editors
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

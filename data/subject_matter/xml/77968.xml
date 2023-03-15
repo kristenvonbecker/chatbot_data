@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="77968" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 02:36:17" url="/article/yield-point/77968" version="4">
+ <title>
+  yield point
+ </title>
+ <p>
+  <e type="bold">
+   yield point
+  </e>
+  , in mechanical engineering, load at which a solid material that is being stretched begins to flow, or change shape permanently, divided by its original cross-sectional area; or the amount of stress in a solid at the onset of permanent deformation. The yield point, alternatively called the elastic limit, marks the end of elastic behaviour and the beginning of plastic behaviour. When stresses less than the yield point are removed, the material returns to its original shape. For many materials that do not have a well-defined yield point, a quantity called yield strength is substituted. Yield strength is the stress at which a material has undergone some arbitrarily chosen amount of permanent deformation, often 0.2 percent. A few materials start to yield, or flow plastically, at a fairly well-defined stress (upper yield point) that falls rapidly to a lower steady value (lower yield point) as deformation continues. Any increase in the stress beyond the yield point causes greater permanent deformation and eventually fracture.
+  <e type="italic">
+   See
+  </e>
+  <xref articleid="29749">
+   deformation and flow
+  </xref>
+  .
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="16422" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 20:50:05" url="/article/bridge/16422" version="3">
+ <title>
+  bridge
+ </title>
+ <p>
+  <assembly id="a59222" url="/assembly/view/59222">
+   <media mediaid="68927" type="image" url="/27/68927-004-C64D1EDA.jpg"/>
+   <caption>
+    Charles Wheatstone.
+   </caption>
+   <credit>
+    Hulton Archive/Getty Images
+   </credit>
+  </assembly>
+  <e type="bold">
+   bridge
+  </e>
+  ,
+  <assemblyref assemblyid="a59222"/>
+  in electrical measurement, instrument for measuring electrical quantities. The first such instrument, invented by British mathematician Samuel Christie and popularized in 1843 by Sir Charles Wheatstone, measures resistance by comparing the current flowing through one part of the bridge with a known current flowing through another part. The Wheatstone bridge has four arms, all predominantly resistive. A bridge can measure other quantities in addition to resistance, depending upon the type of circuit elements used in the arms. It can measure inductance, capacitance, and frequency with the proper combination and arrangement of inductances and capacitances in its arms.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

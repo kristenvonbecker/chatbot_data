@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="42544" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 22:51:27" url="/article/interference/42544" version="7">
+ <title>
+  interference
+ </title>
+ <p>
+  <assembly id="a245554" url="/assembly/view/245554">
+   <title>
+    Know about interference and how it affects sound wave patterns
+   </title>
+   <media mediaid="214989" thumburl="/89/214989-049-497FB640.jpg" type="video" url=""/>
+   <caption>
+    Overview of interference using the example of sound waves.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   interference
+  </e>
+  ,
+  <assemblyref assemblyid="a245554"/>
+  in physics, the net effect of the combination of two or more wave trains moving on intersecting or coincident paths. The effect is that of the addition of the amplitudes of the individual waves at each point affected by more than one wave.
+ </p>
+ <p>
+  <assembly id="a61315" url="/assembly/view/61315">
+   <title>
+    interference
+   </title>
+   <media mediaid="1709" type="image" url="/09/1709-004-158C0512.jpg"/>
+   <caption>
+    Interference.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  If two of the components are of the same frequency and phase (i.e., they vibrate at the same rate and are maximum at the same time), the wave amplitudes are reinforced, producing constructive interference. But if the two waves are out of phase by
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    2
+   </den>
+  </fraction>
+  period (i.e., one is minimum when the other is maximum), the result is destructive interference, producing complete annulment if they are of equal amplitude. The solid line in
+  <assemblyref assemblyid="a61315">
+   Figures A, B, and C
+  </assemblyref>
+  represents the resultant of two waves (dotted lines) of slightly different amplitude but of the same wavelength. The two component waves are in phase in
+  <assemblyref assemblyid="a61315">
+   Figure A
+  </assemblyref>
+  but out of phase by
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    4
+   </den>
+  </fraction>
+  period and
+  <fraction>
+   <num>
+    1
+   </num>
+   <den>
+    2
+   </den>
+  </fraction>
+  period in
+  <assemblyref assemblyid="a61315">
+   B
+  </assemblyref>
+  and
+  <assemblyref assemblyid="a61315">
+   C
+  </assemblyref>
+  .
+ </p>
+ <p>
+  When two stones are dropped into a pool of water, waves spread out from each source, and interference occurs where they overlap. Constructive interference results where the crest of one coincides with the crest of the other. Two wave trains of light from a double slit produce interference, an effect that is visible on a screen as a pattern of alternating dark and light bands caused by intensification and extinction at points at which the waves are in phase and out of phase, respectively.
+ </p>
+ <p>
+  Interference also occurs between two wave trains moving in the same direction but having different wavelengths or frequencies. The resultant effect is a complex wave. A pulsating frequency, called a beat, results when the wavelengths are slightly different.
+  <assemblyref assemblyid="a61315">
+   Figures D, E, and F
+  </assemblyref>
+  show complex waves (solid lines) composed of two component interfering waves (dotted lines), the ratio of their wavelengths being 1:2 and of their amplitudes 1:3.
+ </p>
+ <p>
+  Interference between waves traveling in opposite directions produces
+  <xref articleid="69401">
+   standing wave
+  </xref>
+  s.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

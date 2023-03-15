@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="28663" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:29:24" url="/article/damping/28663" version="4">
+ <title>
+  damping
+ </title>
+ <p>
+  <assembly id="a2143" url="/assembly/view/2143">
+   <title>
+    damped waves
+   </title>
+   <media mediaid="2121" type="image" url="/21/2121-004-82A1A0EE.jpg"/>
+   <caption>
+    Damped waves. (A) Amplitude, ξ(
+    <e type="italic">
+     z
+    </e>
+    ), as a function of distance,
+    <e type="italic">
+     z
+    </e>
+    . (B) Energy,
+    <e type="italic">
+     G
+    </e>
+    (ν
+    <sub>
+     <e type="italic">
+      s
+     </e>
+    </sub>
+    ), as a function of frequency, ν
+    <sub>
+     <e type="italic">
+      s
+     </e>
+    </sub>
+    . The figure shows heavy (left) and light (right) damping.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   damping
+  </e>
+  ,
+  <assemblyref assemblyid="a2143"/>
+  in physics, restraining of vibratory motion, such as mechanical oscillations, noise, and
+  <xref articleid="5927">
+   alternating electric currents
+  </xref>
+  , by dissipation of energy. Unless a child keeps pumping a swing, its motion dies down because of damping. Shock absorbers in
+  <xref articleid="110735">
+   automobiles
+  </xref>
+  and carpet pads are examples of damping devices.
+ </p>
+ <p>
+  A system may be so damped that it cannot vibrate. Critical damping just prevents vibration or is just sufficient to allow the object to return to its rest position in the shortest period of time. The automobile shock absorber is an example of a critically damped device. Additional damping causes the system to be overdamped, which may be desirable, as in some door closers. The vibrations of an underdamped system gradually taper off to zero.
+ </p>
+ <p>
+  There are many types of mechanical damping.
+  <xref articleid="35414">
+   Friction
+  </xref>
+  , also called in this context dry, or Coulomb, damping, arises chiefly from the electrostatic forces of attraction between the sliding surfaces and converts mechanical energy of motion, or
+  <xref articleid="45490">
+   kinetic energy
+  </xref>
+  , into
+  <xref articleid="39732">
+   heat
+  </xref>
+  .
+ </p>
+ <p>
+  Viscous damping is caused by such energy losses as occur in liquid lubrication between moving parts or in a fluid forced through a small opening by a
+  <xref articleid="60199">
+   piston
+  </xref>
+  , as in automobile shock absorbers. The viscous-damping force is directly proportional to the relative velocity between the two ends of the damping device.
+ </p>
+ <p>
+  The motion of a vibrating body is also checked by its friction with the
+  <xref articleid="110302">
+   gas
+  </xref>
+  or
+  <xref articleid="110301">
+   liquid
+  </xref>
+  through which it moves. The damping force of the fluid in this case is directly proportional to a quantity slightly less than the square of the body’s velocity and, hence, is referred to as velocity-squared damping.
+ </p>
+ <p>
+  Besides these external kinds of damping, there is energy loss within the moving structure itself that is called hysteresis damping or, sometimes, structural damping. In hysteresis damping, some of the energy involved in the repetitive internal deformation and restoration to original shape is dissipated in the form of random vibrations of the crystal lattice in solids and random kinetic energy of the
+  <xref articleid="53247">
+   molecules
+  </xref>
+  in a fluid.
+ </p>
+ <p>
+  There are other types of damping. Resonant
+  <xref articleid="32272">
+   electric circuits
+  </xref>
+  , in which an alternating current is surging back and forth, as in a
+  <xref articleid="345387">
+   radio
+  </xref>
+  or
+  <xref articleid="106102">
+   television
+  </xref>
+  receiver, are damped by electric
+  <xref articleid="63265">
+   resistance
+  </xref>
+  . The signal to which the receiver is tuned supplies energy synchronously to maintain
+  <xref articleid="63273">
+   resonance
+  </xref>
+  .
+ </p>
+ <p>
+  In radiation damping, vibrating energy of moving charges, such as electrons, is converted to electromagnetic energy and is emitted in the form of
+  <xref articleid="473149">
+   radio waves
+  </xref>
+  or
+  <xref articleid="42403">
+   infrared
+  </xref>
+  or
+  <xref articleid="110443">
+   visible light
+  </xref>
+  .
+ </p>
+ <p>
+  In magnetic damping, energy of motion is converted to heat by way of electric eddy currents induced in either a coil or an aluminum plate (attached to the oscillating object) that passes between the poles of a
+  <xref articleid="50017">
+   magnet
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

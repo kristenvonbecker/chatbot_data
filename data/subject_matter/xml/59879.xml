@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="59879" articletypeid="1" language="en_us" lastupdate="2022-Mar-14 16:13:15" url="/article/pi/59879" version="12">
+ <title>
+  pi
+ </title>
+ <p>
+  <e type="bold">
+   pi
+  </e>
+  , in
+  <xref articleid="109827">
+   mathematics
+  </xref>
+  , the ratio of the circumference of a
+  <xref articleid="472040">
+   circle
+  </xref>
+  to its diameter. The symbol π was devised by British mathematician William Jones in 1706 to represent the ratio and was later popularized by Swiss mathematician
+  <xref articleid="33216">
+   Leonhard Euler
+  </xref>
+  . Because pi is irrational (not equal to the ratio of any two whole numbers), its digits do not repeat, and an approximation such as 3.14 or 22/7 is often used for everyday calculations. To 39 decimal places, pi is 3.141592653589793238462643383279502884197.
+ </p>
+ <p>
+  The Babylonians (c. 2000
+  <e type="smallcap">
+   bce
+  </e>
+  ) used 3.125 to approximate pi, a value they obtained by calculating the perimeter of a hexagon inscribed within a circle and assuming that the ratio of the hexagon’s perimeter to the circle’s circumference was 24/25. The
+  <xref articleid="63424">
+   Rhind papyrus
+  </xref>
+  (c. 1650
+  <e type="smallcap">
+   bce
+  </e>
+  ) indicates that ancient Egyptians used a value of 256/81 or about 3.16045.
+  <xref articleid="109383">
+   Archimedes
+  </xref>
+  (c. 250
+  <e type="smallcap">
+   bce
+  </e>
+  ) took a major step forward by devising a method to obtain pi to any desired accuracy, given enough patience. By inscribing and circumscribing regular polygons about a circle to obtain upper and lower bounds, he obtained 223/71 &lt; π &lt; 22/7, or an average value of about 3.1418. Archimedes also proved that the ratio of the area of a circle to the square of its radius is the same constant.
+ </p>
+ <p>
+  Over the ensuing centuries, Chinese, Indian, and Arab mathematicians extended the number of decimal places known through tedious calculations, rather than improvements on Archimedes’ method. By the end of the 17th century, however, new methods of mathematical analysis in Europe provided improved ways of calculating pi involving
+  <xref articleid="42391">
+   infinite series
+  </xref>
+  . For example,
+  <xref articleid="108764">
+   Isaac Newton
+  </xref>
+  used his
+  <xref articleid="79241">
+   binomial theorem
+  </xref>
+  to calculate 16 decimal places quickly. Early in the 20th century the Indian mathematician
+  <xref articleid="62575">
+   Srinivasa Ramanujan
+  </xref>
+  developed exceptionally efficient ways of calculating pi that were later incorporated into
+  <xref articleid="117728">
+   computer
+  </xref>
+  algorithms. In the early 21st century computers calculated pi to 62,831,853,071,796 decimal places, as well as its two-quadrillionth digit when expressed in
+  <xref articleid="79220">
+   binary
+  </xref>
+  (0).
+ </p>
+ <p>
+  Pi occurs in various mathematical problems involving the lengths of arcs or other curves, the areas of
+  <xref articleid="1541">
+   ellipses
+  </xref>
+  , sectors, and other curved surfaces, and the volumes of many solids. It is also used in various formulas of
+  <xref articleid="108654">
+   physics
+  </xref>
+  and
+  <xref articleid="105842">
+   engineering
+  </xref>
+  to describe such periodic phenomena as the motion of
+  <xref articleid="59060">
+   pendulums
+  </xref>
+  , the vibration of strings, and alternating
+  <xref articleid="32273">
+   electric currents
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="443906" articletypeid="1" language="en_us" lastupdate="2022-Feb-02 17:27:20" url="/article/raster-graphics/443906" version="5">
+ <title>
+  raster graphics
+ </title>
+ <p>
+  <e type="bold">
+   raster graphics
+  </e>
+  , also called
+  <e type="bold">
+   bitmap graphics
+  </e>
+  , a type of digital image that uses tiny rectangular pixels, or picture elements, arranged in a grid formation to represent an image. Because the format can support a wide range of colours and depict subtle graduated tones, it is well suited for displaying continuous-tone images such as photographs or shaded drawings, along with other detailed images.
+ </p>
+ <p>
+  Raster graphics have origins in
+  <xref articleid="106102">
+   television
+  </xref>
+  technology, with images constructed much like the pictures on a television screen. A raster graphic is made up of a collection of tiny, uniformly sized pixels, which are arranged in a two-dimensional grid made up of columns and rows. Each pixel contains one or more bits of information, depending on the degree of detail in the image. For example, a black-and-white image contains only one
+  <xref articleid="80319">
+   bit
+  </xref>
+  per pixel (a
+  <xref articleid="471867">
+   binary
+  </xref>
+  bit can be in one of two states; thus, a single bit can represent white or black); an image with shading and colour commonly contains 24 bits of information per pixel—with 2
+  <sup>
+   24
+  </sup>
+  , or more than 16 million, possible states per pixel. Known as “truecolor,” 24-bit colour can realistically depict colour images. The number of bits stored in each pixel is known as the colour depth. The number of pixels in a display, called resolution, affects how much detail can be depicted in an image. Resolution is often expressed as the number of pixels in a column times the number of pixels in a row (for example, 800 × 600).
+ </p>
+ <p>
+  Detailed images often result in large file sizes, although file size can be managed through
+  <xref articleid="2216">
+   data compression
+  </xref>
+  . Compression can be either lossy (meaning that some data is discarded) or lossless (no data is lost). Popular raster file formats include
+  <xref articleid="443821">
+   GIF
+  </xref>
+  (graphics interchange format) and
+  <xref articleid="443848">
+   JPEG
+  </xref>
+  (joint photographic experts group), which are lossy formats, and BMP (Windows bitmap) and TIFF (tagged image file format), which are lossless.
+ </p>
+ <p>
+  Although raster graphics saw some use in the 1970s and ’80s, it was mostly limited to expensive graphics
+  <xref articleid="1514">
+   workstations
+  </xref>
+  (i.e., high-end computers that were specially optimized for working with graphics). As the graphics capability of
+  <xref articleid="2247">
+   personal computers
+  </xref>
+  improved in the 1990s, raster graphics became widely used. Images produced from optical scanners and
+  <xref articleid="443006">
+   digital cameras
+  </xref>
+  are raster graphics, as are most images on the
+  <xref articleid="1458">
+   Internet
+  </xref>
+  . A commonly used graphics program for working with raster images is
+  <xref articleid="443896">
+   Adobe Photoshop
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

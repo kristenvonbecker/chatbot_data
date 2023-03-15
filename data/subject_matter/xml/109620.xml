@@ -1,0 +1,2006 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="109620" articletypeid="1" language="en_us" lastupdate="2023-Mar-03 12:58:26" url="/article/colour/109620" version="23">
+ <title>
+  colour
+ </title>
+ <p>
+  <assembly id="a269449" url="/assembly/view/269449">
+   <title>
+    colour wheel
+   </title>
+   <media mediaid="234462" type="image" url="/62/234462-004-585845F7.jpg"/>
+   <caption>
+    Colour wheel showing the RYB colour model.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   colour
+  </e>
+  , also spelled
+  <e type="bold">
+   color
+  </e>
+  ,
+  <assemblyref assemblyid="a269449"/>
+  the aspect of any object that may be described in terms of hue, lightness, and saturation. In
+  <xref articleid="108654">
+   physics
+  </xref>
+  , colour is associated specifically with
+  <xref articleid="106022">
+   electromagnetic radiation
+  </xref>
+  of a certain range of wavelengths visible to the
+  <xref articleid="109527">
+   human eye
+  </xref>
+  . Radiation of such wavelengths constitutes that portion of the electromagnetic spectrum known as the visible spectrum—i.e.,
+  <xref articleid="110443">
+   light
+  </xref>
+  .
+ </p>
+ <p>
+  <xref articleid="75524">
+   Vision
+  </xref>
+  is obviously involved in the perception of colour. A person can see in dim light, however, without being able to distinguish colours. Only when more light is present do colours appear. Light of some critical intensity, therefore, is also necessary for colour perception. Finally, the manner in which the brain responds to visual stimuli must also be considered. Even under identical conditions, the same object may appear red to one observer and orange to another. Clearly, the perception of colour depends on vision, light, and individual interpretation, and an understanding of colour involves
+  <xref articleid="108654">
+   physics
+  </xref>
+  ,
+  <xref articleid="110578">
+   physiology
+  </xref>
+  , and
+  <xref articleid="61727">
+   psychology
+  </xref>
+  .
+ </p>
+ <p>
+  <assembly id="a158924" url="/assembly/view/158924">
+   <title>
+    Classify colors on the visible spectrum of electromagnetic radiation by hue, saturation, and brightness
+   </title>
+   <media mediaid="151068" thumburl="/68/151068-049-0D954262.jpg" type="video" url="ixbNHO9E"/>
+   <caption>
+    Colours result from the electromagnetic radiation of a range of wavelengths that are visible to the eye. The three characteristics of hue, saturation, and brightness are commonly used to distinguish one colour from another.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a158924"/>
+  An object appears coloured because of the way it interacts with light. The analysis of this interaction and the factors that determine it are the concerns of the physics of colour. The physiology of colour involves the eye’s and the brain’s responses to light and the sensory data they produce. The psychology of colour is invoked when the mind processes visual data, compares it with information stored in memory, and interprets it as colour.
+ </p>
+ <p>
+  This article concentrates on the physics of colour. For an overview of the primary colours, with their basic secondary and tertiary mixtures, usefully notated as the 12 segments of a circle, see
+  <xref articleid="634801">
+   colour wheel
+  </xref>
+  . For a discussion of colour as a quality of light,
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="110443">
+   light
+  </xref>
+  and
+  <xref articleid="106022">
+   electromagnetic radiation
+  </xref>
+  . For the physiological aspects of colour vision,
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="109527" refid="h64933">
+   eye: Colour vision
+  </xref>
+  .
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="108604">
+   painting
+  </xref>
+  for a discussion of the psychological and aesthetic uses of colour.
+ </p>
+ <h1 id="h21836">
+  <title>
+   Colour and light
+  </title>
+  <h2 id="h21837">
+   <title>
+    The nature of colour
+   </title>
+   <p>
+    <assembly id="a276045" url="/assembly/view/276045">
+     <title>
+      Who created the colour wheel?
+     </title>
+     <media mediaid="237681" thumburl="/81/237681-049-42D58756.jpg" type="video" url="H3Bzh55Y"/>
+     <caption>
+      For millennia, many believed Aristotle’s theory that all colours were a mixture of black and white. How did we learn otherwise?
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assembly id="a1066" url="/assembly/view/1066">
+     <title>
+      Isaac Newton’s prism experiment
+     </title>
+     <media mediaid="7710" type="image" url="/10/7710-004-B20BB331.jpg"/>
+     <caption>
+      Isaac Newton’s prism experiment, 1666.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a276045"/>
+    Aristotle viewed colour to be the product of a mixture of white and black, and this was the prevailing belief until 1666, when
+    <xref articleid="108764">
+     Isaac Newton
+    </xref>
+    ’s
+    <xref articleid="61433">
+     prism
+    </xref>
+    experiments provided the scientific basis for the understanding of colour. Newton showed that a prism could break up white light into a range of colours, which he called the
+    <xref articleid="69040">
+     spectrum
+    </xref>
+    (
+    <e type="italic">
+     see
+    </e>
+    <assemblyref assemblyid="a1066">
+     figure
+    </assemblyref>
+    ), and that the recombination of these spectral colours re-created the white light. Although he recognized that the spectrum was continuous, Newton used the seven colour names red, orange, yellow, green, blue, indigo, and violet for segments of the spectrum by analogy with the seven notes of the musical scale.
+   </p>
+   <p>
+    Newton realized that colours other than those in the spectral sequence do exist, but he noted that
+   </p>
+   <quote>
+    <p>
+     all the colours in the universe which are made by light, and depend not on the power of imagination, are either the colours of homogeneal lights [i.e., spectral colours], or compounded of these.
+    </p>
+   </quote>
+   <p>
+    Newton also recognized that
+   </p>
+   <quote>
+    <p>
+     rays, to speak properly, are not coloured. In them there is nothing else than a certain power…to stir up a sensation of this or that colour.
+    </p>
+   </quote>
+   <p>
+    The unexpected difference between light perception and sound perception clarifies this curious aspect of colour. When beams of light of different colours, such as red and yellow, are projected together onto a white surface in equal amounts, the resulting perception of the eye signals a single colour (in this case, orange) to the brain, a signal that may be identical to that produced by a single beam of light. When, however, two musical
+    <xref articleid="72858">
+     tones
+    </xref>
+    are sounded simultaneously, the individual tones can still be easily discerned; the sound produced by a combination of tones is never identical to that of a single tone. A tone is the result of a specific sound wave, but a colour can be the result of a single light beam or a combination of any number of light beams.
+   </p>
+   <p>
+    A colour can, however, be precisely specified by its hue, saturation, and
+    <xref articleid="16456">
+     brightness
+    </xref>
+    —three attributes sufficient to distinguish it from all other possible perceived colours. The hue is that aspect of colour usually associated with terms such as red, orange, yellow, and so forth. Saturation (also known as chroma or tone) refers to relative purity. When a pure, vivid, strong shade of red is mixed with a variable amount of white, weaker or paler reds are produced, each having the same hue but a different saturation. These paler colours are called unsaturated colours. Finally, light of any given combination of hue and saturation can have a variable brightness (also called intensity or value), which depends on the total amount of light energy present.
+   </p>
+  </h2>
+  <h2 id="h21838">
+   <title>
+    The visible spectrum
+   </title>
+   <p>
+    Newton demonstrated that colour is a quality of light. To understand colour, therefore, it is necessary to know something about light. As a form of electromagnetic radiation, light has properties in common with both waves and particles. It can be thought of as a stream of minute energy packets radiated at varying frequencies in a wave motion. Any given beam of light has specific values of frequency, wavelength, and energy associated with it. Frequency, which is the number of waves passing a fixed point in space in a unit of time, is commonly expressed in units of hertz (1 Hz = 1 cycle per second). Wavelength is the distance between corresponding points of two consecutive waves and is often expressed in units of metres—for instance, nanometres (1 nm = 10
+    <sup>
+     −9
+    </sup>
+    metre). The energy of a light beam can be compared to that possessed by a small particle moving at the velocity of light, except that no particle having a rest mass could move at such a velocity. The name
+    <e type="italic">
+     <xref articleid="59817">
+      photon
+     </xref>
+    </e>
+    , used for the smallest quantity of light of any given wavelength, is meant to encompass this duality, including both the wave and particle characteristics inherent in wave mechanics and
+    <xref articleid="110312">
+     quantum mechanics
+    </xref>
+    . The energy of a photon is often expressed in units of
+    <xref articleid="32330">
+     electron volts
+    </xref>
+    (1 eV = 1.602 × 10
+    <sup>
+     −12
+    </sup>
+    <xref articleid="32887">
+     erg
+    </xref>
+    ); it is directly proportional to frequency and inversely proportional to wavelength.
+   </p>
+   <p>
+    Light is not the only type of electromagnetic radiation—it is, in fact, only a small segment of the total electromagnetic spectrum—but it is the one form the eye can perceive. Wavelengths of light range from about 400 nm at the violet end of the spectrum to 700 nm at the red end (
+    <e type="italic">
+     see
+    </e>
+    ). (The limits of the visible spectrum are not sharply defined but vary among individuals; there is some extended visibility for high-intensity light.) At shorter wavelengths the electromagnetic spectrum extends to the
+    <xref articleid="74181">
+     ultraviolet radiation
+    </xref>
+    region and continues through
+    <xref articleid="77656">
+     X-rays
+    </xref>
+    ,
+    <xref articleid="35974">
+     gamma rays
+    </xref>
+    , and
+    <xref articleid="26471">
+     cosmic rays
+    </xref>
+    . Just beyond the red end of the spectrum are the longer wave
+    <xref articleid="42403">
+     infrared radiation
+    </xref>
+    rays (which can be felt as heat),
+    <xref articleid="52523">
+     microwaves
+    </xref>
+    , and
+    <xref articleid="106101">
+     radio
+    </xref>
+    waves. Radiation of a single frequency is called monochromatic. When this frequency falls in the range of the visible spectrum, the colour perception produced is that of a saturated hue.
+   </p>
+  </h2>
+  <h2 id="h21839">
+   <title>
+    The laws of colour mixture
+   </title>
+   <p>
+    Colours of the spectrum are called chromatic colours; there are also nonchromatic colours such as the browns, magentas, and pinks. The term
+    <e type="italic">
+     achromatic colours
+    </e>
+    is sometimes applied to the black-gray-white sequence. According to some estimates, the eye can distinguish some 10 million colours, all of which derive from two types of light mixture: additive and subtractive. As the names imply, additive mixture involves the addition of spectral components, and subtractive mixture concerns the subtraction or absorption of parts of the spectrum.
+   </p>
+   <p>
+    <assembly id="a1063" url="/assembly/view/1063">
+     <title>
+      colour circle
+     </title>
+     <media mediaid="7711" type="image" url="/11/7711-004-D10805FB.jpg"/>
+     <caption>
+      One form of Newton’s colour circle.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    Additive mixing occurs when beams of light are combined. The colour circle, first devised by Newton, is still widely used for purposes of colour design and is also useful when the qualitative behaviour of mixing beams of light is considered. Newton’s colour circle combines the spectral colours red, orange, yellow, green, cyan, indigo, and blue-violet with the nonspectral colour magenta (a mixture of blue-violet and red light beams), as shown in the
+    <assemblyref assemblyid="a1063">
+     figure
+    </assemblyref>
+    . White is at the centre and is produced by mixing light beams of approximately equal intensities of complementary colours (colours that are diametrically opposed on the colour circle), such as yellow and blue-violet, green and magenta, or cyan and red. Intermediate colours can be produced by mixing light beams, so mixing red and yellow gives orange, red and blue-violet gives magenta, and so on.
+   </p>
+   <p>
+    The three additive primary colours are red, green, and blue; this means that, by additively mixing the colours red, green, and blue in varying amounts, almost all other colours can be produced, and, when the three primaries are added together in equal amounts, white is produced.
+   </p>
+   <p>
+    <assembly id="a1064" url="/assembly/view/1064">
+     <title>
+      colour mixing
+     </title>
+     <media mediaid="7712" type="image" url="/12/7712-004-D7CE5860.jpg"/>
+     <caption>
+      (Left) The additive mixing of red, green, and blue. (Right) The subtractive mixing of magenta, yellow, and cyan.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    Additive mixing can be demonstrated physically by using three slide projectors fitted with filters so that one projector shines a beam of saturated red light onto a white screen, another a beam of saturated blue light, and the third a beam of saturated green light. Additive mixing occurs where the beams overlap (and thus are added together), as shown in the
+    <assemblyref assemblyid="a1064">
+     figure (left)
+    </assemblyref>
+    . Where red and green beams overlap, yellow is produced. If more red light is added or if the intensity of the green light is decreased, the light mixture becomes orange. Similarly, if there is more green light than red light, a yellow-green is produced. The
+    <xref articleid="635495">
+     RGB colour model
+    </xref>
+    , one of the three main colour models, is an additive model used in digital devices and light-based media to create a gamut of colours from just red, green, and blue.
+   </p>
+   <p>
+    Subtractive colour mixing involves the absorption and selective transmission or reflection of light. It occurs when colorants (such as
+    <xref articleid="59993">
+     pigments
+    </xref>
+    or
+    <xref articleid="108379">
+     dyes
+    </xref>
+    ) are mixed or when several coloured filters are inserted into a single beam of white light. For example, if a projector is fitted with a deep red filter, the filter will transmit red light and absorb other colours. If the projector is fitted with a strong green filter, red light will be absorbed and only green light transmitted. If, therefore, the projector is fitted with both red and green filters, all colours will be absorbed and no light transmitted, resulting in black. Similarly, a yellow pigment absorbs blue and violet light while reflecting yellow, green, and red light (the green and red additively combining to produce more yellow). Blue pigment absorbs primarily yellow, orange, and red light. If the yellow and blue pigments are mixed, green will be produced since it is the only spectral component that is not strongly absorbed by either pigment.
+   </p>
+   <p>
+    Because additive processes have the greatest gamut when the primaries are red, green, and blue, it is reasonable to expect that the greatest gamut in subtractive processes will be achieved when the primaries are, respectively, red-absorbing, green-absorbing, and blue-absorbing. The colour of an image that absorbs red light while transmitting all other radiations is blue-green, often called cyan. An image that absorbs only green light transmits both blue light and red light, and its colour is magenta. The blue-absorbing image transmits only green light and red light, and its colour is yellow. Hence, the subtractive primaries are cyan, magenta, and yellow (
+    <e type="italic">
+     see
+    </e>
+    <assemblyref assemblyid="a1064">
+     figure, right
+    </assemblyref>
+    ).
+   </p>
+   <p>
+    No concepts in the field of colour have traditionally been more confused than those just discussed. This confusion can be traced to two prevalent misnomers: the subtractive primary cyan, which is properly a blue-green, is commonly called blue; and the subtractive primary magenta is commonly called red. In these terms, the subtractive primaries become red, yellow, and blue; and those whose experience is confined for the most part to subtractive mixtures have good cause to wonder why the physicist insists on regarding red, green, and blue as the primary colours. The confusion is at once resolved when it is realized that red, green, and blue are selected as additive primaries because they provide the greatest colour gamut in mixtures. For the same reason, the subtractive primaries are, respectively, red-absorbing (cyan), green-absorbing (magenta), and blue-absorbing (yellow).
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h21840">
+  <title>
+   The measurement of colour
+  </title>
+  <p>
+   <assembly id="a1065" url="/assembly/view/1065">
+    <title>
+     energy distribution in light from daylight
+    </title>
+    <media mediaid="7713" type="image" url="/13/7713-004-9B8D65AF.jpg"/>
+    <caption>
+     The energy distribution in light from daylight, an incandescent lamp, and a fluorescent lamp.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assembly id="a1062" url="/assembly/view/1062">
+    <title>
+     spectral reflectance curve of emerald green
+    </title>
+    <media mediaid="7714" type="image" url="/14/7714-004-7E52761E.jpg"/>
+    <caption>
+     Spectral reflectance curve of the artist’s pigment emerald green.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   The measurement of colour is known as
+   <xref articleid="24845">
+    colorimetry
+   </xref>
+   . A variety of instruments are used in this field. The most sophisticated, the spectrophotometers, analyze light in terms of the amount of energy present at each spectral wavelength. The emittance curves for light sources (
+   <e type="italic">
+    see
+   </e>
+   <assemblyref assemblyid="a1065">
+    figure
+   </assemblyref>
+   ) are typical spectrophotometer results, as is the reflectance curve of the paint pigment known as emerald green, as shown in the
+   <assemblyref assemblyid="a1062">
+    figure
+   </assemblyref>
+   .
+  </p>
+  <p>
+   It is difficult to describe the colour of a specific spectral energy distribution. Since the eye perceives only a single colour for any given energy distribution, it is necessary to express colour measurements in a perception-related way. Several systems exist, and some are outlined below.
+  </p>
+  <h2 id="h21841">
+   <title>
+    Tristimulus measurement and chromaticity diagrams
+   </title>
+   <p>
+    The tristimulus system is based on visually matching a colour under standardized conditions against the three primary colours—red, green, and blue; the three results are expressed as
+    <e type="italic">
+     X
+    </e>
+    ,
+    <e type="italic">
+     Y
+    </e>
+    , and
+    <e type="italic">
+     Z
+    </e>
+    , respectively, and are called tristimulus values. The tristimulus values of the emerald-green pigment are
+    <e type="italic">
+     X
+    </e>
+    = 22.7,
+    <e type="italic">
+     Y
+    </e>
+    = 39.1, and
+    <e type="italic">
+     Z
+    </e>
+    = 31.0. These values specify not only colour but also visually perceived reflectance, since they are calculated in such a way that the
+    <e type="italic">
+     Y
+    </e>
+    value equals a sample’s reflectivity (39.1 percent in this example) when visually compared with a standard white surface by a standard (average) viewer under average daylight. The tristimulus values can also be used to determine the visually perceived dominant spectral wavelength (which is related to the hue) of a given sample; the dominant wavelength of the emerald-green pigment is 511.9 nm.
+   </p>
+   <p>
+    <assembly id="a1058" url="/assembly/view/1058">
+     <title>
+      chromaticity diagram
+     </title>
+     <media mediaid="7716" type="image" url="/16/7716-004-6C389A41.jpg"/>
+     <caption>
+      The location on the chromaticity diagram of the achromatic point
+      <e type="italic">
+       W
+      </e>
+      , the emerald-green pigment
+      <e type="italic">
+       E
+      </e>
+      , a red apple
+      <e type="italic">
+       R
+      </e>
+      , the incandescence curve with temperatures in kelvins, and the standard CIE illuminants
+      <e type="italic">
+       A
+      </e>
+      ,
+      <e type="italic">
+       B
+      </e>
+      , and
+      <e type="italic">
+       C
+      </e>
+      .
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    Such data can be graphically represented on a standard (
+    <e type="italic">
+     see also
+    </e>
+    the location of emerald green on a
+    <assemblyref assemblyid="a1058">
+     chromaticity diagram
+    </assemblyref>
+    ). Standardized by the Commission Internationale d’Éclairage (CIE) in 1931, the chromaticity diagram is based on the values
+    <e type="italic">
+     x
+    </e>
+    ,
+    <e type="italic">
+     y
+    </e>
+    , and
+    <e type="italic">
+     z
+    </e>
+    , where
+    <e type="italic">
+     x
+    </e>
+    =
+    <e type="italic">
+     X
+    </e>
+    /(
+    <e type="italic">
+     X
+    </e>
+    +
+    <e type="italic">
+     Y
+    </e>
+    +
+    <e type="italic">
+     Z
+    </e>
+    ),
+    <e type="italic">
+     y
+    </e>
+    =
+    <e type="italic">
+     Y
+    </e>
+    /(
+    <e type="italic">
+     X
+    </e>
+    +
+    <e type="italic">
+     Y
+    </e>
+    +
+    <e type="italic">
+     Z
+    </e>
+    ), and
+    <e type="italic">
+     z
+    </e>
+    =
+    <e type="italic">
+     Z
+    </e>
+    /(
+    <e type="italic">
+     X
+    </e>
+    +
+    <e type="italic">
+     Y
+    </e>
+    +
+    <e type="italic">
+     Z
+    </e>
+    ). Note that
+    <e type="italic">
+     x
+    </e>
+    +
+    <e type="italic">
+     y
+    </e>
+    +
+    <e type="italic">
+     z
+    </e>
+    = 1; thus, if two values are known, the third can always be calculated and the
+    <e type="italic">
+     z
+    </e>
+    value is usually omitted. The
+    <e type="italic">
+     x
+    </e>
+    and
+    <e type="italic">
+     y
+    </e>
+    values together constitute the chromaticity of a sample. Light and dark colours that have the same chromaticity (and are therefore plotted at the same point on the two-dimensional chromaticity diagram) are distinguished by their different
+    <e type="italic">
+     Y
+    </e>
+    values (luminance, or visually perceived brightness).
+   </p>
+   <p>
+    When their
+    <e type="italic">
+     x
+    </e>
+    and
+    <e type="italic">
+     y
+    </e>
+    coefficients are plotted on a chromaticity diagram, the spectral colours from 400 nm to 700 nm follow a horseshoe-shaped curve; the nonspectral violet-red mixtures fall along the straight line joining the 400-nm point to the 700-nm point. All visible colours fall within the resulting closed curve, as shown in the standard . Points along the circumference correspond to saturated colours; pale unsaturated colours appear closer to the centre of the diagram. The achromatic point is the central point at
+    <e type="italic">
+     x
+    </e>
+    =
+    <fraction>
+     <num>
+      1
+     </num>
+     <den>
+      3
+     </den>
+    </fraction>
+    ,
+    <e type="italic">
+     y
+    </e>
+    =
+    <fraction>
+     <num>
+      1
+     </num>
+     <den>
+      3
+     </den>
+    </fraction>
+    (shown as
+    <e type="italic">
+     W
+    </e>
+    in the
+    <assemblyref assemblyid="a1058">
+     figure
+    </assemblyref>
+    ), where visually perceived white is located (as well as the pure grays and black, which vary only in the magnitude of the luminance
+    <e type="italic">
+     Y
+    </e>
+    ).
+   </p>
+   <p>
+    A straight line connecting any two points representing beams of light includes all the points representing colours formed by adding various amounts of the two beams. If the line passes through the achromatic point, the colours represented by its endpoints, when additively combined in the appropriate amounts, must form white; therefore, all lines passing through the achromatic point terminate on the closed curve in saturated complementary colours.
+   </p>
+   <p>
+    By plotting the calculated
+    <e type="italic">
+     x
+    </e>
+    = 0.245 and
+    <e type="italic">
+     y
+    </e>
+    = 0.421 of the emerald-green pigment at point
+    <e type="italic">
+     E
+    </e>
+    on the chromaticity diagram, as shown in the
+    <assemblyref assemblyid="a1058">
+     figure
+    </assemblyref>
+    , and extending a line through it from the achromatic point
+    <e type="italic">
+     W
+    </e>
+    to the saturated spectral boundary, it is possible to determine the dominant wavelength of the pigment colour, 511.9 nm. The colour of the pigment is the visual equivalent of adding white light and light of 511.9 nm in amounts proportional to the lengths
+    <e type="italic">
+     n
+    </e>
+    (the distance between points
+    <e type="italic">
+     E
+    </e>
+    and
+    <e type="italic">
+     W
+    </e>
+    ) and
+    <e type="italic">
+     m
+    </e>
+    (the distance between
+    <e type="italic">
+     E
+    </e>
+    and the point of the dominant wavelength). The purity equals 100
+    <e type="italic">
+     n
+    </e>
+    /(
+    <e type="italic">
+     m
+    </e>
+    +
+    <e type="italic">
+     n
+    </e>
+    ) percent—in this case, 22.8 percent. A purity of 100 percent corresponds to a pure saturated spectral colour and 0 percent to the achromatic colours (white, gray, and black).
+   </p>
+   <p>
+    The colour of a specific red apple of
+    <e type="italic">
+     Y
+    </e>
+    = 13.0,
+    <e type="italic">
+     x
+    </e>
+    = 0.460,
+    <e type="italic">
+     y
+    </e>
+    = 0.287 has its
+    <e type="italic">
+     x
+    </e>
+    and
+    <e type="italic">
+     y
+    </e>
+    values plotted at
+    <e type="italic">
+     R
+    </e>
+    , as shown in the
+    <assemblyref assemblyid="a1058">
+     figure
+    </assemblyref>
+    . The line from the achromatic point
+    <e type="italic">
+     W
+    </e>
+    intersects the chromaticity diagram boundary at a saturated nonspectral purple-red at
+    <e type="italic">
+     P
+    </e>
+    . The dominant colour designation is then obtained by extrapolating the line in the opposite direction to a saturated spectral colour and is given as “complementary dominant wavelength 495 nm,” or 495
+    <e type="italic">
+     c
+    </e>
+    . The colour of this apple is therefore the visual equivalent of a mixture of white light and the 495
+    <e type="italic">
+     c
+    </e>
+    saturated purple-red in the intensity ratio of the distances
+    <e type="italic">
+     p
+    </e>
+    to
+    <e type="italic">
+     q
+    </e>
+    with a purity of 100
+    <e type="italic">
+     p
+    </e>
+    /(
+    <e type="italic">
+     p
+    </e>
+    +
+    <e type="italic">
+     q
+    </e>
+    ) percent.
+   </p>
+   <p>
+    Light from incandescent sources, further described below, falls on the solid curve marked with temperatures, following the sequence saturated red to saturated orange to unsaturated yellow to white to unsaturated bluish white for an infinite temperature indicated as ∞. The points
+    <e type="italic">
+     A
+    </e>
+    ,
+    <e type="italic">
+     B
+    </e>
+    , and
+    <e type="italic">
+     C
+    </e>
+    on the curve are CIE standard illuminants that approximate, respectively, a 100-watt incandescent filament lamp at a colour temperature of about 2,850 K, noon sunlight (about 4,800 K), and average daylight (about 6,500 K).
+   </p>
+  </h2>
+  <h2 id="h21842">
+   <title>
+    Colour atlases
+   </title>
+   <p>
+    <assembly id="a148652" url="/assembly/view/148652">
+     <title>
+      Munsell colour system
+     </title>
+     <media mediaid="105435" type="image" url="/35/105435-004-CBC6E25A.jpg"/>
+     <caption>
+      Munsell colour system.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assembly id="a1068" url="/assembly/view/1068">
+     <title>
+      Munsell’s colour solid
+     </title>
+     <media mediaid="7717" type="image" url="/17/7717-004-4E62CFBD.jpg"/>
+     <caption>
+      The hue, value, and chroma coordinates of Munsell’s colour solid.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a148652"/>
+    Calculating chromaticity and luminance is a scientific method of determining a colour, but, for the rapid visual determination of the colour of objects, a colour atlas such as the
+    <e type="italic">
+     Munsell Book of Color
+    </e>
+    is often used. In this system colours are matched to printed colour chips from a three-dimensional colour solid whose parameters are hue, value (corresponding to reflectance), and chroma (corresponding to purity, or saturation). These three parameters are illustrated schematically in the
+    <assemblyref assemblyid="a1068">
+     figure
+    </assemblyref>
+    . The central vertical axis provides a 10-step value scale extending from black at the bottom to white at the top. There are 100 hues divided into 10 groups around the vertical axis; each group has a colour name and consists of 10 subdivisions assigned a number from 1 to 10. The chroma scale starts at 0 at the vertical axis and extends radially outward from 10 to 18 steps depending on hue and value. The red apple discussed earlier would be designated 10RP 4/10 in the Munsell system, indicating a specific reddish purple hue 10RP, a value of 4, and a chroma of 10. Interpolated values are used to give more precise designations, so the emerald-green pigment can be specified as 5.0G 6.7/11.2.
+   </p>
+   <p>
+    <assembly id="a148653" url="/assembly/view/148653">
+     <title>
+      Ostwald colour system
+     </title>
+     <media mediaid="105436" type="image" url="/36/105436-004-37F7F746.jpg"/>
+     <caption>
+      Ostwald colour system.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a148653"/>
+    A system that is useful when such precision is not required is the ISCC-NBS (Inter-Society Color Council–National Bureau of Standards) Centroid Color Charts. It has 267 numbered colour designations and uses descriptive terms such as very pale purple, light yellowish brown, and grayish blue; the red apple is 258 (moderate purplish red) in this system, and the emerald-green pigment is 139 (vivid green). Other colour atlases include the Ostwald colour system, based on mixtures of white, black, and a high chroma colour; the Maerz and Paul dictionary of colour; the Plochere colour system; and the Ridgway colour standards.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h21843">
+  <title>
+   Physical and chemical causes of colour
+  </title>
+  <p>
+   According to the
+   <xref articleid="32628">
+    law of energy conservation
+   </xref>
+   , energy can be converted from one form to another, but it cannot be created or destroyed. Consequently, when a photon of light is absorbed by matter, usually by an atom, molecule, or ion or by a small grouping of such units, the photon disappears and its energy is gained by the matter. Similarly, when matter emits light, it loses the energy carried away by the photons. A given atom or molecule cannot emit light of any arbitrary energy, since quantum theory explains that only certain energy states are possible for a given system.
+  </p>
+  <p>
+   An example of permitted energy levels is shown at the left in the for the trivalent chromium ion present in a crystal of aluminum oxide; this is the colorant that provides the red colour of the gemstone
+   <xref articleid="64334">
+    ruby
+   </xref>
+   . Present in this energy-level scheme is the ground state, designated
+   <sup>
+    4
+   </sup>
+   <e type="italic">
+    A
+   </e>
+   <sub>
+    2
+   </sub>
+   ; this is the energy state of the chromium ion in ruby when in the dark. When illuminated by white light, either a photon of energy 2.2 eV or a photon of energy 3.0 eV can be absorbed, raising the system to the
+   <sup>
+    4
+   </sup>
+   <e type="italic">
+    T
+   </e>
+   <sub>
+    2
+   </sub>
+   or
+   <sup>
+    4
+   </sup>
+   <e type="italic">
+    T
+   </e>
+   <sub>
+    1
+   </sub>
+   energy levels, respectively. (In this system light cannot be absorbed into the level
+   <sup>
+    2
+   </sup>
+   <e type="italic">
+    E
+   </e>
+   because of certain quantum limitations, designated selection rules.) These two energy transitions, broadened by the thermal atomic vibrations at room temperature into absorption bands, correspond to absorption of the violet and green-yellow parts of white light passing through the ruby, as shown at the centre in the . The remaining transmitted light consists of the strong red and weak blue parts of the spectrum, resulting in the deep red ruby colour with a slight purple overtone.
+  </p>
+  <p>
+   The chromium ion in ruby now contains excess energy, but the selection rules permit return to the ground state only through the intermediate
+   <sup>
+    2
+   </sup>
+   <e type="italic">
+    E
+   </e>
+   energy level, as shown at left in the . Part of the absorbed energy appears as a slight warming of the ruby. The other part is emitted as a photon producing a bright red fluorescence (best seen when the ruby is illuminated with ultraviolet radiation in the dark). The ruby has now returned to the ground state, and energy has been conserved. This is just one explanation of the occurrence of colour. Although all occurrences or causes of colour involve the excitation of electrons, this article, to simplify explanation, classifies the physical and chemical causes of colour into 15 groups. The first three involve transitions among the energy levels of excitations, vibrations, and rotations as explained by quantum theory. The next four involve modifications of this approach covered by the
+   <xref articleid="109620" refid="h21849">
+    ligand field
+   </xref>
+   and molecular orbital theories. The following four involve the energy band formalism of solid state physics, and the final four are explained by geometrical and physical optics theory.
+  </p>
+  <h2 id="h21844">
+   <title>
+    Simple excitations, vibrations, and rotations
+   </title>
+   <h3 id="h21845">
+    <title>
+     Incandescence
+    </title>
+    <p>
+     Incandescent light is produced when hot matter releases parts of its thermal vibration energy as photons. At medium temperatures, say 800 °C (1,500 °F), the object’s radiation energy reaches a peak in the infrared, with only a small intensity at the red end of the visible spectrum. As the temperature is raised, the peak moves toward and finally into the visible region. At successively higher temperatures the object becomes “red-hot,” then orange, yellow, and finally “white-hot”; the very hottest of stars have a bluish-white colour. This sequence of colours is known as the
+     <xref articleid="15527">
+      blackbody
+     </xref>
+     radiation sequence. Examples of incandescence include daylight, candlelight, and light from tungsten filament lamps, flashbulbs, the carbon arc, and pyrotechnic devices such as flares and fireworks (
+     <e type="italic">
+      see
+     </e>
+     <assemblyref assemblyid="a1065">
+      figure
+     </assemblyref>
+     ).
+    </p>
+   </h3>
+   <h3 id="h21846">
+    <title>
+     Gas excitation
+    </title>
+    <p>
+     Gas excitation involves the emission of light by a chemical element present as a gas or vapour. When a gas such as
+     <xref articleid="55272">
+      neon
+     </xref>
+     or a vaporized element such as
+     <xref articleid="68494">
+      sodium
+     </xref>
+     or
+     <xref articleid="52102">
+      mercury
+     </xref>
+     is excited electrically, the electrical energy raises the atoms into high energy states, from which they decay back to ground state with the emission of photons. This leads to the red light seen in neon tubes and the yellow and blue light seen in sodium and mercury vapour lamps, respectively. The same yellow sodium light is emitted when sodium atoms are thermally excited by being heated in a gas flame. In addition to being produced electrically or by chemical reactions, gas excitations can also result from interaction with energetic particles, as in
+     <xref articleid="11293">
+      auroras
+     </xref>
+     , where energetic particles emitted in solar storms excite gases high in the Earth’s atmosphere to produce various colour effects.
+    </p>
+   </h3>
+   <h3 id="h21847">
+    <title>
+     Vibrations and rotations
+    </title>
+    <p>
+     All molecules have some vibration or rotation energy as a result of chemical bonding, but the energy involved is too low to interact directly with visible light. The frequency of vibration can be increased, however, by strengthening the chemical bonding involving very light atoms. For example, the bond between
+     <xref articleid="110604">
+      hydrogen
+     </xref>
+     and
+     <xref articleid="57841">
+      oxygen
+     </xref>
+     is stronger in liquid water and solid ice than in an isolated H
+     <sub>
+      2
+     </sub>
+     O molecule. The corresponding increase in vibration frequencies allows some absorption at the red end of the spectrum and produces the pale blue colour characteristic of pure water and ice when seen in bulk.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h21848">
+   <title>
+    Ligand fields
+   </title>
+   <h3 id="h21849">
+    <title>
+     Transition metal impurities
+    </title>
+    <p>
+     Most chemical compounds are colourless when pure; examples include
+     <xref articleid="68495">
+      sodium chloride
+     </xref>
+     (ordinary table salt), aluminum oxide,
+     <xref articleid="54808">
+      naphthalene
+     </xref>
+     (moth flakes), and
+     <xref articleid="30264">
+      diamond
+     </xref>
+     . In these compounds all electrons are present in pairs. Such paired electrons are particularly stable and require very high energies to become unpaired and form excited energy levels. Only ultraviolet light is energetic enough to be absorbed, which explains the absence of visible light absorptions and the absence of colour. The compounds of a number of metals—most commonly
+     <xref articleid="42794">
+      iron
+     </xref>
+     ,
+     <xref articleid="82451">
+      chromium
+     </xref>
+     ,
+     <xref articleid="55747">
+      nickel
+     </xref>
+     ,
+     <xref articleid="24523">
+      cobalt
+     </xref>
+     , and
+     <xref articleid="50515">
+      manganese
+     </xref>
+     —do, however, produce coloured salts. These metals are the transition elements, which contain unpaired electrons in their compounds. Excited energy levels are readily formed by these unpaired electrons, resulting in the absorption of photons and the production of colour.
+    </p>
+    <p>
+     Aluminum oxide, also known as
+     <xref articleid="26446">
+      corundum
+     </xref>
+     or colourless
+     <xref articleid="65706">
+      sapphire
+     </xref>
+     when pure, can serve as an example. In this compound each trivalent aluminum ion is surrounded by six oxygens in the configuration of a slightly irregular octahedron. The electric field at the aluminum site of this octahedral arrangement of oxygens is known as the ligand field. (An older term, implying a simpler approach, was crystal field.) If aluminum oxide contains chromium as an impurity, so that one out of every 100 aluminums is replaced by a chromium, which has unpaired electrons, then the ligand field produces a change in the energy levels that an isolated chromium ion would have. This gives the specific energy level scheme, shown at the left in the, which leads to the light absorption curve at the centre of the figure and produces the red colour (as well as the red fluorescence) of the chromium-containing aluminum oxide, also known as the gemstone ruby, as described above.
+    </p>
+    <p>
+     Similarly, if chromium replaces 1 or 2 percent of the aluminum in the compound beryllium aluminum silicate, a combination also known as the gemstone
+     <xref articleid="32522">
+      emerald
+     </xref>
+     , then the ligand field has the same geometry but is somewhat weaker, a result of the effect of the
+     <xref articleid="78918">
+      berylliums
+     </xref>
+     and
+     <xref articleid="67764">
+      silicons
+     </xref>
+     on the strength of aluminum-oxygen bonding. This produces small shifts in some of the absorption energy levels compared with ruby. These shifts have resulted in the almost total elimination of the red transmission and an intensification of the blue-green transmission, leading to an emerald-green colour. The
+     <sup>
+      2
+     </sup>
+     <e type="italic">
+      E
+     </e>
+     energy level has not shifted; accordingly, red ruby and green emerald show the same red fluorescence.
+    </p>
+    <p>
+     Other such transition metal impurities cause the colours of red iron ore and the gemstones yellow
+     <xref articleid="82723">
+      citrine
+     </xref>
+     and blue-to-green
+     <xref articleid="8119">
+      aquamarine
+     </xref>
+     (all coloured by a small percentage of iron impurity).
+    </p>
+   </h3>
+   <h3 id="h21850">
+    <title>
+     Transition metal compounds
+    </title>
+    <p>
+     The transition metal may be present not as an impurity but as an essential part of the substance. An example is chromium oxide, also known as the pigment chrome green, in which the relatively weak ligand field of the chromium-oxygen bonding at the chromiums produces colour in a similar manner to that in the emerald discussed above. Additional examples are the copper-containing blue-to-green gem materials
+     <xref articleid="50256">
+      malachite
+     </xref>
+     ,
+     <xref articleid="11566">
+      azurite
+     </xref>
+     , and
+     <xref articleid="73885">
+      turquoise
+     </xref>
+     , as well as the patina on
+     <xref articleid="26194">
+      copper
+     </xref>
+     statues, the red iron ore
+     <xref articleid="39951">
+      hematite
+     </xref>
+     , and the cobalt-glass pigment smalt.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h21851">
+   <title>
+    Molecular orbitals
+   </title>
+   <h3 id="h21852">
+    <title>
+     Organic compounds
+    </title>
+    <p>
+     All
+     <xref articleid="108379">
+      dyes
+     </xref>
+     and most
+     <xref articleid="59993">
+      pigments
+     </xref>
+     , whether natural or synthetic, are complex organic compounds whose molecular structures include a “colour-bearing” group known as a chromophore, usually a short conjugated system (a chain of atoms connected by alternating single and double bonds). The bonding electrons holding the molecule together can be viewed as belonging to the whole molecule. Simple conjugated chains have electronic transitions that absorb radiation only in the ultraviolet range of the spectrum. If, however, the chain is long, the resulting transitions between molecular orbital energy levels require less energy, and absorption shifts to longer wavelengths. The
+     <xref articleid="20444">
+      carotenes
+     </xref>
+     are naturally occurring examples of extended conjugated systems; they absorb some light in the violet or blue range of the spectrum and therefore appear yellow or orange in colour. The same effect occurs if the number of electrons present on a conjugated chain is modified by the addition of groups of atoms known as auxochromes. Auxochromes can be either electron acceptors or electron donors. Nitrophenylenediamine compounds contain both types of auxochromes. They absorb in the blue part of the spectrum and are often used in hair dyes because the small size of the molecules allows them to penetrate into hair easily.
+    </p>
+    <p>
+     Organic dyes occur widely in the plant and animal kingdoms as well as in the modern synthetic dye and pigment industry. Just as with ligand-field energy levels, some of the absorbed energy may be reemitted in the form of fluorescence.
+    </p>
+   </h3>
+   <h3 id="h21853">
+    <title>
+     Charge transfer
+    </title>
+    <p>
+     Aluminum oxide containing a few hundredths of 1 percent of
+     <xref articleid="72643">
+      titanium
+     </xref>
+     is colourless. If it contains a similar amount of iron, a very pale yellow colour may be seen. If both impurities are present together, the aluminum oxide has a magnificent deep blue colour and is known as the gemstone
+     <xref articleid="65706">
+      sapphire
+     </xref>
+     . The colour is the result of charge transfer, in which the absorption of light energy allows an electron to move from one ion to another, resulting in a temporary change in the valence state of both ions:
+     <formula>
+      Fe
+      <sup>
+       2+
+      </sup>
+      + Ti
+      <sup>
+       4+
+      </sup>
+      → Fe
+      <sup>
+       3+
+      </sup>
+      + Ti
+      <sup>
+       3+
+      </sup>
+      .
+     </formula>
+     This process requires energy; since the energy corresponds to an absorption in the yellow region of the spectrum, the complementary colour blue results.
+    </p>
+    <p>
+     Other forms of charge transfer lead to the black of the iron oxide
+     <xref articleid="50036">
+      magnetite
+     </xref>
+     ; the brilliant blue colour of potassium ferric ferrocyanide, the pigment
+     <xref articleid="61666">
+      Prussian blue
+     </xref>
+     ; the yellow-to-orange
+     <xref articleid="82446">
+      chromates
+     </xref>
+     and dichromates; and the deep blue gemstone
+     <xref articleid="47165">
+      lapis lazuli
+     </xref>
+     , which has the same composition as the pigment
+     <xref articleid="74175">
+      ultramarine
+     </xref>
+     .
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h21854">
+   <title>
+    Energy bands
+   </title>
+   <h3 id="h21855">
+    <title>
+     Metals
+    </title>
+    <p>
+     <assembly id="a1060" url="/assembly/view/1060">
+      <title>
+       density-of-states diagram of copper
+      </title>
+      <media mediaid="7719" type="image" url="/19/7719-004-DC36F272.jpg"/>
+      <caption>
+       Density-of-states diagram of copper metal.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     The valence electrons, which in other substances produce bonding between individual atoms or small groups of atoms, are shared equally by all the atoms in a piece of a metal. These delocalized electrons are thus able to move over the whole piece of metal and provide the metallic lustre and good electrical and thermal conductivities of metals and alloys.
+     <xref articleid="12112">
+      Band theory
+     </xref>
+     explains that in such a system individual energy levels are replaced by a continuous region called a band, as in the density-of-states diagram for copper metal shown in the
+     <assemblyref assemblyid="a1060">
+      figure
+     </assemblyref>
+     . This diagram shows that the number of electrons that can be accommodated in the band at any given energy varies; in copper the number declines as the band approaches being filled with electrons. The number of electrons in the copper fill the band to the level shown, leaving some empty space at higher energies.
+    </p>
+    <p>
+     When a photon of light is absorbed by an electron near the top of the energy band, the electron is raised to a higher available energy level within the band. The light is so intensely absorbed that it can penetrate to a depth of only a few hundred atoms, typically less than a single wavelength. Because the metal is a conductor of electricity, this absorbed light, which is, after all, an electromagnetic wave, induces alternating electrical currents on the metal surface. These currents immediately reemit the photon out of the metal, thus providing the strong reflection of a polished metal surface.
+    </p>
+    <p>
+     The efficiency of this process depends on certain selection rules. If the efficiency of absorption and reemission is approximately equal at all optical energies, then the different colours in white light will be reflected equally well, leading to the “silvery” colour of polished
+     <xref articleid="67807">
+      silver
+     </xref>
+     and iron surfaces. In copper the efficiency of reflection decreases with increasing energy; the reduced reflectivity at the blue end of the spectrum results in a reddish colour. Similar considerations explain the yellow colour of
+     <xref articleid="37211">
+      gold
+     </xref>
+     and
+     <xref articleid="16247">
+      brass
+     </xref>
+     .
+    </p>
+   </h3>
+   <h3 id="h21856">
+    <title>
+     Pure semiconductors
+    </title>
+    <p>
+     <assembly id="a1061" url="/assembly/view/1061">
+      <title>
+       density of states diagram
+      </title>
+      <media mediaid="7720" type="image" url="/20/7720-004-F7D92EAF.jpg"/>
+      <caption>
+       (Left) The absorption of light in a band-gap material. (Right) The variation of colour with the size of the band gap
+       <e type="italic">
+        E
+       </e>
+       <sub>
+        <e type="italic">
+         g
+        </e>
+       </sub>
+       .
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     In a number of substances a band gap appears in the density of states diagram (
+     <e type="italic">
+      see
+     </e>
+     <assemblyref assemblyid="a1061">
+      figure
+     </assemblyref>
+     ). This can happen, for example, when there are an average of exactly four valence electrons per atom in a pure substance, resulting in a completely full lower band, called the valence band, and an exactly empty upper band, the conduction band. Because there are no electron energy levels in the gap between the two bands, the lowest energy light that can be absorbed corresponds to arrow
+     <e type="italic">
+      A
+     </e>
+     in the figure; this represents the excitation of an electron from the top of the valence band up to the bottom of the conduction band and corresponds to the band-gap energy designated
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       g
+      </e>
+     </sub>
+     . Light of any higher energy can also be absorbed, as indicated by the arrows
+     <e type="italic">
+      B
+     </e>
+     and
+     <e type="italic">
+      C
+     </e>
+     .
+    </p>
+    <p>
+     If the substance has a large band gap, such as the 5.4 eV of diamond, then no light in the visible spectrum can be absorbed, and the substance appears colourless when pure. Such large band-gap
+     <xref articleid="66711">
+      semiconductors
+     </xref>
+     are excellent insulators and are more usually treated as ionic or covalently bonded materials.
+    </p>
+    <p>
+     The pigment cadmium yellow (cadmium sulfide, also known as the mineral
+     <xref articleid="37986">
+      greenockite
+     </xref>
+     ) has a smaller band gap of 2.6 eV, which permits absorption of violet and some blue but none of the other colours. This leads to its yellow colour. A somewhat smaller band gap that permits absorption of violet, blue, and green produces the colour orange; a yet smaller band gap as in the 2.0 eV of the pigment vermilion (mercuric sulfide, the mineral
+     <xref articleid="82674">
+      cinnabar
+     </xref>
+     ) results in all energies but the red being absorbed, which leads to a red colour. All light is absorbed when the band-gap energy is less than the 1.77-eV (700-nm) limit of the visible spectrum; narrow band-gap semiconductors, such as the lead sulfide galena, therefore absorb all light and are black. This sequence of colourless, yellow, orange, red, and black is the precise range of colours available in pure semiconductors.
+    </p>
+   </h3>
+   <h3 id="h21857">
+    <title>
+     Doped semiconductors
+    </title>
+    <p>
+     If an impurity atom, often called a
+     <xref articleid="30952">
+      dopant
+     </xref>
+     , is present in a semiconductor (which is then designated as doped) and has a different number of valence electrons than the atom it replaces, extra energy levels can be formed within the band gap. If the impurity has more electrons, such as a
+     <xref articleid="55947">
+      nitrogen
+     </xref>
+     impurity (five valence electrons) in a diamond crystal (consisting of
+     <xref articleid="20244">
+      carbons
+     </xref>
+     , each having four valence electrons), a donor level is formed. Electrons from this level can be excited into the conduction band by the absorption of photons; this occurs only at the blue end of the spectrum in nitrogen-doped diamond, resulting in a complementary yellow colour. If the impurity has fewer electrons than the atom it replaces, such as a
+     <xref articleid="80773">
+      boron
+     </xref>
+     impurity (three valence electrons) in diamond, a hole level is formed. Photons can now be absorbed with the excitation of an electron from the valence band into the hole level. In boron-doped diamond this occurs only at the yellow end of the spectrum, resulting in a deep blue colour as in the famous
+     <xref articleid="41013">
+      Hope diamond
+     </xref>
+     .
+    </p>
+    <p>
+     Some materials containing both donors and acceptors can absorb ultraviolet or electrical energy to produce visible light. For example,
+     <xref articleid="59779">
+      phosphor
+     </xref>
+     powders, such as zinc sulfide containing copper and other impurities, are used as a coating in
+     <xref articleid="34676">
+      fluorescent lamps
+     </xref>
+     to convert the plentiful ultraviolet energy produced by the mercury arc into fluorescent light. Phosphors are also used to coat the inside of a television screen, where they are activated by a stream of electrons (
+     <xref articleid="21821">
+      cathode rays
+     </xref>
+     ) in cathodoluminescence, and in luminous paints, where they are activated by white light or by ultraviolet radiation, which causes them to display a slow luminous decay known as
+     <xref articleid="59781">
+      phosphorescence
+     </xref>
+     .
+     <xref articleid="32305">
+      Electroluminescence
+     </xref>
+     results from electrical excitation, as when a phosphor powder is deposited onto a metallic plate and covered with a transparent conducting electrode to produce lighting panels.
+    </p>
+    <p>
+     Injection electroluminescence occurs when a crystal contains a junction between differently doped semiconducting regions. An electric current will produce transitions between electrons and holes in the junction region, releasing energy that can appear as near-monochromatic light, as in the
+     <xref articleid="2311">
+      light-emitting diodes
+     </xref>
+     (LEDs) widely used on display devices in electronic equipment. With a suitable geometry, the emitted light can also be monochromatic and coherent as in semiconductor
+     <xref articleid="47248">
+      lasers
+     </xref>
+     .
+    </p>
+   </h3>
+   <h3 id="h21858">
+    <title>
+     Colour centres
+    </title>
+    <p>
+     A colour centre often involves a solid that is missing an atom, such as sodium chloride, an ionic crystal that consists of a three-dimensional array of positively charged sodium ions and negatively charged chloride ions. When a negative chloride ion is missing from the crystal, electrical neutrality can be maintained if a free electron occupies the spot vacated by the chloride ion, forming an F-centre (after the German
+     <e type="italic">
+      Farbe
+     </e>
+     , “colour”). This replacement electron can be viewed as providing a trapping energy level within the large band gap.
+    </p>
+    <p>
+     Some form of relatively high energy, such as ultraviolet radiation or high-energy X-rays or gamma rays, can then be used to promote an electron from the valence band into the trap, which contains excited energy levels such as that designated
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       a
+      </e>
+     </sub>
+     in the . The
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       a
+      </e>
+     </sub>
+     level for the sodium chloride F-centre occurs at 2.7 eV and can absorb blue light, leading to a yellow-brown colour; such a defect is called a colour centre. The electron in this excited energy level is still within the trap. Only by supplying energy corresponding to
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       b
+      </e>
+     </sub>
+     can the electron leave the trap and return via the conduction band directly to the valence band. This can happen if the crystal is heated, resulting in bleaching of the colour centre. If
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       b
+      </e>
+     </sub>
+     is about the same size as
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       a
+      </e>
+     </sub>
+     , bleaching can occur merely while the material is being illuminated, leading to optical bleaching. If
+     <e type="italic">
+      E
+     </e>
+     <sub>
+      <e type="italic">
+       b
+      </e>
+     </sub>
+     is sufficiently small, the material may even fade in the dark at room temperature. This occurs in self-darkening sunglasses: the ultraviolet energy present in sunlight produces darkening, and room temperature leads to fading as soon as ultraviolet light is no longer present.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h21859">
+   <title>
+    Geometrical and physical optics
+   </title>
+   <h3 id="h21860">
+    <title>
+     Dispersion and polarization
+    </title>
+    <p>
+     In his 1666 experiment, shown in the
+     <assemblyref assemblyid="a1066">
+      figure
+     </assemblyref>
+     , Newton discovered what is now called dispersion or dispersive
+     <xref articleid="63033">
+      refraction
+     </xref>
+     . He showed that a light beam is bent, or refracted, as it passes from one medium to another—e.g., from air into glass. The natures of the two media as well as the wavelength of the light involved determine the degree of refraction, with shorter wavelengths bending more than longer wavelengths. Dispersion in a faceted diamond produces coloured flashes of light, in drops of water in the atmosphere it produces primary and secondary
+     <xref articleid="62494">
+      rainbows
+     </xref>
+     , and in ice crystals in thin clouds it produces a variety of halos and arcs around the Sun and Moon.
+    </p>
+    <p>
+     Dispersion has its origin in absorption. Even a colourless, transparent substance, such as glass, absorbs
+     <xref articleid="106022">
+      electromagnetic radiation
+     </xref>
+     in the
+     <xref articleid="74181">
+      ultraviolet
+     </xref>
+     (derived from the unpairing of paired electrons and their further excitation) and in the
+     <xref articleid="42403">
+      infrared
+     </xref>
+     (from the vibrations of atoms, molecules, and larger structural units). It is a combination of these two effects that produces dispersion: only a vacuum has no absorptions and therefore no dispersion.
+    </p>
+    <p>
+     A rope can be snapped so that a wave movement travels from one end to the other; the motion of the wave can be from side to side, up and down, or in any direction perpendicular to the rope. Similarly, an unpolarized light wave travels in a single direction but vibrates in random directions perpendicular to its travel. When a light wave vibrates in only one direction, it is called
+     <xref articleid="60596">
+      polarized
+     </xref>
+     .
+    </p>
+    <p>
+     Light can be polarized in passing through certain substances (such as a crystal of calcium carbonate, the mineral
+     <xref articleid="109693">
+      calcite
+     </xref>
+     , or a sheet of polarizing film) that block out all waves except those vibrating in a particular direction. Polarized white light can interact with various doubly refracting materials (ones in which the index of refraction varies according to the direction in which the light waves passing through it vibrate) to produce colour. This technique is often used to view rocks or structural models; the colours produced are then studied to determine mineral composition or to analyze stress.
+    </p>
+   </h3>
+   <h3 id="h21861">
+    <title>
+     Scattering
+    </title>
+    <p>
+     When light strikes fine particles or an irregular surface, it is deflected in all directions and is said to be scattered. When the scattering particles are very small compared to the wavelength of light, the intensity of the scattered light is related to that of the incident light by the inverse fourth power of the wavelength (
+     <xref articleid="62822">
+      Rayleigh scattering
+     </xref>
+     ). As a result, light at the blue end of the spectrum is scattered much more intensely than that at the red end.
+    </p>
+    <p>
+     The light from the Sun is scattered by dust particles and clusters of gas molecules, and the scattered blue rays seen against the dark background of outer space cause the sky to appear blue. At sunrise and sunset, when sunlight travels the farthest, almost all of the blue rays are scattered, and the light that reaches the Earth directly is seen as predominantly red or orange. Scattering also causes that epitome of rare occurrences, the blue Moon (seen when forest fires produce clouds composed of small droplets of organic compounds). Most blue and green bird feathers involve scattering, as do many animal and some vegetable blues. Scattering also produces the blue colour of eyes, particularly the intense blue eyes of most infants, whose yellow-to-dark-brown pigments such as
+     <xref articleid="51870">
+      melanin
+     </xref>
+     have not yet all been formed so that only blue is seen against the dark interior of the eye.
+    </p>
+    <p>
+     If the size of the scattering particles approaches the wavelength of light or exceeds it, the complex Mie scattering theory applies and explains colours other than blue; because white light contains all visible wavelengths, it is scattered at the largest sizes, as in fog and clouds.
+    </p>
+   </h3>
+   <h3 id="h21862">
+    <title>
+     Interference
+    </title>
+    <p>
+     Two light waves of the same wavelength can interact under appropriate circumstances so as to reinforce each other if they are in phase or to cancel each other if they are out of phase. If a beam of light falls on a thin film, such as an oil slick on a puddle of water, part of the beam is reflected from the front of the oil film and part from the back. Depending on the thickness of the film, the two reflected beams can reinforce or cancel.
+    </p>
+    <p>
+     When monochromatic light falls on a film of tapering thickness, a series of dark and light bands, known as interference fringes, is produced. With white light the sequence of overlapping light and dark bands from the spectral colours leads to Newton’s colours. The film appears black or gray where it is thinnest and the light waves cancel; as it becomes progressively thicker, it appears white, then yellow, orange, red, violet, blue, green, yellow, orange-red, violet, and so on. Newton’s colours can also be seen in cracks in glass or in crystals, in a soap bubble, and in antireflection coatings such as on camera lenses.
+    </p>
+    <p>
+     A large number of structural colorations in biological systems also derives from thin film interference. These structures usually feature multiple layers and are frequently backed by a dark layer of melanin, which intensifies the colour by absorbing the nonreflected light. Such colorations are usually iridescent; the colours appear metallic and change with orientation. Examples include
+     <xref articleid="58874">
+      pearl
+     </xref>
+     and mother-of-pearl, the transparent wings of houseflies and dragonflies, the scales on beetles and butterflies, and the feathers of hummingbirds and peacocks. The eyes of many nocturnal animals contain multilayer structures that improve night vision and can produce iridescent reflections in the dark.
+    </p>
+   </h3>
+   <h3 id="h21863">
+    <title>
+     Diffraction
+    </title>
+    <p>
+     <assembly id="a37362" url="/assembly/view/37362">
+      <title>
+       Diffraction grating
+      </title>
+      <media mediaid="44791" type="image" url="/91/44791-004-6386452B.jpg"/>
+      <caption>
+       Spectrum of white light by a diffraction grating. With a prism, the red end of the spectrum is more compressed than the violet end.
+      </caption>
+      <credit>
+       Courtesy of Bausch &amp; Lomb, Rochester, N.Y.
+      </credit>
+     </assembly>
+     Interference is also involved in
+     <xref articleid="30419">
+      diffraction
+     </xref>
+     , another phenomenon that produces colour.
+     <e type="italic">
+      Diffraction
+     </e>
+     is the term used to describe the spreading of light at the edges of an obstacle and the subsequent interference that occurs. When a monochromatic beam of light falls on a single edge, a sequence of light and dark bands is produced, and with white light a sequence of colours much like the Newton colour sequence appears (
+     <e type="italic">
+      see
+     </e>
+     <assemblyref assemblyid="a37362">
+      photograph
+     </assemblyref>
+     ).
+    </p>
+    <p>
+     A
+     <xref articleid="30420">
+      diffraction grating
+     </xref>
+     consists of a regular two- or three-dimensional array of objects or openings that scatter light according to its wavelength over a wide range of angles. As these deflected waves interact, they reinforce one another in some directions to produce intense spectral colours. This effect can be seen by looking at a distant streetlight or flashlight through a black cloth umbrella. Diffraction arrays that reveal spectral colours in direct sunlight exist on the wings of some beetles and the skins of some snakes. Perhaps the most outstanding natural diffraction grating, however, is the gemstone
+     <xref articleid="57166">
+      opal
+     </xref>
+     . Electron microscope photographs reveal that an opal has a regular three-dimensional array of equal-size spheres, about 250 nm (0.00001 inch) in diameter, which produce the diffraction.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h21864">
+  <title>
+   The perception of colour
+  </title>
+  <h2 id="h21865">
+   <title>
+    Colour effects
+   </title>
+   <p>
+    <assembly id="a238234" url="/assembly/view/238234">
+     <title>
+      colour
+     </title>
+     <media mediaid="193175" type="image" url="/75/193175-004-87A2E6D7.jpg"/>
+     <caption>
+      A variety of colourful paints.
+     </caption>
+     <credit>
+      © adimas/Fotolia
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a238234"/>
+    When a person views an opaque coloured object, it is only the light reflected from the object that can activate the visual process in the eye and brain. Because different illuminants have different spectral energy distributions, as shown in the
+    <assemblyref assemblyid="a1065">
+     figure
+    </assemblyref>
+    , a given object in these illuminations will reflect different energy distributions. Yet the eye and brain are such superb systems that they are able to compensate for such differences, and normal-appearing colours are perceived, a phenomenon called colour constancy.
+   </p>
+   <p>
+    Colour constancy does not apply, however, when there are subtle differences in colour. If, for example, two orange objects, one coloured by an orange pigment, the other by a combination of red and yellow pigments, match precisely in daylight, in the light of a tungsten lamp one may appear more reddish than the other. Because of this effect, called metamerism, it is always necessary to follow precisely the illumination and viewing conditions specified when comparing a sample colour with one in a colour atlas.
+   </p>
+   <p>
+    The intensity of illumination also affects colour perception. At very low light levels, blue and green objects appear brighter than red ones compared with their relative brightness in stronger illumination, an effect known as the Purkinje shift for its discoverer, the Czech physiologist
+    <xref articleid="61956">
+     Jan Evangelista Purkinje
+    </xref>
+    . At higher levels of illumination, there is a related shift in hues, called the Bezold-Brücke effect, such that most colours appear less red or green and more blue or yellow as the intensity of illumination increases.
+   </p>
+   <p>
+    If a bright spot of white light is projected onto a screen uniformly illuminated with a pale blue light, an effect known as simultaneous colour contrast makes the white light appear pale yellow and the blue light seem grayer than if the two were viewed separately. The complementary hue is induced by the adjacent illumination. Successive colour contrast, which occurs when a person stares at one colour and then shifts to another, produces the same effect. A person who stares at a pattern of colours for some time and then looks at a white area sees a negative afterimage of the pattern in complementary hues. This effect, also called chromatic adaptation, is what causes browns to appear reddish to someone who has just viewed a green lawn. Thus, even when the colour of a given object is measured and its physical cause identified, visual effects can prevent the precise perception of that colour from being specified. Some of these effects can be explained fairly simply by changes in the sensitivity of the eye’s receptors to different colours as intensity changes, by fatigue in specific receptors, or by receptor inhibition; others are not understood. In fact, scientists did not know the process by which the eye and brain perceive colour until the early 1960s and even now do not understand all the details.
+   </p>
+  </h2>
+  <h2 id="h21866">
+   <title>
+    Colour vision
+   </title>
+   <p>
+    One of the most successful theories of colour vision, the trichromatic theory, was first proposed around 1801 by
+    <xref articleid="78063">
+     Thomas Young
+    </xref>
+    , an English physician, and refined about 50 years later by the German scientist
+    <xref articleid="106281">
+     Hermann von Helmholtz
+    </xref>
+    . Based on experiments in colour matching, this theory postulates three types of colour receptors in the eye. The actual existence of such receptor cells, known as
+    <xref articleid="25138">
+     cones
+    </xref>
+    (from their shape), was finally confirmed in the early 1960s. The three types of cones have maximum sensitivities in the blue, green, and red regions of the spectrum, with absorption peaks near 445 nm, 535 nm, and 565 nm, respectively. These three sets are often designated as S, M, and L for their sensitivity to short, medium, and long wavelengths. The trichromatic theory explains that colour vision results from the relative intensity of response of the S, M, and L cones. (Equal stimulation of all three gives the perception of white.) There is obviously a close connection between this trichromatic theory and the tristimulus value system.
+   </p>
+   <p>
+    One of the trichromatic theory’s strengths is that the existence of several kinds of colour blindness can be simply explained as the lack of function of one or more sets of the cones. If one set of cones does not function, dichromatism results. People with deuteranopia (M set missing) or protanopia (L set missing) perceive only blue and yellow. In the much rarer tritanopia the S cones are missing, and only green and red are perceived. Persons who have no functioning cone system suffer from the extremely rare monochromatism and can perceive only grays.
+   </p>
+   <p>
+    Although the trichromatic theory seems to explain much about colour vision, other theories have also been supported and studied, especially the opponent process theory. First proposed by the German physiologist
+    <xref articleid="40142">
+     Ewald Hering
+    </xref>
+    in 1878, this approach presumes that colour vision involves three mechanisms, each responding to a pair of opposites—namely, light–dark, red–green, and blue–yellow. It is based on many psychophysical observations, including the fact that blue and yellow (and also red and green) cannot coexist in any perceived colour; there are no bluish yellows (or reddish greens). Several of the contrast and afterimage effects can be explained very simply by this approach.
+   </p>
+   <p>
+    It is now recognized that the trichromatic and opponent process theories are not incompatible. They have been combined in a number of zone theories, which postulate that the cones function in a trichromatic manner in one zone, while in another zone the signals from the cones are combined in neural cells so as to produce one achromatic (white–black) and two chromatic (blue–yellow and green–red) signals, which are then interpreted in the brain. Although it is clear that zone theories, encompassing both trichromatic and opponent colour theories, are fully successful in explaining the many aspects of colour perception, there are still details that remain to be worked out.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h21867">
+  <title>
+   The psychology of colour
+  </title>
+  <p>
+   The most important aspect of colour in daily life is probably the one that is least defined and most variable. It involves aesthetic and psychological responses to colour and influences art, fashion, commerce, and even physical and emotional sensations. One example of the link between colour and emotion is the common perception that red, orange, yellow, and brown hues are “warm,” while the blues, greens, and grays are “cold.” The red, orange, and yellow hues are said to induce excitement, cheerfulness, stimulation, and aggression; the blues and greens security, calm, and peace; and the browns, grays, and blacks sadness, depression, and melancholy. It must be remembered, however, that the psychological perception of colour is subjective, and only general comments about its features and uses can be made.
+  </p>
+  <p>
+   Like colour terminology, colour harmony, colour preferences, colour symbolism, and other psychological aspects of colour are culturally conditioned, and they vary considerably with both place and historical period. One cross-cultural study showed that American and Japanese concepts of warm and cold colours are essentially the same, but that in Japan blue and green hues are perceived to be “good” and the red-purple range “bad,” while in the United States the red-yellow-green range is considered “good” and oranges and red-purples “bad.” The colour of mourning is black in the West, yet other cultures use white, purple, or gold for this purpose. Many languages contain expressions that use colour metaphorically (common examples in English include “green with envy,” “feeling blue,” “seeing red,” “purple passion,” “white lie,” and “black rage”) and therefore cannot always be translated literally into other languages because the colour may lose its associated symbolic meaning.
+  </p>
+  <p>
+   Colour symbolism serves important roles in art, religion, politics, and ceremonials, as well as in everyday life. Its strong emotional connotations can affect colour perception so that, for example, an apple- or heart-shaped figure cut from orange paper may seem to have a redder hue than a geometric figure cut from the same paper because of the specific psychological meaning that is associated with the shape.
+  </p>
+  <p>
+   In addition to emotional associations, factors that affect colour perception include the observer’s age, mood, and mental health. People who share distinct personal traits often share colour perceptions and preferences. For example, schizophrenics have been reported to have abnormal colour perception, and very young children learning to distinguish colours usually show a preference for red or orange. Many psychologists believe that analyzing an individual’s uses of and responses to colour can reveal information about the individual’s physiological and psychological condition. It has even been suggested that specific colours can have a therapeutic effect on physical and mental disabilities.
+  </p>
+  <p>
+   Although these medical benefits are still in question, colour has been shown to cause definite physical and emotional reactions in humans and in some animals. Rooms and objects that are white or in light shades of “cool” colours may appear to be larger than those that are in intense dark or “warm” colours; black or very dark colours have a slimming, or shrinking, effect, as is well known to designers and decorators. A “cool” room decorated in a pale blue requires a higher thermostat setting than a “warm” room painted a pale orange in order to achieve the same sensation of warmth. People who view a display of unusual colours produced by special illumination may experience headaches and nervous disorders; tasty wholesome food served under such conditions appears repulsive and may even induce illness. Some colours induce a feeling of pleasure in the observer. When an affectively positive, or pleasurably perceived, colour is viewed after a less-pleasant colour, it produces more pleasure than when viewed by itself, an effect known as affective contrast enhancement.
+  </p>
+  <p>
+   The effect of combinations of colours on an observer depends not only on the individual effects of the colours but also on the harmony of the colours combined and the composition of the pattern. Artists and designers have been studying the effects of colours for centuries and have developed a multitude of theories on the uses of colour. The number and variety of these theories demonstrate that no universally accepted rules apply; the perception of colour depends on individual experience.
+  </p>
+  <signature>
+   Kurt Nassau
+  </signature>
+ </h1>
+ <h1 id="h21868">
+  <title>
+   Bibliography
+  </title>
+  <h2 id="h21869">
+   <title>
+    General works
+   </title>
+   <p>
+    <e type="smallcap">
+     Isaac Newton
+    </e>
+    ,
+    <e type="italic">
+     Optics; or, A Treatise of the Reflexions, Refractions, Inflexions, and Colours of Light
+    </e>
+    , 4th ed. (1730, reissued 1979), the beginnings of the scientific study of colour;
+    <e type="smallcap">
+     Johann Wolfgang von Goethe
+    </e>
+    ,
+    <e type="italic">
+     Goethe’s Theory of Colours
+    </e>
+    (1840, reissued 1975; originally published in German, 1810), with excellent observations explained by an untenable theory;
+    <e type="smallcap">
+     David L. MacAdam
+    </e>
+    (ed.),
+    <e type="italic">
+     Sources of Color Science
+    </e>
+    (1970), covering theories developed in all periods but omitting Goethe and including only a little Newton;
+    <e type="smallcap">
+     Ralph Merrill Evans
+    </e>
+    ,
+    <e type="italic">
+     An Introduction to Color
+    </e>
+    (1948, reissued 1965), an authoritative, highly readable introduction, with emphasis on technical applications; and
+    <e type="smallcap">
+     Enid Verity
+    </e>
+    ,
+    <e type="italic">
+     Color Observed
+    </e>
+    (1980), a readable general introduction. A bibliography of colour studies is given in
+    <e type="smallcap">
+     Mary Buckley
+    </e>
+    ,
+    <e type="italic">
+     Color Theory: A Guide to Information Sources
+    </e>
+    (1975). Current research on the subject, together with discussions of applications, is found in the magazines
+    <e type="italic">
+     Color Research and Application
+    </e>
+    (quarterly),
+    <e type="italic">
+     Inter-Society Color Council News
+    </e>
+    (bimonthly), and
+    <e type="italic">
+     Journal of the Optical Society of America; Part A, Optics and Image Science
+    </e>
+    (monthly).
+   </p>
+  </h2>
+  <h2 id="h21870">
+   <title>
+    Colorimetry
+   </title>
+   <p>
+    <e type="smallcap">
+     W.D. Wright
+    </e>
+    ,
+    <e type="italic">
+     The Measurement of Colour
+    </e>
+    , 4th ed. (1969), an authoritative outline of the trichromatic system;
+    <e type="smallcap">
+     Deane B. Judd
+    </e>
+    and
+    <e type="smallcap">
+     Günter Wyszecki
+    </e>
+    ,
+    <e type="italic">
+     Color in Business, Science, and Industry
+    </e>
+    , 3rd ed. (1975), an authoritative work for the specialist; and
+    <e type="smallcap">
+     Faber Birren
+    </e>
+    ,
+    <e type="italic">
+     A Grammar of Color: A Basic Treatise on the Color System of Albert H. Munsell
+    </e>
+    (1969), a revision of the 1921 work. Sets of colour chips used as identifiers are collected in
+    <e type="italic">
+     Munsell Book of Color
+    </e>
+    (1929– ), a loose-leaf publication. See also
+    <e type="smallcap">
+     Kenneth L. Kelly
+    </e>
+    and
+    <e type="smallcap">
+     Deane B. Judd
+    </e>
+    ,
+    <e type="italic">
+     Color: Universal Language and Dictionary of Names
+    </e>
+    (1976), a system of simple colour names with cross-references to thousands of commonly used names;
+    <e type="smallcap">
+     Fred W. Billmeyer, Jr.
+    </e>
+    , and
+    <e type="smallcap">
+     Max Saltzman
+    </e>
+    ,
+    <e type="italic">
+     Principles of Color Technology
+    </e>
+    , 2nd ed. (1981), a highly technical but readable text with an annotated bibliography;
+    <e type="smallcap">
+     Günter Wyszecki
+    </e>
+    and
+    <e type="smallcap">
+     W.S. Stiles
+    </e>
+    ,
+    <e type="italic">
+     Color Science: Concepts and Methods, Quantitative Data and Formulae
+    </e>
+    , 2nd ed. (1982), an advanced text;
+    <e type="smallcap">
+     Deane B. Judd
+    </e>
+    ,
+    <e type="italic">
+     Contributions to Color Science
+    </e>
+    (1979); and
+    <e type="smallcap">
+     David L. MacAdam
+    </e>
+    ,
+    <e type="italic">
+     Color Measurement: Theme and Variations
+    </e>
+    , 2nd rev. ed. (1985).
+   </p>
+  </h2>
+  <h2 id="h21871">
+   <title>
+    Physics and chemistry of colour
+   </title>
+   <p>
+    <e type="smallcap">
+     R. Daniel Overheim
+    </e>
+    and
+    <e type="smallcap">
+     David L. Wagner,
+    </e>
+    <e type="italic">
+     Light and Color
+    </e>
+    (1982), a brief survey;
+    <e type="smallcap">
+     Francis A. Jenkins
+    </e>
+    and
+    <e type="smallcap">
+     Harvey E. White
+    </e>
+    ,
+    <e type="italic">
+     Fundamentals of Optics
+    </e>
+    , 4th ed. (1976);
+    <e type="smallcap">
+     Leslie E. Orgel
+    </e>
+    ,
+    <e type="italic">
+     An Introduction to Transition-Metal Chemistry: Ligand-Field Theory
+    </e>
+    , 2nd ed. (1966); and
+    <e type="smallcap">
+     Keith McLaren
+    </e>
+    ,
+    <e type="italic">
+     The Colour Science of Dyes and Pigments
+    </e>
+    (1983), authoritative intermediate to advanced texts.
+    <e type="smallcap">
+     Kurt Nassau
+    </e>
+    ,
+    <e type="italic">
+     The Physics and Chemistry of Color: The Fifteen Causes of Color
+    </e>
+    (1983), is a comprehensive up-to-date treatment.
+   </p>
+  </h2>
+  <h2 id="h21872">
+   <title>
+    Perception of colour
+   </title>
+   <p>
+    <e type="smallcap">
+     G. Hugh Begbie
+    </e>
+    ,
+    <e type="italic">
+     Seeing and the Eye: An Introduction to Vision
+    </e>
+    (1969, reprinted 1973), a survey for the general reader;
+    <e type="smallcap">
+     Gerald S. Wasserman
+    </e>
+    ,
+    <e type="italic">
+     Color Vision: An Historical Introduction
+    </e>
+    (1978); and
+    <e type="smallcap">
+     Tom N. Cornsweet
+    </e>
+    ,
+    <e type="italic">
+     Visual Perception
+    </e>
+    (1970), more detailed treatments;
+    <e type="smallcap">
+     Ralph Merrill Evans
+    </e>
+    ,
+    <e type="italic">
+     The Perception of Color
+    </e>
+    (1974); and
+    <e type="smallcap">
+     Robert M. Boynton
+    </e>
+    ,
+    <e type="italic">
+     Human Color Vision
+    </e>
+    (1979), comprehensive advanced texts.
+    <e type="smallcap">
+     Edward C. Carterette
+    </e>
+    and
+    <e type="smallcap">
+     Morton P. Friedman
+    </e>
+    (eds.),
+    <e type="italic">
+     Handbook of Perception
+    </e>
+    , vol. 5 (1975), contains 12 chapters, written at the advanced level, on all aspects of colour perception.
+   </p>
+  </h2>
+  <h2 id="h21873">
+   <title>
+    Colour in art
+   </title>
+   <p>
+    <e type="smallcap">
+     Samuel J. Williamson
+    </e>
+    and
+    <e type="smallcap">
+     Herman Z. Cummins
+    </e>
+    ,
+    <e type="italic">
+     Light and Color in Nature and Art
+    </e>
+    (1983), a readable, wide-ranging intermediate-level textbook;
+    <e type="smallcap">
+     Johannes Itten
+    </e>
+    ,
+    <e type="italic">
+     The Art of Color: The Subjective Experience and Objective Rationale of Color
+    </e>
+    (1961, reprinted 1973; originally published in German, 1961), an exposition of an influential aesthetic theory;
+    <e type="smallcap">
+     M.E. Chevreul
+    </e>
+    ,
+    <e type="italic">
+     The Principles of Harmony and Contrast of Colors and Their Applications to the Arts
+    </e>
+    (1854, reissued 1981; originally published in French, 1839), with notes by Faber Birren;
+    <e type="smallcap">
+     Faber Birren
+    </e>
+    ,
+    <e type="italic">
+     Principles of Color: A Review of Past Traditions and Modern Theories of Color Harmony
+    </e>
+    (1969), an introduction, and his
+    <e type="italic">
+     History of Color in Painting: With New Principles of Color Expression
+    </e>
+    (1965), an authoritative treatment; and
+    <e type="smallcap">
+     George A. Agoston
+    </e>
+    ,
+    <e type="italic">
+     Color Theory and Its Application in Art and Design
+    </e>
+    (1979), a broad review valuable as a reference work.
+   </p>
+   <signature>
+    Kurt Nassau
+   </signature>
+  </h2>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

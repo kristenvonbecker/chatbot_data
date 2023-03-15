@@ -1,17 +1,8 @@
 import os
 import json
 import requests
-import re
-import numpy as np
-import string
-from nltk import word_tokenize
-from nltk.corpus import stopwords
-import xml.etree.ElementTree as ET
 from bs4.element import Comment
 from bs4 import BeautifulSoup
-from fuzzywuzzy import fuzz, process
-from scipy import spatial
-import gensim.downloader as api
 from lxml import html
 
 from dotenv import load_dotenv
@@ -79,7 +70,7 @@ def get_encyclopedia_metadata(source="advanced", dir_path=None):
     if not os.path.exists(path):
         os.makedirs(path)
 
-    filepath = os.path.join(path, source + '.json')
+    filepath = os.path.join(path, source + '_metadata.json')
     if os.path.exists(filepath):
         os.remove(filepath)
 
@@ -89,35 +80,40 @@ def get_encyclopedia_metadata(source="advanced", dir_path=None):
     return article_metadata
 
 
-# get article content (text) for a given article_id
-def get_article_title_text(article_id, source="advanced"):
+# get article content (xml) for a given article_id
+def get_article_xml(article_id, source="advanced", dir_path=None):
     url = f'https://syndication.api.eb.com/production/article/{str(article_id)}/xml'
     response = requests.get(url, headers=xml_header[source])
-    soup = BeautifulSoup(response.text, features="xml")
-    tree = html.fromstring(response.content)
-    title = tree.xpath("//article")[0].xpath("title/text()")[0]
-    text = text_from_html(soup)
-    return title, text
+    xml_data = BeautifulSoup(response.text, features="xml")
+    if dir_path:
+        filename = str(article_id) + ".xml"
+        filepath = os.path.join(dir_path, filename)
+        with open(filepath, "w") as outfile:
+            outfile.write(xml_data.prettify())
+    return xml_data
 
 
-# get text content for a collection of article_ids
-def get_articles(article_ids, source="advanced"):
-    articles = []
-    for article_id in article_ids:
-        title, text = get_article_title_text(article_id, source=source)
-        this_article = {
-            "article_id": article_id,
-            "title": title,
-            "text": text
-        }
-        articles.append(this_article)
-    return articles
+# get xml content for a collection of article_ids; save to disk
+def get_article_paragraphs(xml_data, article_id=None, dir_path=None):
+    paragraphs = []
+    p_tags = xml_data.find_all("p")
+    for i in range(len(p_tags)):
+        text = text_from_html(p_tags[i])
+        paragraphs.append(" ".join(text))
+    if dir_path:
+        filename = str(article_id) + ".json"
+        filepath = os.path.join(dir_path, filename)
+        with open(filepath, "w") as outfile:
+            json.dump(paragraphs, outfile, indent=2)
+    return paragraphs
 
 
 ####################################
 
 def tag_visible(element):
-    if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
+    if element.parent.name in [
+        'assembly', 'caption', 'credit', 'style', 'script', 'head', 'title', 'meta', '[document]'
+    ]:
         return False
     if isinstance(element, Comment):
         return False
@@ -126,9 +122,7 @@ def tag_visible(element):
 
 def text_from_html(soup):
     texts = soup.findAll(text=True)
-    visible_texts = filter(tag_visible, texts)
-    return u" ".join(t.strip() for t in visible_texts)
-
+    ps = filter(tag_visible, texts)
+    return [p.strip() for p in ps]
 
 ####################################
-

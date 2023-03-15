@@ -1,0 +1,2888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="106020" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 03:28:21" url="/article/magnetism/106020" version="13">
+ <title>
+  magnetism
+ </title>
+ <p>
+  <e type="bold">
+   magnetism
+  </e>
+  , phenomenon associated with
+  <xref articleid="50022">
+   magnetic fields
+  </xref>
+  , which arise from the motion of
+  <xref articleid="32271">
+   electric charges
+  </xref>
+  . This motion can take many forms. It can be an
+  <xref articleid="32273">
+   electric current
+  </xref>
+  in a
+  <xref articleid="25132">
+   conductor
+  </xref>
+  or charged particles moving through space, or it can be the motion of an
+  <xref articleid="32316">
+   electron
+  </xref>
+  in an
+  <xref articleid="110411">
+   atomic
+  </xref>
+  <xref articleid="57287">
+   orbital
+  </xref>
+  . Magnetism is also associated with
+  <xref articleid="108593">
+   elementary particles
+  </xref>
+  , such as the
+  <xref articleid="32316">
+   electron
+  </xref>
+  , that have a property called
+  <xref articleid="69132">
+   spin
+  </xref>
+  .
+ </p>
+ <h1 id="h71536">
+  <title>
+   Fundamentals
+  </title>
+  <p>
+   Basic to magnetism are
+   <xref articleid="50022">
+    magnetic fields
+   </xref>
+   and their effects on matter, as, for instance, the deflection of moving charges and torques on other magnetic objects. Evidence for the presence of a magnetic field is the magnetic force on charges moving in that field; the force is at right angles to both the field and the velocity of the charge. This force deflects the particles without changing their speed. The deflection can be observed in the torque on a
+   <xref articleid="25014">
+    compass
+   </xref>
+   needle that acts to align the needle with the
+   <xref articleid="36468">
+    magnetic field of Earth
+   </xref>
+   . The needle is a thin piece of
+   <xref articleid="42794">
+    iron
+   </xref>
+   that has been magnetized—i.e., a small bar
+   <xref articleid="50017">
+    magnet
+   </xref>
+   . One end of the magnet is called a north pole and the other end a south pole. The force between a north and a south pole is attractive, whereas the force between like poles is repulsive. The magnetic field is sometimes referred to as magnetic induction or magnetic flux density; it is always symbolized by
+   <e type="bolditalic">
+    B
+   </e>
+   . Magnetic fields are measured in units of
+   <xref articleid="71813">
+    tesla
+   </xref>
+   (T). (Another unit of measure commonly used for
+   <e type="bolditalic">
+    B
+   </e>
+   is the
+   <xref articleid="36222">
+    gauss
+   </xref>
+   , though it is no longer considered a standard unit. One gauss equals 10
+   <sup>
+    −4
+   </sup>
+   tesla.)
+  </p>
+  <p>
+   A fundamental property of a magnetic field is that its flux through any closed surface vanishes. (A closed surface is one that completely surrounds a volume.) This is expressed mathematically by div
+   <e type="bolditalic">
+    B
+   </e>
+   = 0 and can be understood physically in terms of the field lines representing
+   <e type="bolditalic">
+    B
+   </e>
+   . These lines always close on themselves, so that if they enter a certain volume at some point, they must also leave that volume. In this respect, a magnetic field is quite different from an
+   <xref articleid="32278">
+    electric field
+   </xref>
+   . Electric field lines can begin and end on a charge, but no equivalent magnetic charge has been found in spite of many searches for so-called
+   <xref articleid="50026">
+    magnetic monopoles
+   </xref>
+   .
+  </p>
+  <p>
+   The most common source of magnetic fields is the
+   <xref articleid="32273">
+    electric current
+   </xref>
+   loop. It may be an electric current in a circular conductor or the motion of an orbiting
+   <xref articleid="32316">
+    electron
+   </xref>
+   in an
+   <xref articleid="110411">
+    atom
+   </xref>
+   . Associated with both these types of current loops is a magnetic dipole moment, the value of which is
+   <e type="italic">
+    i
+   </e>
+   <e type="italic">
+    A
+   </e>
+   , the product of the current
+   <e type="italic">
+    i
+   </e>
+   and the area of the loop
+   <e type="italic">
+    A
+   </e>
+   . In addition, electrons,
+   <xref articleid="61626">
+    protons
+   </xref>
+   , and
+   <xref articleid="55406">
+    neutrons
+   </xref>
+   in
+   <xref articleid="110411">
+    atoms
+   </xref>
+   have a magnetic dipole moment associated with their intrinsic spin; such
+   <xref articleid="50021">
+    magnetic dipole
+   </xref>
+   moments represent another important source of magnetic fields. A particle with a magnetic dipole moment is often referred to as a magnetic dipole. (A magnetic dipole may be thought of as a tiny bar magnet. It has the same magnetic field as such a magnet and behaves the same way in external magnetic fields.) When placed in an external magnetic field, a magnetic dipole can be subjected to a torque that tends to align it with the field; if the external field is not uniform, the dipole also can be subjected to a force.
+  </p>
+  <p>
+   All matter exhibits magnetic properties to some degree. When placed in an inhomogeneous field, matter is either attracted or repelled in the direction of the gradient of the field. This property is described by the magnetic susceptibility of the matter and depends on the degree of magnetization of the matter in the field. Magnetization depends on the size of the dipole moments of the atoms in a substance and the degree to which the dipole moments are aligned with respect to each other. Certain materials, such as
+   <xref articleid="42794">
+    iron
+   </xref>
+   , exhibit very strong magnetic properties because of the alignment of the magnetic moments of their atoms within certain small regions called domains. Under normal conditions, the various domains have fields that cancel, but they can be aligned with each other to produce extremely large magnetic fields. Various
+   <xref articleid="5832">
+    alloys
+   </xref>
+   , like NdFeB (an alloy of
+   <xref articleid="55266">
+    neodymium
+   </xref>
+   , iron, and
+   <xref articleid="80773">
+    boron
+   </xref>
+   ), keep their domains aligned and are used to make permanent magnets. The strong magnetic field produced by a typical three-millimetre-thick magnet of this material is comparable to an
+   <xref articleid="32309">
+    electromagnet
+   </xref>
+   made of a
+   <xref articleid="26194">
+    copper
+   </xref>
+   loop carrying a current of several thousand
+   <xref articleid="7233">
+    amperes
+   </xref>
+   . In comparison, the current in a typical light bulb is 0.5 ampere. Since aligning the domains of a material produces a magnet, disorganizing the orderly alignment destroys the magnetic properties of the material. Thermal agitation that results from heating a magnet to a high temperature destroys its magnetic properties.
+  </p>
+  <p>
+   Magnetic fields vary widely in strength. Some representative values are given in the .
+  </p>
+ </h1>
+ <h1 id="h71537">
+  <title>
+   Magnetic field of steady currents
+  </title>
+  <p>
+   <assembly id="a1346" url="/assembly/view/1346">
+    <media mediaid="251" type="image" url="/51/251-004-3394745C.jpg"/>
+    <caption>
+     Figure 1: Some lines of the magnetic field
+     <e type="bolditalic">
+      B
+     </e>
+     for an electric current
+     <e type="italic">
+      i
+     </e>
+     in a loop (see text).
+    </caption>
+    <credit>
+     Courtesy of the Department of Physics and Astronomy, Michigan State University
+    </credit>
+   </assembly>
+   <assembly id="a1347" url="/assembly/view/1347">
+    <title>
+     magnetic field produced by electric current
+    </title>
+    <media mediaid="252" type="image" url="/52/252-004-21FDB1DA.jpg"/>
+    <caption>
+     A magnetic field produced by a small section of wire with electric current
+     <e type="italic">
+      i
+     </e>
+     .
+    </caption>
+    <credit>
+     Courtesy of the Department of Physics and Astronomy, Michigan State University
+    </credit>
+   </assembly>
+   <xref articleid="50022">
+    Magnetic fields
+   </xref>
+   produced by
+   <xref articleid="32273">
+    electric currents
+   </xref>
+   can be calculated for any shape of circuit using the
+   <xref articleid="79277">
+    law of Biot and Savart
+   </xref>
+   , named for the early 19th-century French physicists
+   <xref articleid="79276">
+    Jean-Baptiste Biot
+   </xref>
+   and Félix Savart. A few magnetic field lines produced by a current in a loop are shown in
+   <assemblyref assemblyid="a1346">
+    Figure 1
+   </assemblyref>
+   . These lines of
+   <e type="bolditalic">
+    B
+   </e>
+   form loops around the current. The Biot–Savart law expresses the partial contribution
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    B
+   </e>
+   from a small segment of conductor to the total
+   <e type="bolditalic">
+    B
+   </e>
+   field of a current in the conductor. For a segment of length and orientation
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    l
+   </e>
+   that carries a current
+   <e type="italic">
+    i
+   </e>
+   ,
+   <formula>
+    <inlinemedia id="i15926" mediaid="15926" url="/26/15926-004-12AF432E.jpg"/>
+   </formula>
+   In this equation, μ
+   <sub>
+    0
+   </sub>
+   is the permeability of free space and has the value of 4π × 10
+   <sup>
+    −7
+   </sup>
+   <xref articleid="55617">
+    newton
+   </xref>
+   per square
+   <xref articleid="7233">
+    ampere
+   </xref>
+   . This equation is illustrated in
+   <assemblyref assemblyid="a1347">
+    Figure 2
+   </assemblyref>
+   for a small segment of a wire that carries a current so that, at the origin of the coordinate system, the small segment of length
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    l
+   </e>
+   of the wire lies along the
+   <e type="italic">
+    x
+   </e>
+   axis.
+  </p>
+  <p>
+   Comparing
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    B
+   </e>
+   at points 1 and 2 shows the inverse square dependence of the magnitude of the field with distance. The vectors at points 1, 3, and 4, which are all at the same distance from
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    l
+   </e>
+   , show the direction of
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    B
+   </e>
+   in a circle around the wire. In position 1, the contribution to the field,
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    B
+   </e>
+   <sub>
+    1
+   </sub>
+   , is perpendicular both to the current direction and to the vector
+   <e type="italic">
+    r
+   </e>
+   <sub>
+    1
+   </sub>
+   . Finally, the vectors at 1, 5, 6, and 7 illustrate the angular dependence of the magnitude of
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    B
+   </e>
+   at a point. The magnitude of
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    B
+   </e>
+   varies as the sine of the angle between
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    l
+   </e>
+   and
+   <e type="bolditalic">
+    r̂
+   </e>
+   , where
+   <e type="bolditalic">
+    r̂
+   </e>
+   is in the direction from
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    l
+   </e>
+   to the point. It is strongest at 90° to
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    l
+   </e>
+   and decreases to zero for locations directly in line with
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    l
+   </e>
+   . The magnetic field of a current in a loop or coil is obtained by summing the individual partial contributions of all the segments of the circuits, taking into account the vector nature of the field. While simple mathematical expressions for the magnetic field can be derived for a few current configurations, most practical applications require the use of high-speed computers.
+  </p>
+  <p>
+   <assembly id="a211017" url="/assembly/view/211017">
+    <title>
+     magnetic field of a long wire
+    </title>
+    <media mediaid="223" type="image" url="/23/223-004-B940DF75.jpg"/>
+    <caption>
+     Figure 3: Magnetic field of a long straight wire. (A) An end view, with the current flowing toward the reader. (B) A three-dimensional view.
+    </caption>
+    <credit>
+     Courtesy of the Department of Physics and Astronomy, Michigan State University
+    </credit>
+   </assembly>
+   The expression for the magnetic field
+   <e type="bolditalic">
+    B
+   </e>
+   a distance
+   <e type="italic">
+    r
+   </e>
+   from a long straight wire with current
+   <e type="italic">
+    i
+   </e>
+   is
+   <formula>
+    <inlinemedia id="i15925" mediaid="15925" url="/25/15925-004-E4F67BDC.jpg"/>
+   </formula>
+   where θ is a unit vector pointing in a circle around the wire. The
+   <e type="bolditalic">
+    B
+   </e>
+   field near a long straight wire with current
+   <e type="italic">
+    i
+   </e>
+   can be seen in
+   <assemblyref assemblyid="a211017">
+    Figure 3
+   </assemblyref>
+   . The magnetic field at a distance
+   <e type="italic">
+    r
+   </e>
+   from a magnetic dipole with moment
+   <e type="bolditalic">
+    m
+   </e>
+   is given by
+   <formula>
+    <inlinemedia id="i15924" mediaid="15924" url="/24/15924-004-E13B44A2.jpg"/>
+   </formula>
+  </p>
+  <p>
+   <assembly id="a1348" url="/assembly/view/1348">
+    <title>
+     current loop
+    </title>
+    <media mediaid="253" type="image" url="/53/253-004-531ECA99.jpg"/>
+    <caption>
+     Figure 4: Some of the lines of the magnetic field
+     <e type="italic">
+      B
+     </e>
+     from the small current loop in the centre. The current in the loop flows in a clockwise direction when viewed from above.
+    </caption>
+    <credit>
+     Courtesy of the Department of Physics and Astronomy, Michigan State University
+    </credit>
+   </assembly>
+   The size of the magnetic dipole moment is
+   <e type="italic">
+    m
+   </e>
+   in
+   <xref articleid="7233">
+    ampere
+   </xref>
+   times square metre (A · m
+   <sup>
+    2
+   </sup>
+   ), and the angle between the direction of
+   <e type="bolditalic">
+    m
+   </e>
+   and of
+   <e type="bolditalic">
+    r
+   </e>
+   is θ. Both
+   <e type="bolditalic">
+    r̂
+   </e>
+   and θ are unit
+   <xref articleid="218451">
+    vectors
+   </xref>
+   in the direction of
+   <e type="bolditalic">
+    r
+   </e>
+   and θ. It is apparent that the magnetic field decreases rapidly as the cube of the distance from the dipole. Equation (
+   <inlinemediaref inlinemediaid="i15924">
+    3
+   </inlinemediaref>
+   ) is also valid for a small current loop with current
+   <e type="italic">
+    i
+   </e>
+   , when the distance
+   <e type="italic">
+    r
+   </e>
+   is much greater than the size of the current loop. A loop of area
+   <e type="italic">
+    A
+   </e>
+   has a magnetic dipole moment with a magnitude
+   <e type="italic">
+    m
+   </e>
+   =
+   <e type="italic">
+    i
+   </e>
+   <e type="italic">
+    A
+   </e>
+   ; its direction is perpendicular to the plane of the loop, along the direction of
+   <e type="bolditalic">
+    B
+   </e>
+   inside the loop. If the fingers of the right hand are curled and held in the direction of the current in the loop, the extended thumb points in the direction of
+   <e type="bolditalic">
+    m
+   </e>
+   . In
+   <assemblyref assemblyid="a1346">
+    Figure 1
+   </assemblyref>
+   , the dipole moment of the current in the loop points up; in
+   <assemblyref assemblyid="a1348">
+    Figure 4
+   </assemblyref>
+   ,
+   <e type="bolditalic">
+    m
+   </e>
+   points down because the current flows in a clockwise direction when viewed from above.
+  </p>
+  <p>
+   The magnetic field of the current loop in
+   <assemblyref assemblyid="a1348">
+    Figure 4
+   </assemblyref>
+   at points far from the loop has the same shape as the
+   <xref articleid="32278">
+    electric field
+   </xref>
+   of an
+   <xref articleid="32274">
+    electric dipole
+   </xref>
+   ; the latter consists of two equal charges of opposite sign separated by a small distance. Magnetic dipoles, like electric dipoles, occur in a variety of situations.
+   <xref articleid="32316">
+    Electrons
+   </xref>
+   in
+   <xref articleid="110411">
+    atoms
+   </xref>
+   have a magnetic dipole moment that corresponds to the current of their orbital motion around the nucleus. In addition, the electrons have a magnetic dipole moment associated with their
+   <xref articleid="69132">
+    spin
+   </xref>
+   .
+   <xref articleid="36468">
+    Earth’s magnetic field
+   </xref>
+   is thought to be the result of currents related to the planet’s rotation. The magnetic field far from a small bar magnet is well represented by the field of a magnetic dipole. In most of these cases, moving charge produces a magnetic field
+   <e type="bolditalic">
+    B
+   </e>
+   . Inside a long
+   <xref articleid="68580">
+    solenoid
+   </xref>
+   with current
+   <e type="italic">
+    i
+   </e>
+   and away from its ends, the magnetic field is uniform and directed along the axis of the solenoid. A solenoid of this kind can be made by wrapping some conducting wire tightly around a long hollow cylinder. The value of the field is
+   <formula>
+    <inlinemedia id="i15923" mediaid="15923" url="/23/15923-004-8AA47AD6.jpg"/>
+   </formula>
+   where
+   <e type="italic">
+    n
+   </e>
+   is the number of turns per unit length of the solenoid.
+  </p>
+ </h1>
+ <h1 id="h71538">
+  <title>
+   Magnetic forces
+  </title>
+  <h2 id="h71539">
+   <title>
+    Lorentz force
+   </title>
+   <p>
+    A magnetic field
+    <e type="bolditalic">
+     B
+    </e>
+    imparts a force on moving charged particles. The entire electromagnetic force on a charged particle with charge
+    <e type="italic">
+     q
+    </e>
+    and velocity
+    <e type="bolditalic">
+     v
+    </e>
+    is called the
+    <xref articleid="471075">
+     Lorentz force
+    </xref>
+    (after the Dutch physicist
+    <xref articleid="48963">
+     Hendrik A. Lorentz
+    </xref>
+    ) and is given by
+    <formula>
+     <inlinemedia id="i15922" mediaid="15922" url="/22/15922-004-19260095.jpg"/>
+    </formula>
+   </p>
+   <p>
+    The first term is contributed by the
+    <xref articleid="32278">
+     electric field
+    </xref>
+    . The second term is the magnetic force and has a direction perpendicular to both the velocity
+    <e type="bolditalic">
+     v
+    </e>
+    and the magnetic field
+    <e type="bolditalic">
+     B
+    </e>
+    . The magnetic force is proportional to
+    <e type="italic">
+     q
+    </e>
+    and to the magnitude of
+    <e type="bolditalic">
+     v
+    </e>
+    ×
+    <e type="bolditalic">
+     B
+    </e>
+    . In terms of the angle ϕ between
+    <e type="bolditalic">
+     v
+    </e>
+    and
+    <e type="bolditalic">
+     B
+    </e>
+    , the magnitude of the force equals
+    <e type="italic">
+     q
+    </e>
+    <e type="italic">
+     v
+    </e>
+    <e type="italic">
+     B
+    </e>
+    sin ϕ. An interesting result of the Lorentz force is the motion of a charged particle in a uniform magnetic field. If
+    <e type="bolditalic">
+     v
+    </e>
+    is perpendicular to
+    <e type="bolditalic">
+     B
+    </e>
+    (i.e., with the angle ϕ between
+    <e type="bolditalic">
+     v
+    </e>
+    and
+    <e type="bolditalic">
+     B
+    </e>
+    of 90°), the particle will follow a circular trajectory with a radius of
+    <e type="italic">
+     r
+    </e>
+    =
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     v
+    </e>
+    /
+    <e type="italic">
+     q
+    </e>
+    <e type="italic">
+     B
+    </e>
+    . If the angle ϕ is less than 90°, the particle orbit will be a helix with an axis parallel to the field lines. If ϕ is zero, there will be no magnetic force on the particle, which will continue to move undeflected along the field lines. Charged
+    <xref articleid="108531">
+     particle accelerators
+    </xref>
+    like
+    <xref articleid="28388">
+     cyclotrons
+    </xref>
+    use the fact that particles move in a circular orbit when
+    <e type="bolditalic">
+     v
+    </e>
+    and
+    <e type="bolditalic">
+     B
+    </e>
+    are at right angles. For each revolution, a carefully timed electric field gives the particles additional kinetic energy, which makes them travel in increasingly larger orbits. When the particles have acquired the desired energy, they are extracted and used in a number of different ways, from fundamental studies of the properties of matter to the medical treatment of
+    <xref articleid="106118">
+     cancer
+    </xref>
+    .
+   </p>
+   <p>
+    <assembly id="a211025" url="/assembly/view/211025">
+     <title>
+      magnetic force on moving charges
+     </title>
+     <media mediaid="224" type="image" url="/24/224-004-421011CF.jpg"/>
+     <caption>
+      Figure 5: Magnetic force on moving charges. The magnetic force
+      <e type="italic">
+       F
+      </e>
+      is proportional to the charge and to the magnitude of velocity
+      <e type="italic">
+       v
+      </e>
+      times the magnetic field
+      <e type="italic">
+       B
+      </e>
+      .
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    The magnetic force on a moving charge reveals the sign of the
+    <xref articleid="22521">
+     charge carriers
+    </xref>
+    in a
+    <xref articleid="25132">
+     conductor
+    </xref>
+    . A current flowing from right to left in a conductor can be the result of positive charge carriers moving from right to left or negative charges moving from left to right, or some combination of each. When a conductor is placed in a
+    <e type="bolditalic">
+     B
+    </e>
+    field perpendicular to the current, the magnetic force on both types of charge carriers is in the same direction. This force, which can be seen in
+    <assemblyref assemblyid="a211025">
+     Figure 5
+    </assemblyref>
+    , gives rise to a small potential difference between the sides of the conductor. Known as the
+    <xref articleid="38924">
+     Hall effect
+    </xref>
+    , this phenomenon (discovered by the American physicist Edwin H. Hall) results when an electric field is aligned with the direction of the magnetic force. As is evident in
+    <assemblyref assemblyid="a211025">
+     Figure 5
+    </assemblyref>
+    , the sign of the potential differs according to the sign of the charge carrier because, in one case, positive charges are pushed toward the reader and, in the other, negative charges are pushed in that direction. The Hall effect shows that
+    <xref articleid="32316">
+     electrons
+    </xref>
+    dominate the conduction of
+    <xref articleid="106019">
+     electricity
+    </xref>
+    in
+    <xref articleid="26194">
+     copper
+    </xref>
+    . In
+    <xref articleid="78379">
+     zinc
+    </xref>
+    , however, conduction is dominated by the motion of positive charge carriers. Electrons in zinc that are excited from the valence band leave holes, which are vacancies (i.e., unfilled levels) that behave like positive charge carriers. The motion of these holes accounts for most of the conduction of electricity in zinc.
+   </p>
+   <p>
+    If a wire with a current
+    <e type="italic">
+     i
+    </e>
+    is placed in an external magnetic field
+    <e type="bolditalic">
+     B
+    </e>
+    , how will the force on the wire depend on the orientation of the wire? Since a current represents a movement of charges in the wire, the Lorentz force given in equation (
+    <inlinemediaref inlinemediaid="i15922">
+     5
+    </inlinemediaref>
+    ) acts on the moving charges. Because these charges are bound to the conductor, the magnetic forces on the moving charges are transferred to the wire. The force on a small length
+    <e type="italic">
+     d
+    </e>
+    <e type="bolditalic">
+     l
+    </e>
+    of the wire depends on the orientation of the wire with respect to the field. The magnitude of the force is given by
+    <e type="italic">
+     i
+    </e>
+    <e type="italic">
+     d
+    </e>
+    <e type="bolditalic">
+     lB
+    </e>
+    sin ϕ, where ϕ is the angle between
+    <e type="bolditalic">
+     B
+    </e>
+    and
+    <e type="italic">
+     d
+    </e>
+    <e type="bolditalic">
+     l
+    </e>
+    . There is no force when ϕ = 0 or 180°, both of which correspond to a current along a direction parallel to the field. The force is at a maximum when the current and field are perpendicular to each other. The force is obtained from equation (
+    <inlinemediaref inlinemediaid="i15922">
+     5
+    </inlinemediaref>
+    ) and is given by
+    <formula>
+     <inlinemedia id="i15921" mediaid="15921" url="/21/15921-004-D4C76226.jpg"/>
+    </formula>
+   </p>
+   <p>
+    <assembly id="a1349" url="/assembly/view/1349">
+     <title>
+      right-hand rule
+     </title>
+     <media mediaid="254" type="image" url="/54/254-004-AFE4293D.jpg"/>
+     <caption>
+      Figure 6: Right-hand rule for the magnetic force on an electric current (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    Again, the cross product denotes a direction perpendicular to both
+    <e type="italic">
+     d
+    </e>
+    <e type="bolditalic">
+     l
+    </e>
+    and
+    <e type="bolditalic">
+     B
+    </e>
+    . The direction of
+    <e type="italic">
+     d
+    </e>
+    <e type="bolditalic">
+     F
+    </e>
+    is given by the right-hand rule illustrated in
+    <assemblyref assemblyid="a1349">
+     Figure 6
+    </assemblyref>
+    . As shown, the fingers are in the direction of
+    <e type="bolditalic">
+     B
+    </e>
+    ; the current (or in the case of a positive moving point charge, the velocity) is in the direction of the thumb, and the force is perpendicular to the palm.
+   </p>
+  </h2>
+  <h2 id="h71540">
+   <title>
+    Repulsion or attraction between two magnetic dipoles
+   </title>
+   <p>
+    <assembly id="a1350" url="/assembly/view/1350">
+     <title>
+      magnetic force between current loops
+     </title>
+     <media mediaid="255" type="image" url="/55/255-004-ABB83896.jpg"/>
+     <caption>
+      Figure 7: Magnetic force between current loops. In each case shown, the arrow indicates the direction of the current
+      <e type="italic">
+       i
+      </e>
+      and the magnetic dipole moment
+      <e type="italic">
+       m
+      </e>
+      of a loop (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    <assembly id="a1351" url="/assembly/view/1351">
+     <title>
+      force between bar magnets
+     </title>
+     <media mediaid="256" type="image" url="/56/256-004-363CAA98.jpg"/>
+     <caption>
+      Figure 8: Force between small permanent bar magnets.
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    The force between two wires, each of which carries a
+    <xref articleid="32273">
+     current
+    </xref>
+    , can be understood from the interaction of one of the currents with the
+    <xref articleid="50022">
+     magnetic field
+    </xref>
+    produced by the other current. For example, the
+    <xref articleid="34834">
+     force
+    </xref>
+    between two parallel wires carrying currents in the same direction is attractive. It is repulsive if the currents are in opposite directions. Two circular current loops, located one above the other and with their planes parallel, will attract if the currents are in the same directions and will repel if the currents are in opposite directions. The situation is shown on the left side of
+    <assemblyref assemblyid="a1350">
+     Figure 7
+    </assemblyref>
+    . When the loops are side by side as on the right side of
+    <assemblyref assemblyid="a1350">
+     Figure 7
+    </assemblyref>
+    , the situation is reversed. For two currents flowing in the same direction, whether clockwise or counterclockwise, the force is repulsive, while for opposite directions, it is attractive. The nature of the force for the loops depicted in
+    <assemblyref assemblyid="a1350">
+     Figure 7
+    </assemblyref>
+    can be obtained by considering the direction of the currents in the parts of the loops that are closest to each other: same current direction, attraction; opposite current direction, repulsion. This seemingly complicated force between current loops can be understood more simply by treating the fields as though they originated from magnetic dipoles. As discussed above, the
+    <e type="bolditalic">
+     B
+    </e>
+    field of a small current loop is well represented by the field of a magnetic dipole at distances that are large compared to the size of the loop. In another way of looking at the interaction of current loops, the loops of
+    <assemblyref assemblyid="a1350">
+     Figure 7
+    </assemblyref>
+    (top) and
+    <assemblyref assemblyid="a1350">
+     7
+    </assemblyref>
+    (bottom) are replaced in
+    <assemblyref assemblyid="a1351">
+     Figure 8A
+    </assemblyref>
+    and
+    <assemblyref assemblyid="a1351">
+     8B
+    </assemblyref>
+    by small permanent
+    <xref articleid="50017">
+     magnets
+    </xref>
+    , with the direction of the magnets from south to north corresponding to the direction of the magnetic moment of the loop
+    <e type="bolditalic">
+     m
+    </e>
+    . Outside the magnets, the magnetic field lines point away from the north pole and toward the south pole.
+   </p>
+   <p>
+    It is easy to understand the nature of the forces in
+    <assemblyref assemblyid="a1350">
+     Figures 7
+    </assemblyref>
+    and
+    <assemblyref assemblyid="a1351">
+     8
+    </assemblyref>
+    with the rule that two north poles repulse each other and two south poles repulse each other, while unlike poles attract. As was noted earlier,
+    <xref articleid="26555">
+     Coulomb
+    </xref>
+    established an inverse square law of force for magnetic poles and electric charges; according to his law, unlike poles attract and like poles repel, just as unlike charges attract and like charges repel. Today,
+    <xref articleid="471076">
+     Coulomb’s law
+    </xref>
+    refers only to charges, but historically it provided the foundation for a magnetic potential analogous to the
+    <xref articleid="32284">
+     electric potential
+    </xref>
+    .
+   </p>
+   <p>
+    The alignment of a magnetic
+    <xref articleid="25014">
+     compass
+    </xref>
+    needle with the direction of an external magnetic field is a good example of the torque to which a magnetic dipole is subjected. The torque has a magnitude τ =
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    sin ϑ. Here, ϑ is the angle between
+    <e type="bolditalic">
+     m
+    </e>
+    and
+    <e type="bolditalic">
+     B
+    </e>
+    . The torque τ tends to align
+    <e type="bolditalic">
+     m
+    </e>
+    with
+    <e type="bolditalic">
+     B
+    </e>
+    . It has its maximum value when ϑ is 90°, and it is zero when the dipole is in line with the external field. Rotating a magnetic dipole from a position where ϑ = 0 to a position where ϑ = 180° requires work. Thus, the potential energy of the dipole depends on its orientation with respect to the field and is given in units of
+    <xref articleid="44023">
+     joules
+    </xref>
+    by
+    <formula>
+     <inlinemedia id="i15920" mediaid="15920" url="/20/15920-004-5D9A410D.jpg"/>
+    </formula>
+   </p>
+   <p>
+    Equation (
+    <inlinemediaref inlinemediaid="i15920">
+     7
+    </inlinemediaref>
+    ) represents the basis for an important medical application—namely,
+    <xref articleid="444124">
+     magnetic resonance imaging
+    </xref>
+    (MRI), also known as nuclear magnetic resonance imaging. MRI involves measuring the concentration of certain
+    <xref articleid="110411">
+     atoms
+    </xref>
+    , most commonly those of
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    , in body tissue and processing this measurement data to produce high-resolution images of
+    <xref articleid="57347">
+     organs
+    </xref>
+    and other anatomical structures. When hydrogen atoms are placed in a magnetic field, their
+    <xref articleid="56462">
+     nuclei
+    </xref>
+    (
+    <xref articleid="61626">
+     protons
+    </xref>
+    ) tend to have their magnetic moments preferentially aligned in the direction of the field. The magnetic potential energy of the nuclei is calculated according to equation (
+    <inlinemediaref inlinemediaid="i15920">
+     7
+    </inlinemediaref>
+    ) as −
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    . Inverting the direction of the dipole moment requires an energy of 2
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    , since the potential energy in the new orientation is +
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    . A high-frequency oscillator provides energy in the form of
+    <xref articleid="106022">
+     electromagnetic radiation
+    </xref>
+    of frequency ν, with each quantum of radiation having an energy
+    <e type="italic">
+     h
+    </e>
+    ν, where
+    <e type="italic">
+     h
+    </e>
+    is
+    <xref articleid="60293">
+     Planck’s constant
+    </xref>
+    . The electromagnetic radiation from the oscillator consists of high-frequency
+    <xref articleid="473149">
+     radio waves
+    </xref>
+    , which are beamed into the patient’s body while it is subjected to a strong magnetic field. When the resonance condition
+    <e type="italic">
+     h
+    </e>
+    ν = 2
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    is satisfied, the hydrogen nuclei in the body tissue absorb the energy and reverse their orientation. The resonance condition is met in only a small region of the body at any given time, and measurement of the energy absorption reveals the concentration of hydrogen atoms in that region alone. The magnetic field in an MRI scanner is usually provided by a large
+    <xref articleid="68580">
+     solenoid
+    </xref>
+    with
+    <e type="italic">
+     B
+    </e>
+    of one to three
+    <xref articleid="71813">
+     teslas
+    </xref>
+    . A number of “gradient coils” insures that the resonance condition is satisfied solely in the limited region inside the solenoid at any particular time; the coils are used to move this small target region, thereby making it possible to scan the patient’s body throughout. The frequency of the radiation ν is determined by the value of
+    <e type="italic">
+     B
+    </e>
+    and is typically 40 to 130 megahertz. The MRI technique does not harm the patient because the energy of the quanta of the electromagnetic radiation is much smaller than the thermal energy of a
+    <xref articleid="53247">
+     molecule
+    </xref>
+    in the human body.
+   </p>
+   <p>
+    The direction of the magnetic moment
+    <e type="bolditalic">
+     m
+    </e>
+    of a compass needle is from the end marked S for south to the one marked N for north. The lowest energy occurs for ϑ = 0, when
+    <e type="bolditalic">
+     m
+    </e>
+    and
+    <e type="bolditalic">
+     B
+    </e>
+    are aligned. In a typical situation, the compass needle comes to rest after a few oscillations and points along the
+    <e type="bolditalic">
+     B
+    </e>
+    field in the direction called north. It must be concluded from this that Earth’s
+    <xref articleid="56216">
+     North Pole
+    </xref>
+    is really a
+    <xref articleid="50028">
+     magnetic south pole
+    </xref>
+    , with the field lines pointing toward that pole, while its
+    <xref articleid="68877">
+     South Pole
+    </xref>
+    is a magnetic north pole. Put another way, the dipole moment of
+    <xref articleid="110147">
+     Earth
+    </xref>
+    currently points north to south. Short-term changes in the Earth’s magnetic field are ascribed to
+    <xref articleid="32273">
+     electric currents
+    </xref>
+    in the
+    <xref articleid="42708">
+     ionosphere
+    </xref>
+    . There are also longer-term fluctuations in the locations of the poles. The angle between the compass needle and geographic north is called the magnetic declination (
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="36468">
+     Earth: The magnetic field of the Earth
+    </xref>
+    ).
+   </p>
+   <p>
+    <assembly id="a1352" url="/assembly/view/1352">
+     <title>
+      electromagnet
+     </title>
+     <media mediaid="257" type="image" url="/57/257-004-35B8F184.jpg"/>
+     <caption>
+      Figure 9: A small sample of copper in an inhomogeneous magnetic field (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    The repulsion or attraction between two magnetic dipoles can be viewed as the interaction of one dipole with the magnetic field produced by the other dipole. The magnetic field is not constant, but varies with the distance from the dipole. When a magnetic dipole with moment
+    <e type="bolditalic">
+     m
+    </e>
+    is in a
+    <e type="bolditalic">
+     B
+    </e>
+    field that varies with position, it is subjected to a force proportional to that variation—i.e., to the gradient of
+    <e type="bolditalic">
+     B
+    </e>
+    . The direction of the force is understood best by considering the potential energy of a dipole in an external
+    <e type="bolditalic">
+     B
+    </e>
+    field, as given by equation (
+    <inlinemediaref inlinemediaid="i15920">
+     7
+    </inlinemediaref>
+    ). The force on the dipole is in the direction in which that energy decreases most rapidly. For example, if the magnetic dipole
+    <e type="bolditalic">
+     m
+    </e>
+    is aligned with
+    <e type="bolditalic">
+     B
+    </e>
+    , then the energy is −
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    , and the force is in the direction of increasing
+    <e type="bolditalic">
+     B
+    </e>
+    . If
+    <e type="bolditalic">
+     m
+    </e>
+    is directed opposite to
+    <e type="bolditalic">
+     B
+    </e>
+    , then the potential energy given by equation (
+    <inlinemediaref inlinemediaid="i15920">
+     7
+    </inlinemediaref>
+    ) is +
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    , and in this case the force is in the direction of decreasing
+    <e type="bolditalic">
+     B
+    </e>
+    . Both types of forces are observed when various samples of matter are placed in a nonuniform magnetic field. Such a field from an
+    <xref articleid="32309">
+     electromagnet
+    </xref>
+    is sketched in
+    <assemblyref assemblyid="a1352">
+     Figure 9
+    </assemblyref>
+    .
+   </p>
+  </h2>
+  <h2 id="h71541">
+   <title>
+    Magnetization effects in matter
+   </title>
+   <p>
+    Regardless of the direction of the
+    <xref articleid="50022">
+     magnetic field
+    </xref>
+    in
+    <assemblyref assemblyid="a1352">
+     Figure 9
+    </assemblyref>
+    , a sample of
+    <xref articleid="26194">
+     copper
+    </xref>
+    is magnetically attracted toward the low field region to the right in the drawing. This behaviour is termed
+    <xref articleid="30261">
+     diamagnetism
+    </xref>
+    . A sample of
+    <xref articleid="5954">
+     aluminum
+    </xref>
+    , however, is attracted toward the high field region in an effect called
+    <xref articleid="58400">
+     paramagnetism
+    </xref>
+    . A magnetic dipole moment is induced when matter is subjected to an external field. For copper, the induced dipole moment is opposite to the direction of the external field; for aluminum, it is aligned with that field. The magnetization
+    <e type="bolditalic">
+     M
+    </e>
+    of a small volume of matter is the sum (a vector sum) of the magnetic dipole moments in the small volume divided by that volume.
+    <e type="bolditalic">
+     M
+    </e>
+    is measured in units of
+    <xref articleid="7233">
+     amperes
+    </xref>
+    per metre. The degree of induced magnetization is given by the magnetic susceptibility of the material χ
+    <sub>
+     <e type="italic">
+      m
+     </e>
+    </sub>
+    , which is commonly defined by the equation
+    <formula>
+     <inlinemedia id="i15919" mediaid="15919" url="/19/15919-004-6DDA15E9.jpg"/>
+    </formula>
+   </p>
+   <p>
+    The field
+    <e type="bolditalic">
+     H
+    </e>
+    is called the magnetic intensity and, like
+    <e type="bolditalic">
+     M
+    </e>
+    , is measured in units of amperes per metre. (It is sometimes also called the magnetic field, but the symbol
+    <e type="bolditalic">
+     H
+    </e>
+    is unambiguous.) The definition of
+    <e type="bolditalic">
+     H
+    </e>
+    is
+    <formula>
+     <inlinemedia id="i15918" mediaid="15918" url="/18/15918-004-94C5FF5A.jpg"/>
+    </formula>
+   </p>
+   <p>
+    Magnetization effects in matter are discussed in some detail below. The permeability μ is often used for
+    <xref articleid="34114">
+     ferromagnetic
+    </xref>
+    materials such as
+    <xref articleid="42794">
+     iron
+    </xref>
+    that have a large magnetic susceptibility dependent on the field and the previous magnetic state of the sample; permeability is defined by the equation
+    <e type="bolditalic">
+     B
+    </e>
+    = μ
+    <e type="bolditalic">
+     H
+    </e>
+    . From equations (
+    <inlinemediaref inlinemediaid="i15919">
+     8
+    </inlinemediaref>
+    ) and (
+    <inlinemediaref inlinemediaid="i15918">
+     9
+    </inlinemediaref>
+    ), it follows that μ = μ
+    <sub>
+     0
+    </sub>
+    (1 + χ
+    <sub>
+     <e type="italic">
+      m
+     </e>
+    </sub>
+    ).
+   </p>
+   <p>
+    <assembly id="a1353" url="/assembly/view/1353">
+     <title>
+      electromagnet
+     </title>
+     <media mediaid="258" type="image" url="/58/258-004-EB7129AD.jpg"/>
+     <caption>
+      Figure 10: An electromagnet made of a toroidal winding around an iron ring that has a small gap (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    The effect of ferromagnetic materials in increasing the magnetic field produced by current loops is quite large.
+    <assemblyref assemblyid="a1353">
+     Figure 10
+    </assemblyref>
+    illustrates a toroidal winding of conducting wire around a ring of iron that has a small gap. The magnetic field inside a toroidal winding similar to the one illustrated in
+    <assemblyref assemblyid="a1353">
+     Figure 10
+    </assemblyref>
+    but without the iron ring is given by
+    <e type="italic">
+     B
+    </e>
+    = μ
+    <sub>
+     0
+    </sub>
+    <e type="italic">
+     N
+    </e>
+    <e type="italic">
+     i
+    </e>
+    /2π
+    <e type="italic">
+     r
+    </e>
+    , where
+    <e type="italic">
+     r
+    </e>
+    is the distance from the axis of the toroid,
+    <e type="italic">
+     N
+    </e>
+    is the number of turns, and
+    <e type="italic">
+     i
+    </e>
+    is the current in the wire. The value of
+    <e type="italic">
+     B
+    </e>
+    for
+    <e type="italic">
+     r
+    </e>
+    = 0.1 metre,
+    <e type="italic">
+     N
+    </e>
+    = 100, and
+    <e type="italic">
+     i
+    </e>
+    = 10 amperes is only 0.002 tesla—about 50 times the magnetic field at Earth’s surface. If the same toroid is wound around an iron ring with no gap, the magnetic field inside the iron is larger by a factor equal to μ/μ
+    <sub>
+     0
+    </sub>
+    , where μ is the magnetic permeability of the iron. For low-
+    <xref articleid="20244">
+     carbon
+    </xref>
+    iron in these conditions, μ = 8,000μ
+    <sub>
+     0
+    </sub>
+    . The magnetic field in the iron is then 1.6 tesla. In a typical electromagnet, iron is used to increase the field in a small region, such as the narrow gap in the iron ring illustrated in
+    <assemblyref assemblyid="a1353">
+     Figure 10
+    </assemblyref>
+    . If the gap is 1 cm wide, the field in that gap is about 0.12 tesla, a 60-fold increase relative to the 0.002-tesla field in the toroid when no iron is used. This factor is typically given by the ratio of the circumference of the toroid to the gap in the ferromagnetic material. The maximum value of
+    <e type="italic">
+     B
+    </e>
+    as the gap becomes very small is of course the 1.6 tesla obtained above when there is no gap.
+   </p>
+   <p>
+    <assembly id="a1354" url="/assembly/view/1354">
+     <title>
+      magnetic field of two current loops
+     </title>
+     <media mediaid="259" type="image" url="/59/259-004-E54230F5.jpg"/>
+     <caption>
+      Figure 11: Magnetic field
+      <e type="italic">
+       B
+      </e>
+      of two current loops with currents in opposite directions (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    The energy density in a magnetic field is given in the absence of matter by
+    <fraction>
+     <num>
+      1
+     </num>
+     <den>
+      2
+     </den>
+    </fraction>
+    <e type="italic">
+     B
+    </e>
+    <sup>
+     2
+    </sup>
+    /μ
+    <sub>
+     0
+    </sub>
+    ; it is measured in units of
+    <xref articleid="44023">
+     joules
+    </xref>
+    per cubic metre. The total magnetic energy can be obtained by integrating the energy density over all space. The direction of the magnetic force can be deduced in many situations by studying distribution of the magnetic field lines; motion is favoured in the direction that tends to decrease the volume of space where the magnetic field is strong. This can be understood because the magnitude of
+    <e type="bolditalic">
+     B
+    </e>
+    is squared in the energy density.
+    <assemblyref assemblyid="a1354">
+     Figure 11
+    </assemblyref>
+    shows some lines of the
+    <e type="bolditalic">
+     B
+    </e>
+    field for two circular current loops with currents in opposite directions.
+   </p>
+   <p>
+    <assembly id="a1355" url="/assembly/view/1355">
+     <title>
+      magnetic field of two current loops
+     </title>
+     <media mediaid="260" type="image" url="/60/260-004-05F79E91.jpg"/>
+     <caption>
+      Figure 12: Magnetic field
+      <e type="italic">
+       B
+      </e>
+      of two current loops with currents in the same direction (see text).
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    Because
+    <assemblyref assemblyid="a1354">
+     Figure 11
+    </assemblyref>
+    is a two-dimensional representation of a three-dimensional field, the spacing between the lines reflects the strength of the field only qualitatively. The high values of
+    <e type="bolditalic">
+     B
+    </e>
+    between the two loops of the figure show that there is a large energy density in that region and separating the loops would reduce the energy. As discussed above, this is one more way of looking at the source of repulsion between these two loops.
+    <assemblyref assemblyid="a1355">
+     Figure 12
+    </assemblyref>
+    shows the
+    <e type="bolditalic">
+     B
+    </e>
+    field for two loops with currents in the same direction. The force between the loops is attractive, and the distance separating them is equal to the loop radius. The result is that the
+    <e type="bolditalic">
+     B
+    </e>
+    field in the central region between the two loops is homogeneous to a remarkably high degree. Such a configuration is called a Helmholtz coil. By carefully orienting and adjusting the current in a large Helmholtz coil, it is often possible to cancel an external magnetic field (such as
+    <xref articleid="36468">
+     Earth’s magnetic field
+    </xref>
+    ) in a region of space where experiments require the absence of all external magnetic fields.
+   </p>
+   <signature>
+    Frank Neville H. Robinson
+   </signature>
+   <signature>
+    Eustace E. Suckling
+   </signature>
+   <signature>
+    Edwin Kashy
+   </signature>
+  </h2>
+ </h1>
+ <h1 id="h71542">
+  <title>
+   Magnetic properties of matter
+  </title>
+  <p>
+   All
+   <xref articleid="51438">
+    matter
+   </xref>
+   exhibits magnetic properties when placed in an external magnetic field. Even substances like
+   <xref articleid="26194">
+    copper
+   </xref>
+   and
+   <xref articleid="5954">
+    aluminum
+   </xref>
+   that are not normally thought of as having magnetic properties are affected by the presence of a
+   <xref articleid="50022">
+    magnetic field
+   </xref>
+   such as that produced by either pole of a bar
+   <xref articleid="50017">
+    magnet
+   </xref>
+   . Depending on whether there is an attraction or repulsion by the pole of a magnet, matter is classified as being either
+   <xref articleid="58400">
+    paramagnetic
+   </xref>
+   or
+   <xref articleid="30261">
+    diamagnetic
+   </xref>
+   , respectively. A few materials, notably
+   <xref articleid="42794">
+    iron
+   </xref>
+   , show a very large attraction toward the pole of a permanent bar magnet; materials of this kind are called
+   <xref articleid="34114">
+    ferromagnetic
+   </xref>
+   .
+  </p>
+  <p>
+   In 1845
+   <xref articleid="109756">
+    Faraday
+   </xref>
+   became the first to classify substances as either diamagnetic or paramagnetic. He based this classification on his observation of the force exerted on substances in an inhomogeneous magnetic field. At moderate field strengths, the magnetization
+   <e type="bolditalic">
+    M
+   </e>
+   of a substance is linearly proportional to the strength of the applied field
+   <e type="bolditalic">
+    H
+   </e>
+   . The magnetization is specified by the magnetic susceptibility χ (previously labeled χ
+   <sub>
+    <e type="italic">
+     m
+    </e>
+   </sub>
+   ), defined by the relation
+   <e type="bolditalic">
+    M
+   </e>
+   = χ
+   <e type="bolditalic">
+    H
+   </e>
+   . A sample of volume
+   <e type="italic">
+    V
+   </e>
+   placed in a field
+   <e type="bolditalic">
+    H
+   </e>
+   directed in the
+   <e type="italic">
+    x
+   </e>
+   -direction and increasing in that direction at a rate
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    H
+   </e>
+   /
+   <e type="italic">
+    d
+   </e>
+   <e type="italic">
+    x
+   </e>
+   will experience a force in the
+   <e type="italic">
+    x
+   </e>
+   -direction of
+   <e type="bolditalic">
+    F
+   </e>
+   = χμ
+   <sub>
+    0
+   </sub>
+   <e type="italic">
+    V
+   </e>
+   <e type="italic">
+    H
+   </e>
+   (
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    H
+   </e>
+   /
+   <e type="italic">
+    d
+   </e>
+   <e type="italic">
+    x
+   </e>
+   ). If the magnetic susceptibility χ is positive, the force is in the direction of increasing field strength, whereas if χ is negative, it is in the direction of decreasing field strength. Measurement of the force
+   <e type="bolditalic">
+    F
+   </e>
+   in a known field
+   <e type="bolditalic">
+    H
+   </e>
+   with a known gradient
+   <e type="italic">
+    d
+   </e>
+   <e type="bolditalic">
+    H
+   </e>
+   /
+   <e type="italic">
+    d
+   </e>
+   <e type="italic">
+    x
+   </e>
+   is the basis of a number of accurate methods of determining χ.
+  </p>
+  <p>
+   Substances for which the magnetic susceptibility is negative (e.g., copper and
+   <xref articleid="67807">
+    silver
+   </xref>
+   ) are classified as diamagnetic. The susceptibility is small, on the order of −10
+   <sup>
+    −5
+   </sup>
+   for
+   <xref articleid="68592">
+    solids
+   </xref>
+   and liquids and −10
+   <sup>
+    −8
+   </sup>
+   for
+   <xref articleid="110302">
+    gases
+   </xref>
+   . A characteristic feature of diamagnetism is that the magnetic moment per unit mass in a given field is virtually constant for a given substance over a very wide range of temperatures. It changes little between solid,
+   <xref articleid="110301">
+    liquid
+   </xref>
+   , and gas; the variation in the susceptibility between solid or liquid and gas is almost entirely due to the change in the number of
+   <xref articleid="53247">
+    molecules
+   </xref>
+   per unit volume. This indicates that the magnetic moment induced in each molecule by a given field is primarily a property characteristic of the molecule.
+  </p>
+  <p>
+   Substances for which the magnetic susceptibility is positive are classed as paramagnetic. In a few cases (including most
+   <xref articleid="52266">
+    metals
+   </xref>
+   ), the susceptibility is independent of
+   <xref articleid="71632">
+    temperature
+   </xref>
+   , but in most
+   <xref articleid="110804">
+    compounds
+   </xref>
+   it is strongly temperature dependent, increasing as the temperature is lowered. Measurements by the French physicist
+   <xref articleid="28253">
+    Pierre Curie
+   </xref>
+   in 1895 showed that for many substances the susceptibility is inversely proportional to the absolute temperature
+   <e type="italic">
+    T
+   </e>
+   ; that is, χ =
+   <e type="italic">
+    C
+   </e>
+   /
+   <e type="italic">
+    T
+   </e>
+   . This approximate relationship is known as Curie’s law and the constant
+   <e type="italic">
+    C
+   </e>
+   as the Curie constant. A more accurate equation is obtained in many cases by modifying the above equation to χ =
+   <e type="italic">
+    C
+   </e>
+   /(
+   <e type="italic">
+    T
+   </e>
+   − θ), where θ is a constant. This equation is called the Curie–Weiss law (after Curie and
+   <xref articleid="76466">
+    Pierre-Ernest Weiss
+   </xref>
+   , another French physicist). From the form of this last equation, it is clear that at the temperature
+   <e type="italic">
+    T
+   </e>
+   = θ, the value of the susceptibility becomes infinite. Below this temperature, the material exhibits spontaneous magnetization—i.e., it becomes
+   <xref articleid="34114">
+    ferromagnetic
+   </xref>
+   . Its magnetic properties are then very different from those in the
+   <xref articleid="58400">
+    paramagnetic
+   </xref>
+   or high-temperature phase. In particular, although its magnetic moment can be changed by the application of a magnetic field, the value of the moment attained in a given field is not always the same; it depends on the previous magnetic, thermal, and mechanical treatment of the sample.
+  </p>
+  <h2 id="h71543">
+   <title>
+    Induced and permanent atomic magnetic dipoles
+   </title>
+   <p>
+    Whether a substance is
+    <xref articleid="58400">
+     paramagnetic
+    </xref>
+    or
+    <xref articleid="30261">
+     diamagnetic
+    </xref>
+    is determined primarily by the presence or absence of free
+    <xref articleid="50021">
+     magnetic dipole
+    </xref>
+    moments (i.e., those free to rotate) in its constituent
+    <xref articleid="110411">
+     atoms
+    </xref>
+    . When there are no free moments, the magnetization is produced by currents of the
+    <xref articleid="32316">
+     electrons
+    </xref>
+    in their atomic orbits. The substance is then diamagnetic, with a negative susceptibility independent of both field strength and
+    <xref articleid="71632">
+     temperature
+    </xref>
+    .
+   </p>
+   <p>
+    In matter with free magnetic dipole moments, the orientation of the moments is normally random and, as a result, the substance has no net magnetization. When a magnetic field is applied, the dipoles are no longer completely randomly oriented; more dipoles point with the field than against the field. When this results in a net positive magnetization in the direction of the field, the substance has a positive susceptibility and is classified as paramagnetic.
+   </p>
+   <p>
+    The forces opposing alignment of the dipoles with the external magnetic field are thermal in origin and thus weaker at low temperatures. The excess number of dipoles pointing with the field is determined by (
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    /
+    <e type="italic">
+     k
+    </e>
+    <e type="italic">
+     T
+    </e>
+    ), where
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    represents the magnetic energy and
+    <e type="italic">
+     k
+    </e>
+    <e type="italic">
+     T
+    </e>
+    the
+    <xref articleid="72068">
+     thermal energy
+    </xref>
+    . When the magnetic energy is small compared to the thermal energy, the excess number of dipoles pointing with the field is proportional to the field and inversely proportional to the absolute temperature, corresponding to Curie’s law. When the value of (
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    /
+    <e type="italic">
+     k
+    </e>
+    <e type="italic">
+     T
+    </e>
+    ) is large enough to align nearly all the dipoles with the field, the magnetization approaches a saturation value.
+   </p>
+   <p>
+    <assembly id="a1361" url="/assembly/view/1361">
+     <title>
+      magnetic susceptibility of chemical elements
+     </title>
+     <media mediaid="264" type="image" url="/64/264-004-5C3547F4.jpg"/>
+     <caption>
+      Figure 13: The susceptibility of a kilogram mole of the elements. Broken lines connect the alkali metals (paramagnetic) and the rare gases of the atmosphere (diamagnetic).
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    There is a third category of matter in which intrinsic moments are not normally present but appear under the influence of an external magnetic field. The intrinsic moments of conduction electrons in metals behave this way. One finds a small positive susceptibility independent of temperature comparable with the diamagnetic contribution, so that the overall susceptibility of a metal may be positive or negative. The molar susceptibility of elements is shown in
+    <assemblyref assemblyid="a1361">
+     Figure 13
+    </assemblyref>
+    .
+   </p>
+   <p>
+    In addition to the forces exerted on atomic dipoles by an external magnetic field, mutual forces exist between the dipoles. Such forces vary widely for different substances. Below a certain transition
+    <xref articleid="71632">
+     temperature
+    </xref>
+    depending on the substance, they produce an ordered arrangement of the orientations of the atomic dipoles even in the absence of an external field. The mutual forces tend to align neighbouring dipoles either parallel or antiparallel to one another. Parallel alignment of atomic dipoles throughout large volumes of the substance results in ferromagnetism, with a permanent magnetization on a macroscopic scale. On the other hand, if equal numbers of atomic dipoles are aligned in opposite directions and the dipoles are of the same size, there is no permanent macroscopic magnetization, and this is known as
+    <xref articleid="7822">
+     antiferromagnetism
+    </xref>
+    . If the atomic dipoles are of different magnitudes and those pointing in one direction are all different in size from those pointing in the opposite direction, there exists permanent magnetization on a macroscopic scale in an effect known as ferrimagnetism. A simple schematic representation of these different possibilities is shown in .
+   </p>
+   <p>
+    In all cases, the material behaves as a
+    <xref articleid="58400">
+     paramagnet
+    </xref>
+    above the characteristic transition temperature; it acquires a macroscopic magnetic moment only when an external field is applied.
+   </p>
+  </h2>
+  <h2 id="h71544">
+   <title>
+    Diamagnetism
+   </title>
+   <p>
+    When an
+    <xref articleid="32316">
+     electron
+    </xref>
+    moving in an atomic orbit is in a
+    <xref articleid="50022">
+     magnetic field
+    </xref>
+    <e type="bolditalic">
+     B
+    </e>
+    , the
+    <xref articleid="34834">
+     force
+    </xref>
+    exerted on the electron produces a small change in the orbital motion; the electron orbit precesses about the direction of
+    <e type="bolditalic">
+     B
+    </e>
+    . As a result, each electron acquires an additional
+    <xref articleid="7612">
+     angular momentum
+    </xref>
+    that contributes to the magnetization of the sample. The susceptibility χ is given by
+    <formula>
+     <inlinemedia id="i15898" mediaid="15898" url="/98/15898-004-4828BAFF.jpg"/>
+    </formula>
+    where Σ &lt;
+    <e type="italic">
+     r
+    </e>
+    <sup>
+     2
+    </sup>
+    &gt; is the sum of the mean square radii of all electron orbits in each
+    <xref articleid="110411">
+     atom
+    </xref>
+    ,
+    <e type="italic">
+     e
+    </e>
+    and
+    <e type="italic">
+     m
+    </e>
+    are the charge and mass of the electron, and
+    <e type="italic">
+     N
+    </e>
+    is the number of atoms per unit volume. The negative sign of this susceptibility is a direct consequence of
+    <xref articleid="47780">
+     Lenz’s law
+    </xref>
+    . When
+    <e type="bolditalic">
+     B
+    </e>
+    is switched on, the change in motion of each orbit is equivalent to an induced circulating
+    <xref articleid="32273">
+     electric current
+    </xref>
+    in such a direction that its own magnetic flux opposes the change in magnetic flux through the orbit; i.e., the induced magnetic moment is directed opposite to
+    <e type="bolditalic">
+     B
+    </e>
+    .
+   </p>
+   <p>
+    Since the magnetization
+    <e type="bolditalic">
+     M
+    </e>
+    is proportional to the number
+    <e type="italic">
+     N
+    </e>
+    of atoms per unit volume, it is sometimes useful to give the susceptibility per
+    <xref articleid="53235">
+     mole
+    </xref>
+    , χ
+    <sub>
+     <e type="italic">
+      mole
+     </e>
+    </sub>
+    . For a
+    <xref articleid="45447">
+     kilogram
+    </xref>
+    mole (the
+    <xref articleid="472885">
+     molecular weight
+    </xref>
+    in kilograms), the numerical value of the molar susceptibility is
+    <formula>
+     <inlinemedia id="i15897" mediaid="15897" url="/97/15897-004-A8BB0B40.jpg"/>
+    </formula>
+   </p>
+   <p>
+    For an atom, the mean value of Σ &lt;
+    <e type="italic">
+     r
+    </e>
+    <sup>
+     2
+    </sup>
+    &gt; is about 10
+    <sup>
+     −21
+    </sup>
+    square metre and χ
+    <sub>
+     <e type="italic">
+      mole
+     </e>
+    </sub>
+    has values of 10
+    <sup>
+     −9
+    </sup>
+    to 10
+    <sup>
+     −10
+    </sup>
+    ; the
+    <xref articleid="10131">
+     atomic number
+    </xref>
+    <e type="italic">
+     Z
+    </e>
+    equals the number of electrons in each atom. The quantity Σ &lt;
+    <e type="italic">
+     r
+    </e>
+    <sup>
+     2
+    </sup>
+    &gt; for each atom, and therefore the diamagnetic susceptibility, is essentially independent of
+    <xref articleid="71632">
+     temperature
+    </xref>
+    . It is also not affected by the surroundings of the atom.
+   </p>
+   <p>
+    A different kind of diamagnetism occurs in
+    <xref articleid="70388">
+     superconductors
+    </xref>
+    . The conduction electrons are spread out over the entire
+    <xref articleid="52266">
+     metal
+    </xref>
+    , and so the induced magnetic moment is governed by the size of the superconducting sample rather than by the size of the individual constituent atoms (a very large effective &lt;
+    <e type="italic">
+     r
+    </e>
+    <sup>
+     2
+    </sup>
+    &gt;). The diamagnetism is so strong that the magnetic field is kept out of the superconductor.
+   </p>
+  </h2>
+  <h2 id="h71545">
+   <title>
+    Paramagnetism
+   </title>
+   <p>
+    <assembly id="a1363" url="/assembly/view/1363">
+     <title>
+      magnetization of paramagnetic substances
+     </title>
+     <media mediaid="266" type="image" url="/66/266-004-C24B3DFA.jpg"/>
+     <caption>
+      Figure 15: The approach to saturation in the magnetization of a paramagnetic substance following a Brillouin curve. Curves I, II, and III refer to ions of chromium, potassium alum, iron ammonium alum, and gadolinium sulfate octahydrate for which
+      <e type="italic">
+       g
+      </e>
+      = 2 and
+      <e type="italic">
+       j
+      </e>
+      = 3/2, 5/2, and 7/2, respectively.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    Paramagnetism occurs primarily in substances in which some or all of the individual
+    <xref articleid="110411">
+     atoms
+    </xref>
+    ,
+    <xref articleid="42688">
+     ions
+    </xref>
+    , or
+    <xref articleid="53247">
+     molecules
+    </xref>
+    possess a permanent magnetic dipole moment. The magnetization of such matter depends on the ratio of the magnetic energy of the individual dipoles to the thermal energy. This dependence can be calculated in
+    <xref articleid="110312">
+     quantum theory
+    </xref>
+    and is given by the Brillouin function, which depends only on the ratio (
+    <e type="italic">
+     B
+    </e>
+    /
+    <e type="italic">
+     T
+    </e>
+    ). At low
+    <xref articleid="50022">
+     magnetic fields
+    </xref>
+    , the magnetization is linearly proportional to the field and reaches its maximum saturation value when the magnetic energy is much greater than the thermal energy.
+    <assemblyref assemblyid="a1363">
+     Figure 15
+    </assemblyref>
+    shows the dependence of the magnetic moment per ion in units of Bohr magnetons as a function of
+    <e type="italic">
+     B
+    </e>
+    /
+    <e type="italic">
+     T
+    </e>
+    . (One Bohr magneton equals 9.274009994 × 10
+    <sup>
+     −24
+    </sup>
+    <xref articleid="7233">
+     ampere
+    </xref>
+    times square metre.)
+   </p>
+   <p>
+    In substances that have a nuclear magnetic dipole moment, there is a further contribution to susceptibility. The size of the nuclear magnetic moment is only about one-thousandth that of an atom. Per kilogram
+    <xref articleid="53235">
+     mole
+    </xref>
+    , χ
+    <sub>
+     <e type="italic">
+      n
+     </e>
+    </sub>
+    is on the order of 10
+    <sup>
+     −8
+    </sup>
+    /
+    <e type="italic">
+     T
+    </e>
+    ; in solid
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    this just exceeds the electronic diamagnetism of 1 K.
+   </p>
+   <p>
+    Curie’s law should hold when
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     B
+    </e>
+    is much smaller than
+    <e type="italic">
+     k
+    </e>
+    <e type="italic">
+     T
+    </e>
+    , provided that no other forces act on the atomic dipoles. In many
+    <xref articleid="68592">
+     solids
+    </xref>
+    , the presence of internal forces may cause the susceptibility to vary in a complicated way. If the forces orient the dipoles parallel to each other, the behaviour is ferromagnetic (
+    <e type="italic">
+     see below
+    </e>
+    ). The forces may orient the dipoles so that the normal state has no free moment. If the force is sufficiently weak, a small magnetic field can reorient the dipoles, resulting in a net magnetization. This type of paramagnetism occurs for conduction
+    <xref articleid="32316">
+     electrons
+    </xref>
+    in a
+    <xref articleid="52266">
+     metal
+    </xref>
+    . In normal metals, each occupied electron state has two electrons with opposite spin orientation. This is a consequence of the
+    <xref articleid="58783">
+     Pauli exclusion principle
+    </xref>
+    of
+    <xref articleid="110312">
+     quantum mechanics
+    </xref>
+    , which permits no greater occupancy of the energetically favoured states. In the presence of a magnetic field, however, it is energetically more favourable for some of the electrons to move to higher states. With only single electrons in these states, the electron moments can be oriented along the field. The resulting paramagnetic susceptibility is independent of temperature. The net susceptibility is independent of temperature. The net susceptibility of a metal can be of either sign, since the diamagnetic and paramagnetic contributions are of comparable magnitudes.
+   </p>
+  </h2>
+  <h2 id="h71546">
+   <title>
+    Ferromagnetism
+   </title>
+   <p>
+    A ferromagnetic substance contains permanent atomic magnetic dipoles that are spontaneously oriented parallel to one another even in the absence of an external field. The magnetic repulsion between two dipoles aligned side by side with their moments in the same direction makes it difficult to understand the phenomenon of ferromagnetism. It is known that within a ferromagnetic material, there is a spontaneous alignment of atoms in large clusters. A new type of interaction, a quantum mechanical effect known as the exchange interaction, is involved. A highly simplified description of how the exchange interaction aligns
+    <xref articleid="32316">
+     electrons
+    </xref>
+    in ferromagnetic materials is given here.
+   </p>
+   <h3 id="h71547">
+    <title>
+     Role of exchange interaction
+    </title>
+    <p>
+     The magnetic properties of
+     <xref articleid="42794">
+      iron
+     </xref>
+     are thought to be the result of the magnetic moment associated with the
+     <xref articleid="69132">
+      spin
+     </xref>
+     of an electron in an outer atomic shell—specifically, the third
+     <e type="italic">
+      d
+     </e>
+     shell. Such electrons are referred to as magnetization electrons. The
+     <xref articleid="58783">
+      Pauli exclusion principle
+     </xref>
+     prohibits two
+     <xref articleid="32316">
+      electrons
+     </xref>
+     from having identical properties; for example, no two electrons can be in the same location and have spins in the same direction. This exclusion can be viewed as a “repulsive” mechanism for spins in the same direction; its effect is opposite that required to align the electrons responsible for the magnetization in the iron domains. However, other electrons with spins in the opposite direction, primarily in the fourth
+     <e type="italic">
+      s
+     </e>
+     atomic shell, interact at close range with the magnetization electrons, and this interaction is attractive. Because of the attractive effect of their opposite spins, these
+     <e type="italic">
+      s
+     </e>
+     -shell electrons influence the magnetization electrons of a number of the iron atoms and align them with each other.
+    </p>
+    <p>
+     <assembly id="a1364" url="/assembly/view/1364">
+      <title>
+       Curie-Weiss law
+      </title>
+      <media mediaid="267" type="image" url="/67/267-004-0564CA68.jpg"/>
+      <caption>
+       Figure 16: Plot of 1/
+       <e type="italic">
+        χ
+       </e>
+       . (A) Curie’s law. (B) Curie–Weiss law for a ferromagnet with Curie temperature
+       <e type="italic">
+        T
+       </e>
+       <sub>
+        <e type="italic">
+         c
+        </e>
+       </sub>
+       . (C) Curie–Weiss law for an antiferromagnetic substance.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     A simple empirical representation of the effect of such exchange forces invokes the idea of an effective internal, or molecular, field
+     <e type="bolditalic">
+      H
+     </e>
+     <sub>
+      <e type="italic">
+       int
+      </e>
+     </sub>
+     , which is proportional in size to the magnetization
+     <e type="bolditalic">
+      M
+     </e>
+     ; that is,
+     <e type="bolditalic">
+      H
+     </e>
+     <sub>
+      <e type="italic">
+       int
+      </e>
+     </sub>
+     = λ
+     <e type="bolditalic">
+      M
+     </e>
+     in which λ is an empirical parameter. The resulting magnetization
+     <e type="bolditalic">
+      M
+     </e>
+     equals χ
+     <sub>
+      <e type="italic">
+       p
+      </e>
+     </sub>
+     (
+     <e type="bolditalic">
+      H
+     </e>
+     + λ
+     <e type="bolditalic">
+      M
+     </e>
+     ), in which χ
+     <sub>
+      <e type="italic">
+       p
+      </e>
+     </sub>
+     is the susceptibility that the substance would have in the absence of the internal field. Assuming that χ
+     <sub>
+      <e type="italic">
+       p
+      </e>
+     </sub>
+     =
+     <e type="italic">
+      C
+     </e>
+     /
+     <e type="italic">
+      T
+     </e>
+     , corresponding to Curie’s law, the equation
+     <e type="italic">
+      M
+     </e>
+     =
+     <e type="italic">
+      C
+     </e>
+     (
+     <e type="italic">
+      H
+     </e>
+     + λ
+     <e type="italic">
+      M
+     </e>
+     )/
+     <e type="italic">
+      T
+     </e>
+     has the solution χ =
+     <e type="italic">
+      M
+     </e>
+     /
+     <e type="italic">
+      H
+     </e>
+     =
+     <e type="italic">
+      C
+     </e>
+     /(
+     <e type="italic">
+      T
+     </e>
+     −
+     <e type="italic">
+      C
+     </e>
+     λ) =
+     <e type="italic">
+      C
+     </e>
+     /(
+     <e type="italic">
+      T
+     </e>
+     −
+     <e type="italic">
+      T
+     </e>
+     <e type="italic">
+      c
+     </e>
+     ). This result, the Curie–Weiss law, is valid at temperatures greater than the Curie temperature
+     <e type="italic">
+      T
+     </e>
+     <sub>
+      <e type="italic">
+       c
+      </e>
+     </sub>
+     (
+     <e type="italic">
+      see below
+     </e>
+     ); at such temperatures the substance is still paramagnetic because the magnetization is zero when the field is zero. The internal field, however, makes the susceptibility larger than that given by the Curie law. A plot of 1/χ against
+     <e type="italic">
+      T
+     </e>
+     still gives a straight line, as shown in
+     <assemblyref assemblyid="a1364">
+      Figure 16
+     </assemblyref>
+     , but 1/χ becomes zero when the temperature reaches the Curie temperature.
+    </p>
+    <p>
+     Since 1/χ =
+     <e type="italic">
+      H
+     </e>
+     /
+     <e type="italic">
+      M
+     </e>
+     ,
+     <e type="bolditalic">
+      M
+     </e>
+     at this temperature must be finite even when the magnetic field is zero. Thus, below the Curie temperature, the substance exhibits a spontaneous magnetization
+     <e type="bolditalic">
+      M
+     </e>
+     in the absence of an external field, the essential property of a ferromagnet. The gives Curie temperature values for various ferromagnetic substances.
+    </p>
+    <p>
+     <assembly id="a1365" url="/assembly/view/1365">
+      <title>
+       magnetization as a function of reduced temperature
+      </title>
+      <media mediaid="268" type="image" url="/68/268-004-2566887E.jpg"/>
+      <caption>
+       Figure 17: The reduced magnetization
+       <e type="italic">
+        M
+       </e>
+       /
+       <e type="italic">
+        M
+       </e>
+       <sub>
+        <e type="italic">
+         s
+        </e>
+       </sub>
+       as a function of reduced temperature
+       <e type="italic">
+        T
+       </e>
+       /
+       <e type="italic">
+        T
+       </e>
+       <sub>
+        <e type="italic">
+         c
+        </e>
+       </sub>
+       for a magnet.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     In the ferromagnetic phase below the Curie temperature, the spontaneous alignment is still resisted by random thermal energy, and the spontaneous magnetization
+     <e type="bolditalic">
+      M
+     </e>
+     is a function of temperature. The magnitude of
+     <e type="bolditalic">
+      M
+     </e>
+     can be found from the paramagnetic equation for the reduced magnetization
+     <e type="italic">
+      M
+     </e>
+     /
+     <e type="italic">
+      M
+     </e>
+     <sub>
+      <e type="italic">
+       s
+      </e>
+     </sub>
+     =
+     <e type="italic">
+      f
+     </e>
+     (
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      B
+     </e>
+     /
+     <e type="italic">
+      k
+     </e>
+     <e type="italic">
+      T
+     </e>
+     ) by replacing
+     <e type="italic">
+      B
+     </e>
+     with μ(
+     <e type="italic">
+      H
+     </e>
+     + λ
+     <e type="italic">
+      M
+     </e>
+     ). This gives an equation that can be solved numerically if the function
+     <e type="italic">
+      f
+     </e>
+     is known. When
+     <e type="italic">
+      H
+     </e>
+     equals zero, the curve of (
+     <e type="italic">
+      M
+     </e>
+     /
+     <e type="italic">
+      M
+     </e>
+     <sub>
+      <e type="italic">
+       s
+      </e>
+     </sub>
+     ) should be a unique function of the ratio (
+     <e type="italic">
+      T
+     </e>
+     /
+     <e type="italic">
+      T
+     </e>
+     <sub>
+      <e type="italic">
+       c
+      </e>
+     </sub>
+     ) for all substances that have the same function
+     <e type="italic">
+      f
+     </e>
+     . Such a curve is shown in
+     <assemblyref assemblyid="a1365">
+      Figure 17
+     </assemblyref>
+     , together with experimental results for
+     <xref articleid="55747">
+      nickel
+     </xref>
+     and a nickel–
+     <xref articleid="26194">
+      copper
+     </xref>
+     <xref articleid="5832">
+      alloy
+     </xref>
+     .
+    </p>
+    <p>
+     <assembly id="a1366" url="/assembly/view/1366">
+      <title>
+       magnetization curve; hysteresis curve
+      </title>
+      <media mediaid="269" type="image" url="/69/269-004-E735B0A0.jpg"/>
+      <caption>
+       Figure 18: The magnetization curve (solid curve) and hysteresis loop (broken curve) for a ferromagnet.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     The molecular field theory explains the existence of a ferromagnetic phase and the presence of spontaneous magnetization below the Curie temperature. The dependence of the magnetization on the external field is, however, more complex than the Curie–Weiss theory predicts. The magnetization curve is shown in
+     <assemblyref assemblyid="a1366">
+      Figure 18
+     </assemblyref>
+     for iron, with the field
+     <e type="italic">
+      B
+     </e>
+     in the iron plotted against the external field
+     <e type="italic">
+      H
+     </e>
+     . The variation is nonlinear, and
+     <e type="italic">
+      B
+     </e>
+     reaches its saturation value
+     <e type="italic">
+      S
+     </e>
+     in small fields. The relative permeability
+     <e type="italic">
+      B
+     </e>
+     /μ
+     <sub>
+      0
+     </sub>
+     <e type="italic">
+      H
+     </e>
+     attains values of 10
+     <sup>
+      3
+     </sup>
+     to 10
+     <sup>
+      4
+     </sup>
+     in contrast to an ordinary paramagnet, for which μ is about 1.001 at room temperature. On reducing the external field
+     <e type="italic">
+      H
+     </e>
+     , the field
+     <e type="italic">
+      B
+     </e>
+     does not return along the magnetization curve. Even at
+     <e type="italic">
+      H
+     </e>
+     = 0, its value is not far below the saturation value.
+    </p>
+   </h3>
+   <h3 id="h71548">
+    <title>
+     Remanence
+    </title>
+    <p>
+     When
+     <e type="italic">
+      H
+     </e>
+     = 0 (labeled
+     <e type="italic">
+      R
+     </e>
+     in
+     <assemblyref assemblyid="a1366">
+      Figure 18
+     </assemblyref>
+     ), the magnetic field constitutes what is termed the residual flux density, and the retention of magnetization in zero field is called remanence. When the external field is reversed, the value of
+     <e type="italic">
+      B
+     </e>
+     falls and passes through zero (point
+     <e type="italic">
+      C
+     </e>
+     ) at a field strength known as the coercive force. Further increase in the reverse field
+     <e type="italic">
+      H
+     </e>
+     sets up a reverse field
+     <e type="italic">
+      B
+     </e>
+     that again quickly reaches a saturation value
+     <e type="italic">
+      S
+     </e>
+     ′. Finally, as the reverse field is removed and a positive field applied,
+     <e type="italic">
+      B
+     </e>
+     traces out the lower broken line back to a positive saturation value. Further cycles of
+     <e type="italic">
+      H
+     </e>
+     retrace the broken curve, which is known as the
+     <xref articleid="41845">
+      hysteresis
+     </xref>
+     curve, because the change in
+     <e type="italic">
+      B
+     </e>
+     always lags behind the change in
+     <e type="italic">
+      H
+     </e>
+     . The hysteresis curve is not unique unless saturation is attained in each direction; interruption and reversal of the cycle at an intermediate field strength results in a hysteresis curve of smaller size.
+    </p>
+    <p>
+     To explain ferromagnetic phenomena,
+     <xref articleid="76466">
+      Weiss
+     </xref>
+     suggested that a ferromagnetic substance contains many small regions (called domains), in each of which the substance is magnetized locally to saturations in some direction. In the unmagnetized state, such directions are distributed at random or in such a way that the net magnetization of the whole sample is zero. Application of an external field changes the direction of magnetization of part or all of the domains, setting up a net magnetization parallel to the field. In a paramagnetic substance, atomic dipoles are oriented on a microscopic scale. In contrast, the magnetization of a ferromagnetic substance involves the reorientation of the magnetization of the domains on a macroscopic scale; large changes occur in the net magnetization even when very small fields are applied. Such macroscopic changes are not immediately reversed when the size of the field is reduced or when its direction is changed. This accounts for the presence of hysteresis and for the finite remanent magnetization.
+    </p>
+    <p>
+     The technological applications of ferromagnetic substances are extensive, and the size and shape of the hysteresis curve are of great importance. A good permanent magnet must have a large spontaneous magnetization in zero field (i.e., a high retentivity) and a high coercive force to prevent its being easily demagnetized by an external field. Both of these imply a “fat,” almost rectangular hysteresis loop, typical of a hard magnetic material. On the other hand, ferromagnetic substances subjected to alternating fields, as in a transformer, must have a “thin” hysteresis loop because of an energy loss per cycle that is determined by the area enclosed by the hysteresis loop. Such substances are easily magnetized and demagnetized and are known as soft magnetic materials.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h71549">
+   <title>
+    Antiferromagnetism
+   </title>
+   <p>
+    In substances known as antiferromagnets, the mutual forces between pairs of adjacent atomic dipoles are caused by exchange interactions, but the forces between adjacent atomic dipoles have signs opposite those in ferromagnets. As a result, adjacent dipoles tend to line up antiparallel to each other instead of parallel. At high temperatures the material is paramagnetic, but below a certain characteristic temperature the dipoles are aligned in an ordered and antiparallel manner. The transition temperature
+    <e type="italic">
+     T
+    </e>
+    <sub>
+     <e type="italic">
+      n
+     </e>
+    </sub>
+    is known as the Néel temperature, after the French physicist
+    <xref articleid="55174">
+     Louis-Eugène-Félix Néel
+    </xref>
+    , who proposed this explanation of the magnetic behaviour of such materials in 1936. Values of the Néel temperature for some typical antiferromagnetic substances are given in the .
+   </p>
+   <p>
+    The ordered antiferromagnetic state is naturally more complicated than the ordered ferromagnetic state, since there must be at least two sets of dipoles pointing in opposite directions. With an equal number of dipoles of the same size on each set, there is no net spontaneous magnetization on a macroscopic scale. In most insulating chemical compounds, the exchange forces between the magnetic ions are of an antiferromagnetic nature.
+   </p>
+  </h2>
+  <h2 id="h71550">
+   <title>
+    Ferrimagnetism
+   </title>
+   <p>
+    Lodestone, or
+    <xref articleid="50036">
+     magnetite
+    </xref>
+    (Fe
+    <sub>
+     3
+    </sub>
+    O
+    <sub>
+     4
+    </sub>
+    ), belongs to a class of substances known as
+    <xref articleid="34106">
+     ferrites
+    </xref>
+    . Ferrites and some other classes of magnetic substances discovered more recently possess many of the properties of ferromagnetic materials, including spontaneous magnetization and remanence. Unlike the ferromagnetic metals, they have low electric conductivity, however. In alternating magnetic fields, this greatly reduces the energy loss resulting from eddy currents. Since these losses rise with the frequency of the alternating field, such substances are of much importance in the
+    <xref articleid="106023">
+     electronics
+    </xref>
+    industry.
+   </p>
+   <p>
+    A notable property of ferrites and associated materials is that the bulk spontaneous magnetization, even at complete magnetic saturation, does not correspond to the value expected if all the atomic dipoles are aligned parallel to each other. The explanation was put forward in 1948 by Néel, who suggested that the exchange forces responsible for the spontaneous magnetization were basically antiferromagnetic in nature and that in the ordered state they contained two (or more) sublattices spontaneously magnetized in opposite directions. In contrast to the simple antiferromagnetic substances considered above, however, the sizes of the magnetization on the two sublattices are unequal, giving a resultant net magnetization parallel to that of the sublattice with the larger moment. For this phenomenon Néel coined the name ferrimagnetism, and substances that exhibit it are called ferrimagnetic materials.
+   </p>
+   <signature>
+    Brebis Bleaney
+   </signature>
+   <signature>
+    Edwin Kashy
+   </signature>
+   <signature>
+    Sharon Bertsch McGrayne
+   </signature>
+  </h2>
+ </h1>
+ <h1 id="h71551">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Gerrit Verschuur
+   </e>
+   ,
+   <e type="italic">
+    Hidden Attraction
+   </e>
+   (1993), is a delightful popular account of the history and contemporary uses of magnetism.
+   <e type="smallcap">
+    Edward Purcell
+   </e>
+   ,
+   <e type="italic">
+    Electricity and Magnetism
+   </e>
+   , 2nd ed. (1985), is a superbly written and illustrated college-level introduction to the basic physics and mathematics of magnetism.
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

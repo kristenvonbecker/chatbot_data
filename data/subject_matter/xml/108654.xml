@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="108654" articletypeid="1" language="en_us" lastupdate="2023-Jan-11 11:42:06" url="/article/physics/108654" version="16">
+ <title>
+  physics
+ </title>
+ <p>
+  <assembly id="a92136" url="/assembly/view/92136">
+   <title>
+    Bernoulli model of gas pressure
+   </title>
+   <media mediaid="54449" type="image" url="/49/54449-004-9F06273A.jpg"/>
+   <caption>
+    As conceived by Daniel Bernoulli in
+    <e type="italic">
+     Hydrodynamica
+    </e>
+    (1738), gases consist of numerous particles in rapid random motion. He assumed that the pressure of a gas is produced by the direct impact of the particles on the walls of the container.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.; based on Daniel Bernoulli,
+    <e type="italic">
+     Hydrodynamica
+    </e>
+    (1738)
+   </credit>
+  </assembly>
+  <e type="bold">
+   physics
+  </e>
+  ,
+  <assemblyref assemblyid="a92136"/>
+  science that deals with the structure of matter and the interactions between the fundamental constituents of the observable universe. In the broadest sense, physics (from the Greek
+  <e type="italic">
+   physikos
+  </e>
+  ) is concerned with all aspects of nature on both the macroscopic and submicroscopic levels. Its scope of study encompasses not only the behaviour of objects under the action of given forces but also the nature and origin of gravitational, electromagnetic, and nuclear force fields. Its ultimate objective is the formulation of a few comprehensive principles that bring together and explain all such disparate phenomena.
+ </p>
+ <p>
+  <e type="italic">
+   <xref articleid="608988">
+    (Read Einstein’s 1926 Britannica essay on space-time.)
+   </xref>
+  </e>
+ </p>
+ <p>
+  Physics is the basic physical science. Until rather recent times
+  <e type="italic">
+   physics
+  </e>
+  and
+  <e type="italic">
+   natural philosophy
+  </e>
+  were used interchangeably for the science whose aim is the discovery and formulation of the fundamental laws of nature. As the modern sciences developed and became increasingly specialized, physics came to denote that part of physical science not included in
+  <xref articleid="108656">
+   astronomy
+  </xref>
+  ,
+  <xref articleid="108655">
+   chemistry
+  </xref>
+  ,
+  <xref articleid="106192">
+   geology
+  </xref>
+  , and
+  <xref articleid="105842">
+   engineering
+  </xref>
+  . Physics plays an important role in all the natural sciences, however, and all such fields have branches in which physical laws and measurements receive special emphasis, bearing such names as astrophysics, geophysics, biophysics, and even psychophysics. Physics can, at base, be defined as the science of
+  <xref articleid="51438">
+   matter
+  </xref>
+  ,
+  <xref articleid="53959">
+   motion
+  </xref>
+  , and
+  <xref articleid="32627">
+   energy
+  </xref>
+  . Its laws are typically expressed with economy and precision in the language of
+  <xref articleid="109827">
+   mathematics
+  </xref>
+  .
+ </p>
+ <p>
+  Both experiment, the observation of phenomena under conditions that are controlled as precisely as possible, and theory, the formulation of a unified conceptual framework, play essential and complementary roles in the advancement of physics. Physical experiments result in measurements, which are compared with the outcome predicted by theory. A theory that reliably predicts the results of experiments to which it is applicable is said to embody a law of physics. However, a law is always subject to modification, replacement, or restriction to a more limited domain, if a later experiment makes it necessary.
+ </p>
+ <p>
+  The ultimate aim of physics is to find a unified set of laws governing matter, motion, and energy at small (microscopic) subatomic distances, at the human (macroscopic) scale of everyday life, and out to the largest distances (e.g., those on the extragalactic scale). This ambitious goal has been realized to a notable extent. Although a completely unified theory of physical phenomena has not yet been achieved (and possibly never will be), a remarkably small set of fundamental physical laws appears able to account for all known phenomena. The body of physics developed up to about the turn of the 20th century, known as classical physics, can largely account for the motions of macroscopic objects that move slowly with respect to the
+  <xref articleid="471069">
+   speed of light
+  </xref>
+  and for such phenomena as
+  <xref articleid="39732">
+   heat
+  </xref>
+  ,
+  <xref articleid="109557">
+   sound
+  </xref>
+  ,
+  <xref articleid="106019">
+   electricity
+  </xref>
+  ,
+  <xref articleid="106020">
+   magnetism
+  </xref>
+  , and
+  <xref articleid="110443">
+   light
+  </xref>
+  . The modern developments of
+  <xref articleid="109465">
+   relativity
+  </xref>
+  and
+  <xref articleid="110312">
+   quantum mechanics
+  </xref>
+  modify these laws insofar as they apply to higher speeds, very massive objects, and to the tiny elementary constituents of matter, such as
+  <xref articleid="32316">
+   electrons
+  </xref>
+  ,
+  <xref articleid="61626">
+   protons
+  </xref>
+  , and
+  <xref articleid="55406">
+   neutrons
+  </xref>
+  .
+ </p>
+ <h1 id="h32471">
+  <title>
+   The scope of physics
+  </title>
+  <p>
+   The traditionally organized branches or fields of classical and modern physics are delineated below.
+  </p>
+  <h2 id="h32472">
+   <title>
+    Mechanics
+   </title>
+   <p>
+    <assembly id="a123664" url="/assembly/view/123664">
+     <title>
+      illustration of Robert Hooke’s law of elasticity of materials
+     </title>
+     <media mediaid="102336" type="image" url="/36/102336-004-43A8D4FA.jpg"/>
+     <caption>
+      Illustration of Hooke’s law of elasticity of materials, showing the stretching of a spring in proportion to the applied force, from Robert Hooke’s
+      <e type="italic">
+       Lectures de Potentia Restitutiva
+      </e>
+      (1678).
+     </caption>
+     <credit>
+      Photos.com/Jupiterimages
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a123664"/>
+    Mechanics is generally taken to mean the study of the motion of objects (or their lack of motion) under the action of given forces. Classical mechanics is sometimes considered a branch of applied mathematics. It consists of
+    <xref articleid="45488">
+     kinematics
+    </xref>
+    , the description of motion, and
+    <xref articleid="31671">
+     dynamics
+    </xref>
+    , the study of the action of forces in producing either motion or static equilibrium (the latter constituting the science of
+    <xref articleid="69478">
+     statics
+    </xref>
+    ). The 20th-century subjects of quantum mechanics, crucial to treating the structure of matter,
+    <xref articleid="108593">
+     subatomic particles
+    </xref>
+    ,
+    <xref articleid="70390">
+     superfluidity
+    </xref>
+    ,
+    <xref articleid="70388">
+     superconductivity
+    </xref>
+    ,
+    <xref articleid="55410">
+     neutron stars
+    </xref>
+    , and other major phenomena, and
+    <xref articleid="110309">
+     relativistic mechanics
+    </xref>
+    , important when speeds approach that of light, are forms of mechanics that will be discussed later in this section.
+   </p>
+   <p>
+    In classical mechanics the laws are initially formulated for point particles in which the dimensions, shapes, and other intrinsic properties of bodies are ignored. Thus in the first approximation even objects as large as
+    <xref articleid="110147">
+     Earth
+    </xref>
+    and the
+    <xref articleid="110144">
+     Sun
+    </xref>
+    are treated as pointlike—e.g., in calculating planetary orbital motion. In rigid-body dynamics, the extension of bodies and their mass distributions are considered as well, but they are imagined to be incapable of
+    <xref articleid="29749">
+     deformation
+    </xref>
+    . The mechanics of deformable solids is
+    <xref articleid="32229">
+     elasticity
+    </xref>
+    ;
+    <xref articleid="472562">
+     hydrostatics
+    </xref>
+    and
+    <xref articleid="110311" refid="h77483">
+     hydrodynamics
+    </xref>
+    treat, respectively, fluids at rest and in motion.
+   </p>
+   <p>
+    The three
+    <xref articleid="55622">
+     laws of motion
+    </xref>
+    set forth by
+    <xref articleid="108764">
+     Isaac Newton
+    </xref>
+    form the foundation of classical mechanics, together with the recognition that forces are directed quantities (
+    <xref articleid="218451">
+     vectors
+    </xref>
+    ) and combine accordingly. The first law, also called the
+    <xref articleid="42378">
+     law of inertia
+    </xref>
+    , states that, unless acted upon by an external
+    <xref articleid="34834">
+     force
+    </xref>
+    , an object at rest remains at rest, or if in motion, it continues to move in a straight line with constant speed. Uniform motion therefore does not require a cause. Accordingly, mechanics concentrates not on motion as such but on the change in the state of motion of an object that results from the net force acting upon it. Newton’s second law equates the net force on an object to the rate of change of its momentum, the latter being the product of the mass of a body and its velocity. Newton’s third law, that of action and reaction, states that when two particles interact, the forces each exerts on the other are equal in magnitude and opposite in direction. Taken together, these mechanical laws in principle permit the determination of the future motions of a set of particles, providing their state of motion is known at some instant, as well as the forces that act between them and upon them from the outside. From this deterministic character of the laws of classical mechanics, profound (and probably incorrect) philosophical conclusions have been drawn in the past and even applied to human history.
+   </p>
+   <p>
+    Lying at the most basic level of physics, the laws of mechanics are characterized by certain symmetry properties, as exemplified in the aforementioned symmetry between action and reaction forces. Other symmetries, such as the invariance (i.e., unchanging form) of the laws under reflections and rotations carried out in space, reversal of time, or transformation to a different part of space or to a different epoch of time, are present both in classical mechanics and in relativistic mechanics, and with certain restrictions, also in quantum mechanics. The symmetry properties of the theory can be shown to have as mathematical consequences basic principles known as
+    <xref articleid="25938">
+     conservation laws
+    </xref>
+    , which assert the constancy in time of the values of certain physical quantities under prescribed conditions. The conserved quantities are the most important ones in physics; included among them are mass and energy (in relativity theory, mass and energy are equivalent and are conserved together),
+    <xref articleid="53289">
+     momentum
+    </xref>
+    ,
+    <xref articleid="7612">
+     angular momentum
+    </xref>
+    , and
+    <xref articleid="32271">
+     electric charge
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h32473">
+   <title>
+    The study of gravitation
+   </title>
+   <p>
+    <assembly id="a90798" url="/assembly/view/90798">
+     <title>
+      Laser Interferometer Space Antenna (LISA)
+     </title>
+     <media mediaid="96321" type="image" url="/21/96321-004-15F802E4.jpg"/>
+     <caption>
+      Laser Interferometer Space Antenna (LISA), a Beyond Einstein Great Observatory, is scheduled for launch in 2034. Funded by the European Space Agency, LISA will consist of three identical spacecraft that will trail the Earth in its orbit by about 50 million km (30 million miles). The spacecraft will contain thrusters for maneuvering them into an equilateral triangle, with sides of approximately 5 million km (3 million miles), such that the triangle’s centre will be located along the Earth’s orbit. By measuring the transmission of laser signals between the spacecraft (essentially a giant Michelson interferometer in space), scientists hope to detect and accurately measure gravity waves.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a90798"/>
+    This field of inquiry has in the past been placed within classical mechanics for historical reasons, because both fields were brought to a high state of perfection by Newton and also because of its universal character. Newton’s gravitational law states that every material particle in the universe attracts every other one with a force that acts along the line joining them and whose strength is directly proportional to the product of their masses and inversely proportional to the square of their separation. Newton’s detailed accounting for the orbits of the planets and the
+    <xref articleid="110148">
+     Moon
+    </xref>
+    , as well as for such subtle gravitational effects as the
+    <xref articleid="72409">
+     tides
+    </xref>
+    and the
+    <xref articleid="32850">
+     precession of the equinoxes
+    </xref>
+    (a slow cyclical change in direction of Earth’s axis of rotation), through this fundamental force was the first triumph of classical mechanics. No further principles are required to understand the principal aspects of
+    <xref articleid="106040">
+     rocketry
+    </xref>
+    and
+    <xref articleid="111026">
+     space flight
+    </xref>
+    (although, of course, a formidable technology is needed to carry them out).
+   </p>
+   <p>
+    <assembly id="a86706" url="/assembly/view/86706">
+     <title>
+      curved space-time
+     </title>
+     <media mediaid="91964" type="image" url="/64/91964-004-ADD11BAD.jpg"/>
+     <caption>
+      The four dimensional space-time continuum itself is distorted in the vicinity of any mass, with the amount of distortion depending on the mass and the distance from the mass. Thus, relativity accounts for Newton’s inverse square law of gravity through geometry and thereby does away with the need for any mysterious “action at a distance.”
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a86706"/>
+    The modern theory of gravitation was formulated by
+    <xref articleid="106018">
+     Albert Einstein
+    </xref>
+    and is called the
+    <xref articleid="109465" refid="h252889">
+     general theory of relativity
+    </xref>
+    . From the long-known equality of the quantity “mass” in Newton’s second law of motion and that in his gravitational law, Einstein was struck by the fact that
+    <xref articleid="3469">
+     acceleration
+    </xref>
+    can locally annul a gravitational force (as occurs in the so-called weightlessness of
+    <xref articleid="9998">
+     astronauts
+    </xref>
+    in an Earth-orbiting spacecraft) and was led thereby to the concept of curved
+    <xref articleid="68970">
+     space-time
+    </xref>
+    . Completed in 1915, the theory was valued for many years mainly for its mathematical beauty and for correctly predicting a small number of phenomena, such as the gravitational bending of light around a massive object. Only in recent years, however, has it become a vital subject for both theoretical and experimental research. (Relativistic mechanics refers to Einstein’s
+    <xref articleid="109465" refid="h252878">
+     special theory of relativity
+    </xref>
+    , which is not a theory of gravitation.)
+   </p>
+  </h2>
+  <h2 id="h32474">
+   <title>
+    The study of heat, thermodynamics, and statistical mechanics
+   </title>
+   <p>
+    <assembly id="a238132" url="/assembly/view/238132">
+     <title>
+      temperature scales
+     </title>
+     <media mediaid="196308" type="image" url="/08/196308-004-EC989E66.jpg"/>
+     <caption>
+      Standard and absolute temperature scales.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc./Patrick O'Neill Riley
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a238132"/>
+    Heat is a form of internal energy associated with the random motion of the molecular constituents of matter or with radiation.
+    <xref articleid="71632">
+     Temperature
+    </xref>
+    is an average of a part of the internal energy present in a body (it does not include the energy of molecular binding or of molecular rotation). The lowest possible energy state of a substance is defined as the
+    <xref articleid="3400">
+     absolute zero
+    </xref>
+    (−273.15 °C, or −459.67 °F) of temperature. An isolated body eventually reaches uniform temperature, a state known as thermal equilibrium, as do two or more bodies placed in contact. The formal study of states of matter at (or near) thermal equilibrium is called
+    <xref articleid="108582">
+     thermodynamics
+    </xref>
+    ; it is capable of analyzing a large variety of thermal systems without considering their detailed microstructures.
+   </p>
+   <h3 id="h32475">
+    <title>
+     First law
+    </title>
+    <p>
+     The first law of thermodynamics is the energy conservation principle of mechanics (i.e., for all changes in an isolated system, the energy remains constant) generalized to include heat.
+    </p>
+   </h3>
+   <h3 id="h32476">
+    <title>
+     Second law
+    </title>
+    <p>
+     The second law of thermodynamics asserts that heat will not flow from a place of lower temperature to one where it is higher without the intervention of an external device (e.g., a refrigerator). The concept of
+     <xref articleid="32727">
+      entropy
+     </xref>
+     involves the measurement of the state of disorder of the particles making up a system. For example, if tossing a coin many times results in a random-appearing sequence of heads and tails, the result has a higher entropy than if heads and tails tend to appear in clusters. Another formulation of the second law is that the entropy of an isolated system never decreases with time.
+    </p>
+   </h3>
+   <h3 id="h32477">
+    <title>
+     Third law
+    </title>
+    <p>
+     The third law of thermodynamics states that the entropy at the absolute zero of temperature is zero, corresponding to the most ordered possible state.
+    </p>
+   </h3>
+   <h3 id="h32478">
+    <title>
+     Statistical mechanics
+    </title>
+    <p>
+     <assembly id="a4639" url="/assembly/view/4639">
+      <title>
+       Brownian particle
+      </title>
+      <media mediaid="6920" type="image" url="/20/6920-004-D4740437.jpg"/>
+      <caption>
+       (Left) Random motion of a Brownian particle and (right) random discrepancy between the molecular pressures on different surfaces of the particle that cause motion.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a4639"/>
+     The science of statistical mechanics derives bulk properties of systems from the mechanical properties of their molecular constituents, assuming molecular chaos and applying the laws of
+     <xref articleid="109439">
+      probability
+     </xref>
+     . Regarding each possible configuration of the particles as equally likely, the chaotic state (the state of maximum entropy) is so enormously more likely than ordered states that an isolated system will evolve to it, as stated in the second law of thermodynamics. Such reasoning, placed in mathematically precise form, is typical of
+     <xref articleid="69479">
+      statistical mechanics
+     </xref>
+     , which is capable of deriving the laws of thermodynamics but goes beyond them in describing fluctuations (i.e., temporary departures) from the thermodynamic laws that describe only average behaviour. An example of a fluctuation phenomenon is the random motion of small particles suspended in a fluid, known as
+     <xref articleid="16720">
+      Brownian motion
+     </xref>
+     .
+    </p>
+    <p>
+     Quantum statistical mechanics plays a major role in many other modern fields of science, as, for example, in plasma physics (the study of fully ionized gases), in solid-state physics, and in the study of stellar structure. From a microscopic point of view the laws of thermodynamics imply that, whereas the total quantity of energy of any isolated system is constant, what might be called the quality of this energy is degraded as the system moves inexorably, through the operation of the laws of chance, to states of increasing disorder until it finally reaches the state of maximum disorder (maximum entropy), in which all parts of the system are at the same temperature, and none of the state’s energy may be usefully employed. When applied to the universe as a whole, considered as an isolated system, this ultimate chaotic condition has been called the “heat death.”
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h32479">
+   <title>
+    The study of electricity and magnetism
+   </title>
+   <p>
+    Although conceived of as distinct phenomena until the 19th century, electricity and magnetism are now known to be components of the unified field of
+    <xref articleid="106021">
+     electromagnetism
+    </xref>
+    . Particles with electric charge interact by an electric force, while charged particles in motion produce and respond to magnetic forces as well. Many subatomic particles, including the electrically charged electron and proton and the electrically neutral neutron, behave like elementary magnets. On the other hand, in spite of systematic searches undertaken, no magnetic monopoles, which would be the magnetic analogues of electric charges, have ever been found.
+   </p>
+   <p>
+    The field concept plays a central role in the classical formulation of electromagnetism, as well as in many other areas of classical and contemporary physics. Einstein’s gravitational field, for example, replaces Newton’s concept of gravitational action at a distance. The field describing the electric force between a pair of charged particles works in the following manner: each particle creates an electric field in the space surrounding it, and so also at the position occupied by the other particle; each particle responds to the force exerted upon it by the electric field at its own position.
+   </p>
+   <p>
+    <assembly id="a123640" url="/assembly/view/123640">
+     <title>
+      types of electromagnetic radiation
+     </title>
+     <media mediaid="95275" type="image" url="/75/95275-004-E6143582.jpg"/>
+     <caption>
+      Radio waves, infrared rays, visible light, ultraviolet rays, X-rays, and gamma rays are all types of electromagnetic radiation. Radio waves have the longest wavelength, and gamma rays have the shortest wavelength.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a123640"/>
+    Classical electromagnetism is summarized by the laws of action of electric and magnetic fields upon electric charges and upon magnets and by
+    <xref articleid="51564">
+     four remarkable equations
+    </xref>
+    formulated in the latter part of the 19th century by the Scottish physicist
+    <xref articleid="108468">
+     James Clerk Maxwell
+    </xref>
+    . The latter equations describe the manner in which electric charges and currents produce electric and magnetic fields, as well as the manner in which changing magnetic fields produce electric fields, and vice versa. From these relations Maxwell inferred the existence of
+    <xref articleid="106022">
+     electromagnetic waves
+    </xref>
+    —associated electric and magnetic fields in space, detached from the charges that created them, traveling at the speed of light, and endowed with such “mechanical” properties as energy, momentum, and angular momentum. The light to which the human eye is sensitive is but one small segment of an
+    <xref articleid="101148">
+     electromagnetic spectrum
+    </xref>
+    that extends from long-wavelength
+    <xref articleid="473149">
+     radio waves
+    </xref>
+    to short-wavelength
+    <xref articleid="35974">
+     gamma rays
+    </xref>
+    and includes
+    <xref articleid="77656">
+     X-rays
+    </xref>
+    ,
+    <xref articleid="52523">
+     microwaves
+    </xref>
+    , and
+    <xref articleid="42403">
+     infrared
+    </xref>
+    (or heat) radiation.
+   </p>
+  </h2>
+  <h2 id="h32480">
+   <title>
+    Optics
+   </title>
+   <p>
+    <assembly id="a37362" url="/assembly/view/37362">
+     <title>
+      Diffraction grating
+     </title>
+     <media mediaid="44791" type="image" url="/91/44791-004-6386452B.jpg"/>
+     <caption>
+      Spectrum of white light by a diffraction grating. With a prism, the red end of the spectrum is more compressed than the violet end.
+     </caption>
+     <credit>
+      Courtesy of Bausch &amp; Lomb, Rochester, N.Y.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a37362"/>
+    Because light consists of electromagnetic waves, the propagation of light can be regarded as merely a branch of electromagnetism. However, it is usually dealt with as a separate subject called
+    <xref articleid="108567">
+     optics
+    </xref>
+    : the part that deals with the tracing of light rays is known as geometrical optics, while the part that treats the distinctive wave phenomena of light is called physical optics. More recently, there has developed a new and vital branch, quantum optics, which is concerned with the theory and application of the
+    <xref articleid="47248">
+     laser
+    </xref>
+    , a device that produces an intense coherent beam of unidirectional radiation useful for many applications.
+   </p>
+   <p>
+    The formation of images by
+    <xref articleid="47770">
+     lenses
+    </xref>
+    ,
+    <xref articleid="108723">
+     microscopes
+    </xref>
+    ,
+    <xref articleid="111077">
+     telescopes
+    </xref>
+    , and other optical devices is described by ray optics, which assumes that the passage of light can be represented by straight lines, that is, rays. The subtler effects attributable to the wave property of visible light, however, require the explanations of physical optics. One basic wave effect is
+    <xref articleid="42544">
+     interference
+    </xref>
+    , whereby two waves present in a region of space combine at certain points to yield an enhanced resultant effect (e.g., the crests of the component waves adding together); at the other extreme, the two waves can annul each other, the crests of one wave filling in the troughs of the other. Another wave effect is
+    <xref articleid="30419">
+     diffraction
+    </xref>
+    , which causes light to spread into regions of the geometric shadow and causes the image produced by any optical device to be fuzzy to a degree dependent on the wavelength of the light. Optical instruments such as the
+    <xref articleid="57230">
+     interferometer
+    </xref>
+    and the
+    <xref articleid="30420">
+     diffraction grating
+    </xref>
+    can be used for measuring the wavelength of light precisely (about 500 micrometres) and for measuring distances to a small fraction of that length.
+   </p>
+  </h2>
+  <h2 id="h32481">
+   <title>
+    Atomic and chemical physics
+   </title>
+   <p>
+    <assembly id="a19493" url="/assembly/view/19493">
+     <title>
+      Millikan oil-drop experiment
+     </title>
+     <media mediaid="22482" type="image" url="/82/22482-004-65AD34C8.jpg"/>
+     <caption>
+      Between 1909 and 1910 the American physicist Robert Millikan conducted a series of oil-drop experiments. By comparing applied electric force with changes in the motion of the oil drops, he was able to determine the electric charge on each drop. He found that all of the drops had charges that were simple multiples of a single number, the fundamental charge of the electron.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assembly id="a111169" url="/assembly/view/111169">
+     <title>
+      See how physicist Robert Millikan devised a method for measuring the electric charge of single electrons
+     </title>
+     <media mediaid="22592" thumburl="/92/22592-049-D5322947.jpg" type="video" url="z7nD7aY2"/>
+     <caption>
+      Millikan oil-drop experiment.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a19493"/>
+    <assemblyref assemblyid="a111169"/>
+    One of the great achievements of the 20th century was the establishment of the validity of the atomic hypothesis, first proposed in ancient times, that matter is made up of relatively few kinds of small, identical parts—namely,
+    <xref articleid="110411">
+     atoms
+    </xref>
+    . However, unlike the indivisible atom of
+    <xref articleid="29904">
+     Democritus
+    </xref>
+    and other ancients, the atom, as it is conceived today, can be separated into constituent electrons and
+    <xref articleid="56462">
+     nucleus
+    </xref>
+    . Atoms combine to form
+    <xref articleid="53247">
+     molecules
+    </xref>
+    , whose structure is studied by
+    <xref articleid="108655">
+     chemistry
+    </xref>
+    and
+    <xref articleid="473061">
+     physical chemistry
+    </xref>
+    ; they also form other types of compounds, such as
+    <xref articleid="110297">
+     crystals
+    </xref>
+    , studied in the field of
+    <xref articleid="473924">
+     condensed-matter physics
+    </xref>
+    . Such disciplines study the most important attributes of matter (not excluding biologic matter) that are encountered in normal experience—namely, those that depend almost entirely on the outer parts of the electronic structure of atoms. Only the mass of the atomic nucleus and its charge, which is equal to the total charge of the electrons in the neutral atom, affect the chemical and physical properties of matter.
+   </p>
+   <p>
+    Although there are some analogies between the
+    <xref articleid="110143">
+     solar system
+    </xref>
+    and the atom due to the fact that the strengths of gravitational and electrostatic forces both fall off as the inverse square of the distance, the classical forms of electromagnetism and mechanics fail when applied to tiny, rapidly moving atomic constituents. Atomic structure is comprehensible only on the basis of quantum mechanics, and its finer details require as well the use of
+    <xref articleid="62163">
+     quantum electrodynamics
+    </xref>
+    (QED).
+   </p>
+   <p>
+    Atomic properties are inferred mostly by the use of indirect experiments. Of greatest importance has been
+    <xref articleid="110407">
+     spectroscopy
+    </xref>
+    , which is concerned with the measurement and interpretation of the electromagnetic radiations either emitted or absorbed by materials. These radiations have a distinctive character, which quantum mechanics relates quantitatively to the structures that produce and absorb them. It is truly remarkable that these structures are in principle, and often in practice, amenable to precise calculation in terms of a few basic physical constants: the mass and charge of the electron, the speed of light, and
+    <xref articleid="60293">
+     Planck’s constant
+    </xref>
+    (approximately 6.62606957 × 10
+    <sup>
+     −34
+    </sup>
+    joule∙second), the fundamental constant of the quantum theory named for the German physicist
+    <xref articleid="108525">
+     Max Planck
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h32482">
+   <title>
+    Condensed-matter physics
+   </title>
+   <p>
+    This field, which treats the thermal, elastic, electrical, magnetic, and optical properties of solid and liquid substances, grew at an explosive rate in the second half of the 20th century and scored numerous important scientific and technical achievements, including the
+    <xref articleid="73201">
+     transistor
+    </xref>
+    . Among solid materials, the greatest theoretical advances have been in the study of crystalline materials whose simple repetitive geometric arrays of atoms are multiple-particle systems that allow treatment by quantum mechanics. Because the atoms in a solid are coordinated with each other over large distances, the theory must go beyond that appropriate for atoms and molecules. Thus
+    <xref articleid="25132">
+     conductors
+    </xref>
+    , such as
+    <xref articleid="52266">
+     metals
+    </xref>
+    , contain some so-called free electrons, or
+    <xref articleid="74682">
+     valence electrons
+    </xref>
+    , which are responsible for the electrical and most of the thermal conductivity of the material and which belong collectively to the whole solid rather than to individual atoms.
+    <xref articleid="66711">
+     Semiconductors
+    </xref>
+    and
+    <xref articleid="42511">
+     insulators
+    </xref>
+    , either crystalline or amorphous, are other materials studied in this field of physics.
+   </p>
+   <p>
+    Other aspects of condensed matter involve the properties of the ordinary liquid state, of liquid crystals, and, at temperatures near
+    <xref articleid="3400">
+     absolute zero
+    </xref>
+    , of the so-called quantum liquids. The latter exhibit a property known as
+    <xref articleid="70390">
+     superfluidity
+    </xref>
+    (completely frictionless flow), which is an example of macroscopic quantum phenomena. Such phenomena are also exemplified by
+    <xref articleid="70388">
+     superconductivity
+    </xref>
+    (completely resistance-less flow of electricity), a low-temperature property of certain metallic and ceramic materials. Besides their significance to technology, macroscopic liquid and solid quantum states are important in astrophysical theories of stellar structure in, for example,
+    <xref articleid="55410">
+     neutron stars
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h32483">
+   <title>
+    Nuclear physics
+   </title>
+   <p>
+    <assembly id="a123641" url="/assembly/view/123641">
+     <title>
+      particle tracks from the collision of an accelerated nucleus
+     </title>
+     <media mediaid="58595" type="image" url="/95/58595-004-F8841FC2.jpg"/>
+     <caption>
+      Particle tracks from the collision of an accelerated nucleus of a niobium atom with another niobium nucleus. The single line on the left is the track of the incoming projectile nucleus, and the other tracks are fragments from the collision.
+     </caption>
+     <credit>
+      Courtesy of the Department of Physics and Astronomy, Michigan State University
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a123641"/>
+    This branch of physics deals with the structure of the atomic nucleus and the radiation from unstable nuclei. About 10,000 times smaller than the atom, the constituent particles of the nucleus, protons and neutrons, attract one another so strongly by the nuclear forces that nuclear energies are approximately 1,000,000 times larger than typical atomic energies. Quantum theory is needed for understanding nuclear structure.
+   </p>
+   <p>
+    Like excited atoms, unstable radioactive nuclei (either naturally occurring or artificially produced) can emit electromagnetic radiation. The energetic nuclear photons are called gamma rays. Radioactive nuclei also emit other particles: negative and positive electrons (beta rays), accompanied by
+    <xref articleid="55405">
+     neutrinos
+    </xref>
+    , and
+    <xref articleid="1713">
+     helium
+    </xref>
+    nuclei (alpha rays).
+   </p>
+   <p>
+    A principal research tool of nuclear physics involves the use of beams of particles (e.g., protons or electrons) directed as projectiles against nuclear targets. Recoiling particles and any resultant nuclear fragments are detected, and their directions and energies are analyzed to reveal details of nuclear structure and to learn more about the
+    <xref articleid="69992">
+     strong force
+    </xref>
+    . A much weaker nuclear force, the so-called weak interaction, is responsible for the emission of beta rays. Nuclear collision experiments use beams of higher-energy particles, including those of unstable particles called
+    <xref articleid="52218">
+     mesons
+    </xref>
+    produced by primary nuclear collisions in accelerators dubbed meson factories. Exchange of mesons between protons and neutrons is directly responsible for the strong force. (For the mechanism underlying mesons,
+    <e type="italic">
+     see below
+    </e>
+    <xref articleid="108654" refid="h32488">
+     Fundamental forces and fields
+    </xref>
+    .)
+   </p>
+   <p>
+    In radioactivity and in collisions leading to nuclear breakup, the chemical identity of the nuclear target is altered whenever there is a change in the nuclear charge. In
+    <xref articleid="34410">
+     fission
+    </xref>
+    and
+    <xref articleid="110415">
+     fusion
+    </xref>
+    nuclear reactions in which unstable nuclei are, respectively, split into smaller nuclei or amalgamated into larger ones, the energy release far exceeds that of any
+    <xref articleid="110109">
+     chemical reaction
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h32484">
+   <title>
+    Particle physics
+   </title>
+   <p>
+    <assembly id="a123631" url="/assembly/view/123631">
+     <title>
+      protons, neutrons, pions, and other hadrons
+     </title>
+     <media mediaid="63630" type="image" url="/30/63630-004-694A54DE.jpg"/>
+     <caption>
+      Very simplified illustrations of protons, neutrons, pions, and other hadrons show that they are made of quarks (yellow spheres) and antiquarks (green spheres), which are bound together by gluons (bent ribbons).
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a123631"/>
+    One of the most significant branches of contemporary physics is the study of the fundamental subatomic constituents of matter, the elementary particles. This field, also called high-energy physics, emerged in the 1930s out of the developing experimental areas of nuclear and cosmic-ray physics. Initially investigators studied
+    <xref articleid="26471">
+     cosmic rays
+    </xref>
+    , the very-high-energy extraterrestrial radiations that fall upon Earth and interact in the atmosphere (
+    <e type="italic">
+     see below
+    </e>
+    <xref articleid="108654" refid="h32489">
+     The methodology of physics
+    </xref>
+    ). However, after World War II, scientists gradually began using high-energy
+    <xref articleid="108531">
+     particle accelerators
+    </xref>
+    to provide subatomic particles for study.
+    <xref articleid="62164">
+     Quantum field theory
+    </xref>
+    , a generalization of QED to other types of force fields, is essential for the analysis of high-energy physics. Subatomic particles cannot be visualized as tiny analogues of ordinary material objects such as billiard balls, for they have properties that appear contradictory from the classical viewpoint. That is to say, while they possess charge, spin, mass, magnetism, and other complex characteristics, they are nonetheless regarded as pointlike.
+   </p>
+   <p>
+    During the latter half of the 20th century, a coherent picture evolved of the underlying strata of matter involving two types of subatomic particles:
+    <xref articleid="34058">
+     fermions
+    </xref>
+    (
+    <xref articleid="13562">
+     baryons
+    </xref>
+    and
+    <xref articleid="47874">
+     leptons
+    </xref>
+    ), which have odd half-integral angular momentum (
+    <xref articleid="69132">
+     spin
+    </xref>
+    <fraction>
+     <num>
+      1
+     </num>
+     <den>
+      2
+     </den>
+    </fraction>
+    ,
+    <fraction>
+     <num>
+      3
+     </num>
+     <den>
+      2
+     </den>
+    </fraction>
+    ) and make up ordinary matter; and
+    <xref articleid="80816">
+     bosons
+    </xref>
+    (
+    <xref articleid="37089">
+     gluons
+    </xref>
+    ,
+    <xref articleid="52218">
+     mesons
+    </xref>
+    , and
+    <xref articleid="59817">
+     photons
+    </xref>
+    ), which have integral spins and mediate the fundamental forces of physics. Leptons (e.g.,
+    <xref articleid="32316">
+     electrons
+    </xref>
+    ,
+    <xref articleid="54309">
+     muons
+    </xref>
+    ,
+    <xref articleid="71396">
+     taus
+    </xref>
+    ), gluons, and photons are believed to be truly fundamental particles. Baryons (e.g.,
+    <xref articleid="55406">
+     neutrons
+    </xref>
+    ,
+    <xref articleid="61626">
+     protons
+    </xref>
+    ) and mesons (e.g., pions, kaons), collectively known as
+    <xref articleid="38748">
+     hadrons
+    </xref>
+    , are believed to be formed from indivisible elements known as
+    <xref articleid="62172">
+     quarks
+    </xref>
+    , which have never been isolated.
+   </p>
+   <p>
+    Quarks come in six types, or “flavours,” and have matching
+    <xref articleid="7870">
+     antiparticles
+    </xref>
+    , known as antiquarks. Quarks have charges that are either positive two-thirds or negative one-third of the electron’s charge, while antiquarks have the opposite charges. Like quarks, each lepton has an antiparticle with properties that mirror those of its partner (the antiparticle of the negatively charged electron is the positive electron, or
+    <xref articleid="61025">
+     positron
+    </xref>
+    ; that of the neutrino is the antineutrino). In addition to their electric and magnetic properties, quarks participate in both the
+    <xref articleid="69992">
+     strong force
+    </xref>
+    (which binds them together) and the
+    <xref articleid="76351">
+     weak force
+    </xref>
+    (which underlies certain forms of
+    <xref articleid="110413">
+     radioactivity
+    </xref>
+    ), while leptons take part in only the weak force.
+   </p>
+   <p>
+    Baryons, such as neutrons and protons, are formed by combining three quarks—thus baryons have a charge of −1, 0, or 1. Mesons, which are the particles that mediate the strong force inside the atomic nucleus, are composed of one quark and one antiquark; all known mesons have a charge of −2, −1, 0, 1, or 2. Most of the possible quark combinations, or hadrons, have very short lifetimes, and many of them have never been seen, though additional ones have been observed with each new generation of more powerful particle accelerators.
+   </p>
+   <p>
+    The quantum fields through which quarks and leptons interact with each other and with themselves consist of particle-like objects called quanta (from which quantum mechanics derives its name). The first known quanta were those of the
+    <xref articleid="32310">
+     electromagnetic field
+    </xref>
+    ; they are also called photons because light consists of them. A modern unified theory of weak and electromagnetic interactions, known as the
+    <xref articleid="32348">
+     electroweak theory
+    </xref>
+    , proposes that the weak force involves the exchange of particles about 100 times as massive as protons. These massive quanta have been observed—namely, two charged particles, W
+    <sup>
+     +
+    </sup>
+    and W
+    <sup>
+     −
+    </sup>
+    , and a neutral one, W
+    <sup>
+     0
+    </sup>
+    .
+   </p>
+   <p>
+    In the theory of the strong force known as
+    <xref articleid="62162">
+     quantum chromodynamics
+    </xref>
+    (QCD), eight quanta, called gluons, bind quarks to form baryons and also bind quarks to antiquarks to form mesons, the force itself being dubbed the “colour force.” (This unusual use of the term colour is a somewhat forced analogue of ordinary colour mixing.) Quarks are said to come in three colours—red, blue, and green. (The opposites of these imaginary colours, minus-red, minus-blue, and minus-green, are ascribed to antiquarks.) Only certain colour combinations, namely colour-neutral, or “white” (i.e., equal mixtures of the above colours cancel out one another, resulting in no net colour), are conjectured to exist in nature in an observable form. The gluons and quarks themselves, being coloured, are permanently confined (deeply bound within the particles of which they are a part), while the colour-neutral composites such as protons can be directly observed. One consequence of colour confinement is that the observable particles are either electrically neutral or have charges that are integral multiples of the charge of the electron. A number of specific predictions of QCD have been experimentally tested and found correct.
+   </p>
+  </h2>
+  <h2 id="h32485">
+   <title>
+    Quantum mechanics
+   </title>
+   <p>
+    Although the various branches of physics differ in their experimental methods and theoretical approaches, certain general principles apply to all of them. The forefront of contemporary advances in physics lies in the submicroscopic regime, whether it be in atomic, nuclear, condensed-matter,
+    <xref articleid="110303">
+     plasma
+    </xref>
+    , or particle physics, or in quantum optics, or even in the study of stellar structure. All are based upon quantum theory (i.e.,
+    <xref articleid="110312">
+     quantum mechanics
+    </xref>
+    and
+    <xref articleid="62164">
+     quantum field theory
+    </xref>
+    ) and
+    <xref articleid="109465">
+     relativity
+    </xref>
+    , which together form the theoretical foundations of modern physics. Many physical quantities whose classical counterparts vary continuously over a range of possible values are in quantum theory constrained to have discontinuous, or discrete, values. Furthermore, the intrinsically deterministic character of values in classical physics is replaced in quantum theory by intrinsic uncertainty.
+   </p>
+   <p>
+    According to quantum theory, electromagnetic radiation does not always consist of continuous waves; instead it must be viewed under some circumstances as a collection of particle-like photons, the energy and momentum of each being directly proportional to its
+    <xref articleid="35365">
+     frequency
+    </xref>
+    (or inversely proportional to its
+    <xref articleid="76325">
+     wavelength
+    </xref>
+    , the photons still possessing some wavelike characteristics). Conversely, electrons and other objects that appear as particles in classical physics are endowed by quantum theory with wavelike properties as well, such a particle’s quantum wavelength being inversely proportional to its momentum. In both instances, the proportionality constant is the characteristic quantum of action (action being defined as energy × time)—that is to say,
+    <xref articleid="60293">
+     Planck’s constant
+    </xref>
+    divided by 2π, or ℏ.
+   </p>
+   <p>
+    <assembly id="a53743" url="/assembly/view/53743">
+     <title>
+      Bohr theory
+     </title>
+     <media mediaid="62995" type="image" url="/95/62995-004-90EA36FD.jpg"/>
+     <caption>
+      The Bohr theory sees an electron (left) as a point mass occupying certain energy levels. Wave mechanics sees an electron as a wave washing back and forth in the atom in certain patterns only. The wave patterns and energy levels correspond exactly.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a53743"/>
+    In principle, all of atomic and molecular physics, including the structure of atoms and their dynamics, the
+    <xref articleid="110603">
+     periodic table of elements
+    </xref>
+    and their chemical behaviour, as well as the spectroscopic, electrical, and other physical properties of atoms, molecules, and condensed matter, can be accounted for by quantum mechanics. Roughly speaking, the electrons in the atom must fit around the nucleus as some sort of standing wave (as given by the
+    <xref articleid="66220">
+     Schrödinger equation
+    </xref>
+    ) analogous to the waves on a plucked violin or guitar string. As the fit determines the wavelength of the quantum wave, it necessarily determines its energy state. Consequently, atomic systems are restricted to certain discrete, or quantized, energies. When an atom undergoes a discontinuous transition, or quantum jump, its energy changes abruptly by a sharply defined amount, and a photon of that energy is emitted when the energy of the atom decreases, or is absorbed in the opposite case.
+   </p>
+   <p>
+    Although atomic energies can be sharply defined, the positions of the electrons within the atom cannot be, quantum mechanics giving only the probability for the electrons to have certain locations. This is a consequence of the feature that distinguishes quantum theory from all other approaches to physics, the
+    <xref articleid="74223">
+     uncertainty principle
+    </xref>
+    of the German physicist
+    <xref articleid="106280">
+     Werner Heisenberg
+    </xref>
+    . This principle holds that measuring a particle’s position with increasing precision necessarily increases the uncertainty as to the particle’s momentum, and conversely. The ultimate degree of uncertainty is controlled by the magnitude of Planck’s constant, which is so small as to have no apparent effects except in the world of microstructures. In the latter case, however, because both a particle’s position and its velocity or momentum must be known precisely at some instant in order to predict its future history, quantum theory precludes such certain prediction and thus escapes
+    <xref articleid="30105">
+     determinism
+    </xref>
+    .
+   </p>
+   <p>
+    <assembly id="a92138" url="/assembly/view/92138">
+     <title>
+      Compton effect
+     </title>
+     <media mediaid="96917" type="image" url="/17/96917-004-DEF9830C.jpg"/>
+     <caption>
+      When a beam of X-rays is aimed at a target material, some of the beam is deflected, and the scattered X-rays have a greater wavelength than the original beam. The physicist Arthur Holly Compton concluded that this phenomenon could only be explained if the X-rays were understood to be made up of discrete bundles or particles, now called photons, that lost some of their energy in the collisions with electrons in the target material and then scattered at lower energy.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a92138"/>
+    The complementary wave and particle aspects, or wave–particle duality, of electromagnetic radiation and of material particles furnish another illustration of the uncertainty principle. When an electron exhibits wavelike behaviour, as in the phenomenon of
+    <xref articleid="32321">
+     electron diffraction
+    </xref>
+    , this excludes its exhibiting particle-like behaviour in the same observation. Similarly, when electromagnetic radiation in the form of photons interacts with matter, as in the
+    <xref articleid="25044">
+     Compton effect
+    </xref>
+    in which X-ray photons collide with electrons, the result resembles a particle-like collision and the wave nature of electromagnetic radiation is precluded. The
+    <xref articleid="25021">
+     principle of complementarity
+    </xref>
+    , asserted by the Danish physicist
+    <xref articleid="106088">
+     Niels Bohr
+    </xref>
+    , who pioneered the theory of atomic structure, states that the physical world presents itself in the form of various complementary pictures, no one of which is by itself complete, all of these pictures being essential for our total understanding. Thus both wave and particle pictures are needed for understanding either the electron or the photon.
+   </p>
+   <p>
+    Although it deals with probabilities and uncertainties, the quantum theory has been spectacularly successful in explaining otherwise inaccessible atomic phenomena and in thus far meeting every experimental test. Its predictions, especially those of QED, are the most precise and the best checked of any in physics; some of them have been tested and found accurate to better than one part per billion.
+   </p>
+  </h2>
+  <h2 id="h32486">
+   <title>
+    Relativistic mechanics
+   </title>
+   <p>
+    In classical physics, space is conceived as having the absolute character of an empty stage in which events in nature unfold as time flows onward independently; events occurring simultaneously for one observer are presumed to be simultaneous for any other; mass is taken as impossible to create or destroy; and a particle given sufficient energy acquires a velocity that can increase without limit. The
+    <xref articleid="109465" refid="h252878">
+     special theory of relativity
+    </xref>
+    , developed principally by
+    <xref articleid="106018">
+     Albert Einstein
+    </xref>
+    in 1905 and now so adequately confirmed by experiment as to have the status of physical law, shows that all these, as well as other apparently obvious assumptions, are false.
+   </p>
+   <p>
+    Specific and unusual relativistic effects flow directly from Einstein’s two basic postulates, which are formulated in terms of so-called inertial reference frames. These are reference systems that move in such a way that in them
+    <xref articleid="108764">
+     Isaac Newton
+    </xref>
+    ’s first law, the law of inertia, is valid. The set of inertial frames consists of all those that move with constant velocity with respect to each other (accelerating frames therefore being excluded). Einstein’s postulates are: (1) All observers, whatever their state of motion relative to a light source, measure the same speed for light; and (2) The laws of physics are the same in all inertial frames.
+   </p>
+   <p>
+    <assembly id="a86705" url="/assembly/view/86705">
+     <title>
+      length contraction and time dilation
+     </title>
+     <media mediaid="91963" type="image" url="/63/91963-004-10EE1D21.jpg"/>
+     <caption>
+      As an object approaches the speed of light, an observer sees the object become shorter and its time interval become longer, relative to the length and time interval when the object is at rest.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a86705"/>
+    The first postulate, the constancy of the
+    <xref articleid="471069">
+     speed of light
+    </xref>
+    , is an experimental fact from which follow the distinctive relativistic phenomena of space contraction (or
+    <xref articleid="48965">
+     Lorentz-FitzGerald contraction
+    </xref>
+    ),
+    <xref articleid="72511">
+     time dilation
+    </xref>
+    , and the relativity of simultaneity: as measured by an observer assumed to be at rest, an object in motion is contracted along the direction of its motion, and moving clocks run slow; two spatially separated events that are simultaneous for a stationary observer occur sequentially for a moving observer. As a consequence, space intervals in three-dimensional space are related to time intervals, thus forming so-called four-dimensional
+    <xref articleid="68970">
+     space-time
+    </xref>
+    .
+   </p>
+   <p>
+    The second postulate is called the principle of relativity. It is equally valid in classical mechanics (but not in classical electrodynamics until Einstein reinterpreted it). This postulate implies, for example, that table tennis played on a train moving with constant velocity is just like table tennis played with the train at rest, the states of rest and motion being physically indistinguishable. In relativity theory, mechanical quantities such as momentum and energy have forms that are different from their classical counterparts but give the same values for speeds that are small compared to the speed of light, the maximum permissible speed in nature (about 300,000 kilometres per second, or 186,000 miles per second). According to relativity, mass and energy are equivalent and interchangeable quantities, the equivalence being expressed by Einstein’s famous
+    <xref articleid="487261">
+     mass-energy equation
+    </xref>
+    <e type="italic">
+     E
+    </e>
+    =
+    <e type="italic">
+     m
+    </e>
+    <e type="italic">
+     c
+    </e>
+    <sup>
+     2
+    </sup>
+    , where
+    <e type="italic">
+     m
+    </e>
+    is an object’s mass and
+    <e type="italic">
+     c
+    </e>
+    is the speed of light.
+   </p>
+   <p>
+    The
+    <xref articleid="109465" refid="h252889">
+     general theory of relativity
+    </xref>
+    is Einstein’s theory of
+    <xref articleid="106265">
+     gravitation
+    </xref>
+    , which uses the principle of the equivalence of gravitation and locally accelerating frames of reference. Einstein’s theory has special mathematical beauty; it generalizes the “flat” space-time concept of special relativity to one of curvature. It forms the background of all modern cosmological theories. In contrast to some vulgarized popular notions of it, which confuse it with moral and other forms of relativism, Einstein’s theory does not argue that “all is relative.” On the contrary, it is largely a theory based upon those physical attributes that do not change, or, in the language of the theory, that are invariant.
+   </p>
+  </h2>
+  <h2 id="h32487">
+   <title>
+    Conservation laws and symmetry
+   </title>
+   <p>
+    Since the early period of modern physics, there have been
+    <xref articleid="25938">
+     conservation laws
+    </xref>
+    , which state that certain physical quantities, such as the total electric charge of an isolated system of bodies, do not change in the course of time. In the 20th century it has been proved mathematically that such laws follow from the symmetry properties of nature, as expressed in the laws of physics. The conservation of mass-energy of an isolated system, for example, follows from the assumption that the laws of physics may depend upon time intervals but not upon the specific time at which the laws are applied. The symmetries and the conservation laws that follow from them are regarded by modern physicists as being even more fundamental than the laws themselves, since they are able to limit the possible forms of laws that may be proposed in the future.
+   </p>
+   <p>
+    Conservation laws are valid in classical, relativistic, and quantum theory for mass-energy, momentum, angular momentum, and electric charge. (In nonrelativistic physics, mass and energy are separately conserved.) Momentum, a directed quantity equal to the mass of a body multiplied by its velocity or to the total mass of two or more bodies multiplied by the velocity of their centre of mass, is conserved when, and only when, no external force acts. Similarly
+    <xref articleid="7612">
+     angular momentum
+    </xref>
+    , which is related to spinning motions, is conserved in a system upon which no net turning force, called
+    <xref articleid="72955">
+     torque
+    </xref>
+    , acts. External forces and torques break the symmetry conditions from which the respective conservation laws follow.
+   </p>
+   <p>
+    In quantum theory, and especially in the theory of elementary particles, there are additional symmetries and conservation laws, some exact and others only approximately valid, which play no significant role in classical physics. Among these are the conservation of so-called
+    <xref articleid="62166">
+     quantum numbers
+    </xref>
+    related to left-right reflection symmetry of space (called
+    <xref articleid="58495">
+     parity
+    </xref>
+    ) and to the reversal symmetry of motion (called
+    <xref articleid="72514">
+     time reversal
+    </xref>
+    ). These quantum numbers are conserved in all processes other than the
+    <xref articleid="76351">
+     weak force
+    </xref>
+    .
+   </p>
+   <p>
+    Other symmetry properties not obviously related to space and time (and referred to as internal symmetries) characterize the different families of elementary particles and, by extension, their composites.
+    <xref articleid="62172">
+     Quarks
+    </xref>
+    , for example, have a property called baryon number, as do
+    <xref articleid="61626">
+     protons
+    </xref>
+    ,
+    <xref articleid="55406">
+     neutrons
+    </xref>
+    ,
+    <xref articleid="56462">
+     nuclei
+    </xref>
+    , and unstable quark composites. All of these except the quarks are known as
+    <xref articleid="13562">
+     baryons
+    </xref>
+    . A failure of baryon-number conservation would exhibit itself, for instance, by a proton decaying into lighter non-baryonic particles. Indeed, intensive search for such proton decay has been conducted, but so far it has been fruitless. Similar symmetries and conservation laws hold for an analogously defined
+    <xref articleid="47874">
+     lepton
+    </xref>
+    number, and they also appear, as does the law of baryon conservation, to hold absolutely.
+   </p>
+  </h2>
+  <h2 id="h32488">
+   <title>
+    Fundamental forces and fields
+   </title>
+   <p>
+    <assembly id="a19492" url="/assembly/view/19492">
+     <title>
+      fission
+     </title>
+     <media mediaid="22479" type="image" url="/79/22479-004-672B4B99.jpg"/>
+     <caption>
+      Sequence of events in the fission of a uranium nucleus by a neutron.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a19492"/>
+    The four basic forces of nature, in order of increasing strength, are thought to be: (1) the gravitational force between particles with mass; (2) the electromagnetic force between particles with charge or magnetism or both; (3) the colour force, or strong force, between quarks; and (4) the weak force by which, for example, quarks can change their type, so that a neutron decays into a proton, an electron, and an antineutrino. The strong force that binds protons and neutrons into nuclei and is responsible for
+    <xref articleid="34410">
+     fission
+    </xref>
+    ,
+    <xref articleid="110415">
+     fusion
+    </xref>
+    , and other
+    <xref articleid="56446">
+     nuclear reactions
+    </xref>
+    is in principle derived from the colour force. Nuclear physics is thus related to QCD as chemistry is to atomic physics.
+   </p>
+   <p>
+    According to
+    <xref articleid="62164">
+     quantum field theory
+    </xref>
+    , each of the four fundamental interactions is mediated by the exchange of quanta, called vector gauge
+    <xref articleid="80816">
+     bosons
+    </xref>
+    , which share certain common characteristics. All have an intrinsic spin of one unit, measured in terms of
+    <xref articleid="60293">
+     Planck’s constant
+    </xref>
+    ℏ. (Leptons and quarks each have one-half unit of spin.)
+    <xref articleid="36210">
+     Gauge theory
+    </xref>
+    studies the
+    <xref articleid="38224">
+     group
+    </xref>
+    of transformations, or Lie group, that leaves the basic physics of a quantum field invariant. Lie groups, which are named for the 19th-century Norwegian mathematician
+    <xref articleid="48172">
+     Sophus Lie
+    </xref>
+    , possess a special type of
+    <xref articleid="70724">
+     symmetry
+    </xref>
+    and
+    <xref articleid="26063">
+     continuity
+    </xref>
+    that made them first useful in the study of
+    <xref articleid="30412">
+     differential equations
+    </xref>
+    on smooth
+    <xref articleid="50543">
+     manifolds
+    </xref>
+    (an abstract mathematical space for modeling physical processes). This symmetry was first seen in the equations for electromagnetic potentials, quantities from which electromagnetic fields can be derived. It is possessed in pure form by the eight massless
+    <xref articleid="37089">
+     gluons
+    </xref>
+    of QCD, but in the
+    <xref articleid="32348">
+     electroweak theory
+    </xref>
+    —the unified theory of electromagnetic and weak force interactions—gauge symmetry is partially broken, so that only the photon remains massless, with the other gauge bosons (
+    <xref articleid="75806">
+     W
+     <sup>
+      +
+     </sup>
+    </xref>
+    , W
+    <sup>
+     −
+    </sup>
+    , and
+    <xref articleid="78172">
+     Z
+    </xref>
+    ) acquiring large masses. Theoretical physicists continue to seek a further unification of QCD with the electroweak theory and, more ambitiously still, to unify them with a quantum version of gravity in which the force would be transmitted by massless quanta of two units of spin called
+    <xref articleid="37795">
+     gravitons
+    </xref>
+    .
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h32489">
+  <title>
+   The methodology of physics
+  </title>
+  <p>
+   Physics has evolved and continues to evolve without any single strategy. Essentially an experimental science, refined measurements can reveal unexpected behaviour. On the other hand, mathematical extrapolation of existing theories into new theoretical areas, critical reexamination of apparently obvious but untested assumptions, argument by symmetry or analogy, aesthetic judgment, pure accident, and hunch—each of these plays a role (as in all of science). Thus, for example, the
+   <xref articleid="62161">
+    quantum
+   </xref>
+   hypothesis proposed by the German physicist
+   <xref articleid="108525">
+    Max Planck
+   </xref>
+   was based on observed departures of the character of
+   <xref articleid="15527">
+    blackbody radiation
+   </xref>
+   (radiation emitted by a heated body that absorbs all radiant energy incident upon it) from that predicted by classical
+   <xref articleid="106021">
+    electromagnetism
+   </xref>
+   . The English physicist
+   <xref articleid="30591">
+    P.A.M. Dirac
+   </xref>
+   predicted the existence of the
+   <xref articleid="61025">
+    positron
+   </xref>
+   in making a relativistic extension of the quantum theory of the
+   <xref articleid="32316">
+    electron
+   </xref>
+   . The elusive
+   <xref articleid="55405">
+    neutrino
+   </xref>
+   , without mass or charge, was hypothesized by the German physicist
+   <xref articleid="58782">
+    Wolfgang Pauli
+   </xref>
+   as an alternative to abandoning the
+   <xref articleid="25938">
+    conservation laws
+   </xref>
+   in the
+   <xref articleid="78953">
+    beta-decay process
+   </xref>
+   . Maxwell conjectured that if changing magnetic fields create electric fields (which was known to be so), then changing electric fields might create magnetic fields, leading him to the electromagnetic theory of
+   <xref articleid="110443">
+    light
+   </xref>
+   .
+   <xref articleid="106018">
+    Albert Einstein
+   </xref>
+   ’s
+   <xref articleid="109465" refid="h252878">
+    special theory of relativity
+   </xref>
+   was based on a critical reexamination of the meaning of simultaneity, while his
+   <xref articleid="109465" refid="h252889">
+    general theory of relativity
+   </xref>
+   rests on the equivalence of inertial and gravitational mass.
+  </p>
+  <p>
+   Although the tactics may vary from problem to problem, the physicist invariably tries to make unsolved problems more tractable by constructing a series of idealized models, with each successive model being a more realistic representation of the actual physical situation. Thus, in the theory of gases, the molecules are at first imagined to be particles that are as structureless as billiard balls with vanishingly small dimensions. This ideal picture is then improved on step by step.
+  </p>
+  <p>
+   The
+   <xref articleid="26410">
+    correspondence principle
+   </xref>
+   , a useful guiding principle for extending theoretical interpretations, was formulated by the Danish physicist
+   <xref articleid="106088">
+    Niels Bohr
+   </xref>
+   in the context of the quantum theory. It asserts that when a valid theory is generalized to a broader arena, the new theory’s predictions must agree with the old one in the overlapping region in which both are applicable. For example, the more comprehensive theory of physical
+   <xref articleid="108567">
+    optics
+   </xref>
+   must yield the same result as the more restrictive theory of ray optics whenever wave effects proportional to the wavelength of light are negligible on account of the smallness of that wavelength. Similarly,
+   <xref articleid="110312">
+    quantum mechanics
+   </xref>
+   must yield the same results as classical
+   <xref articleid="110307">
+    mechanics
+   </xref>
+   in circumstances when
+   <xref articleid="60293">
+    Planck’s constant
+   </xref>
+   can be considered as negligibly small. Likewise, for speeds small compared to the
+   <xref articleid="471069">
+    speed of light
+   </xref>
+   (as for baseballs in play),
+   <xref articleid="110309">
+    relativistic mechanics
+   </xref>
+   must coincide with Newtonian classical mechanics.
+  </p>
+  <p>
+   Some ways in which experimental and theoretical physicists attack their problems are illustrated by the following examples.
+  </p>
+  <p>
+   The modern experimental study of elementary particles began with the detection of new types of unstable particles produced in the atmosphere by primary radiation, the latter consisting mainly of high-energy protons arriving from space. The new particles were detected in
+   <xref articleid="36306">
+    Geiger counters
+   </xref>
+   and identified by the tracks they left in instruments called
+   <xref articleid="24442">
+    cloud chambers
+   </xref>
+   and in photographic plates. After World War II, particle physics, then known as high-energy nuclear physics, became a major field of science. Today’s high-energy
+   <xref articleid="108531">
+    particle accelerators
+   </xref>
+   can be several kilometres in length, cost hundreds (or even thousands) of millions of dollars, and accelerate particles to enormous energies (trillions of
+   <xref articleid="32330">
+    electron volts
+   </xref>
+   ). Experimental teams, such as those that discovered the
+   <xref articleid="75806">
+    W
+    <sup>
+     +
+    </sup>
+   </xref>
+   , W
+   <sup>
+    −
+   </sup>
+   , and
+   <xref articleid="78172">
+    Z
+   </xref>
+   quanta of the
+   <xref articleid="76351">
+    weak force
+   </xref>
+   at the European Laboratory for Particle Physics (
+   <xref articleid="22146">
+    CERN
+   </xref>
+   ) in Geneva, which is funded by its 20 European member states, can have 100 or more physicists from many countries, along with a larger number of technical workers serving as support personnel. A variety of visual and electronic techniques are used to interpret and sort the huge amounts of data produced by their efforts, and particle-physics laboratories are major users of the most advanced technology, be it superconductive magnets or
+   <xref articleid="70387">
+    supercomputers
+   </xref>
+   .
+  </p>
+  <p>
+   Theoretical physicists use mathematics both as a logical tool for the development of theory and for calculating predictions of the theory to be compared with experiment. Newton, for one, invented
+   <xref articleid="472597">
+    integral calculus
+   </xref>
+   to solve the following problem, which was essential to his formulation of the law of universal
+   <xref articleid="106265">
+    gravitation
+   </xref>
+   : Assuming that the attractive force between any pair of point particles is inversely proportional to the square of the distance separating them, how does a spherical distribution of particles, such as Earth, attract another nearby object? Integral calculus, a procedure for summing many small contributions, yields the simple solution that Earth itself acts as a point particle with all its mass concentrated at the centre. In modern physics, Dirac predicted the existence of the then-unknown positive electron (or positron) by finding an equation for the electron that would combine quantum mechanics and the special theory of relativity.
+  </p>
+ </h1>
+ <h1 id="h32490">
+  <title>
+   Relations between physics and other disciplines and society
+  </title>
+  <h2 id="h32491">
+   <title>
+    Influence of physics on related disciplines
+   </title>
+   <p>
+    Because physics elucidates the simplest fundamental questions in nature on which there can be a consensus, it is hardly surprising that it has had a profound impact on other fields of science, on philosophy, on the worldview of the developed world, and, of course, on technology.
+   </p>
+   <p>
+    Indeed, whenever a branch of physics has reached such a degree of maturity that its basic elements are comprehended in general principles, it has moved from basic to applied physics and thence to technology. Thus almost all current activity in classical physics consists of applied physics, and its contents form the core of many branches of
+    <xref articleid="105842">
+     engineering
+    </xref>
+    . Discoveries in modern physics are converted with increasing rapidity into technical innovations and analytical tools for associated disciplines. There are, for example, such nascent fields as
+    <xref articleid="105851">
+     nuclear
+    </xref>
+    and biomedical engineering, quantum chemistry and quantum optics, and
+    <xref articleid="62411">
+     radio
+    </xref>
+    ,
+    <xref articleid="473636">
+     X-ray
+    </xref>
+    , and
+    <xref articleid="472408">
+     gamma-ray astronomy
+    </xref>
+    , as well as such analytic tools as
+    <xref articleid="62419">
+     radioisotopes
+    </xref>
+    ,
+    <xref articleid="110407">
+     spectroscopy
+    </xref>
+    , and
+    <xref articleid="47248">
+     lasers
+    </xref>
+    , which all stem directly from basic physics.
+   </p>
+   <p>
+    Apart from its specific applications, physics—especially Newtonian mechanics—has become the prototype of the
+    <xref articleid="473262">
+     scientific method
+    </xref>
+    , its experimental and analytic methods sometimes being imitated (and sometimes inappropriately so) in fields far from the related physical sciences. Some of the organizational aspects of physics, based partly on the successes of the
+    <xref articleid="109463">
+     radar
+    </xref>
+    and
+    <xref articleid="10127">
+     atomic-bomb
+    </xref>
+    projects of World War II, also have been imitated in large-scale scientific projects, as, for example, in
+    <xref articleid="108656">
+     astronomy
+    </xref>
+    and space research.
+   </p>
+   <p>
+    The great influence of physics on the branches of philosophy concerned with the conceptual basis of human perceptions and understanding of nature, such as
+    <xref articleid="106052">
+     epistemology
+    </xref>
+    , is evidenced by the earlier designation of physics itself as natural philosophy. Present-day philosophy of science deals largely, though not exclusively, with the foundations of physics.
+    <xref articleid="30105">
+     Determinism
+    </xref>
+    , the philosophical doctrine that the universe is a vast machine operating with strict causality whose future is determined in all detail by its present state, is rooted in Newtonian mechanics, which obeys that principle. Moreover, the schools of
+    <xref articleid="108680">
+     materialism
+    </xref>
+    ,
+    <xref articleid="55048">
+     naturalism
+    </xref>
+    , and
+    <xref articleid="108677">
+     empiricism
+    </xref>
+    have in large degree considered physics to be a model for philosophical inquiry. An extreme position is taken by the
+    <xref articleid="48766">
+     logical positivists
+    </xref>
+    , whose radical distrust of the reality of anything not directly observable leads them to demand that all significant statements must be formulated in the language of physics.
+   </p>
+   <p>
+    The
+    <xref articleid="74223">
+     uncertainty principle
+    </xref>
+    of quantum theory has prompted a reexamination of the question of determinism, and its other philosophical implications remain in doubt. Particularly problematic is the matter of the meaning of
+    <xref articleid="51691">
+     measurement
+    </xref>
+    , for which recent theories and experiments confirm some apparently noncausal predictions of standard quantum theory. It is fair to say that though physicists agree that quantum theory works, they still differ as to what it means.
+   </p>
+  </h2>
+  <h2 id="h32492">
+   <title>
+    Influence of related disciplines on physics
+   </title>
+   <p>
+    <assembly id="a92039" url="/assembly/view/92039">
+     <title>
+      laser-activated fusion
+     </title>
+     <media mediaid="96856" type="image" url="/56/96856-004-AF810A00.jpg"/>
+     <caption>
+      Interior of the U.S. Department of Energy’s National Ignition Facility (NIF), located at Lawrence Livermore National Laboratory, Livermore, California. The NIF target chamber uses a high-energy laser to heat fusion fuel to temperatures sufficient for thermonuclear ignition. The facility is used for basic science, fusion energy research, and nuclear weapons testing.
+     </caption>
+     <credit>
+      U.S. Department of Energy
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a92039"/>
+    The relationship of physics to its bordering disciplines is a reciprocal one. Just as technology feeds on fundamental science for new practical innovations, so physics appropriates the techniques and instrumentation of modern technology for advancing itself. Thus experimental physicists utilize increasingly refined and precise electronic devices. Moreover, they work closely with engineers in designing basic scientific equipment, such as high-energy
+    <xref articleid="108531">
+     particle accelerators
+    </xref>
+    . Mathematics has always been the primary tool of the theoretical physicist, and even abstruse fields of mathematics such as
+    <xref articleid="472468">
+     group theory
+    </xref>
+    and
+    <xref articleid="111075">
+     differential geometry
+    </xref>
+    have become invaluable to the theoretician classifying
+    <xref articleid="108593">
+     subatomic particles
+    </xref>
+    or investigating the
+    <xref articleid="70724">
+     symmetry
+    </xref>
+    characteristics of
+    <xref articleid="110411">
+     atoms
+    </xref>
+    and
+    <xref articleid="53247">
+     molecules
+    </xref>
+    . Much of contemporary research in physics depends on the high-speed
+    <xref articleid="117728">
+     computer
+    </xref>
+    . It allows the theoretician to perform computations that are too lengthy or complicated to be done with paper and pencil. Also, it allows experimentalists to incorporate the computer into their apparatus, so that the results of measurements can be provided nearly instantaneously on-line as summarized data while an experiment is in progress.
+   </p>
+  </h2>
+  <h2 id="h32493">
+   <title>
+    The physicist in society
+   </title>
+   <p>
+    <assembly id="a3049" url="/assembly/view/3049">
+     <title>
+      proton-antiproton collision
+     </title>
+     <media mediaid="60145" type="image" url="/45/60145-004-8083F31E.jpg"/>
+     <caption>
+      Tracks emerging from a proton-antiproton collision at the centre of the UA1 detector at CERN include those of an energetic electron (straight down) and a positron (upper right). These two particles have come from pair production through the decay of a Z
+      <sup>
+       0
+      </sup>
+      ; when their energies are added together, the total is equal to the Z
+      <sup>
+       0
+      </sup>
+      ’s mass.
+     </caption>
+     <credit>
+      David Parker—Science Photo Library/Photo Researchers
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a3049"/>
+    Because of the remoteness of much of contemporary physics from ordinary experience and its reliance on advanced mathematics, physicists have sometimes seemed to the public to be initiates in a latter-day secular priesthood who speak an arcane language and can communicate their findings to laymen only with great difficulty. Yet, the physicist has come to play an increasingly significant role in society, particularly since World War II. Governments have supplied substantial funds for research at academic institutions and at government laboratories through such agencies as the
+    <xref articleid="2440">
+     National Science Foundation
+    </xref>
+    and the
+    <xref articleid="472270">
+     Department of Energy
+    </xref>
+    in the United States, which has also established a number of national laboratories, including the
+    <xref articleid="34056">
+     Fermi National Accelerator Laboratory
+    </xref>
+    in Batavia, Ill., with one of the world’s largest particle accelerators.
+    <xref articleid="22146">
+     CERN
+    </xref>
+    is composed of 14 European countries and operates a large accelerator at the Swiss–French border. Physics research is supported in Germany by the Max Planck Society for the Advancement of Science and in Japan by the Japan Society for the Promotion of Science. In Trieste, Italy, there is the International Center for Theoretical Physics, which has strong ties to developing countries. These are only a few examples of the widespread international interest in fundamental physics.
+   </p>
+   <p>
+    Basic research in physics is obviously dependent on public support and funding, and with this development has come, albeit slowly, a growing recognition within the physics community of the social responsibility of scientists for the consequences of their work and for the more general problems of science and society.
+   </p>
+   <signature>
+    Richard Tilghman Weidner
+   </signature>
+   <signature>
+    Laurie M. Brown
+   </signature>
+  </h2>
+ </h1>
+ <h1 id="h32494">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    I. Bernard Cohen
+   </e>
+   ,
+   <e type="italic">
+    The Birth of a New Physics
+   </e>
+   , rev. ed. (1985), is an account of the work of Galileo, Newton, and other 17th-century scientists. See also
+   <e type="smallcap">
+    Emilio Segrè
+   </e>
+   ,
+   <e type="italic">
+    From Falling Bodies to Radio Waves: Classical Physicists and Their Discoveries
+   </e>
+   (1984), and
+   <e type="italic">
+    From X-Rays to Quarks: Modern Physicists and Their Discoveries
+   </e>
+   (1980; originally published in Italian, 1976).
+   <e type="smallcap">
+    Henry A. Boorse
+   </e>
+   and
+   <e type="smallcap">
+    Lloyd Motz
+   </e>
+   (eds.),
+   <e type="italic">
+    The World of the Atom
+   </e>
+   , 2 vol. (1966), is a comprehensive anthology of historical sources on 19th- and 20th-century developments in atomic physics. For more recent history, see
+   <e type="smallcap">
+    Stephen G. Brush
+   </e>
+   , “Resource Letter HP-1: History of Physics,”
+   <e type="italic">
+    American Journal of Physics
+   </e>
+   , 55:683-691 (August 1987). An interesting collection of writings by physicists is presented in
+   <e type="smallcap">
+    Jefferson Hane Weaver
+   </e>
+   (ed.),
+   <e type="italic">
+    The World of Physics: A Small Library of the Literature of Physics from Antiquity to the Present
+   </e>
+   , 3 vol. (1987).
+  </p>
+  <p>
+   Reference works surveying the scope and methodology of physics include
+   <e type="smallcap">
+    Robert M. Besançon
+   </e>
+   (ed.),
+   <e type="italic">
+    The Encyclopedia of Physics
+   </e>
+   , 3rd ed. (1985); and
+   <e type="smallcap">
+    Cesare Emiliani
+   </e>
+   ,
+   <e type="italic">
+    Dictionary of the Physical Sciences: Terms, Formulas, Data
+   </e>
+   (1987). Other works include
+   <e type="smallcap">
+    David Halliday
+   </e>
+   and
+   <e type="smallcap">
+    Robert Resnick
+   </e>
+   ,
+   <e type="italic">
+    Fundamentals of Physics
+   </e>
+   , 3rd extended ed., 2 vol. (1988), a good standard text;
+   <e type="smallcap">
+    Gerald Holton
+   </e>
+   ,
+   <e type="italic">
+    Introduction to Concepts and Theories in Physical Science
+   </e>
+   , 2nd ed., rev. by
+   <e type="smallcap">
+    Stephen G. Brush
+   </e>
+   (1973, reprinted 1985), analyzing the physical theories from a historical standpoint;
+   <e type="smallcap">
+    Richard P. Feynman
+   </e>
+   ,
+   <e type="smallcap">
+    Robert B. Leighton
+   </e>
+   , and
+   <e type="smallcap">
+    Matthew Sands
+   </e>
+   ,
+   <e type="italic">
+    The Feynman Lectures on Physics
+   </e>
+   , 3 vol. (1963–65), and
+   <e type="smallcap">
+    Richard P. Feynman
+   </e>
+   ,
+   <e type="italic">
+    QED: The Strange Theory of Light and Matter
+   </e>
+   (1985), works by a modern master;
+   <e type="smallcap">
+    Frank Close
+   </e>
+   ,
+   <e type="smallcap">
+    Michael Marten
+   </e>
+   , and
+   <e type="smallcap">
+    Christine Sutton
+   </e>
+   ,
+   <e type="italic">
+    The Particle Explosion
+   </e>
+   (1987), a discussion of the latest developments in fundamental physics, written for the general reader;
+   <e type="smallcap">
+    Steven Weinberg
+   </e>
+   ,
+   <e type="italic">
+    The Discovery of Subatomic Particles
+   </e>
+   (1983), and
+   <e type="italic">
+    The First Three Minutes: A Modern View of the Origin of the Universe
+   </e>
+   , updated ed. (1988);
+   <e type="smallcap">
+    P.C.W. Davies
+   </e>
+   ,
+   <e type="italic">
+    Space and Time in the Modern Universe
+   </e>
+   (1977); and
+   <e type="smallcap">
+    Peter G. Bergmann
+   </e>
+   ,
+   <e type="italic">
+    The Riddle of Gravitation
+   </e>
+   , rev. ed. (1987). An unusual social history of the U.S. scientific community is presented in
+   <e type="smallcap">
+    Daniel J. Kevles
+   </e>
+   ,
+   <e type="italic">
+    The Physicists
+   </e>
+   (1978, reprinted 1987).
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

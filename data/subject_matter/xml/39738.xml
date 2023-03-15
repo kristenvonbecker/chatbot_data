@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="39738" articletypeid="1" language="en_us" lastupdate="2021-Dec-02 12:59:06" url="/article/heat-transfer/39738" version="5">
+ <title>
+  heat transfer
+ </title>
+ <p>
+  <assembly id="a159129" url="/assembly/view/159129">
+   <title>
+    Discern the difference between heat and temperature and review the three types of heat transfer
+   </title>
+   <media mediaid="151062" thumburl="/62/151062-049-FCC9D0C5.jpg" type="video" url=""/>
+   <caption>
+    Explanation of heat transfer.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assembly id="a156572" url="/assembly/view/156572">
+   <title>
+    heat transfer
+   </title>
+   <media mediaid="149866" type="image" url="/66/149866-004-ECE37CAC.jpg"/>
+   <caption>
+    Heat is transferred via conduction from a warm block to a cool block.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   heat transfer
+  </e>
+  ,
+  <assemblyref assemblyid="a159129"/>
+  <assemblyref assemblyid="a156572"/>
+  any or all of several kinds of phenomena, considered as mechanisms, that convey energy and entropy from one location to another. The specific mechanisms are usually referred to as
+  <xref articleid="26084">
+   convection
+  </xref>
+  ,
+  <xref articleid="72072">
+   thermal radiation
+  </xref>
+  , and conduction (
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="72067">
+   thermal conduction
+  </xref>
+  ). Conduction involves transfer of energy and entropy between adjacent molecules, usually a slow process. Convection involves movement of a heated fluid, such as air, usually a fairly rapid process. Radiation refers to the transmission of energy as electromagnetic radiation from its emission at a heated surface to its absorption on another surface, a process requiring no medium to convey the energy.
+ </p>
+ <p>
+  Transfer of heat, whether in heating a building or a kettle of water or in a natural condition such as a thunderstorm, usually involves all these processes.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

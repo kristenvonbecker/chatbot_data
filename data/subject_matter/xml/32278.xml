@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="32278" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:47:49" url="/article/electric-field/32278" version="5">
+ <title>
+  electric field
+ </title>
+ <p>
+  <e type="bold">
+   electric field
+  </e>
+  , an
+  <xref articleid="106019">
+   electric
+  </xref>
+  property associated with each point in space when
+  <xref articleid="32271">
+   charge
+  </xref>
+  is present in any form. The magnitude and direction of the electric field are expressed by the value of
+  <e type="italic">
+   E
+  </e>
+  , called electric field strength or electric field intensity or simply the electric field. Knowledge of the value of the electric field at a point, without any specific knowledge of what produced the field, is all that is needed to determine what will happen to electric charges close to that particular point.
+ </p>
+ <p>
+  Instead of considering the electric force as a direct interaction of two electric charges at a distance from each other, one charge is considered the source of an electric field that extends outward into the surrounding space, and the force exerted on a second charge in this space is considered as a direct interaction between the electric field and the second charge. The strength of an electric field
+  <e type="italic">
+   E
+  </e>
+  at any point may be defined as the electric, or
+  <xref articleid="26556">
+   Coulomb
+  </xref>
+  , force
+  <e type="italic">
+   F
+  </e>
+  exerted per unit positive electric charge
+  <e type="italic">
+   q
+  </e>
+  at that point, or simply
+  <e type="italic">
+   E
+  </e>
+  =
+  <e type="italic">
+   F
+  </e>
+  /
+  <e type="italic">
+   q
+  </e>
+  . If the second, or test, charge is twice as great, the resultant force is doubled; but their quotient, the measure of the electric field
+  <e type="italic">
+   E
+  </e>
+  , remains the same at any given point. The strength of the electric field depends on the source charge, not on the test charge. Strictly speaking, the introduction of a small test charge, which itself has an electric field, slightly modifies the existing field. The electric field may be thought of as the force per unit positive charge that would be exerted before the field is disturbed by the presence of the test charge.
+ </p>
+ <p>
+  <assembly id="a5339" url="/assembly/view/5339">
+   <media mediaid="196" type="image" url="/96/196-004-767CD0FE.jpg"/>
+   <caption>
+    Electric field lines near equal but opposite charges
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a5339"/>
+  The direction of the force that is exerted on a negative charge is opposite that which is exerted on a positive charge. Because an electric field has both magnitude and direction, the direction of the force on a positive charge is chosen arbitrarily as the direction of the electric field. Because positive charges repel each other, the electric field around an isolated positive charge is oriented radially outward. When they are represented by lines of force, or field lines, electric fields are depicted as starting on positive charges and terminating on negative charges. A line tangent to a field line indicates the direction of the electric field at that point. Where the field lines are close together, the electric field is stronger than where they are farther apart. The magnitude of the electric field around an electric charge, considered as source of the electric field, depends on how the charge is distributed in space. For a charge concentrated nearly at a point, the electric field is directly proportional to the amount of charge; it is inversely proportional to the square of the distance radially away from the centre of the source charge and depends also upon the nature of the medium. The presence of a material medium always diminishes the electric field below the value it has in a vacuum.
+ </p>
+ <p>
+  At times the electric field itself may become detached from the source charge and form closed loops, as in the case of charges accelerating up and down the transmitting antenna of a
+  <xref articleid="106102">
+   television
+  </xref>
+  station. The electric field with an accompanying
+  <xref articleid="50022">
+   magnetic field
+  </xref>
+  is propagated through space as a radiated wave at the same speed as that of
+  <xref articleid="110443">
+   light
+  </xref>
+  . Such
+  <xref articleid="106022">
+   electromagnetic waves
+  </xref>
+  indicate that electric fields are generated not only from electric charges but also from changing magnetic fields.
+ </p>
+ <p>
+  The value of the electric field has dimensions of force per unit charge. In the metre-kilogram-second and SI systems, the appropriate units are newtons per coulomb, equivalent to volts per metre. In the centimetre-gram-second system, the electric field is expressed in units of dynes per electrostatic unit (esu), equivalent to statvolts per centimetre.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="110296" articletypeid="1" language="en_us" lastupdate="2021-Nov-08 06:01:38" url="/article/phase/110296" version="15">
+ <title>
+  phase
+ </title>
+ <p>
+  <assembly id="a148660" url="/assembly/view/148660">
+   <title>
+    states of matter
+   </title>
+   <media mediaid="63065" type="image" url="/65/63065-004-3ED07E1B.jpg"/>
+   <caption>
+    States of matter.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   phase
+  </e>
+  ,
+  <assemblyref assemblyid="a148660"/>
+  in thermodynamics, chemically and physically uniform or homogeneous quantity of matter that can be separated mechanically from a nonhomogeneous mixture and that may consist of a single substance or a mixture of substances. The three fundamental phases of matter are solid, liquid, and gas (vapour), but others are considered to exist, including crystalline, colloid, glassy, amorphous, and plasma phases. When a phase in one form is altered to another form, a phase change is said to have occurred.
+ </p>
+ <h1 id="h52022">
+  <title>
+   General considerations
+  </title>
+  <p>
+   <assembly id="a155241" url="/assembly/view/155241">
+    <title>
+     phase change
+    </title>
+    <media mediaid="149040" type="image" url="/40/149040-004-A417A659.jpg"/>
+    <caption>
+     Sublimation, deposition, condensation, evaporation, freezing, and melting represent phase changes of matter.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a155241"/>
+   A system is a portion of the universe that has been chosen for studying the changes that take place within it in response to varying conditions. A system may be complex, such as a planet, or relatively simple, as the liquid within a glass. Those portions of a system that are physically distinct and mechanically separable from other portions of the system are called phases.
+  </p>
+  <p>
+   <assembly id="a146131" url="/assembly/view/146131">
+    <title>
+     states of matter
+    </title>
+    <media mediaid="92905" type="image" url="/05/92905-004-976E9769.jpg"/>
+    <caption>
+     The three states of matter: solid, liquid, and gas.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a146131"/>
+   Phases within a system exist in a gaseous, liquid, or solid state. Solids are characterized by strong atomic bonding and high viscosity, resulting in a rigid shape. Most solids are crystalline, inasmuch as they have a three-dimensional periodic atomic arrangement; some solids (such as glass) lack this periodic arrangement and are noncrystalline, or amorphous. Gases consist of weakly bonded atoms with no long-range periodicity; gases expand to fill any available space. Liquids have properties intermediate between those of solids and gases. The molecules of a liquid are condensed like those of a solid. Liquids have a definite volume, but their low viscosity enables them to change shape as a function of time. The matter within a system may consist of more than one solid or liquid phase, but a system can contain only a single gas phase, which must be of homogeneous composition because the molecules of gases mix completely in all proportions.
+  </p>
+ </h1>
+ <h1 id="h52023">
+  <title>
+   System variables
+  </title>
+  <p>
+   Systems respond to changes in pressure, temperature, and chemical composition, and, as this happens, phases may be created, eliminated, or altered in composition. For example, an increase in pressure may cause a low-density liquid to convert to a denser solid, while an increase in temperature may cause a solid to melt. A change of composition might result in the compositional modification of a preexisting phase or in the gain or loss of a phase.
+  </p>
+  <h2 id="h52024">
+   <title>
+    The phase rule
+   </title>
+   <p>
+    The classification and limitations of phase changes are described by the phase rule, as proposed by the American chemist J. Willard Gibbs in 1876 and based on a rigorous thermodynamic relationship. The phase rule is commonly given in the form
+    <e type="italic">
+     P
+    </e>
+    +
+    <e type="italic">
+     F
+    </e>
+    =
+    <e type="italic">
+     C
+    </e>
+    + 2. The term
+    <e type="italic">
+     P
+    </e>
+    refers to the number of phases that are present within the system, and
+    <e type="italic">
+     C
+    </e>
+    is the minimum number of independent chemical components that are necessary to describe the composition of all phases within the system. The term
+    <e type="italic">
+     F
+    </e>
+    , called the variance, or degrees of freedom, describes the minimum number of variables that must be fixed in order to define a particular condition of the system.
+   </p>
+  </h2>
+  <h2 id="h52025">
+   <title>
+    Phase diagrams
+   </title>
+   <h3 id="h52026">
+    <title>
+     Unary systems
+    </title>
+    <p>
+     Phase relations are commonly described graphically in terms of phase diagrams (
+     <e type="italic">
+      see
+     </e>
+     ). Each point within the diagram indicates a particular combination of pressure and temperature, as well as the phase or phases that exist stably at this pressure and temperature. All phases in have the same composition—that of silicon dioxide, SiO
+     <sub>
+      2
+     </sub>
+     . The diagram is a representation of a one-component (unary) system, in contrast to a two-component (binary), three-component (ternary), or four-component (quaternary) system. The phases coesite, low quartz, high quartz, tridymite, and cristobalite are solid phases composed of silicon dioxide; each has its own atomic arrangement and distinctive set of physical and chemical properties. The most common form of quartz (found in beach sands and granites) is low quartz. The region labeled anhydrous melt consists of silicon dioxide liquid.
+    </p>
+    <p>
+     Different portions of the silicon dioxide system may be examined in terms of the phase rule. At point
+     <e type="italic">
+      A
+     </e>
+     a single solid phase exists—low quartz. Substituting the appropriate values into the phase rule
+     <e type="italic">
+      P
+     </e>
+     +
+     <e type="italic">
+      F
+     </e>
+     =
+     <e type="italic">
+      C
+     </e>
+     + 2 yields 1 +
+     <e type="italic">
+      F
+     </e>
+     = 1 + 2, so
+     <e type="italic">
+      F
+     </e>
+     = 2. For point
+     <e type="italic">
+      A
+     </e>
+     (or any point in which only a single phase is stable) the system is divariant—i.e., two degrees of freedom exist. Thus, the two variables (pressure and temperature) can be changed independently, and the same phase assemblage continues to exist.
+    </p>
+    <p>
+     Point
+     <e type="italic">
+      B
+     </e>
+     is located on the boundary curve between the stability fields of low quartz and high quartz. At all points along this curve, these two phases coexist. Substituting values in the phase rule (2 +
+     <e type="italic">
+      F
+     </e>
+     = 1 + 2) will cause a variance of 1 to be obtained. This indicates that one independent variable can be changed such that the same pair of phases will be retained. A second variable must be changed to conform to the first in order for the phase assemblage to remain on the boundary between low and high quartz. The same result holds for the other boundary curves in this system.
+    </p>
+    <p>
+     Point
+     <e type="italic">
+      C
+     </e>
+     is located at a triple point, a condition in which three stability fields intersect. The phase rule (3 +
+     <e type="italic">
+      F
+     </e>
+     = 1 + 2) indicates that the variance is 0. Point
+     <e type="italic">
+      C
+     </e>
+     is therefore an invariant point; a change in either pressure or temperature results in the loss of one or more phases. The phase rule also reveals that no more than three phases can stably coexist in a one-component system because additional phases would lead to negative variance.
+    </p>
+   </h3>
+   <h3 id="h52027">
+    <title>
+     Binary systems
+    </title>
+    <p>
+     Consider the binary system () that describes the freezing and melting of the minerals titanite (CaSiTiO
+     <sub>
+      5
+     </sub>
+     ) and anorthite feldspar (CaAl
+     <sub>
+      2
+     </sub>
+     Si
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      8
+     </sub>
+     ). The melt can range in composition from pure CaSiTiO
+     <sub>
+      5
+     </sub>
+     to pure CaAl
+     <sub>
+      2
+     </sub>
+     Si
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      8
+     </sub>
+     , but the solids show no compositional substitution. All phases therefore have the composition of CaSiTiO
+     <sub>
+      5
+     </sub>
+     , CaAl
+     <sub>
+      2
+     </sub>
+     Si
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      8
+     </sub>
+     , or a liquid mixture of the two. The system in the figure has been examined at atmospheric pressure; because the pressure variable is fixed, the phase rule is expressed as
+     <e type="italic">
+      P
+     </e>
+     +
+     <e type="italic">
+      F
+     </e>
+     =
+     <e type="italic">
+      C
+     </e>
+     + 1. In this form it is called the condensed phase rule, for any gas phase is either condensed to a liquid or is present in negligible amounts. The phase diagram shows a vertical temperature coordinate and a horizontal compositional coordinate (ranging from pure CaSiTiO
+     <sub>
+      5
+     </sub>
+     at the left to pure CaAl
+     <sub>
+      2
+     </sub>
+     Si
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      8
+     </sub>
+     at the right).
+    </p>
+    <p>
+     The phase fields (separated by the solid curves) contain either one or two phases. Any point in a one-phase field corresponds to a single phase whose composition is indicated directly below on the horizontal axis. For example, point
+     <e type="italic">
+      A
+     </e>
+     presents a liquid whose composition is 70 percent CaAl
+     <sub>
+      2
+     </sub>
+     Si
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      8
+     </sub>
+     and 30 percent CaSiTiO
+     <sub>
+      5
+     </sub>
+     . The compositions of phases in a two-phase field are determined by construction of a horizontal (constant-temperature) line from the point of interest to the extremities of the two-phase field. Thus, a sample with composition
+     <e type="italic">
+      B
+     </e>
+     consists of liquid
+     <e type="italic">
+      C
+     </e>
+     (43 percent CaSiTiO
+     <sub>
+      5
+     </sub>
+     and 57 percent CaAl
+     <sub>
+      2
+     </sub>
+     Si
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      8
+     </sub>
+     ) and solid anorthite
+     <e type="italic">
+      D.
+     </e>
+     A sample at point
+     <e type="italic">
+      E
+     </e>
+     at a lower temperature consists of the solids titanite (
+     <e type="italic">
+      F
+     </e>
+     ) and anorthite (
+     <e type="italic">
+      G
+     </e>
+     ).
+    </p>
+    <p>
+     Liquid CaAl
+     <sub>
+      2
+     </sub>
+     Si
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      8
+     </sub>
+     cools to produce solid anorthite at 1,550 °C, whereas liquid CaSiTiO
+     <sub>
+      5
+     </sub>
+     cools to produce solid titanite at 1,390 °C. If the batch were a mixture of the two components, the freezing temperature of each of these minerals would be depressed. In a melt consisting of a single component, such as CaSiTiO
+     <sub>
+      5
+     </sub>
+     , all atoms could add to titanite nuclei to form crystals of titanite. If, however, the melt contained 30 percent CaAl
+     <sub>
+      2
+     </sub>
+     Si
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      8
+     </sub>
+     , the rate of formation of titanite nuclei would be decreased, as 30 percent of the melt could not contribute to their formation. In order to increase the rate of formation of titanite nuclei and promote crystallization, the temperature of the melt must be decreased below the freezing point of pure CaSiTiO
+     <sub>
+      5
+     </sub>
+     . When cooled, liquid
+     <e type="italic">
+      A
+     </e>
+     does not begin crystallization until temperature
+     <e type="italic">
+      H
+     </e>
+     is reached. Pure anorthite crystals precipitate from the melt. Depletion of CaAl
+     <sub>
+      2
+     </sub>
+     Si
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      8
+     </sub>
+     from the melt causes the melt composition to become relatively enriched in CaSiTiO
+     <sub>
+      5
+     </sub>
+     , with consequent additional depression of the anorthite freezing point. As freezing continues, the liquid composition changes until the minimum point is reached at
+     <e type="italic">
+      I
+     </e>
+     . This point is called the eutectic. It is the lowest temperature at which a liquid can exist in this system. At the eutectic, both anorthite and titanite crystallize together at a fixed temperature and in a fixed ratio until the remaining liquid is consumed. All intermediate liquid compositions migrate during crystallization to the eutectic. The melting sequence of titanite-anorthite mixtures is exactly the opposite of the freezing sequence (i.e., melting of any anorthite-titanite mixture begins at the eutectic).
+    </p>
+    <p>
+     Depression of the freezing point of a compound by the addition of a second component is common in both binary and more complex systems. This usually occurs when the solid phases either have a fixed composition or show limited solid solution. Common examples are the mixing of ice and salt (NaCl) or the use of ethylene glycol (antifreeze) to depress the freezing point of water.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h52028">
+  <title>
+   Applications to petrology
+  </title>
+  <p>
+   Systematic investigation of the phase changes of the more common anhydrous mineral groups was initiated by the Canadian-born American petrologist Norman L. Bowen and his coworkers at the Geophysical Laboratory of the Carnegie Institution of Washington, D.C., in the early 20th century. This work was generally limited to systems at atmospheric pressure. Subsequent advances in technology have permitted the examination of rock systems in the presence of water pressure and ultrahigh confining pressures. Materials can now be systematically examined under conditions that range from those at Earth’s surface to those simulating conditions that exist at the core. This has led to a vast increase in knowledge about the conditions of formation of both igneous and metamorphic rocks. Synthetic equivalents of almost every mineral or rock system can now be produced in the laboratory. Even gemstones such as diamonds are routinely synthesized.
+  </p>
+  <p>
+   Typical of the data now available are the freezing-melting curves () of the common volcanic rock basalt (and its coarse-grained equivalent, gabbro). shows the crystallization range (shaded) for basaltic melts as a function of lithostatic pressure; this pressure is due to depth of burial. The two short lines show the approximate position of a transition region between gabbro and its denser solid equivalent, eclogite (a sodium-pyroxene + garnet rock). The melting curves have a positive slope, as the solids are denser than their equivalent melts and are thus favoured (enlarged) with increasing pressure.
+  </p>
+  <p>
+   In the presence of water pressure (
+   <e type="italic">
+    P
+   </e>
+   <sub>
+    H
+   </sub>
+   <sub>
+    2
+   </sub>
+   <sub>
+    O
+   </sub>
+   ), the freezing-melting curves are depressed () because the water acts as another component. The slope of the curves is also influenced by the presence of a hydrous solid phase, hornblende, whose approximate stability field is indicated by the dashed line. The changes in liquid composition and crystallization sequences have been determined. Similar information is available for most common igneous rocks.
+  </p>
+  <p>
+   In 1915 the Finnish petrologist Pentii E. Eskola set up a classification scheme for metamorphic rocks that was based on metamorphic facies. Each facies was defined by the presence of one or more common mineral assemblages. The stability limits of these assemblages subsequently have been determined by laboratory studies. As a result, placing a metamorphic rock within a particular facies indicates the broad pressure-temperature region in which the rock formed. (
+   <e type="italic">
+    See
+   </e>
+   <xref articleid="109698" refid="h80322">
+    metamorphic rock: Metamorphic facies
+   </xref>
+   for the pressure-temperature regions of the major metamorphic facies.) For example, a rock containing sodium-rich pyroxene and garnet is placed within the eclogite facies, which indicates that it formed at pressures greater than about 12 kilobars and temperatures above approximately 600 °C. Rocks in the blueschist facies contain the blue amphibole glaucophane; such rocks are stable at high pressures and relatively low temperatures.
+  </p>
+  <p>
+   A large variety of schemes are available to provide more detailed information on the temperatures and pressures of formation of both igneous and metamorphic rocks. These may use phase relations, stable isotopes, or the compositions of coexisting mineral pairs.
+  </p>
+  <signature>
+   Ernest G. Ehlers
+  </signature>
+ </h1>
+ <h1 id="h52029">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Gerhard L. Salinger
+   </e>
+   and
+   <e type="smallcap">
+    Francis Weston Sears
+   </e>
+   ,
+   <e type="italic">
+    Thermodynamics, Kinetic Theory, and Statistical Thermodynamics
+   </e>
+   (1975), is a classic introduction. A detailed application of thermodynamic principles to phases, phase changes, and phase diagrams is given in
+   <e type="smallcap">
+    Mats Hillert
+   </e>
+   ,
+   <e type="italic">
+    Phase Equilibria, Phase Diagrams, and Phase Transformations: Their Thermodynamic Basis
+   </e>
+   (1998).
+  </p>
+  <p>
+   Works focusing on phase equilibria in geology and petrology include
+   <e type="smallcap">
+    W.G. Ernst
+   </e>
+   ,
+   <e type="italic">
+    Petrologic Phase Equilibria
+   </e>
+   (1976), a concise introduction to phase equilibria that assumes some knowledge of thermodynamics;
+   <e type="smallcap">
+    Ernest G. Ehlers
+   </e>
+   and
+   <e type="smallcap">
+    Harvey Blatt
+   </e>
+   ,
+   <e type="italic">
+    Petrology: Igneous, Sedimentary, and Metamorphic
+   </e>
+   (1982), an introduction to phase equilibria of petrologic systems; and
+   <e type="smallcap">
+    Ernest G. Ehlers
+   </e>
+   ,
+   <e type="italic">
+    The Interpretation of Geological Phase Diagrams
+   </e>
+   (1972, reprinted 1987), which provides step-by-step nonmathematical procedures for understanding phase diagrams. A more-recent work is
+   <e type="smallcap">
+    Thomas M. Will
+   </e>
+   ,
+   <e type="italic">
+    Phase Equilibria in Metamorphic Rocks: Thermodynamic Background and Petrological Applications
+   </e>
+   (1998).
+  </p>
+  <signature>
+   Simeon Potter
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

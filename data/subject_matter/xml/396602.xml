@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="396602" articletypeid="1" language="en_us" lastupdate="2023-Mar-10 16:12:40" url="/article/search-engine/396602" version="10">
+ <title>
+  search engine
+ </title>
+ <p>
+  <e type="bold">
+   search engine
+  </e>
+  , computer program to find answers to queries in a collection of information, which might be a library catalog or a
+  <xref articleid="29424">
+   database
+  </xref>
+  but is most commonly the
+  <xref articleid="2506">
+   World Wide Web
+  </xref>
+  . A Web search engine produces a list of “pages”—computer files listed on the Web—that contain or relate to the terms in a query entered by the user into a field called a search bar. Most search engines allow the user to join terms with such qualifiers as
+  <e type="italic">
+   and
+  </e>
+  ,
+  <e type="italic">
+   or
+  </e>
+  , and
+  <e type="italic">
+   not
+  </e>
+  to refine queries. They may also search specifically for images, videos, phrases, questions, or news articles or for names of
+  <xref articleid="473600">
+   websites
+  </xref>
+  .
+ </p>
+ <h1 id="h353153">
+  <title>
+   Mode of operation
+  </title>
+  <p>
+   Web search engines consist of three main parts: a robot (or “bot”), an index, and an interface. Bots, or crawlers, are data-collecting programs that engage in the repetitive task of searching for data far faster than a human can. These programs explore the Web by following
+   <xref articleid="1629">
+    hypertext
+   </xref>
+   links from page to page, recording everything on a page (known as caching), or parts of a page. This information, together with some proprietary method of labeling content, is used to build a weighted index, the search engine’s second component. Users access the index to find their desired Web pages using the third component of any search engine—the search interface and relevancy software. This software combs through the index for whatever keywords or phrases the user enters. The results are offered to the user as a list of hyperlinks to the page addresses the software finds, ranked by their presumed relevance to the user’s query.
+  </p>
+  <p>
+   Judging the relevance of hits in the index presents the greatest challenge to a Web search engine. The Web is largely unorganized, and the information on its pages is of greatly varying quality, including commercial information, national databases, research reference collections, and collections of personal material. Any combination of words entered in a search bar is likely to produce hundreds, thousands, or even millions of page addresses. Search engines try to identify reliable pages by weighting, or ranking, them according to the number of other pages that refer to them, by identifying “authorities” to which many pages refer, and by identifying “hubs” that refer to many pages. For instance, a Web search for “U.S. president” should present users with a link to the White House’s official website long before it offers a link to the blog of a conspiracy theorist. Each search engine accomplishes this feat of prioritization via its own proprietary
+   <xref articleid="5707">
+    algorithm
+   </xref>
+   . These techniques can work well, but the user must still exercise skill in choosing appropriate combinations of search terms. A search for
+   <e type="italic">
+    bank
+   </e>
+   might return hundreds of millions of pages (“hits”), many from commercial banks. A search for
+   <e type="italic">
+    river bank
+   </e>
+   might still return millions of pages, many from banking institutions with
+   <e type="italic">
+    river
+   </e>
+   in the name. Only further refinements such as
+   <e type="italic">
+    river bank flow
+   </e>
+   can reduce the number of hits to pages of which the most prominent concern rivers and riverbanks.
+  </p>
+  <p>
+   The complexity of weighing pages is increased by the attempts of many website owners to manipulate search engines’ algorithms, drawing more traffic to their pages. Websites can include their own indexing labels on pages, which typically are seen only by crawlers, in order to improve the match between searches and their sites. Intentionally adding elements to a Web page (e.g., particular words) to attract a search engine’s attention is a practice known as
+   <xref articleid="636881">
+    search engine optimization
+   </xref>
+   (SEO). In order to continue providing the best results for users, the companies behind search engines try to account for such techniques, which in turn leads to the invention of new tactics. This cat-and-mouse game between search engines and SEO specialists is constantly evolving.
+  </p>
+  <p>
+   Similarly, a user should be cognizant of whether a particular search engine auctions keywords, especially if sites that have paid for preferential placement are not indicated separately. In some cases, website owners may pay to have their pages appear in the top results—although such findings are often marked as the advertisements they are.
+  </p>
+  <p>
+   Even the most extensive general search engines—such as
+   <xref articleid="471099">
+    Google
+   </xref>
+   (by far the most popular search engine),
+   <xref articleid="489909">
+    Bing
+   </xref>
+   (which also powers
+   <xref articleid="438606">
+    Yahoo!
+   </xref>
+   Search), the Russian Yandex, and the Chinese Baidu—cannot keep up with the proliferation of Web pages, and each leaves large portions of the Internet uncovered. Moreover, the Internet is layered, with common information easily accessible on the "surface web" by general search engines while other content (on the
+   <xref articleid="636422">
+    deep web
+   </xref>
+   ) is protected with passwords and paywalls or viewable only (on the
+   <xref articleid="632084">
+    dark web
+   </xref>
+   ) via special anonymity browsers and networks such as
+   <xref articleid="636430">
+    Tor
+   </xref>
+   .
+  </p>
+ </h1>
+ <h1 id="h353154">
+  <title>
+   History
+  </title>
+  <p>
+   The earliest known conceptualization of anything like a modern search engine appeared in 1945. U.S. engineer
+   <xref articleid="18261">
+    Vannevar Bush
+   </xref>
+   wrote an article in
+   <e type="italic">
+    The Atlantic Monthly
+   </e>
+   which rued that “publication [of scientific discoveries] has been extended far beyond our present ability to make real use of the record.” Bush urged scientists to create a data storage and retrieval system that would operate more like the human brain—i.e., by association. He called this theoretical system a “memex.”
+  </p>
+  <p>
+   In the 1960s Gerard Salton of
+   <xref articleid="26342">
+    Cornell University
+   </xref>
+   —now called “the father of information retrieval” and other similar titles—effectively took up Bush’s challenge. Leading teams of computer scientists at
+   <xref articleid="39419">
+    Harvard University
+   </xref>
+   and Cornell, Salton created the “System for the Mechanical Analysis and Retrieval of Text” (SMART). The breakthrough observation that made SMART a success was that programming an
+   <xref articleid="5707">
+    algorithm
+   </xref>
+   to search for English syntax was harder—and less useful—than programming it to simply search for semantics (that is, the words in the documents being searched are important, but not their lingual relationships to each other). This realization led Salton to develop practices that are still used by search engines today, like the classifying, indexing, counting, and valuation of individual words.
+  </p>
+  <p>
+   Still, it was not until 1990 that three
+   <xref articleid="109626">
+    computer science
+   </xref>
+   students at
+   <xref articleid="49717">
+    McGill University
+   </xref>
+   in Montreal—Alan Emtage, Bill Heelan, and Peter Deutsch—created the first search engine, Archie (short for
+   <e type="italic">
+    archive
+   </e>
+   ). Archie did not seek out Web pages, since the World Wide Web would not exist for another year, but the names of files hosted on
+   <xref articleid="443817">
+    FTP
+   </xref>
+   (file transfer protocol) servers. And, as there were so few even of those at the time, Archie did not need to index its findings. Its list of results was always short enough for a person to read.
+  </p>
+  <p>
+   The first search engine to search for Web pages with a crawler and catalog them in an index appeared in June of 1993, when Matthew Gray built the World Wide Web Wanderer while at the
+   <xref articleid="51298">
+    Massachusetts Institute of Technology
+   </xref>
+   (MIT). Gray invented the Wanderer to measure the size of the World Wide Web, a task it performed until late 1995.
+  </p>
+  <p>
+   JumpStation, created by Jonathon Fletcher of the University of Stirling in Scotland, followed in December of 1993. Given that the new Web-searching tool included a user interface, it is remembered today as the first to incorporate all three major components (crawling, indexing, and searching) that now make up modern search engines. However, JumpStation lacked the resources to do more than search Web pages’ titles and headings, making it difficult for users to find specific results unless they knew the exact page they wanted.
+  </p>
+  <p>
+   It was Brian Pinkerton’s WebCrawler, one of the few search engines of its time that remained active into the first quarter of the 21st century, that first allowed users to search for any word on any Web page it had indexed. Launched on April 20, 1994, the tool became so popular that it reached user capacity during daylight hours. At one point it was the second most popular site on the
+   <xref articleid="1458">
+    Internet
+   </xref>
+   , though its popularity declined as a plethora of competing search engines soon entered the market.
+  </p>
+  <p>
+   <assembly id="a100707" url="/assembly/view/100707">
+    <title>
+     Larry Page and Sergey Brin
+    </title>
+    <media mediaid="101217" type="image" url="/17/101217-004-5FDD4036.jpg"/>
+    <caption>
+     Larry Page (left) and Sergey Brin, creators of the online search engine Google.
+    </caption>
+    <credit>
+     © Google Inc. Used with permission.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a100707"/>
+   In August 1996
+   <xref articleid="438483">
+    Larry Page
+   </xref>
+   and
+   <xref articleid="438433">
+    Sergey Brin
+   </xref>
+   tested their search engine, then called BackRub, on
+   <xref articleid="69406">
+    Stanford University
+   </xref>
+   ’s network. The pair changed the tool’s name to
+   <xref articleid="471099">
+    Google
+   </xref>
+   and launched it in 1998. With an uncluttered design—the company allowed only text-based ads—and a superior algorithm named PageRank, the search engine quickly rose in popularity. The company also pointed the way toward profitability for the industry at large by selling advertisers association with particular search terms. Today Google is the primary search engine of the world, accounting for approximately 9 out of 10 searches.
+  </p>
+ </h1>
+ <signature>
+  [ No Value! ]
+ </signature>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

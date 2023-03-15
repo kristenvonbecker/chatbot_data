@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="635040" articletypeid="1" language="en_us" lastupdate="2022-Oct-06 13:10:45" url="/article/Web-application/635040" version="1">
+ <title>
+  Web application
+ </title>
+ <p>
+  <assembly id="a270365" url="/assembly/view/270365">
+   <title>
+    Google Maps
+   </title>
+   <media mediaid="219605" type="image" url="/05/219605-004-C2916561.jpg"/>
+   <caption>
+    The Google Maps Web application on a Samsung Galaxy S7 smartphone.
+   </caption>
+   <credit>
+    © Dennizn/Dreamstime.com
+   </credit>
+  </assembly>
+  <e type="bold">
+   Web application
+  </e>
+  ,
+  <assemblyref assemblyid="a270365"/>
+  <xref articleid="25053">
+   computer program
+  </xref>
+  stored on a remote
+  <xref articleid="473294">
+   server
+  </xref>
+  and run by its users via a
+  <xref articleid="471926">
+   Web browser
+  </xref>
+  . A Web application is an advantageous form of
+  <xref articleid="2206">
+   software
+  </xref>
+  because the use of browsers allows the application to be compatible with most standard
+  <xref articleid="117728">
+   computers
+  </xref>
+  and
+  <xref articleid="1489">
+   operating systems
+  </xref>
+  . Moreover, the application does not take up
+  <xref articleid="25051">
+   memory
+  </xref>
+  on a computer’s hard dive and is accessible from nearly any computer or device a person might use. Multiple users can even use the same application at the same time, allowing for simultaneous participation. Although Web applications always require a network connection, this limitation has lessened in importance as the
+  <xref articleid="1458">
+   Internet
+  </xref>
+  has become more and more ubiquitous.
+ </p>
+ <h1 id="h352556">
+  <title>
+   Terminology
+  </title>
+  <p>
+   Any service offered over the Internet, by definition, is a form of Web application. Examples of Web applications therefore include online forms, shopping carts, video streaming,
+   <xref articleid="634550">
+    social media
+   </xref>
+   , games, and e-mail. Given their superior accessibility, many Web applications are developed for functions that previously did not require online access, such as
+   <xref articleid="77466">
+    word processing
+   </xref>
+   , spreadsheet creation, and the editing of graphics or videos.
+  </p>
+  <p>
+   <assembly id="a128346" url="/assembly/view/128346">
+    <title>
+     HTML
+    </title>
+    <media mediaid="131956" type="image" url="/56/131956-004-1440AAA5.jpg"/>
+    <caption>
+     HTML, or hypertext markup language, is used to format material for display in Web browsers.
+    </caption>
+    <credit>
+     © Gunnar Pippel/Shutterstock.com
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a128346"/>
+   Web applications generally use different programming languages for their user-facing front ends (or “client sides”), which present information, and for their back ends (“server sides”), which store and retrieve that information. Scripts for applications’ front ends are written in languages like
+   <xref articleid="443518">
+    HTML
+   </xref>
+   , CSS, and JavaScript, as those are supported by major browsers. PHP and ASP.NET are common choices for back ends. However, since Web applications, unlike mobile applications, frequently lack standard development kits (SDK), developers’ choices for programming their servers are less restricted.
+  </p>
+ </h1>
+ <h1 id="h352557">
+  <title>
+   History and development
+  </title>
+  <p>
+   The first Web applications were by necessity simple programs, as every individual Web page on the Internet was at the time a static document. A user would initiate a request on the client side—that is, in a Web browser or an application’s user interface—that a
+   <xref articleid="473294">
+    Web server
+   </xref>
+   would then send to the Web application server. The application server would perform the requested task—e.g., query a database—and return the results, which would make the return trip to appear on the user’s display. An interactive experience was possible with this basic process for users via online forms and buttons on a succession of different Web pages, but it was limiting in its inefficiency, requiring the server side to send an entirely new Web page each time a user even slightly manipulated the client side.
+  </p>
+  <p>
+   New possibilities arose in 1995 when the computer services company
+   <xref articleid="105911">
+    Netscape Communications Corp.
+   </xref>
+   released JavaScript, a
+   <xref articleid="25054">
+    programming language
+   </xref>
+   that allowed developers to add dynamic elements to the client side of an application. Code could now show or hide elements of a Web page as well as validate a user’s input prior to submission of a form without consulting the server. Major changes still required the loading of new pages, but the result was a faster and therefore a more productive and pleasant experience for users. Animation on websites became easier and more accessible in 1996 through Macromedia Flash, a plug-in multimedia player that also did not need to continually make requests of a company’s servers. Web applications became a recognized concept within the Java language in 1999.
+  </p>
+  <p>
+   But modern levels of application interactivity did not arrive until AJAX (Asynchronous JavaScript + XML), a new programming model named by user-experience designer Jesse James Garrett in his 2005 paper “Ajax: A New Approach to Web Application.” Programmers realized that by breaking an application into multiple tiers, they could use existing software to separate the process of data exchange from the actual presentation of information to users. This reconceptualization of Web programming finally allowed users to have true interaction with Web pages—and therefore Web applications—without the constant interruption of Web page reloading.
+  </p>
+  <p>
+   The subsequent increase in the capabilities of Web applications has since been bolstered by the 2008 release (and subsequent iterations) of HTML5, which is an updated version of the programming language used to create Web pages, and by that language’s Web application performance interfaces (APIs). Web APIs are used by software to communicate over the Internet with other software and to utilize some of the functions of other software programs. Just as user interfaces allow people to make requests of programs without learning to code, Web APIs allow applications to make requests of other software online without involving people, particularly programmers. These interfaces substantially benefit developers by greatly simplifying the work of coding, and they benefit end users by further improving the functionality of browsers.
+  </p>
+ </h1>
+ <signature>
+  [ No Value! ]
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

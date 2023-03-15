@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="2749" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 20:04:16" url="/article/dimension/2749" version="7">
+ <title>
+  dimension
+ </title>
+ <p>
+  <e type="bold">
+   dimension
+  </e>
+  , in common parlance, the measure of the size of an object, such as a box, usually given as length, width, and height. In mathematics, the notion of dimension is an extension of the idea that a line is one-dimensional, a plane is two-dimensional, and space is three-dimensional. In mathematics and physics one also considers higher-dimensional spaces, such as four-dimensional space-time, where four numbers are needed to characterize a point: three to fix a point in space and one to fix the time. Infinite-dimensional spaces, first studied early in the 20th century, have played an increasingly important role both in mathematics and in parts of physics such as
+  <xref articleid="62164">
+   quantum field theory
+  </xref>
+  , where they represent the space of possible states of a
+  <xref articleid="110312">
+   quantum mechanical
+  </xref>
+  system.
+ </p>
+ <p>
+  In
+  <xref articleid="111075">
+   differential geometry
+  </xref>
+  one considers curves as one-dimensional, since a single number, or parameter, determines a point on a curve—for example, the distance, plus or minus, from a fixed point on the curve. A surface, such as the surface of the Earth, has two dimensions, since each point can be located by a pair of numbers—usually latitude and longitude. Higher-dimensional curved spaces were introduced by the German mathematician
+  <xref articleid="63646">
+   Bernhard Riemann
+  </xref>
+  in 1854 and have become both a major subject of study within mathematics and a basic component of modern physics, from
+  <xref articleid="106018">
+   Albert Einstein
+  </xref>
+  ’s theory of general relativity and the subsequent development of cosmological models of the universe to late-20th-century
+  <xref articleid="70406">
+   superstring theory
+  </xref>
+  .
+ </p>
+ <p>
+  In 1918 the German mathematician Felix Hausdorff introduced the notion of fractional dimension. This concept has proved extremely fruitful, especially in the hands of the Polish-French mathematician Benoit Mandelbrot, who coined the word
+  <e type="italic">
+   <xref articleid="35083">
+    fractal
+   </xref>
+  </e>
+  and showed how fractional dimensions could be useful in many parts of applied mathematics.
+ </p>
+ <signature>
+  Robert Osserman
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="2506" articletypeid="1" language="en_us" lastupdate="2023-Mar-03 10:41:17" url="/article/World-Wide-Web/2506" version="6">
+ <title>
+  World Wide Web (WWW)
+ </title>
+ <p>
+  <e type="bold">
+   World Wide Web (WWW)
+  </e>
+  , byname
+  <e type="bold">
+   the Web
+  </e>
+  , the leading information retrieval service of the
+  <xref articleid="1458">
+   Internet
+  </xref>
+  (the worldwide
+  <xref articleid="1625">
+   computer network
+  </xref>
+  ). The Web gives users access to a vast array of content—via the
+  <xref articleid="636422">
+   deep web
+  </xref>
+  , the
+  <xref articleid="632084">
+   dark web
+  </xref>
+  , and the commonly accessible surface web—that is connected by means of hypertext or hypermedia links—i.e., hyperlinks, electronic connections that link related pieces of information in order to allow a user easy access to them. Hypertext allows the user to select a word or phrase from text and thereby access other documents that contain additional information pertaining to that word or phrase. Hypermedia documents feature links to images, sounds, animations, and movies. The Web operates within the Internet’s basic client-server format; servers are
+  <xref articleid="25053">
+   computer programs
+  </xref>
+  that store and transmit documents to other computers on the network when asked to, while clients are programs that request documents from a server as the user asks for them.
+  <xref articleid="471926">
+   Browser
+  </xref>
+  software allows users to view the retrieved documents. Special browsers and platforms such as
+  <xref articleid="636430">
+   Tor
+  </xref>
+  allow users to do so anonymously.
+ </p>
+ <p>
+  A hypertext document with its corresponding text and hyperlinks is written in HyperText Markup Language (
+  <xref articleid="443518">
+   HTML
+  </xref>
+  ) and is assigned an online address called a Uniform Resource Locator (
+  <xref articleid="473540">
+   URL
+  </xref>
+  ).
+ </p>
+ <p>
+  <assembly id="a97685" url="/assembly/view/97685">
+   <title>
+    Berners-Lee, Sir Tim
+   </title>
+   <media mediaid="78373" type="image" url="/73/78373-004-E6A26F57.jpg"/>
+   <caption>
+    Sir Tim Berners-Lee.
+   </caption>
+   <credit>
+    © CERN Geneva
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a97685"/>
+  The development of the World Wide Web was begun in 1989 by
+  <xref articleid="389930">
+   Tim Berners-Lee
+  </xref>
+  and his colleagues at
+  <xref articleid="22146">
+   CERN
+  </xref>
+  , an international scientific organization based in Geneva, Switzerland. They created a protocol, HyperText Transfer Protocol (
+  <xref articleid="472549">
+   HTTP
+  </xref>
+  ), which standardized communication between servers and clients. Their text-based Web browser was made available for general release in January 1992.
+ </p>
+ <p>
+  The World Wide Web gained rapid acceptance with the creation of a Web browser called Mosaic, which was developed in the United States by Marc Andreessen and others at the National Center for Supercomputing Applications at the
+  <xref articleid="1974">
+   University of Illinois
+  </xref>
+  and was released in September 1993. Mosaic allowed people using the Web to use the same sort of “point-and-click” graphical manipulations that had been available in
+  <xref articleid="2247">
+   personal computers
+  </xref>
+  for some years. In April 1994 Andreessen cofounded Netscape Communications Corporation, whose Netscape Navigator became the dominant Web browser soon after its release in December 1994. BookLink Technologies’ InternetWorks, the first browser with tabs, in which a user could visit another Web site without opening an entirely new window, debuted that same year. By the mid-1990s the World Wide Web had millions of active users.
+ </p>
+ <p>
+  The software giant
+  <xref articleid="1522">
+   Microsoft Corporation
+  </xref>
+  became interested in supporting Internet applications on personal computers and developed its own Web browser (based initially on Mosaic),
+  <xref articleid="443837">
+   Internet Explorer
+  </xref>
+  (IE), in 1995 as an add-on to the
+  <xref articleid="438620">
+   Windows
+  </xref>
+  95
+  <xref articleid="1489">
+   operating system
+  </xref>
+  . IE was integrated into the Windows operating system in 1996 (that is, it came “bundled” ready-to-use within the operating system of personal computers), which had the effect of reducing competition from other Internet browser manufacturers, such as Netscape. IE soon became the most popular Web browser.
+ </p>
+ <p>
+  <xref articleid="108787">
+   Apple
+  </xref>
+  ’s Safari was released in 2003 as the default browser on Macintosh personal computers and later on
+  <xref articleid="443838">
+   iPhones
+  </xref>
+  (2007) and iPads (2010). Safari 2.0 (2005) was the first browser with a privacy mode, Private Browsing, in which the application would not save Web sites in its history, downloaded files in its cache, or personal information entered on Web pages.
+ </p>
+ <p>
+  The first serious challenger to IE’s dominance was Mozilla’s
+  <xref articleid="443813">
+   Firefox
+  </xref>
+  , released in 2004 and designed to address issues with speed and security that had plagued IE. In 2008
+  <xref articleid="471099">
+   Google
+  </xref>
+  launched
+  <xref articleid="471098">
+   Chrome
+  </xref>
+  , the first browser with isolated tabs, which meant that when one tab crashed, other tabs and the whole browser would still function. By 2013 Chrome had become the dominant browser, surpassing IE and Firefox in popularity. Microsoft discontinued IE and replaced it with Edge in 2015.
+ </p>
+ <p>
+  In the early 21st century,
+  <xref articleid="474140">
+   smartphones
+  </xref>
+  became more computer-like, and more-advanced services, such as Internet access, became possible. Web usage on smartphones steadily increased, and in 2016 it accounted for more than half of Web browsing.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

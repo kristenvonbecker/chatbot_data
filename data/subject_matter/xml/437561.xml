@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="437561" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 05:44:37" url="/article/data-mining/437561" version="4">
+ <title>
+  data mining
+ </title>
+ <p>
+  <e type="bold">
+   data mining
+  </e>
+  , also called
+  <e type="bold">
+   knowledge discovery in databases
+  </e>
+  , in
+  <xref articleid="109626">
+   computer science
+  </xref>
+  , the process of discovering interesting and useful patterns and relationships in large volumes of data. The field combines tools from
+  <xref articleid="108592">
+   statistics
+  </xref>
+  and
+  <xref articleid="9711">
+   artificial intelligence
+  </xref>
+  (such as
+  <xref articleid="126495">
+   neural networks
+  </xref>
+  and machine learning) with
+  <xref articleid="29424">
+   database
+  </xref>
+  management to analyze large digital collections, known as data sets. Data mining is widely used in business (insurance, banking, retail), science research (astronomy, medicine), and government security (detection of criminals and terrorists).
+ </p>
+ <p>
+  The proliferation of numerous large, and sometimes connected, government and private databases has led to regulations to ensure that individual records are accurate and secure from unauthorized viewing or tampering. Most types of data mining are targeted toward ascertaining general knowledge about a group rather than knowledge about specific individuals—a supermarket is less concerned about selling one more item to one person than about selling many items to many people—though pattern analysis also may be used to discern anomalous individual behaviour such as
+  <xref articleid="35211">
+   fraud
+  </xref>
+  or other criminal activity.
+ </p>
+ <h1 id="h281959">
+  <title>
+   Origins and early applications
+  </title>
+  <p>
+   As computer storage capacities increased during the 1980s, many companies began to store more transactional data. The resulting record collections, often called data warehouses, were too large to be analyzed with traditional statistical approaches. Several computer science conferences and workshops were held to consider how recent advances in the field of artificial intelligence (AI)—such as discoveries from
+   <xref articleid="1632">
+    expert systems
+   </xref>
+   , genetic algorithms, machine learning, and neural networks—could be adapted for knowledge discovery (the preferred term in the computer science community). The process led in 1995 to the First International Conference on Knowledge Discovery and Data Mining, held in Montreal, and the launch in 1997 of the journal
+   <e type="italic">
+    Data Mining and Knowledge Discovery
+   </e>
+   . This was also the period when many early data-mining companies were formed and products were introduced.
+  </p>
+  <p>
+   One of the earliest successful applications of data mining, perhaps second only to marketing research, was
+   <xref articleid="26818">
+    credit-card
+   </xref>
+   -fraud detection. By studying a consumer’s purchasing behaviour, a typical pattern usually becomes apparent; purchases made outside this pattern can then be flagged for later investigation or to deny a transaction. However, the wide variety of normal behaviours makes this challenging; no single distinction between normal and fraudulent behaviour works for everyone or all the time. Every individual is likely to make some purchases that differ from the types he has made before, so relying on what is normal for a single individual is likely to give too many false alarms. One approach to improving reliability is first to group individuals that have similar purchasing patterns, since group models are less sensitive to minor anomalies. For example, a “frequent business travelers” group will likely have a pattern that includes unprecedented purchases in diverse locations, but members of this group might be flagged for other transactions, such as catalog purchases, that do not fit that group’s profile.
+  </p>
+ </h1>
+ <h1 id="h281960">
+  <title>
+   Modeling and data-mining approaches
+  </title>
+  <h2 id="h281961">
+   <title>
+    Model creation
+   </title>
+   <p>
+    The complete data-mining process involves multiple steps, from understanding the goals of a project and what data are available to implementing process changes based on the final analysis. The three key computational steps are the model-learning process, model evaluation, and use of the model. This division is clearest with classification of data. Model learning occurs when one
+    <xref articleid="5707">
+     algorithm
+    </xref>
+    is applied to data about which the group (or class) attribute is known in order to produce a classifier, or an algorithm learned from the data. The classifier is then tested with an independent evaluation set that contains data with known attributes. The extent to which the model’s classifications agree with the known class for the target attribute can then be used to determine the expected accuracy of the model. If the model is sufficiently accurate, it can be used to classify data for which the target attribute is unknown.
+   </p>
+  </h2>
+  <h2 id="h281962">
+   <title>
+    Data-mining techniques
+   </title>
+   <p>
+    There are many types of data mining, typically divided by the kind of information (attributes) known and the type of knowledge sought from the data-mining model.
+   </p>
+   <h3 id="h281963">
+    <title>
+     Predictive modeling
+    </title>
+    <p>
+     Predictive modeling is used when the goal is to estimate the value of a particular target attribute and there exist sample training data for which values of that attribute are known. An example is classification, which takes a set of data already divided into predefined groups and searches for patterns in the data that differentiate those groups. These discovered patterns then can be used to classify other data where the right group designation for the target attribute is unknown (though other attributes may be known). For instance, a manufacturer could develop a predictive model that distinguishes parts that fail under extreme heat, extreme cold, or other conditions based on their manufacturing environment, and this model may then be used to determine appropriate applications for each part. Another technique employed in predictive modeling is regression analysis, which can be used when the target attribute is a numeric value and the goal is to predict that value for new data.
+    </p>
+   </h3>
+   <h3 id="h281964">
+    <title>
+     Descriptive modeling
+    </title>
+    <p>
+     Descriptive modeling, or clustering, also divides data into groups. With clustering, however, the proper groups are not known in advance; the patterns discovered by analyzing the data are used to determine the groups. For example, an advertiser could analyze a general population in order to classify potential customers into different clusters and then develop separate advertising campaigns targeted to each group. Fraud detection also makes use of clustering to identify groups of individuals with similar purchasing patterns.
+    </p>
+   </h3>
+   <h3 id="h281965">
+    <title>
+     Pattern mining
+    </title>
+    <p>
+     Pattern mining concentrates on identifying rules that describe specific patterns within the data. Market-basket analysis, which identifies items that typically occur together in purchase transactions, was one of the first applications of data mining. For example, supermarkets used market-basket analysis to identify items that were often purchased together—for instance, a store featuring a fish sale would also stock up on tartar sauce. Although testing for such associations has long been feasible and is often simple to see in small data sets, data mining has enabled the discovery of less apparent associations in immense data sets. Of most interest is the discovery of unexpected associations, which may open new avenues for marketing or research. Another important use of pattern mining is the discovery of sequential patterns; for example, sequences of errors or warnings that precede an equipment failure may be used to schedule preventative maintenance or may provide insight into a design flaw.
+    </p>
+   </h3>
+   <h3 id="h281966">
+    <title>
+     Anomaly detection
+    </title>
+    <p>
+     Anomaly detection can be viewed as the flip side of clustering—that is, finding data instances that are unusual and do not fit any established pattern. Fraud detection is an example of anomaly detection. Although fraud detection may be viewed as a problem for predictive modeling, the relative rarity of fraudulent transactions and the speed with which criminals develop new types of fraud mean that any predictive model is likely to be of low accuracy and to quickly become out of date. Thus, anomaly detection instead concentrates on modeling what is normal behaviour in order to identify unusual transactions. Anomaly detection also is used with various monitoring systems, such as for intrusion detection.
+    </p>
+    <p>
+     Numerous other data-mining techniques have been developed, including pattern discovery in time series data (e.g., stock prices), streaming data (e.g., sensor networks), and relational learning (e.g., social networks).
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h281967">
+  <title>
+   Privacy concerns and future directions
+  </title>
+  <p>
+   The potential for invasion of privacy using data mining has been a concern for many people. Commercial databases may contain detailed records of people’s medical history, purchase transactions, and telephone usage, among other aspects of their lives. Civil libertarians consider some databases held by businesses and governments to be an unwarranted intrusion and an invitation to abuse. For example, the
+   <xref articleid="6103">
+    American Civil Liberties Union
+   </xref>
+   sued the U.S.
+   <xref articleid="55012">
+    National Security Agency
+   </xref>
+   (NSA) alleging warrantless spying on American citizens through the acquisition of call records from some American telecommunication companies. The program, which began in 2001, was not discovered by the public until 2006, when the information began to leak out. Often the risk is not from data mining itself (which usually aims to produce general knowledge rather than to learn information about specific issues) but from misuse or inappropriate disclosure of information in these databases.
+  </p>
+  <p>
+   In the United States, many federal agencies are now required to produce annual reports that specifically address the privacy implications of their data-mining projects. The U.S. law requiring privacy reports from federal agencies defines data mining quite restrictively as “…analyses to discover or locate a predictive pattern or anomaly indicative of terrorist or criminal activity on the part of any individual or individuals.” As various local, national, and international law-enforcement agencies have begun to share or integrate their databases, the potential for abuse or security breaches has forced governments to work with industry on developing more secure computers and networks. In particular, there has been research in techniques for privacy-preserving data mining that operate on distorted, transformed, or
+   <xref articleid="2217">
+    encrypted data
+   </xref>
+   to decrease the risk of disclosure of any individual’s data.
+  </p>
+  <p>
+   Data mining is evolving, with one driver being competitions on challenge problems. A commercial example of this was the $1 million Netflix Prize.
+   <xref articleid="474100">
+    Netflix
+   </xref>
+   , an American company that offers movie rentals delivered by mail or streamed over the
+   <xref articleid="1458">
+    Internet
+   </xref>
+   , began the contest in 2006 to see if anyone could improve by 10 percent its recommendation system, an algorithm for predicting an individual’s movie preferences based on previous rental data. The prize was awarded on Sept. 21, 2009, to BellKor’s Pragmatic Chaos—a team of seven mathematicians, computer scientists, and engineers from the United States, Canada, Austria, and Israel who had achieved the 10 percent goal on June 26, 2009, and finalized their victory with an improved algorithm 30 days later. The three-year open competition had spurred many clever data-mining innovations from contestants. For example, the 2007 and 2008 Conferences on Knowledge Discovery and Data Mining held workshops on the Netflix Prize, at which research papers were presented on topics ranging from new collaborative filtering techniques to faster matrix factorization (a key component of many recommendation systems). Concerns over privacy of such data have also led to advances in understanding privacy and anonymity.
+  </p>
+  <p>
+   Data mining is not a panacea, however, and results must be viewed with the same care as with any statistical analysis. One of the strengths of data mining is the ability to analyze quantities of data that would be impractical to analyze manually, and the patterns found may be complex and difficult for humans to understand; this complexity requires care in evaluating the patterns. Nevertheless, statistical evaluation techniques can result in knowledge that is free from human bias, and the large amount of data can reduce biases inherent in smaller samples. Used properly, data mining provides valuable insights into large data sets that otherwise would not be practical or possible to obtain.
+  </p>
+  <signature>
+   Christopher Clifton
+  </signature>
+ </h1>
+ <h1 id="h281958">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Chidanand Apte
+   </e>
+   et al., “Business Applications of Data Mining,”
+   <e type="italic">
+    Communications of the ACM
+   </e>
+   , 45(8):49–53 (August 2002), gives a brief overview of commercial uses of data mining; other articles in that issue discuss a variety of applications.
+   <e type="smallcap">
+    Bhavani Thuraisingham
+   </e>
+   ,
+   <e type="italic">
+    Data Mining: Technologies, Techniques, Tools, and Trends
+   </e>
+   (1999), gives an overview of data-mining technologies, applications, and the data-mining process.
+   <e type="smallcap">
+    Jiawei Han
+   </e>
+   and
+   <e type="smallcap">
+    Micheline Kamber
+   </e>
+   ,
+   <e type="italic">
+    Data Mining: Concepts and Techniques
+   </e>
+   , 2nd ed. (2006), provides an introduction to the algorithms used in data mining and techniques for the development of those algorithms.
+   <e type="smallcap">
+    Usama M. Fayyad
+   </e>
+   et al. (eds.),
+   <e type="italic">
+    Advances in Knowledge Discovery and Data Mining
+   </e>
+   (1996), is a collection of articles describing data-mining techniques and applications.
+   <e type="smallcap">
+    Jaideep Vaidya
+   </e>
+   ,
+   <e type="smallcap">
+    Chris Clifton
+   </e>
+   , and
+   <e type="smallcap">
+    Michael Zhu
+   </e>
+   ,
+   <e type="italic">
+    Privacy Preserving Data Mining
+   </e>
+   (2006), discusses privacy issues and methods for data mining that mitigate risks to privacy.
+  </p>
+  <signature>
+   Christopher Clifton
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

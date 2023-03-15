@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="106044" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 03:29:41" url="/article/battery/106044" version="24">
+ <title>
+  battery
+ </title>
+ <p>
+  <assembly id="a19439" url="/assembly/view/19439">
+   <title>
+    alkaline-manganese dioxide battery: cutaway view
+   </title>
+   <media mediaid="24091" type="image" url="/91/24091-004-976D4525.jpg"/>
+   <caption>
+    Cutaway view of an alkaline–manganese dioxide power cell.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   battery
+  </e>
+  ,
+  <assemblyref assemblyid="a19439"/>
+  in
+  <xref articleid="106019">
+   electricity
+  </xref>
+  and
+  <xref articleid="32297">
+   electrochemistry
+  </xref>
+  , any of a class of devices that convert chemical energy directly into electrical energy. Although the term
+  <e type="italic">
+   battery
+  </e>
+  , in strict usage, designates an assembly of two or more galvanic cells capable of such energy conversion, it is commonly applied to a single cell of this kind.
+ </p>
+ <p>
+  <assembly id="a1405" url="/assembly/view/1405">
+   <title>
+    electrochemical cell: basic components
+   </title>
+   <media mediaid="329" type="image" url="/29/329-004-D81FF9CC.jpg"/>
+   <caption>
+    Basic components of an electrochemical cell.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a1405"/>
+  Every battery (or cell) has a
+  <xref articleid="21820">
+   cathode
+  </xref>
+  , or positive plate, and an
+  <xref articleid="7703">
+   anode
+  </xref>
+  , or negative plate. These
+  <xref articleid="32299">
+   electrodes
+  </xref>
+  must be separated by and are often immersed in an
+  <xref articleid="32307">
+   electrolyte
+  </xref>
+  that permits the passage of
+  <xref articleid="42688">
+   ions
+  </xref>
+  between the electrodes. The
+  <xref articleid="32299">
+   electrode
+  </xref>
+  materials and the electrolyte are chosen and arranged so that sufficient
+  <xref articleid="32313">
+   electromotive force
+  </xref>
+  (measured in
+  <xref articleid="75698">
+   volts
+  </xref>
+  ) and
+  <xref articleid="32273">
+   electric current
+  </xref>
+  (measured in
+  <xref articleid="7233">
+   amperes
+  </xref>
+  ) can be developed between the terminals of a battery to operate lights, machines, or other devices. Since an electrode contains only a limited number of units of chemical
+  <xref articleid="32627">
+   energy
+  </xref>
+  convertible to electrical energy, it follows that a battery of a given size has only a certain capacity to operate devices and will eventually become exhausted. The active parts of a battery are usually encased in a box with a cover system (or jacket) that keeps air outside and the electrolyte solvent inside and that provides a structure for the assembly.
+ </p>
+ <p>
+  Commercially available batteries are designed and built with market factors in mind. The quality of materials and the complexity of electrode and container design are reflected in the market price sought for any specific product. As new materials are discovered or the properties of traditional ones improved, however, the typical performance of even older battery systems sometimes increases by large percentages.
+ </p>
+ <p>
+  Batteries are divided into two general groups: (1) primary batteries and (2) secondary, or storage, batteries. Primary batteries are designed to be used until the voltage is too low to operate a given device and are then discarded. Secondary batteries have many special design features, as well as particular materials for the electrodes, that permit them to be reconstituted (recharged). After partial or complete discharge, they can be recharged by the application of
+  <xref articleid="30595">
+   direct current
+  </xref>
+  (DC) voltage. While the original state is usually not restored completely, the loss per recharging cycle in commercial batteries is only a small fraction of 1 percent even under varied conditions.
+ </p>
+ <h1 id="h45844">
+  <title>
+   Principles of operation
+  </title>
+  <p>
+   <assemblyref assemblyid="a1405"/>
+   The anode of an electrochemical cell is usually a
+   <xref articleid="52266">
+    metal
+   </xref>
+   that is oxidized (gives up electrons) at a potential between 0.5 volt and about 4 volts above that of the cathode. The cathode generally consists of a metal oxide or sulfide that is converted to a less-oxidized state by accepting electrons, along with ions, into its structure. A conductive link via an external circuit (e.g., a lamp or other device) must be provided to carry electrons from the anode to the negative battery contact. Sufficient
+   <xref articleid="32307">
+    electrolyte
+   </xref>
+   must be present as well. The electrolyte consists of a solvent (water, an organic liquid, or even a solid) and one or more chemicals that dissociate into ions in the solvent. These ions serve to deliver
+   <xref articleid="32316">
+    electrons
+   </xref>
+   and chemical matter through the cell interior to balance the flow of electric current outside the cell during cell operation.
+  </p>
+  <p>
+   Battery usefulness is limited not only by capacity but also by how fast current can be drawn from it. The salt ions chosen for the electrolyte solution must be able to move fast enough through the solvent to carry chemical matter between the electrodes equal to the rate of electrical demand. Battery performance is thus limited by the diffusion rates of internal chemicals as well as by capacity.
+  </p>
+  <p>
+   The voltage of an individual cell and the diffusion rates inside it are both reduced if the
+   <xref articleid="71632">
+    temperature
+   </xref>
+   is lowered from a reference point, such as 21 °C (70 °F). If the temperature falls below the freezing point of the electrolyte, the cell will usually produce very little useful current and may actually change internal dimensions, resulting in internal damage and diminished performance even after it has warmed up again. If the temperature is raised deliberately, faster discharge can be sustained, but this is not generally advisable, because the battery chemicals may evaporate or react spontaneously with one another, leading to early failure.
+  </p>
+  <p>
+   The fundamental relationship of electrochemical cell operation, put forth by the English physicist-chemist
+   <xref articleid="109756">
+    Michael Faraday
+   </xref>
+   in 1834, is that for every ampere that flows for a period of time, a matching chemical reaction or other change must take place. The extent of such changes is dependent on the molecular and electronic structure of the elements constituting the battery electrodes and electrolyte. Secondary changes may also occur, but a primary pair of theoretically reversible reactions must take place at the electrodes for electricity to be produced. The actual energy generated by a battery is measured by the number of amperes produced × the unit of time × the average voltage over that time. For a cell with electrodes of
+   <xref articleid="78379">
+    zinc
+   </xref>
+   and manganese dioxide (e.g., the common flashlight dry cell), one finds that a chemical equivalent of zinc weighs 32.5 grams (1.4 ounces) and that of manganese dioxide about 87 grams (3.1 ounces). The discharge of one equivalent weight of each of these electrodes will cause 32.5 grams of zinc to dissolve and 87 grams of manganese dioxide to change into a different oxide containing more hydrogen and zinc ions. Some of the electrolyte also will be consumed in the reaction. One chemical equivalent of each electrode produces one
+   <xref articleid="33716">
+    faraday
+   </xref>
+   , or 96,485
+   <xref articleid="26554">
+    coulombs
+   </xref>
+   of current equal to 26.8
+   <xref articleid="7233">
+    amperes
+   </xref>
+   per hour. If the cells operate at an average of 1.2
+   <xref articleid="75698">
+    volts
+   </xref>
+   , this would yield 32.2
+   <xref articleid="76295">
+    watt
+   </xref>
+   -hours of DC energy. Expressed another way,
+   <inlinemedia id="i15981" mediaid="15981" url="/81/15981-004-8A1BDDC4.jpg"/>
+   where
+   <e type="italic">
+    n
+   </e>
+   equals the number of chemical equivalents discharged,
+   <e type="italic">
+    F
+   </e>
+   is the Faraday constant (9.6485 × 10
+   <sup>
+    4
+   </sup>
+   coulombs per mole),
+   <e type="italic">
+    V
+   </e>
+   is the average (not necessarily constant) voltage of the cell for the period of the discharge, and 1 joule ≅ 2.78 × 10
+   <sup>
+    −4
+   </sup>
+   watt-hours.
+  </p>
+  <p>
+   There are a large number of elements and compounds from which to select potentially useful combinations for batteries. The commercial systems in common use represent the survivors of numerous tests where continued use depends on adequate voltage, high current-carrying capacity, low-cost materials, and tolerance for user neglect. Better sealing technology and plastics are making further development of all cell systems possible, particularly those using very active
+   <xref articleid="48516">
+    lithium
+   </xref>
+   for the anode. This situation has yielded commercial cells with as much as 3.9 volts on load and very high current-carrying capability.
+  </p>
+  <p>
+   Battery manufacturers have designed many different sizes, voltages, and current loads for different specialized applications. In the case of common household batteries (
+   <e type="italic">
+    see
+   </e>
+   ), standard sizes and electrical properties have been established by the American National Standards Institute (ANSI) and the International Electrotechnical Commission (IEC). The most common sizes, given in the form ANSI (IEC), are AAA (R03), AA (R6), C (R14), D (R20), and 9V (6F22).
+  </p>
+ </h1>
+ <h1 id="h45845">
+  <title>
+   Primary batteries
+  </title>
+  <h2 id="h45846">
+   <title>
+    Zinc–manganese dioxide systems
+   </title>
+   <p>
+    These batteries are the most commonly used worldwide in flashlights, toys,
+    <xref articleid="345387">
+     radios
+    </xref>
+    ,
+    <xref articleid="25003">
+     compact disc
+    </xref>
+    players, and
+    <xref articleid="443006">
+     digital cameras
+    </xref>
+    . There are three variations: the zinc-carbon battery, the zinc chloride battery, and the alkaline battery. All provide an initial voltage of 1.55 to 1.7 volts, which declines with use to an end point of about 0.8 volt.
+   </p>
+   <p>
+    <assembly id="a19438" url="/assembly/view/19438">
+     <title>
+      Leclanché cell: modern version
+     </title>
+     <media mediaid="24090" type="image" url="/90/24090-004-EC128E8C.jpg"/>
+     <caption>
+      Modern version of the Leclanché cell. This heavy-duty zinc-carbon primary battery is a dry cell with an immobilized electrolyte.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a19438"/>
+    The zinc-carbon battery, also called the Leclanché cell, is a traditional general-purpose dry cell. Invented by the French engineer
+    <xref articleid="47568">
+     Georges Leclanché
+    </xref>
+    in 1866, it immediately became a commercial success in large sizes because of its readily available low-cost constituent materials. It remains the least expensive dry cell and is available nearly everywhere. The anode of this battery is a
+    <xref articleid="78379">
+     zinc
+    </xref>
+    alloy sheet or “can,” the alloy containing small amounts of
+    <xref articleid="47492">
+     lead
+    </xref>
+    ,
+    <xref articleid="18500">
+     cadmium
+    </xref>
+    , and
+    <xref articleid="52102">
+     mercury
+    </xref>
+    . The
+    <xref articleid="32307">
+     electrolyte
+    </xref>
+    consists of a saturated aqueous solution of
+    <xref articleid="7203">
+     ammonium chloride
+    </xref>
+    containing roughly 20 percent zinc chloride. The cathode is made of impure
+    <xref articleid="50515">
+     manganese
+    </xref>
+    dioxide (usually mined from selected deposits in
+    <xref articleid="108290">
+     Africa
+    </xref>
+    ,
+    <xref articleid="106094">
+     Brazil
+    </xref>
+    , or
+    <xref articleid="108719">
+     Mexico
+    </xref>
+    ). This compound is blended with
+    <xref articleid="20246">
+     carbon black
+    </xref>
+    and electrolyte to create a damp, active cathode mixture which is formed around a
+    <xref articleid="20244">
+     carbon
+    </xref>
+    collector rod, also called an electrode. All batteries of this type are provided with an overwrap structure with metal covers for electrical contact.
+   </p>
+   <p>
+    While first patented in 1899, the zinc chloride battery is really a modern adaptation of the zinc-carbon battery. Its commercial success is attributable in part to the development of plastic seals that have made it possible largely to dispense with the use of ammonium chloride. The manganese dioxide of the cathode is usually a blend of synthetic manganese dioxide of high purity with natural varieties. The zinc chloride battery is capable of greater continuous service than the zinc-carbon battery, particularly in motorized devices such as toys. Its use is also increasing because it can provide satisfactory performance without the use of highly toxic mercury and cadmium in the zinc alloy.
+   </p>
+   <p>
+    <assemblyref assemblyid="a19439"/>
+    The highest power density (watts per cubic cm) of the zinc–manganese dioxide cells is found in batteries with an alkaline electrolyte, which permits a completely different type of construction. The alkaline battery became commercially available during the 1950s and is now the most popular household battery. A cathode of a very pure manganese dioxide–
+    <xref articleid="37755">
+     graphite
+    </xref>
+    mixture and an anode of a powdered zinc alloy are associated with a potassium hydroxide electrolyte and housed in a steel can. The zinc of early alkaline batteries contained 6 to 8 percent mercury, but present-day versions contain no added
+    <xref articleid="52102">
+     mercury
+    </xref>
+    so as to reduce the environmental impact of disposal. Alkaline batteries, moreover, provide much higher capacity to operate flashlights,
+    <xref articleid="73098">
+     toys
+    </xref>
+    ,
+    <xref articleid="25003">
+     compact disc
+    </xref>
+    players, and
+    <xref articleid="106101">
+     radios
+    </xref>
+    than either of the other two zinc–manganese dioxide systems discussed above.
+   </p>
+  </h2>
+  <h2 id="h45848">
+   <title>
+    Zinc–mercuric oxide battery
+   </title>
+   <p>
+    <assembly id="a19440" url="/assembly/view/19440">
+     <title>
+      miniature power cell: cutaway view
+     </title>
+     <media mediaid="24092" type="image" url="/92/24092-004-539C888F.jpg"/>
+     <caption>
+      Cutaway view of a typical construction of a miniature power cell, as in, for example, a zinc–silver oxide or zinc–mercuric oxide system.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a19440"/>
+    This is an alkaline-electrolyte battery system. In earlier times it was used in the form of button-sized cells for hearing aids and watches. Its energy density (watt-hours per cubic centimetre) is approximately four times greater than that of the alkaline zinc–manganese dioxide battery. However, because of its mercury content, the cell has been relegated to the role of a standard reference cell—providing an extremely reliable 1.35 volts to measure the performance of other batteries.
+   </p>
+  </h2>
+  <h2 id="h45849">
+   <title>
+    Zinc–silver oxide battery
+   </title>
+   <p>
+    Another alkaline system, this battery features a
+    <xref articleid="67807">
+     silver
+    </xref>
+    oxide cathode and a powdered zinc anode. Because it will tolerate relatively heavy current load pulses and has a high, nearly constant 1.5-volt operating voltage, the zinc–silver oxide battery is commonly used in the form of a button cell in watches, cameras, and hearing aids. In spite of its high cost, the outstanding current-carrying capability of this cell has resulted in its use as a military
+    <xref articleid="72952">
+     torpedo
+    </xref>
+    battery. Miniature cells can be obtained with either divalent silver oxide or monovalent silver oxide, the former usually having somewhat higher capacity.
+   </p>
+  </h2>
+  <h2 id="h45850">
+   <title>
+    Lithium batteries
+   </title>
+   <p>
+    The area of battery technology that has attracted the most research since the early 1990s is a class of batteries with a
+    <xref articleid="48516">
+     lithium
+    </xref>
+    anode. Because of the high chemical activity of lithium, nonaqueous (organic or inorganic) electrolytes have to be used. Such electrolytes include selected solid crystalline salts (
+    <e type="italic">
+     see below
+    </e>
+    ). This whole new science has encouraged the commercial production of some batteries having no separator layer between the anode and the liquid cathode, an unlikely condition for success in aqueous systems. A stable protective layer automatically forms on the lithium and serves as a separator. The protective layer becomes more porous on discharge to permit high-current operation at nearly constant voltages near 3.6 volts. This allows very high power density and energy density. Most commercial cells for the consumer market do have separators placed during cell assembly in the factories yet still offer high energy and power density. Lithium batteries are especially attractive for use in certain aerospace applications, terrestrial portable military equipment, and such civilian applications as portable
+    <xref articleid="117728">
+     computers
+    </xref>
+    ,
+    <xref articleid="471998">
+     cellular telephones
+    </xref>
+    , personal paging systems, heart
+    <xref articleid="57900">
+     pacemakers
+    </xref>
+    , and automated
+    <xref articleid="18803">
+     cameras
+    </xref>
+    .
+   </p>
+   <p>
+    Despite their obvious advantages, there are some limitations on the use of lithium batteries. Lithium is very sensitive to high
+    <xref articleid="71632">
+     temperatures
+    </xref>
+    , and the heat generated during discharging or recharging lithium batteries can cause the cell temperature to rise to the point at which battery ingredients combine spontaneously and the cell smokes or catches
+    <xref articleid="34321">
+     fire
+    </xref>
+    in a phenomenon known as “thermal runaway.” Special separators and cell constructions have been developed to minimize this risk. Additionally, lithium cells must be manufactured under very dry conditions to prevent the absorption of moisture from the air; sealed inside a lithium cell, moisture combines with the lithium to produce lithium oxides and
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    gas, and the gas pressure can lead to cell failure. Lithium must be handled very carefully in the factory and many major manufacturers have had fires in their cell assembly rooms. The need to take measures to prevent fires, the required dry room conditions, and the inclusion of organic compounds in cell formulas combine to make lithium cells somewhat more expensive than other types of common batteries. In addition, there are government safety regulations that limit the weight of lithium in commercial shipments, making it prohibitively expensive to distribute lithium cells larger than the AA or AAA size.
+   </p>
+   <p>
+    Lithium–
+    <xref articleid="42794">
+     iron
+    </xref>
+    sulfide batteries in small sizes offer high capacity and low cost for both light and heavy loads, depending on the construction of the inside of the cell. In operations requiring 1.5 to 1.8 volts, these batteries are a potential substitute for some zinc–silver oxide batteries. In constructions where the electrodes consist of rolled-up (“jelly roll”) strips like those of small nickel-cadmium batteries (discussed in the section
+    <xref articleid="106044" refid="h45855">
+     Alkaline storage batteries
+    </xref>
+    ), higher power density is obtained while still retaining high capacity for premium heavy-duty use, such as for digital cameras, motor-driven toys, and cellular telephones. A typical electrolyte might be lithium tetrafluoroborate salt in a solvent mixture of propylene carbonate, 2-methyl-2-oxazolidone, and dimethoxyethane.
+   </p>
+   <p>
+    Lithium–manganese dioxide cell systems have slowly gained wider application in small appliances, especially automatic cameras. Batteries of this kind have an operating voltage of 2.8–3.2 volts and offer high energy density and relatively low cost for the capability of the cells.
+   </p>
+   <p>
+    The lithium–carbon monofluoride system has been among the more successful early commercial lithium miniature batteries. It has been used extensively in cameras and smaller devices, providing about 3.2 volts per cell, high power density, and long shelf life. Good low-temperature performance and constant voltage discharge over time are provided as well. The cost of carbon monofluoride is high, however.
+   </p>
+   <p>
+    Lithium–thionyl chloride batteries provide the highest energy density and power density commercially available. Thionyl chloride, a very corrosive and toxic chemical, serves not only as the electrolyte
+    <xref articleid="473351">
+     solvent
+    </xref>
+    but also as the cathode material. Formation of a film of lithium chloride salt on the lithium prevents a runaway reaction between the lithium anode and the adjacent liquid cathode material. The electrical contact and reaction centre of the cathode are composed of porous pressed and bonded
+    <xref articleid="110609">
+     carbon
+    </xref>
+    powder. The performance of this type of battery system at room temperature is very impressive. Moreover, the cell can operate at −54 °C (−65 °F), well below the point where aqueous systems function. Because of its high energy density and corrosive electrolyte, the lithium–thionyl chloride battery must be used with care and not be opened, burned, or disposed of casually. Such cells are useful for powering military equipment, providing backup power for aerospace systems, and operating personal pagers.
+   </p>
+   <p>
+    Lithium–sulfur dioxide batteries have been used extensively in some emergency power units for aircraft and in military cold-weather applications (e.g., radio operation). The
+    <xref articleid="21820">
+     cathode
+    </xref>
+    consists of a gas under pressure with another chemical as electrolyte salt; this is analogous to the thionyl chloride electrolyte and its liquid cathode. The system functions well but has been found occasionally to vent noxious
+    <xref articleid="473414">
+     sulfur dioxide
+    </xref>
+    , especially after cold discharge and subsequent warm-up. The release of corrosive or toxic gases by any type of battery in a closed space, especially in an
+    <xref articleid="110741">
+     airplane
+    </xref>
+    , constitutes a significant design disadvantage.
+   </p>
+  </h2>
+  <h2 id="h45851">
+   <title>
+    Air-depolarized batteries
+   </title>
+   <p>
+    A very practical way to obtain high energy density in a battery is to employ the
+    <xref articleid="57841">
+     oxygen
+    </xref>
+    in air for a “liquid” cathode material. If paired with an anode such as zinc, long cell life at low cost per watt-hour (for a dry cell) can be obtained because a given battery’s volume may be devoted more completely to anode and electrolyte material. The battery, however, must be constructed in such a way that the oxygen is prevented from reaching the anode, especially during storage.
+   </p>
+   <p>
+    <xref articleid="78379">
+     Zinc
+    </xref>
+    -air systems are commercially available in forms from very small cells, such as hearing-aid batteries, to relatively large boxlike batteries. Their principle and design are simple, but the actual batteries are, from a technical standpoint, difficult to manufacture. The “air electrode” is extremely thin and usually has a waterproof polymer-bonded porous carbon layer with a metal mesh reinforcement. A catalyst and a booster oxide may be included with the carbon to render oxygen more effectively active. The sealing of the edges of the composite electrode film and electrolyte proofing of the pores have been achieved with
+    <xref articleid="34680">
+     fluorocarbons
+    </xref>
+    and
+    <xref articleid="108561">
+     plastics
+    </xref>
+    . Fundamental improvements in electrode assembly, cell seal, and vent designs continue to be sought in scientific and engineering studies.
+   </p>
+   <p>
+    <xref articleid="5954">
+     Aluminum
+    </xref>
+    -air batteries have not been a major commercial success to date, but their light weight and potentially high energy density have attracted much
+    <xref articleid="106262">
+     government
+    </xref>
+    support in the United States. Research efforts have been concentrated on developing better
+    <xref articleid="5954">
+     aluminum
+    </xref>
+    alloys and techniques to resist
+    <xref articleid="472131">
+     corrosion
+    </xref>
+    during shelf storage. Similarly, inhibitors for inclusion in the
+    <xref articleid="110606">
+     alkaline
+    </xref>
+    electrolyte are under study. Aluminum-air batteries also are being considered for applications in which the metal
+    <xref articleid="7703">
+     anode
+    </xref>
+    , the electrolyte, and the reaction products are mechanically removed and replaced to create a kind of
+    <xref articleid="106045">
+     fuel cell
+    </xref>
+    . If stability and design problems can be overcome, this system may very well prove attractive for many applications, including use in electric
+    <xref articleid="110735">
+     cars
+    </xref>
+    or
+    <xref articleid="110737">
+     trucks
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h45852">
+   <title>
+    Other primary battery systems
+   </title>
+   <p>
+    Many other cell types are in use on a small scale. For example, cells that produce a very predictable standard voltage are the Clark cell (zinc–mercurous sulfate–mercury; 1.434 volts) and the Weston cell (
+    <xref articleid="18500">
+     cadmium
+    </xref>
+    –mercurous sulfate–mercury; 1.019 volts).
+    <xref articleid="50015">
+     Magnesium
+    </xref>
+    –silver chloride and magnesium–lead chloride batteries are commonly employed in undersea operations where the salt water becomes the
+    <xref articleid="32307">
+     electrolyte
+    </xref>
+    when the battery is submerged or in situations where low risk to the environment is desired, as in balloon batteries.
+   </p>
+   <p>
+    An important group of batteries consists of systems with a solid electrolyte in which the mixture of compounds is such that cell ions can slowly move from site to site in the electrolyte crystal structure. Examples include silver–silver
+    <xref articleid="64322">
+     rubidium
+    </xref>
+    iodide–
+    <xref articleid="42681">
+     iodine
+    </xref>
+    cells and
+    <xref articleid="48516">
+     lithium
+    </xref>
+    –lithium iodide–
+    <xref articleid="47492">
+     lead
+    </xref>
+    iodide mixtures. Batteries with ion-containing polymers are being studied extensively. In such devices,
+    <xref articleid="32299">
+     electrode
+    </xref>
+    conductivity is achieved by special
+    <xref articleid="60700">
+     polymer
+    </xref>
+    structure and doping with charged ions either chemically or electrically.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h45853">
+  <title>
+   Storage batteries
+  </title>
+  <p>
+   In contrast to primary cells, which are discharged once and then discarded, storage batteries can be supplied with
+   <xref articleid="30595">
+    direct current
+   </xref>
+   (DC) of the correct polarity and recharged to or near their original energy content and power capability—i.e., they can repeatedly store electrical energy. In discharging, the difference in electrical potential (voltage) of a battery’s electrodes causes
+   <xref articleid="32316">
+    electrons
+   </xref>
+   to flow through a powered device placed between the electrodes. In recharging, a DC voltage that is larger than a battery’s original voltage is applied in the opposite direction to the battery’s discharge direction. By this means, electrons are driven back through the charging circuit into the electrodes and chemical of the battery, largely restoring it to its original voltage, energy level, and power capability. In some batteries, such as nickel oxide–cadmium batteries, it is important to control the discharge depth of the battery to prevent it from acquiring a “memory,” a circumstance in which the battery behaves as though its capacity is much less than when it was new. Proper choice of ingredients and construction features can greatly reduce the likelihood of this effect being encountered.
+  </p>
+  <h2 id="h45854">
+   <title>
+    Lead-acid batteries
+   </title>
+   <p>
+    <assembly id="a19441" url="/assembly/view/19441">
+     <title>
+      automobile battery: cutaway view
+     </title>
+     <media mediaid="24093" type="image" url="/93/24093-004-D0F7DA04.jpg"/>
+     <caption>
+      Construction of the automotive-type lead-acid battery (cutaway view). A storage battery not only holds its charge for a long time, but it also can be recharged.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a19441"/>
+    The so-called
+    <xref articleid="47492">
+     lead
+    </xref>
+    -acid battery has long been the most widely used rechargeable portable power source. Most such batteries are constructed of lead plates, or grids, where one of the grids, the positive electrode, is coated with lead dioxide in a particular crystalline form, along with additives such as
+    <xref articleid="18627">
+     calcium
+    </xref>
+    lignosulfate. The electrolyte, composed of
+    <xref articleid="70254">
+     sulfuric acid
+    </xref>
+    , participates in the electrode reactions where lead sulfate is formed and carries current in moving ions. Recent estimates show that in terms of capacity in use (
+    <xref articleid="487113">
+     watt
+    </xref>
+    -hours), the lead-acid battery has 20 times as much capacity as either the nickel-cadmium or nickel-iron alkaline rechargeable battery (described below).
+   </p>
+   <p>
+    The lead-acid battery system has been successful because of the following features: wide capability range for high or low current demand over usual ambient temperatures; good cycle life with high reliability for hundreds of cycles, especially with good recharge control (a
+    <xref articleid="37628">
+     gram
+    </xref>
+    of positive active material may deliver as many as 100
+    <xref articleid="7233">
+     ampere
+    </xref>
+    -hours during the service life of such a battery); relatively low cost (lead is less expensive per kilogram or per ampere-hour than
+    <xref articleid="55747">
+     nickel
+    </xref>
+    ,
+    <xref articleid="18500">
+     cadmium
+    </xref>
+    ,
+    <xref articleid="48516">
+     lithium
+    </xref>
+    , or
+    <xref articleid="67807">
+     silver
+    </xref>
+    ); comparatively good shelf life for a rechargeable system when stored; high cell voltage at 2.1 volts per cell; ease of fabricating lead components by
+    <xref articleid="20710">
+     casting
+    </xref>
+    ,
+    <xref articleid="76478">
+     welding
+    </xref>
+    , or
+    <xref articleid="83790">
+     rolling
+    </xref>
+    ; and a high degree of salvageability at low melting temperatures.
+   </p>
+   <p>
+    An area of continued interest for investigators working on lead-acid batteries is reduction of battery weight. Lead dioxide and lead have the lowest energy density of the major electrode materials in wide use, and they are rarely discharged in a highly efficient manner. At low rates of discharge, only about 60 percent of the active materials are cycled; at high rates of discharge, utilization can fall to 10 percent.
+   </p>
+   <p>
+    Lead-acid batteries are generally classified into three groups: (1) starting-lighting-ignition (SLI) batteries, (2) traction batteries, and (3) stationary batteries. The automotive SLI battery is the best-known portable rechargeable power source. High current can be obtained for hundreds of shallow-depth discharges over a period of several years. Traction batteries are employed in industrial lift trucks, delivery trucks, and other vehicles. While some are readily portable, others may weigh several tons. The great weight often serves to stabilize the vehicle during operation. Stationary batteries are now much more common than was once the case. These batteries have heavier grid structures and other features to give them long shelf life. They are used to power emergency lights, in uninterruptible power systems for
+    <xref articleid="110316">
+     hospitals
+    </xref>
+    ,
+    <xref articleid="472308">
+     factories
+    </xref>
+    , and telephone exchanges, and for storage of energy generated by terrestrial
+    <xref articleid="106046">
+     solar cells
+    </xref>
+    .
+   </p>
+   <p>
+    In a lead-acid battery the active material of the positive electrode, lead dioxide, combines with the electrolyte, sulfuric acid, to produce lead sulfate and water during discharge. At the negative electrode the constituent lead combines with the sulfuric acid ions to produce lead
+    <xref articleid="70235">
+     sulfate
+    </xref>
+    and
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    ions, thereby replacing the hydrogen ions consumed at the positive electrode. The water formed and the loss of sulfate dilute the electrolyte, lowering its density. Because of this, the state of charge of a lead-acid battery can be determined from the
+    <xref articleid="69028">
+     specific gravity
+    </xref>
+    of the electrolyte.
+   </p>
+  </h2>
+  <h2 id="h45855">
+   <title>
+    Alkaline storage batteries
+   </title>
+   <p>
+    In secondary batteries of this type, electric energy is derived from the chemical action in an alkaline solution. Such batteries feature a variety of electrode materials; some of the more notable ones are briefly discussed in this section.
+   </p>
+   <p>
+    <assembly id="a100926" url="/assembly/view/100926">
+     <title>
+      rechargeable battery: cutaway view
+     </title>
+     <media mediaid="54317" type="image" url="/17/54317-004-45BBCD9E.jpg"/>
+     <caption>
+      Nickel (hydroxide)-cadmium cell of “jelly roll” construction. This rechargeable battery is commonly used in portable devices.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a100926"/>
+    <xref articleid="55747">
+     Nickel
+    </xref>
+    (hydroxide)–
+    <xref articleid="18500">
+     cadmium
+    </xref>
+    systems are the most common small rechargeable battery type for portable appliances. The sealed cells are equipped with “jelly roll” electrodes, which allow high current to be delivered in an efficient way. These batteries are capable of delivering exceptionally high currents, can be rapidly recharged hundreds of times, and are tolerant of abuse such as overdischarging or overcharging. Nonetheless, compared with many primary batteries and even
+    <xref articleid="47492">
+     lead
+    </xref>
+    -acid batteries, nickel-cadmium batteries are heavy and have comparatively limited energy density. They last longer and perform better if fully discharged each cycle before recharge. Otherwise, the cells may exhibit a so-called memory effect, in which they behave as if they had lower capacity than was built into the battery pack. Larger nickel-
+    <xref articleid="18500">
+     cadmium
+    </xref>
+    batteries are used for starting aircraft engines and in emergency power systems. They also have found application in other backup power systems where very high currents, low
+    <xref articleid="71632">
+     temperature
+    </xref>
+    conditions, and high reliability are special factors. In addition, they are used in tandem with a solar-powered current source to provide electric power at night.
+   </p>
+   <p>
+    <xref articleid="55747">
+     Nickel
+    </xref>
+    (
+    <xref articleid="41756">
+     hydroxide
+    </xref>
+    )–
+    <xref articleid="78379">
+     zinc
+    </xref>
+    batteries are attractive from a development viewpoint. If their cycle life can be significantly improved, systems of this sort may become a viable substitute for nickel-cadmium batteries or lead-acid traction batteries.
+   </p>
+   <p>
+    <xref articleid="55747">
+     Nickel
+    </xref>
+    (hydroxide)–
+    <xref articleid="42794">
+     iron
+    </xref>
+    batteries can provide thousands of cycles but do not recharge with high efficiency, generating heat and consuming more
+    <xref articleid="106019">
+     electricity
+    </xref>
+    than is generally desirable. They have been used extensively in the European mining industry, however.
+   </p>
+   <p>
+    Nickel (hydroxide)–
+    <xref articleid="110604">
+     hydrogen
+    </xref>
+    cells were developed primarily for the U.S. space program. Research has shown that such alloys as
+    <xref articleid="47143">
+     lanthanum
+    </xref>
+    -nickel in certain proportions will reversibly dissolve or release hydrogen in proportion to changes in pressure and temperature. The hydrogen in these cells can serve as an active anode material. Nickel–metal hydride batteries are replacing nickel-cadmium batteries in many applications because of their higher capacity per unit volume, the absence of toxic cadmium, and, compared with rechargeable lithium batteries, their greater tolerance of abuse. Nickel–metal hydride batteries are used in most electric and hybrid-electric vehicles.
+   </p>
+   <p>
+    Alkaline zinc–
+    <xref articleid="50515">
+     manganese
+    </xref>
+    dioxide rechargeable cells are sold commercially as a substitute for some other systems where moderate amounts of electricity are needed. Their high energy density and low cost encourage further engineering work and commercial introduction.
+   </p>
+   <p>
+    <xref articleid="67807">
+     Silver
+    </xref>
+    (oxide)–zinc batteries are expensive but are employed where high power density, good energy-cycling efficiency, low weight, and low volume are critical. After years of use in
+    <xref articleid="72952">
+     torpedoes
+    </xref>
+    and
+    <xref articleid="52825">
+     mines
+    </xref>
+    , they have become important in special vehicles for underwater tests and
+    <xref articleid="110183">
+     submarine
+    </xref>
+    exploration. They also are employed in portable
+    <xref articleid="109463">
+     radar
+    </xref>
+    units and communications equipment, as well as in aircraft and space vehicles.
+   </p>
+  </h2>
+  <h2 id="h45856">
+   <title>
+    Lithium storage batteries
+   </title>
+   <p>
+    Rechargeable lithium–metal anode batteries show commercial promise, with theoretical energy densities that range from 600 to 2,000 watt-hours per
+    <xref articleid="45447">
+     kilogram
+    </xref>
+    . Even after allowance is made for the inactive parts of such cells, the net energy density is still competitive with aqueous systems. Commercially available systems of this type include lithium–
+    <xref articleid="24523">
+     cobalt
+    </xref>
+    <xref articleid="57833">
+     oxide
+    </xref>
+    , lithium–nickel oxide, lithium–
+    <xref articleid="50515">
+     manganese
+    </xref>
+    dioxide, and lithium–
+    <xref articleid="53286">
+     molybdenum
+    </xref>
+    disulfide. Much current research is devoted to developing better oxide and sulfide structures and better solvent combinations, as well as to preventing the unsafe formation of finely divided lithium during the recharging of the cells.
+   </p>
+   <p>
+    Major commercial success for rechargeable lithium-based batteries came with the development of lithium-ion cells. The difficult problem of preventing lithium dendrite formation on charging was solved in these cells by using specially selected carbon powders as a base in which to insert lithium ions to form a weak compound that functions as a high-voltage, high-energy-density
+    <xref articleid="7703">
+     anode
+    </xref>
+    . While the energy density is lower than for lithium–metal anode batteries, their added safety is well worth the sacrifice. These batteries are now available for portable
+    <xref articleid="117728">
+     computers
+    </xref>
+    ,
+    <xref articleid="471998">
+     cellular telephones
+    </xref>
+    , and other devices. The usual cathode is an expensive special
+    <xref articleid="24523">
+     cobalt
+    </xref>
+    oxide. Alternatives are being studied in which much or all of the cobalt is replaced by either nickel or manganese or by these elements along with stabilizing
+    <xref articleid="42688">
+     ions
+    </xref>
+    such as
+    <xref articleid="5954">
+     aluminum
+    </xref>
+    and
+    <xref articleid="82451">
+     chromium
+    </xref>
+    . Even with all of the added safety of the lithium-ion form, it is still a critical requirement to have precise electronic controls for charging and discharging.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h45858">
+  <title>
+   Development of batteries
+  </title>
+  <p>
+   <assembly id="a161957" url="/assembly/view/161957">
+    <title>
+     Alessandro Volta: wet pile
+    </title>
+    <media mediaid="97251" type="image" url="/51/97251-004-C4FCFFF4.jpg"/>
+    <caption>
+     Illustration from “On the Electricity Excited by the Mere Contact of Conducting Substances of Different Kinds,” Alessandro Volta’s paper announcing his invention of the wet pile in the
+     <e type="italic">
+      Philosophical Transactions of the Royal Society
+     </e>
+     , 1800.
+    </caption>
+    <credit>
+     © Photos.com/Thinkstock
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a161957"/>
+   The Italian physicist
+   <xref articleid="75699">
+    Alessandro Volta
+   </xref>
+   is generally credited with having developed the first operable battery. Following up on the earlier work of his compatriot
+   <xref articleid="35937">
+    Luigi Galvani
+   </xref>
+   , Volta performed a series of experiments on electrochemical phenomena during the 1790s. By about 1800 he had built his simple battery, which later came to be known as the “voltaic pile.” This device consisted of alternating
+   <xref articleid="78379">
+    zinc
+   </xref>
+   and
+   <xref articleid="67807">
+    silver
+   </xref>
+   disks separated by layers of paper or cloth soaked in a solution of either
+   <xref articleid="68494">
+    sodium
+   </xref>
+   <xref articleid="41756">
+    hydroxide
+   </xref>
+   or
+   <xref articleid="16468">
+    brine
+   </xref>
+   . Experiments performed with the voltaic pile eventually led
+   <xref articleid="109756">
+    Michael Faraday
+   </xref>
+   to derive the quantitative laws of
+   <xref articleid="32297">
+    electrochemistry
+   </xref>
+   (about 1834). These laws, which established the exact relationship between the quantity of electrode material and the amount of electric power desired, formed the basis of modern battery technology.
+   <e type="italic">
+    See also
+   </e>
+   <xref articleid="33719">
+    Faraday’s laws of electrolysis
+   </xref>
+   and
+   <xref articleid="33718">
+    Faraday’s law of induction
+   </xref>
+   .
+  </p>
+  <p>
+   <assembly id="a151931" url="/assembly/view/151931">
+    <title>
+     Daniell cell
+    </title>
+    <media mediaid="144789" type="image" url="/89/144789-004-A2EF0DD2.jpg"/>
+    <caption>
+     The Daniell cell, a wet storage battery.
+    </caption>
+    <credit>
+     © Photos.com/Thinkstock
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a151931"/>
+   Various commercially significant primary cells were produced on the heels of Faraday’s theoretical contribution. In 1836
+   <xref articleid="28713">
+    John Frederic Daniell
+   </xref>
+   , a British chemist, introduced an improved form of electric cell consisting of
+   <xref articleid="26194">
+    copper
+   </xref>
+   and zinc in
+   <xref articleid="70254">
+    sulfuric acid
+   </xref>
+   . The Daniell cell was able to deliver sustained currents during continuous operation far more efficiently than Volta’s device.
+  </p>
+  <p>
+   Further advances were effected in 1839 by the British physicist
+   <xref articleid="38234">
+    William Robert Grove
+   </xref>
+   with his two-fluid primary cell consisting of amalgamated zinc immersed in dilute sulfuric acid, with a porous pot separating the sulfuric acid from a strong
+   <xref articleid="55938">
+    nitric acid
+   </xref>
+   solution containing a
+   <xref articleid="60356">
+    platinum
+   </xref>
+   cathode. The nitric acid served as an oxidizing agent, which prevented voltage loss resulting from an accumulation of hydrogen at the cathode. The German chemist
+   <xref articleid="18091">
+    Robert Wilhelm Bunsen
+   </xref>
+   substituted inexpensive
+   <xref articleid="20244">
+    carbon
+   </xref>
+   for platinum in Grove’s cell and thereby helped promote its wide acceptance.
+  </p>
+  <p>
+   In 1859
+   <xref articleid="60320">
+    Gaston Planté
+   </xref>
+   of France invented a
+   <xref articleid="47492">
+    lead
+   </xref>
+   -acid cell, the first practical storage battery and the forerunner of the modern
+   <xref articleid="110735">
+    automobile
+   </xref>
+   battery. Planté’s device was able to produce a remarkably large current, but it remained a laboratory curiosity for nearly two decades.
+  </p>
+  <p>
+   <assembly id="a19437" url="/assembly/view/19437">
+    <title>
+     Georges Leclanché’s cell
+    </title>
+    <media mediaid="24089" type="image" url="/89/24089-004-FAE11DAE.jpg"/>
+    <caption>
+     Georges Leclanché’s cell. Invented in 1866, this dry cell and its later variations, the zinc chloride and alkaline cells, are batteries commonly used throughout the world.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a19437"/>
+   French engineer
+   <xref articleid="47568">
+    Georges Leclanché
+   </xref>
+   ’s prototype of the zinc–
+   <xref articleid="50515">
+    manganese
+   </xref>
+   dioxide system paved the way for the development of the modern primary battery. The original version of the Leclanché cell was “wet,” as it had an electrolyte consisting of a solution of
+   <xref articleid="7203">
+    ammonium chloride
+   </xref>
+   . The idea of employing an immobilized electrolyte was finally introduced in the late 1880s and launched the dry-cell industry that continues to flourish today.
+  </p>
+  <p>
+   The invention of alkaline electrolyte batteries (specifically, storage batteries of the
+   <xref articleid="55747">
+    nickel
+   </xref>
+   -
+   <xref articleid="18500">
+    cadmium
+   </xref>
+   and nickel-
+   <xref articleid="42794">
+    iron
+   </xref>
+   type) between 1895 and 1905 provided systems that could furnish much-improved cycle life for commercial application. The 1930s and ’40s saw the development of the
+   <xref articleid="78379">
+    zinc
+   </xref>
+   –
+   <xref articleid="67807">
+    silver
+   </xref>
+   <xref articleid="57833">
+    oxide
+   </xref>
+   and zinc–mercuric oxide alkaline batteries, systems that provided the highest energy yet known per unit weight and volume. Since the mid-20th century, advances in construction technology and the availability of new materials have given rise to smaller yet more powerful batteries suitable for use in a wide array of portable equipment. Perhaps most notable have been the entrance of
+   <xref articleid="48516">
+    lithium
+   </xref>
+   batteries into the commercial market and the development of nickel-
+   <xref articleid="110604">
+    hydrogen
+   </xref>
+   and nickel–metal
+   <xref articleid="41719">
+    hydride
+   </xref>
+   cells for use in
+   <xref articleid="68971">
+    spacecraft
+   </xref>
+   ,
+   <xref articleid="117728">
+    computers
+   </xref>
+   ,
+   <xref articleid="471998">
+    cellular telephones
+   </xref>
+   , and other applications.
+  </p>
+  <signature>
+   Brooke Schumm Jr.
+  </signature>
+ </h1>
+ <h1 id="h45859">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   <e type="smallcap">
+    Stanley W. Angrist
+   </e>
+   ,
+   <e type="italic">
+    Direct Energy Conversion
+   </e>
+   , 4th ed. (1982), provides a historical introduction and overview.
+   <e type="smallcap">
+    C.A. Vincent
+   </e>
+   and
+   <e type="smallcap">
+    B. Scrosati
+   </e>
+   (eds.),
+   <e type="italic">
+    Modern Batteries: An Introduction to Electrochemical Power Sources
+   </e>
+   (1984, reissued 1997), is written for the nonspecialist.
+   <e type="smallcap">
+    David Linden
+   </e>
+   and
+   <e type="smallcap">
+    Thomas B. Reddy
+   </e>
+   (eds.),
+   <e type="italic">
+    Handbook of Batteries
+   </e>
+   , 3rd ed. (2002), provides comprehensive information on types and applications.
+   <e type="smallcap">
+    Michael H. Westbrook
+   </e>
+   ,
+   <e type="italic">
+    The Electric Car: Development and Future of Battery, Hybrid, and Fuel-Cell Cars
+   </e>
+   (2001), is a comprehensive history of electric cars from a former manager of technological research with the Ford Motor Company.
+  </p>
+  <signature>
+   Brooke Schumm Jr.
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

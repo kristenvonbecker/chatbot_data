@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="51682" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 23:42:42" url="/article/mean-free-path/51682" version="2">
+ <title>
+  mean free path
+ </title>
+ <p>
+  <e type="bold">
+   mean free path
+  </e>
+  , average distance an object will move between collisions. The actual distance a particle, such as a molecule in a gas, will move before a collision, called free path, cannot generally be given because its calculation would require knowledge of the path of every particle in the region. The probability (
+  <e type="italic">
+   dP
+  </e>
+  ) that a molecule will move a distance between two points (
+  <e type="italic">
+   x
+  </e>
+  and
+  <e type="italic">
+   x
+  </e>
+  +
+  <e type="italic">
+   dx
+  </e>
+  ) without collision is proportional to an exponential factor; that is,
+  <e type="italic">
+   dP
+  </e>
+  =
+  <e type="italic">
+   e
+  </e>
+  <sup>
+   -
+   <e type="italic">
+    x
+   </e>
+   /
+   <e type="italic">
+    μ
+   </e>
+  </sup>
+  <e type="italic">
+   dx
+  </e>
+  ,
+  <e type="italic"/>
+  in which
+  <e type="italic">
+   e
+  </e>
+  is the base of natural logarithms. The constant
+  <e type="italic">
+   μ
+  </e>
+  is the mean free path and is the average (mean) distance traveled by a molecule between collisions. The mean free path of an oxygen gas molecule under a pressure of 1 atmosphere at 0° C is about 6 × 10
+  <sup>
+   -6
+  </sup>
+  cm (2 × 10
+  <sup>
+   −6
+  </sup>
+  inch).
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

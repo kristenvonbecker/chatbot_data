@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="68566" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 01:19:15" url="/article/solar-time/68566" version="4">
+ <title>
+  solar time
+ </title>
+ <p>
+  <e type="bold">
+   solar time
+  </e>
+  , time measured by Earth’s rotation relative to the Sun. Apparent solar time is that measured by direct observation of the Sun or by a
+  <xref articleid="70362">
+   sundial
+  </xref>
+  . Mean solar time, kept by most
+  <xref articleid="24419">
+   clocks
+  </xref>
+  and
+  <xref articleid="76208">
+   watches
+  </xref>
+  , is the solar time that would be measured by observation if the Sun traveled at a uniform apparent speed throughout the year rather than, as it actually does, at a slightly varying apparent speed that depends on the seasons. The difference between mean and apparent solar time is known as the equation of time. This is usually expressed as a correction, never exceeding 16 minutes, that is added to or subtracted from apparent solar time to determine mean solar time. The real Sun and the imaginary “mean Sun,” from which mean solar time is measured, may be as much as 16 minutes apart because during the course of the year the apparent motion of the real Sun against the background of the stars (the
+  <xref articleid="31918">
+   ecliptic
+  </xref>
+  ) alternately slows down and speeds up. There are two reasons for this. First, the Earth’s orbit is not exactly circular, and the Earth moves in it at slightly different speeds in different seasons. Second, the Earth’s axis is tilted relative to the plane of the Earth’s orbit.
+ </p>
+ <p>
+  Since 1972 the time in common use has been based on a combination of solar and atomic times; it is called
+  <xref articleid="26164">
+   Coordinated Universal Time
+  </xref>
+  . Its second is the second of atomic time, while its epoch is kept by periodic adjustment, within 0.9 second of mean solar time.
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="74360">
+   Universal Time
+  </xref>
+  .
+ </p>
+ <signature>
+  Jonathan D. Betts
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

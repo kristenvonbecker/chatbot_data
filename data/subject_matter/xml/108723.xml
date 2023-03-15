@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="108723" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 04:06:49" url="/article/microscope/108723" version="19">
+ <title>
+  microscope
+ </title>
+ <p>
+  <assembly id="a110529" url="/assembly/view/110529">
+   <title>
+    compound microscope
+   </title>
+   <media mediaid="114750" type="image" url="/50/114750-004-0DB8E7A1.jpg"/>
+   <caption>
+    A compound microscope.
+   </caption>
+   <credit>
+    Comstock Images/Jupiterimages
+   </credit>
+  </assembly>
+  <e type="bold">
+   microscope
+  </e>
+  ,
+  <assemblyref assemblyid="a110529"/>
+  instrument that produces enlarged images of small objects, allowing the observer an exceedingly close view of minute structures at a scale convenient for examination and analysis. Although optical microscopes are the subject of this article, an image may also be enlarged by many other wave forms, including
+  <xref articleid="474207">
+   acoustic
+  </xref>
+  ,
+  <xref articleid="77656">
+   X-ray
+  </xref>
+  , or
+  <xref articleid="32318">
+   electron beam
+  </xref>
+  , and be received by direct or digital imaging or by a combination of these methods. The microscope may provide a dynamic image (as with conventional optical instruments) or one that is static (as with conventional
+  <xref articleid="474202">
+   scanning electron microscopes
+  </xref>
+  ).
+ </p>
+ <p>
+  The magnifying power of a microscope is an expression of the number of times the object being examined appears to be enlarged and is a dimensionless ratio. It is usually expressed in the form 10× (for an image magnified 10-fold), sometimes wrongly spoken as “ten eks”—as though the × were an algebraic symbol—rather than the correct form, “ten times.” The resolution of a microscope is a measure of the smallest detail of the object that can be observed. Resolution is expressed in linear units, usually
+  <xref articleid="52508">
+   micrometres
+  </xref>
+  (μm).
+ </p>
+ <p>
+  The most familiar type of microscope is the optical, or
+  <xref articleid="110443">
+   light
+  </xref>
+  , microscope, in which glass
+  <xref articleid="47770">
+   lenses
+  </xref>
+  are used to form the image. Optical microscopes can be simple, consisting of a single lens, or compound, consisting of several optical components in line. The hand magnifying glass can magnify about 3 to 20×. Single-lensed simple microscopes can magnify up to 300×—and are capable of revealing
+  <xref articleid="110416">
+   bacteria
+  </xref>
+  —while compound microscopes can magnify up to 2,000×. A simple microscope can resolve below 1 micrometre (μm; one millionth of a metre); a compound microscope can resolve down to about 0.2 μm.
+ </p>
+ <p>
+  Images of interest can be captured by
+  <xref articleid="108552">
+   photography
+  </xref>
+  through a microscope, a technique known as photomicrography. From the 19th century this was done with film, but digital imaging is now extensively used instead. Some digital microscopes have dispensed with an eyepiece and provide images directly on the
+  <xref articleid="117728">
+   computer
+  </xref>
+  screen. This has given rise to a new series of low-cost digital microscopes with a wide range of imaging possibilities, including time-lapse micrography, which has brought previously complex and costly tasks within reach of the young or amateur microscopist.
+ </p>
+ <p>
+  <assembly id="a110686" url="/assembly/view/110686">
+   <title>
+    transmission electron microscope
+   </title>
+   <media mediaid="113690" type="image" url="/90/113690-004-CB552E7F.jpg"/>
+   <caption>
+    Transmission electron microscope (TEM).
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assembly id="a242127" url="/assembly/view/242127">
+   <title>
+    scanning electron microscope
+   </title>
+   <media mediaid="193649" type="image" url="/49/193649-004-8F98B5A1.jpg"/>
+   <caption>
+    A scientist working on a high-resolution scanning electron microscope in a high-tech clean-room environment.
+   </caption>
+   <credit>
+    © Nando Harmsen/Dreamstime.com
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a110686"/>
+  <assemblyref assemblyid="a242127"/>
+  Other types of microscopes use the wave nature of various physical processes. The most important is the
+  <xref articleid="32323">
+   electron microscope
+  </xref>
+  , which uses a beam of electrons in its image formation. The
+  <xref articleid="474201">
+   transmission electron microscope
+  </xref>
+  (TEM) has magnifying powers of more than 1,000,000×. TEMs form images of thin specimens, typically sections, in a near vacuum. A scanning electron microscope (SEM), which creates a reflected image of relief in a contoured specimen, usually has a lower resolution than a TEM but can show solid surfaces in a way that the conventional electron microscope cannot. There are also microscopes that use
+  <xref articleid="47248">
+   lasers
+  </xref>
+  , sound, or X-rays. The
+  <xref articleid="474208">
+   scanning tunneling microscope
+  </xref>
+  (STM), which can create images of atoms, and the
+  <xref articleid="474203">
+   environmental scanning electron microscope
+  </xref>
+  (ESEM), which generates images using electrons of specimens in a gaseous environment, use other physical effects that further extend the types of objects that can be examined.
+ </p>
+ <h1 id="h275736">
+  <title>
+   History of optical microscopes
+  </title>
+  <p>
+   The concept of magnification has long been known. About 1267 English philosopher
+   <xref articleid="11664">
+    Roger Bacon
+   </xref>
+   wrote in
+   <e type="italic">
+    Perspectiva
+   </e>
+   , “[We] may number the smallest particles of dust and sand by reason of the greatness of the angle under which we may see them,” and in 1538 Italian physician
+   <xref articleid="35082">
+    Girolamo Fracastoro
+   </xref>
+   wrote in
+   <e type="italic">
+    Homocentrica
+   </e>
+   , “If anyone should look through two spectacle glasses, one being superimposed on the other, he will see everything much larger.”
+  </p>
+  <p>
+   <assembly id="a99713" url="/assembly/view/99713">
+    <title>
+     Robert Hooke’s drawings
+    </title>
+    <media mediaid="99768" type="image" url="/68/99768-004-0D13CFF1.jpg"/>
+    <caption>
+     Robert Hooke’s drawings of the cellular structure of cork and a sprig of sensitive plant from
+     <e type="italic">
+      Micrographia
+     </e>
+     (1665).
+    </caption>
+    <credit>
+     From
+     <e type="italic">
+      Micrographia
+     </e>
+     , by Robert Hooke, 1665
+    </credit>
+   </assembly>
+   <assembly id="a232523" url="/assembly/view/232523">
+    <title>
+     drawing of a female gnat by Robert Hooke
+    </title>
+    <media mediaid="194752" type="image" url="/52/194752-004-0DAF4466.jpg"/>
+    <caption>
+     Drawing of a female gnat by Robert Hooke, from
+     <e type="italic">
+      Micrographia
+     </e>
+     (1665).
+    </caption>
+    <credit>
+     From
+     <e type="italic">
+      Micrographia
+     </e>
+     , by Robert Hooke, 1665
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a99713"/>
+   <assemblyref assemblyid="a232523"/>
+   Three Dutch spectacle makers—Hans Jansen, his son Zacharias Jansen, and
+   <xref articleid="48449">
+    Hans Lippershey
+   </xref>
+   —have received credit for inventing the compound microscope about 1590. The first portrayal of a microscope was drawn about 1631 in the Netherlands. It was clearly of a compound microscope, with an eyepiece and an objective
+   <xref articleid="47770">
+    lens
+   </xref>
+   . This kind of instrument, which came to be made of wood and cardboard, often adorned with polished fish skin, became increasingly popular in the mid-17th century and was used by the English natural philosopher
+   <xref articleid="40979">
+    Robert Hooke
+   </xref>
+   to provide regular demonstrations for the new
+   <xref articleid="64290">
+    Royal Society
+   </xref>
+   . These demonstrations commenced in 1663, and two years later Hooke published a folio volume titled
+   <e type="italic">
+    Micrographia
+   </e>
+   , which introduced a wide range of microscopic views of familiar objects (fleas, lice, and nettles among them). In this book he coined the term
+   <e type="italic">
+    cell
+   </e>
+   .
+  </p>
+  <p>
+   <assembly id="a110525" url="/assembly/view/110525">
+    <title>
+     microscope by Antonie van Leeuwenhoek
+    </title>
+    <media mediaid="114751" type="image" url="/51/114751-004-4B813738.jpg"/>
+    <caption>
+     Microscope made by Antonie van Leeuwenhoek.
+    </caption>
+    <credit>
+     Photos.com/Thinkstock
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a110525"/>
+   Hidden in the unnumbered pages of
+   <e type="italic">
+    Micrographia
+   </e>
+   ’s preface is a description of how a single high-powered lens could be made into a serviceable microscope, and it was using this design that the Dutch civil servant
+   <xref articleid="47611">
+    Antonie van Leeuwenhoek
+   </xref>
+   began his pioneering observations of freshwater microorganisms in the 1670s. He made his postage-stamp-sized microscopes by hand, and the best of them could resolve details around 0.7 μm. His fine specimens discovered in excellent condition at the Royal Society more than three centuries later prove what a great technician he was. Using his simple microscope, Leeuwenhoek effectively launched
+   <xref articleid="110586">
+    microbiology
+   </xref>
+   in 1674, and single-lensed microscopes remained popular until the 1850s. In 1827 they were used by Scottish botanist
+   <xref articleid="16693">
+    Robert Brown
+   </xref>
+   to demonstrate the ubiquity of the cell nucleus, a term he coined in 1831.
+  </p>
+  <p>
+   Simple microscopes using single
+   <xref articleid="47770">
+    lenses
+   </xref>
+   can generate fine images; however, they can also produce spurious colours due to chromatic
+   <xref articleid="3333">
+    aberration
+   </xref>
+   , in which different wavelengths of light do not come to the same focus. The aberrations were worse in the compound microscopes of the time, because the lenses magnified the aberrations at least as much as they magnified the images. Although the compound microscopes were beautiful objects that conferred status on their owners, they produced inferior images. In 1733 the amateur English optician
+   <xref articleid="38910">
+    Chester Moor Hall
+   </xref>
+   found by trial and error that a combination of a convex
+   <xref articleid="28028">
+    crown-glass
+   </xref>
+   lens and a concave
+   <xref articleid="34588">
+    flint-glass
+   </xref>
+   lens could help to correct chromatic aberration in a
+   <xref articleid="111077">
+    telescope
+   </xref>
+   , and in 1774 Benjamin Martin of London produced a pioneering set of colour-corrected lenses for a microscope.
+  </p>
+  <p>
+   The appearance of new varieties of optical glasses encouraged continued development of the microscope in the 19th century, and considerable improvements were made in understanding the geometric
+   <xref articleid="108567">
+    optics
+   </xref>
+   of image formation. The concept of an achromatic (non-colour-distorting) microscope objective was finally introduced in 1791 by Dutch optician Francois Beeldsnijder, and the English scientist
+   <xref articleid="48499">
+    Joseph Jackson Lister
+   </xref>
+   in 1830 published a work describing a theoretical approach to the complete design of microscope objectives. The physics of lens construction was examined by German physicist
+   <xref articleid="3239">
+    Ernst Abbe
+   </xref>
+   . In 1868 he invented an apochromatic system of lenses, which had even better colour correction than achromatic lenses, and in 1873 he published a comprehensive analysis of lens theory. Light microscopes that were produced in the closing quarter of the 19th century reached the effective limits of optical microscopy. Subsequent instruments, such as
+   <xref articleid="108723" refid="h8869">
+    phase-contrast microscopes
+   </xref>
+   ,
+   <xref articleid="108723" refid="h8870">
+    interference microscopes
+   </xref>
+   , and
+   <xref articleid="108723" refid="h275741">
+    confocal microscopes
+   </xref>
+   , solved specific problems that had arisen during the study of specimens such as living cells.
+  </p>
+ </h1>
+ <h1 id="h8850">
+  <title>
+   The simple microscope
+  </title>
+  <h2 id="h8851">
+   <title>
+    Principles
+   </title>
+   <p>
+    <assembly id="a110564" url="/assembly/view/110564">
+     <title>
+      magnification
+     </title>
+     <media mediaid="113689" type="image" url="/89/113689-004-090EFF3A.jpg"/>
+     <caption>
+      A lens magnifying an object.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a110564"/>
+    The simple microscope consists of a single lens traditionally called a loupe. The most familiar present-day example is a reading or magnifying glass. Present-day higher-magnification lenses are often made with two glass elements that produce a colour-corrected image. They can be worn around the neck packaged in a cylindrical form that can be held in place immediately in front of the eye. These are generally referred to as eye loupes or jewelers’ lenses. The traditional simple microscope was made with a single magnifying lens, which was often of sufficient optical quality to allow the study of microscopical organisms including
+    <e type="italic">
+     Hydra
+    </e>
+    and protists.
+   </p>
+   <h3 id="h275737">
+    <title>
+     Magnification
+    </title>
+    <p>
+     It is instinctive, when one wishes to examine the details of an object, to bring it as near as possible to the eye. The closer the object is to the eye, the larger the angle that it subtends at the eye, and thus the larger the object appears. If an object is brought too close, however, the eye can no longer form a clear image. The use of the magnifying lens between the observer and the object enables the formation of a “virtual image” that can be viewed in comfort. To obtain the best possible image, the magnifier should be placed directly in front of the eye. The object of interest is then brought toward the eye until a clear image of the object is seen.
+    </p>
+    <p>
+     Without lenses, the highest possible magnification is when the object is brought to the closest position at which a clear virtual image is observed. For many people, this image distance is about 25 cm (10 inches). As people age, the nearest point of distinct vision recedes to greater distances, thus making a magnifier a useful adjunct to vision for older people.
+    </p>
+    <p>
+     The magnifying power, or extent to which the object being viewed appears enlarged, and the field of view, or size of the object that can be viewed, are related by the geometry of the optical system. A working value for the magnifying power of a lens can be found by dividing the least distance of distinct vision by the lens’ focal length, which is the distance from the lens to the plane at which the incoming light is focused. Thus, for example, a lens with a least distance of distinct vision of 25 cm and a focal length of 5 cm (2 inches) will have a magnifying power of about 5×.
+    </p>
+    <p>
+     If the diameter of the magnifying lens is sufficient to fill or exceed the diameter of the pupil of the eye, the virtual image that is viewed will appear to be of substantially the same brightness as the original object. The field of view of the magnifier will be determined by the extent to which the magnifying lens exceeds this working diameter and also by the distance separating the lens from the eye. The clarity of the magnified virtual image will depend upon the aberrations present in the lens, its contour, and the manner in which it is used.
+    </p>
+   </h3>
+   <h3 id="h275738">
+    <title>
+     Aberration
+    </title>
+    <p>
+     <assembly id="a107525" url="/assembly/view/107525">
+      <title>
+       chromatic aberration
+      </title>
+      <media mediaid="5293" type="image" url="/93/5293-004-4C2BCD4E.jpg"/>
+      <caption>
+       Chromatic aberration. Different wavelengths of light have different focal points.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assembly id="a106887" url="/assembly/view/106887">
+      <title>
+       spherical aberration
+      </title>
+      <media mediaid="5288" type="image" url="/88/5288-004-FD6EE753.jpg"/>
+      <caption>
+       Spherical aberration. Light rays form a circular cross section that varies with distance along the optical axis; the smallest size is known as the circle of least confusion. The image with the least spherical aberration is found at this distance.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assembly id="a106888" url="/assembly/view/106888">
+      <title>
+       two types of distortion
+      </title>
+      <media mediaid="5292" type="image" url="/92/5292-004-064CC4A1.jpg"/>
+      <caption>
+       Two common types of distortion. In barrel distortion (left), magnification decreases with distance from the centre of the image; in pincushion distortion (right), magnification increases with distance.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a107525"/>
+     <assemblyref assemblyid="a106887"/>
+     <assemblyref assemblyid="a106888"/>
+     Various aberrations influence the sharpness or quality of the image. Chromatic aberrations produce coloured fringes about the high-contrast regions of the image, because longer wavelengths of light (such as red) are brought to focus in a plane slightly farther from the lens than shorter wavelengths (such as blue). Spherical aberration produces an image in which the centre of the field of view is in focus when the periphery may not be and is a consequence of using lenses with spherical (rather than nonspherical, or aspheric) surfaces. Distortion produces curved images from straight lines in the object. The type and degree of distortion visible is intimately related to the possible spherical aberration in the magnifier and is usually most severe in high-powered lenses.
+    </p>
+    <p>
+     The aberrations of a lens increase as the relative aperture (i.e., the working diameter divided by the focal length) of the lens is increased. Therefore, the aberrations of a lens whose diameter is twice the focal length will be worse than those of a lens whose diameter is less than the focal length. There is thus a conflict between a short focal length, which permits a high magnifying power but small field of view, and a longer focal length, which provides a lower magnifying power but a larger linear field of view. (Leeuwenhoek’s high-powered lenses of the 1670s had a focal length—and thus a working distance—of a few millimetres. This made them difficult to use, but they provided remarkable images that were not bettered for a century.)
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h8852">
+   <title>
+    Types of magnifiers
+   </title>
+   <p>
+    There are several types of magnifiers available. The choice of an optical design for a magnifier depends upon the required power and the intended application of the magnifier.
+   </p>
+   <p>
+    For low powers, about 2–10×, a simple double convex lens is applicable. (Early simple microscopes such as Leeuwenhoek’s magnified up to 300×.) The image can be improved if the lens has specific aspheric surfaces, as can be easily obtained in a plastic molded lens. A reduction of distortion is noted when an aspheric lens is used, and the manufacture of such low-power aspheric plastic magnifiers is a major industry. For higher powers of 10–50×, there are a number of forms for magnifiers in which the simple magnifier is replaced by a compound lens made up of several lenses mounted together.
+   </p>
+   <p>
+    A direct improvement in the distortion that may be expected from a magnifier can be obtained by the use of two simple lenses, usually plano-convex (flat on one side, outward-curved on the other, with the curved surfaces facing each other). This type of magnifier is based upon the eyepiece of the Huygenian telescope, in which the lateral chromatic aberration is corrected by spacing the elements a focal length apart. Since the imaging properties are provided and shared by two components, the spherical aberration and the distortion of the magnifier are greatly reduced over those of a simple lens of the same power.
+   </p>
+   <p>
+    A Coddington lens combines two lens elements into a single thick element, with a groove cut in the centre of the element to select the portion of the imaging light with the lowest aberrations. This was a simple and inexpensive design but suffers from the requirement that the working distance of the magnifier be very short.
+   </p>
+   <p>
+    More-complex magnifiers, such as the Steinheil or Hastings forms, use three or more elements to achieve better correction for chromatic aberrations and distortion. In general, a better approach is the use of aspheric surfaces and fewer elements.
+   </p>
+   <p>
+    Mirrors are also used. Reflecting microscopes, in which the image is magnified through concave mirrors rather than convex lenses, were brought to their peak of perfection in 1947 by British physicist C.R. Burch, who made a series of giant instruments that used
+    <xref articleid="74181">
+     ultraviolet
+    </xref>
+    rays. There is no chromatic aberration using a reflector, and distortion and spherical aberration are controlled through the introduction of a carefully contoured aspheric magnifying mirror. Present-day reflecting microscopes are confined to analytical instruments using
+    <xref articleid="42403">
+     infrared
+    </xref>
+    rays.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h8853">
+  <title>
+   The compound microscope
+  </title>
+  <p>
+   The limitations on resolution (and therefore magnifying power) imposed by the constraints of a simple microscope can be overcome by the use of a compound microscope, in which the image is relayed by two lens arrays. One of them, the objective, has a short focal length and is placed close to the object being examined. It is used to form a real image in the front focal plane of the second lens, the eyepiece or ocular. The eyepiece forms an enlarged virtual image that can be viewed by the observer. The magnifying power of the compound microscope is the product of the magnification of the objective lens and that of the eyepiece.
+  </p>
+  <p>
+   In addition to these two lens arrays, a compound microscope consists of a body tube, in which the lenses can be housed and kept an appropriate distance apart; a condenser lens that lies beneath the specimen stage and focuses light upon the specimen; and an illumination system, which either transmits light through or reflects light from the object being examined. A method for focusing the microscope, usually with coarse and fine focusing controls, must also be provided.
+  </p>
+  <p>
+   The basic form of a compound microscope is monocular: a single tube is used, with the objective at one end and a single eyepiece at the other. In order to permit viewing with two eyes and thereby increase comfort and acuity, a single objective can be employed in a binocular tube fitted with a matched pair of eyepieces; beam-splitting
+   <xref articleid="61433">
+    prisms
+   </xref>
+   are used to send half of the light from the image formed by the objective to each eye. These prisms are mounted in a rotating mechanical assembly so that the separation between the eyepieces can be made to match the required interpupillary distance for the observer. A true stereoscopic microscope is configured by using two objectives and two eyepieces, enabling each eye to view the object separately, making it appear three-dimensional.
+  </p>
+  <h2 id="h8855">
+   <title>
+    Optics
+   </title>
+   <p>
+    There are some obvious geometric limitations that apply to the design of microscope optics. The attainable resolution, or the smallest distance at which two points can be seen as separate when viewed through the microscope, is the first important property. This is generally set by the ability of the eye to discern detail, as well as by the basic physics of image formation.
+   </p>
+   <p>
+    The eye’s ability to discern detail is determined by several factors, including the level of illumination and the degree of contrast between light and dark regions on the object. Under reasonable light conditions, a normal eye with good visual acuity is capable of seeing two high-contrast points if they subtend a visual angle of at least one arc minute in size. Thus, at a nominal viewing distance of 25 cm (10 inches), the points must be at least 0.1 mm (0.004 inch) apart for the eye to see them as separate. With a simple magnifier of 10×, an observer can see two points separated by perhaps 0.01 mm (0.0004 inch); and with a compound microscope magnifying 100×, one might expect the observer to be able to distinguish two points only 0.001 mm (0.00004 inch) apart. However, an additional complication arises for the high magnifications encountered in a compound microscope. When the dimensions to be resolved approach the wavelength of light, consideration must be given to the effect of
+    <xref articleid="30419">
+     diffraction
+    </xref>
+    upon the eye’s ability to resolve details upon objects (
+    <e type="italic">
+     see below
+    </e>
+    <xref articleid="108723" refid="h8863">
+     The theory of image formation
+    </xref>
+    ).
+   </p>
+   <p>
+    The resolution and the light-collecting capability of the microscope are determined by the numerical aperture (N.A.) of the objective. The N.A. is defined as the sine of half the angle of the cone of light from each point of the object that can be accepted by the objective multiplied by the
+    <xref articleid="63034">
+     refractive index
+    </xref>
+    (R.I.) of the medium in which the object is immersed. Thus, the N.A. increases as the lens becomes larger or the R.I. increases. Typical values for microscope objective N.A.’s range from 0.1 for low-magnification objectives to 0.95 for dry objectives and 1.4 for oil-immersion objectives. A dry objective is one that works with the air between the specimen and the objective lens. An immersion objective requires a liquid, usually a transparent oil of the same R.I. as glass, to occupy the space between the object and the front element of the objective.
+   </p>
+   <p>
+    The limit of resolution is set by the wavelength of light and the N.A. The resolution can be improved either by increasing the N.A. of a lens or by using light with a shorter wavelength. In an immersion objective, the effective wavelength of the light is reduced by the index of refraction of the media within which the object being examined resides. The use of immersion imaging techniques in microscopy improves the resolution capabilities of the microscope.
+   </p>
+  </h2>
+  <h2 id="h8856">
+   <title>
+    Mechanical components
+   </title>
+   <p>
+    <assembly id="a106890" url="/assembly/view/106890">
+     <title>
+      compound microscope
+     </title>
+     <media mediaid="85429" type="image" url="/29/85429-004-BBC3F207.jpg"/>
+     <caption>
+      Compound microscope.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a106890"/>
+    The microscope body tube separates the objective and the eyepiece and assures continuous alignment of the optics. It is a standardized length, anthropometrically related to the distance between the height of a bench or tabletop (on which the microscope stands) and the position of the seated observer’s eyes. It is typically fitted with a rotating turret that permits objectives of different powers to be interchanged with the assurance that the image position will be maintained. Traditionally, the length of the body tube has been defined as the distance from the upper end of the objective to the eyepiece end of the tube.
+   </p>
+   <p>
+    A standard body-tube length of 160 mm (6.3 inches) has been accepted for most uses. (Metallographic microscopes have a 250-mm [10-inch] body tube.) Microscope objectives are designed to minimize aberrations at the specified tube length. Use of other distances will affect the aberration balance for high-magnification objectives. Therefore, focusing of the traditional microscope requires moving the objective, the tube, and the eyepiece as a rigid unit. To achieve this, the entire tube is fitted with a rack-and-pinion mechanism that allows it, together with the objective and the eyepiece, to be moved toward or away from the specimen.
+   </p>
+   <p>
+    The specimen is usually mounted on a glass slide. Routine microscope slides were fixed at 3 × 1 inches during the Victorian era and are still produced at the metric equivalent of those dimensions (7.5 × 2.5 cm) today. The specimen, usually immersed in a material with an R.I. that matches that of the slide, is covered with a thin cover slip. The mechanical stage on which the slide lies is fitted with a pair of controls featuring a rack-and-pinion arrangement. This permits the glass slide to be moved across the stage in two directions, so that different areas of the specimen can be examined. Computer-controlled microscopes track the position of the slide and can return to designated areas of the specimen when required to do so.
+   </p>
+   <p>
+    The accuracy with which the focusing and the movement of the slide have to be maintained increases as the depth of focus of the objective decreases. For high-N.A. objectives, this depth of focus can be as small as 1 or 2 μm, which means that the mechanical components must provide stable motion at even smaller increments.
+   </p>
+   <p>
+    Several approaches have been introduced to achieve such precise stable motion at reasonable cost. Some designers have eliminated the sliding mechanism of the body tube, incorporating adjustments for the vertical movement needed for focusing, as well as the lateral motion of the object, in a single mechanical system. An alternative approach has been to mount a relay objective doublet of 160 mm (6.3 inches) focal length into the lower end of the tube. This tube lens is designed to accept light from an image created by the objective at infinity. The objective itself is designed to have aberrations corrected for an infinite image distance. An advantage of this approach is that, since the relayed image is at infinity, the microscope objective itself, a very lightweight component, can be moved to effect focusing without upsetting the correction of aberrations.
+   </p>
+   <p>
+    In some microscopes the eyepiece is designed as a portion of a zoom lens, which permits continuous variation of the magnification over a limited range without loss of focus. Such microscopes are widely used in industry.
+   </p>
+  </h2>
+  <h2 id="h8857">
+   <title>
+    The illumination system
+   </title>
+   <p>
+    The illumination system of the standard optical microscope is designed to transmit light through a translucent object for viewing. In a modern microscope it consists of a light source, such as an electric lamp or a light-emitting diode, and a lens system forming the condenser.
+   </p>
+   <p>
+    The condenser is placed below the stage and concentrates the light, providing bright, uniform illumination in the region of the object under observation. Typically, the condenser focuses the image of the light source directly onto the plane of the specimen, a technique called critical illumination. Alternatively, the image of the source is focused onto the condenser, which is in turn focused onto the entrance pupil of the microscope objective, a system known as Köhler illumination. The advantage of the latter approach is that nonuniformities in the source are averaged in the imaging process. To obtain optimal use of the microscope, it is important that the light from the source both covers the object and fills the entrance aperture of the objective of the microscope with light.
+   </p>
+   <p>
+    Early microscopes had as their condenser a single lens, which was fixed in the end of the instrument facing the lamp (as in barrel microscopes) or mounted below the stage (as in the Bancks microscopes used by Robert Brown,
+    <xref articleid="109642">
+     Charles Darwin
+    </xref>
+    , and others). More-complex designs followed, their development driven by the peculiarly English obsession of observing fine details on
+    <xref articleid="30298">
+     diatom
+    </xref>
+    frustules. Achromatic condensers followed, but they are more troublesome to use because they need precise focusing, and the working distance is short.
+   </p>
+   <p>
+    Apart from condensers that are matched to specialized objectives (such as phase-contrast systems), others are available for specific applications. Thus, the dark-ground, or dark-field, condenser illuminates specimens against a black background and is eminently applicable to the observation of structures such as bacteria and flagellated cells in water. The use of colour filters, pioneered in the closing years of the 19th century by British microscopist Julius Rheinberg and now known as Rheinberg illumination, allows one to practice a form of dark-ground microscopy in which the background and the specimen are in contrasting colours. Although this technique is of no diagnostic benefit, the results can be spectacularly beautiful.
+   </p>
+  </h2>
+  <h2 id="h8858">
+   <title>
+    The objective
+   </title>
+   <p>
+    The optics of the microscope objective are defined by the focal length, N.A., and field of view. Objectives that have been corrected for aberrations are further defined by the wavelength requirements and the tube length of the microscope.
+   </p>
+   <p>
+    Manufacturers provide objective lenses with standard magnifications usually ranging from 2 to 100×. The focal length of the objective is inversely proportional to the magnification and, in the majority of modern microscopes, equals the tube length (usually 160 mm [6.3 inches]) divided by the magnification. The field of view of the eyepiece is usually set to be a standard size of about 20 mm (0.8 inch) diameter. The field of view of the objective is then set to range from 10 mm (0.4 inch) for an objective with a magnifying power of 2× to 0.2 mm (0.008 inch) for an objective with a magnification of 100×. As a result, the angular field of view is about 7° for all objectives.
+   </p>
+   <h3 id="h8859">
+    <title>
+     Aberration correction
+    </title>
+    <p>
+     The N.A. and the complexity of the objective increase as the magnification increases. Low-power objectives, of order 2–5×, are generally two-element lenses. Ordinary crown glass and flint glass (optical glasses with, respectively, relatively low and high R.I.’s) can be used to correct for spherical and chromatic aberration.
+    </p>
+    <p>
+     For objectives with magnifying powers of 10×, the required N.A. increases to 0.25, and a more complex type of lens is required. Most microscope objectives of this magnification use a separated pair of doublets that share the refractive power. The correction of spherical aberration is readily achieved, but residual chromatic aberration is obtained when normal optical glasses are used for the lens elements. For most optical applications this is not important, but for critical high-magnification objectives (magnifications greater than 25×) this aberration is visible as chromatic blur. The correction of this residual aberration is achieved through the use of special optical glasses whose dispersion properties vary from normal glasses. There are only a few such glasses or crystalline materials that are useful for this purpose. Objectives that use these special glasses are called apochromats and were first produced commercially by Abbe in the 1870s.
+    </p>
+    <p>
+     Conventional objectives do not produce a flat image surface. The field curvature is generally of little importance in the visual use of the microscope because the eye has a reasonable accommodative capability when examining the image. Field curvature is a problem for imaging systems, however. Special objectives with flat-field lenses have been designed for these systems.
+    </p>
+   </h3>
+   <h3 id="h8860">
+    <title>
+     High-power objectives
+    </title>
+    <p>
+     High-power objectives pose several design problems. Because the focal length of an objective decreases as the N.A. and magnifying power increase, the working distance, or distance from the front of the objective to the top of the slide, is shorter for higher-power objectives. The need to use additional elements in the lens system for high magnifications further shortens the working distance to only 10 to 20 percent of the focal length. Thus, a 40× objective of 4-mm (0.2-inch) focal length may have a working distance of less than 0.4 mm (0.02 inch), so objectives with an increased working distance have been designed. These use a negative lens element between the object and the eyepiece, which has the added attraction of providing some field flattening as well. These objectives are especially of value in use with video systems.
+    </p>
+    <p>
+     In objectives with magnifying powers of 25× or greater, meniscus-shaped aplanatic elements are designed into the microscope objective in the space between the object and the pairs of doublets that carry out the relayed imaging. These aplanatic components have the property of converging the light without adding spherical aberration to the image and provide an increase in the N.A. without introducing significant aberration.
+    </p>
+    <p>
+     The highest-power microscope objective available is the immersion objective. When this type of objective is used, a drop of oil must be placed between the object on the microscope slide and the objective. The oil used has an R.I. that matches that of the glass in the first component of the objective.
+    </p>
+    <p>
+     The first component of immersion objectives is generally a hyper-hemisphere (a small optical surface shaped like a hemisphere but with a boundary curve exceeding 180°), which acts as an aplanatic coupler between the slide and the rest of the microscope objective. An immersion objective with a high N.A. typically consists of a hyper-hemisphere followed by one or two aplanatic collectors and then two or more sets of doublets. Such objectives are made with magnifying powers greater than 50×, the extreme being about 100×.
+    </p>
+    <p>
+     Water-immersion lenses are also available. These use water as an immersion liquid and allow biologists to examine specimens in a watery medium without the burden of a cover slip confining the living organisms.
+    </p>
+   </h3>
+   <h3 id="h8861">
+    <title>
+     Depth of focus
+    </title>
+    <p>
+     The large N.A. of a microscope objective restricts the focusing requirements of the objective. The depth of focus is shown in the as the accuracy with which the focal plane must be located in a direction along the axis of the microscope optics in order that the highest possible resolution can be obtained.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h8862">
+   <title>
+    The eyepiece
+   </title>
+   <p>
+    The eyepiece is selected to examine the relayed image under conditions that are comfortable for the viewer. The magnifying power of the eyepiece generally does not exceed 10×. The field of view is then about 40° total, a convenient value for a relatively simple optical design. The observer places the eye at the exit pupil of the eyepiece, the point at which the light rays leaving the eyepiece come together. In most cases an eye relief (or distance from the exit pupil to the last element of the eyepiece) of about 1 cm is desirable. Too short an eye relief makes viewing difficult for observers who wear corrective eyeglasses.
+   </p>
+  </h2>
+  <h2 id="h275739">
+   <title>
+    Image capture
+   </title>
+   <p>
+    The objectives described above are usually intended to project an image through an eyepiece for direct viewing by an observer. The use of a photographic recording method permits the capture of a real image in a film holder or digital imaging system without an eyepiece lens. One approach is to remove the eyepiece and place the film holder or digital camera in the focal plane of the eyepiece, thus intercepting the image from the objective directly. A better approach is to use a specifically designed projection eyepiece, which can be adjusted to provide the appropriate magnification coupling the image to the film. Such an eyepiece can incorporate a change in the chromatic aberration correction to accommodate the requirements of the image-capture system.
+   </p>
+   <p>
+    Increasingly prevalent today is the use of an electronic detector such as a complementary metal-oxide semiconductor (CMOS) or charge-coupled device (CCD) chip to capture the magnified image as a digital signal. This signal can be transmitted to a computer and translated into an image on the monitor. Software allows the user to take single pictures, moving video sequences, or time-lapse sequences at the click of a mouse. These may be saved for conventional viewing, and image processing can be used to enhance the result. Analysis of area and particle size and distribution is easily done by conventional analytical means once the images have been digitally captured. The production of computer presentations, transmission via e-mail, and ease of printing are benefits that digital imaging brings to the modern microscopist.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h8863">
+  <title>
+   The theory of image formation
+  </title>
+  <p>
+   <assembly id="a110959" url="/assembly/view/110959">
+    <title>
+     image formation in a microscope; Abbe theory
+    </title>
+    <media mediaid="113687" type="image" url="/87/113687-004-41630112.jpg"/>
+    <caption>
+     Image formation in a microscope, according to the Abbe theory. Specimens are illuminated by light from a condenser. This light is diffracted by the details in the object plane: the smaller the detailed structure of the object, the wider the angle of diffraction. The structure of the object can be represented as a sum of sinusoidal components. The rapidity of variation in space of the components is defined by the period of each component, or the distance between adjacent peaks in the sinusoidal function. The spatial frequency is the reciprocal of the period. The finer the details, the higher the required spatial frequency of the components that represent the object detail. Each spatial frequency component in the object produces diffraction at a specific angle dependent upon the wavelength of light. Here, for example, a specimen with structure that has a spatial frequency of 1,000 lines per millimetre produces diffraction with an angle of 33.6°. The microscope objective collects these diffracted waves and directs them to the focal plane, where interference between the diffracted waves produces an image of the object.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a110959"/>
+   The objective collects a fan of rays from each object point and images the ray bundle at the front focal plane of the eyepiece. The conventional rules of ray tracing apply to the image formation. In the absence of aberration, geometric rays form a point image of each object point. In the presence of aberrations, each object point is represented by an indistinct point. The eyepiece is designed to image the rays to a focal point at a convenient distance for viewing the image. In this system, the brightness of the image is determined by the sizes of the apertures of the lenses and by the aperture of the pupil of the eye. The focal length and resulting magnification of the objective should be chosen to attain the desired resolution of the object at a size convenient for viewing through the eyepiece. Image formation in the microscope is complicated by diffraction and interference that take place in the imaging system and by the requirement to use a light source that is imaged in the focal plane.
+  </p>
+  <p>
+   The modern theory of image formation in the microscope was founded in 1873 by the German physicist Ernst Abbe. The starting point for the Abbe theory is that objects in the focal plane of the microscope are illuminated by convergent light from a condenser. The convergent light from the source can be considered as a collection of many plane waves propagating in a specified set of directions and superimposed to form the incident illumination. Each of these effective plane waves is diffracted by the details in the object plane: the smaller the detailed structure of the object, the wider the angle of diffraction.
+  </p>
+  <p>
+   The structure of the object can be represented as a sum of sinusoidal components. The rapidity of variation in space of the components is defined by the period of each component, or the distance between adjacent peaks in the sinusoidal function. The spatial frequency is the reciprocal of the period. The finer the details, the higher the required spatial frequency of the components that represent the object detail. Each spatial frequency component produces diffraction at a specific angle dependent upon the wavelength of light. As an example, spatial frequency components having a period of 1 μm would have a spatial frequency of 1,000 lines per millimetre. The angle of diffraction for such a component for visible light with a wavelength of 550 nanometres (nm; 1 nanometre is 10
+   <sup>
+    −9
+   </sup>
+   metre) will be 33.6°. The microscope objective collects these diffracted waves and directs them to an image plane, where interference between the diffracted waves produces an image of the object.
+  </p>
+  <p>
+   Because the aperture of the objective is limited, not all the diffracted waves from the object can be transmitted by the objective. Abbe showed that the greater the number of diffracted waves reaching the objective, the finer the detail that can be reconstructed in the image. He designated the term
+   <e type="italic">
+    numerical aperture
+   </e>
+   (N.A.) as the measure of the objective’s ability to collect diffracted light and thus also of its power to resolve detail. On this basis it is obvious that the greater the magnification of the objective, the greater the required N.A. of the objective. The largest N.A. theoretically possible in air is 1.0, but optical design constraints limit the N.A. that can be achieved to around 0.95 for dry objectives.
+  </p>
+  <p>
+   For the example above of a specimen with a spatial frequency of 1,000 lines per millimetre, the required N.A. to collect the diffracted light would be 0.55. Thus, an objective of 0.55 N.A. or greater must be used to observe and collect useful data from an object with details spaced 1 μm apart. If the objective has a lower N.A., the details of the object will not be resolved. Attempts to enlarge the image detail by use of a high-power eyepiece will yield no increase in resolution. This latter condition is called empty magnification.
+  </p>
+  <p>
+   The wavelength of light is shortened when it propagates through a dense medium. In order to resolve the smallest possible details, immersion objectives are able to collect light diffracted by finer details than can objectives in air. The N.A. is multiplied by the index of refraction of the medium, and working N.A.’s of 1.4 are possible. In the best optical microscopes, structures with spatial frequency as small as 0.4 μm can be observed. Note that the single lenses made by Leeuwenhoek have been shown to be capable of resolving fibrils only 0.7 μm in thickness.
+  </p>
+ </h1>
+ <h1 id="h8864">
+  <title>
+   Specialized optical microscopes
+  </title>
+  <p>
+   The basic form of the optical microscope is modified by designers for expediency, and a range of special adaptations is available for specific purposes. Some have been designed for ergonomics and others for ease of access to components, while some have been aimed at a specific age group and others at a clearly defined purpose. The largest optical microscope put into production, the Burch reflector made in 1947, weighed 200 kg (440 pounds), while the smallest microscope—a single-lens instrument made by British optician Horace Dall in 1950—weighed no more than 24 grams (0.8 ounce). Even smaller were the diminutive instruments made by Leeuwenhoek, which typically weighed less than 15 grams (0.5 ounce). The most successful commercially available small microscope was designed by British doctor John McArthur in 1958, and McArthur microscopes have been produced by several manufacturers since. Some specialized microscopes intended for handheld use (e.g., the Microwatcher made in 1989) incorporate the illuminator and lens systems into a single unit. More recently, small digital microscopes have been introduced.
+  </p>
+  <h2 id="h275740">
+   <title>
+    Inverted microscopes
+   </title>
+   <p>
+    For some special purposes, notably the examination of cell cultures, it is more practical if the microscope is mounted upside down. In this form of microscope, the inverted microscope, the light source and condenser are situated uppermost and direct light down through the stage. The objective is set with its front element uppermost, and the eyepieces are angled upward so that the observer can study specimens that are still in their watery medium. Inverted microscopes are important in biology and medical research.
+   </p>
+  </h2>
+  <h2 id="h8865">
+   <title>
+    Stereoscopic microscopes
+   </title>
+   <p>
+    Binocular stereomicroscopes are a matched pair of microscopes mounted side by side with a small angle between the optical axes. The object is imaged independently to each eye, and the stereoscopic effect, which permits discrimination of relief on the object, is retained. The effect can be exaggerated by proper choice of the design parameters for the microscopes. For practical reasons, the magnifying power of such instruments is usually in the range of 5–250×. Such microscopes are important in any work in which fine adjustment of tools or devices is to be made. For example, the stereomicroscope is often used in biological laboratories for dissection of subjects and in the operating room for microsurgical procedures. Moderate-power stereomicroscopes are even more widely used in the electronics manufacturing industry, where they enable technicians to monitor the bonding of leads to
+    <xref articleid="106026">
+     integrated circuits
+    </xref>
+    .
+   </p>
+  </h2>
+  <h2 id="h8866">
+   <title>
+    Polarizing microscopes
+   </title>
+   <p>
+    Polarizing microscopes are conventional microscopes with additional features that permit observation under
+    <xref articleid="110443" refid="h258418">
+     polarized light
+    </xref>
+    . The light source of such an instrument is equipped with a polarizing filter, the polarizer, so that the light it supplies is linearly polarized (i.e., the light waves vibrate in a given direction rather than randomly in all directions as in ordinary light). When this linearly polarized light passes through the object under examination, it may be unaffected or, if the object is birefringent, it may be split into two beams with different polarizations. A second filter, a polarization analyzer, is fitted to the eyepiece, where it blocks out all but one polarization of the light. The analyzer can be rotated to obtain maximum contrast in the image, and so the direction of polarization of the light transmitted through the object can be determined. The eyepiece can also be equipped with a polarization retarder, which shifts the phase of the light between selected polarization directions and which can be rotated to measure the amount of elliptic polarization produced by the specimen.
+   </p>
+   <p>
+    Many precautions must be taken in the design and construction of a polarizing microscope to avoid using optical components that introduce undesirable polarization retardation in the beam of light after it has left the object. There is a basic limitation placed upon the use of objectives with high N.A.’s wherein the necessary high angles of incidence on the surface produce some depolarization. Specialized microscope objectives that minimize this effect have been designed and produced. Polarizing microscopes are primarily used to examine the nature of crystals in geologic samples and to analyze the details of birefringence and stress in biological structures. They have been of crucial importance in the detection and monitoring of
+    <xref articleid="9770">
+     asbestos
+    </xref>
+    fibres.
+   </p>
+  </h2>
+  <h2 id="h8867">
+   <title>
+    Metallographic microscopes
+   </title>
+   <p>
+    Metallographic microscopes are used to identify defects in
+    <xref articleid="52266">
+     metal
+    </xref>
+    surfaces, to determine the crystal grain boundaries in metal alloys, and to study rocks and minerals. This type of microscope employs vertical illumination, in which the light source is inserted into the microscope tube below the eyepiece by means of a beam splitter. Light shines down through the objective and is focused through the objective onto the specimen. The light reflected or scattered back to the objective is then imaged back at the eyepiece. In this manner, opaque objects such as metals can be examined under the microscope. Such systems also have applications in forensic science and diagnostic microscopy.
+   </p>
+  </h2>
+  <h2 id="h8868">
+   <title>
+    Reflecting microscopes
+   </title>
+   <p>
+    Microscopes of this type feature reflecting rather than refracting objectives. They are used to carry out microscopy over a wide range of visible light and especially in the ultraviolet or infrared regions, where conventional optical glasses do not transmit. The reflecting microscope objective usually consists of two components: a relatively large, concave primary mirror and a smaller, convex secondary mirror, which is located between the primary mirror and the object and serves to relay the image from the primary mirror to the focal plane of the eyepiece. Although reflecting objectives do not have chromatic aberration, they need to be corrected for spherical aberrations, either by using aspheric reflecting components or by adding appropriate refracting lenses.
+   </p>
+  </h2>
+  <h2 id="h8869">
+   <title>
+    Phase-contrast microscopes
+   </title>
+   <p>
+    <assembly id="a129676" url="/assembly/view/129676">
+     <title>
+      Phase-contrast microscope
+     </title>
+     <media mediaid="128775" type="image" url="/75/128775-004-F19D3F50.jpg"/>
+     <caption>
+      Phase-contrast microscope.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a129676"/>
+    Many biological objects of interest consist of cell structures such as nuclei that are almost transparent; they transmit as much light as the mounting medium that surrounds them does. Because there is no colour or transmission contrast in such an object, it is not possible to observe the structure using a conventional optical microscope.
+   </p>
+   <p>
+    However, the R.I. of the cell structure varies slightly from the surrounding material, and it is possible to exploit this difference. The propagation of light through such an object provides a change in the optical path across the object, as well as a resulting shift in the phase of the light that has passed through the structure of interest relative to light passing around the structure. This phase-shift information can be used to form a visible image if it is converted into intensity variations that are detectable by the observer. The Dutch physicist
+    <xref articleid="78339">
+     Frits Zernike
+    </xref>
+    developed a method for doing just that in 1934. (He won the Nobel Prize for Physics in 1953 for his invention.) In a phase-contrast microscope the phase difference between light that is diffracted by a specimen and light that is direct and undeflected is one-quarter of a wavelength or less. By placing an appropriate mask in the back focal plane of the objective to provide selective filtering of the diffracted light, Zernike increased this phase difference by another quarter wavelength. Waves that differ in phase by half a wavelength cancel one another. In places in the phase image where this occurs, no light is transmitted. As a result, phase differences caused by variations in the specimen appear as intensity variations in the image.
+   </p>
+   <p>
+    There are several approaches to achieving a good-quality image by this technique. One of the most common is the use of an annular light source imaged onto an annular mask in the back focal plane. Other techniques use edges, small dots, or other combinations of source shape and mask shape.
+   </p>
+  </h2>
+  <h2 id="h8870">
+   <title>
+    Interference microscopes
+   </title>
+   <p>
+    Although all optical microscopes in the strict sense create images by diffraction, interference microscopy creates images using the difference between an interfering beam unmodified by the specimen and an otherwise identical beam that illuminates it. A beam splitter divides light into two paths, one of which passes through the specimen while the other bypasses it. When the two beams are combined, the resulting interference between them reveals the structure of the specimen. The first successful system, invented by British microscopist Francis Smith and French physicist Maurice Françon in 1947, used quartz lenses to produce reference and image-forming beams that were perpendicularly polarized. Although this worked well for continuous specimens, in the case of particulates it was better to have the reference beam pass through a bare area of the specimen preparation, and by 1950 the use of half-silvered surfaces and slightly tapering slides allowed polarized light to be dispensed with.
+   </p>
+   <p>
+    Meanwhile, differential interference contrast (DIC) was developed by Polish-born French physicist Georges Nomarski in 1952. A beam-splitting Wollaston
+    <xref articleid="61433">
+     prism
+    </xref>
+    emits two beams of polarized light that are plane-polarized at right angles to each other and that slightly diverge. The rays are focused in the back plane of the objective, where they pass through a composite prism that is isotropic at the midpoint, with an increasing optical path difference away from the midpoint. The background colour of the image depends on the setting of the prism, which can be slid longitudinally to produce a spectrum of colours that vary through the spectrum to black. The sensitivity is greatest in the middle position, but the colour contrast is greatest when a strong background tint is selected. More-recent developments include asymmetrical illumination contrast and modulation contrast, which exploit offset or oblique illumination.
+   </p>
+  </h2>
+  <h2 id="h275741">
+   <title>
+    Confocal microscopes
+   </title>
+   <p>
+    <assembly id="a136152" url="/assembly/view/136152">
+     <title>
+      confocal microscope
+     </title>
+     <media mediaid="128776" type="image" url="/76/128776-004-68B4660D.jpg"/>
+     <caption/>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a136152"/>
+    The field of view of a microscope is limited by the geometric optics and by the ability to design optics that provide a constant aberration correction over a large field of view. If a scanning arrangement is used, the objective can be used over a continuous series of small fields and the results used to build up an image of a larger region.
+   </p>
+   <p>
+    The concept has been harnessed in the confocal scanning microscope. Confocal microscopy’s main feature is that only what is in focus is detected, and anything out of focus appears as black. This is achieved by focusing the light source, usually a laser, to a point and detecting the image through a pinhole. Since only light from the focused point contributes to the final image in a confocal system, it is particularly useful for the eludication of fine and three-dimensional structures of biological specimens.
+   </p>
+   <p>
+    In a laser scanning confocal microscope (LSCM), the focal point of a laser is scanned across a specimen to build up a two-dimensional optical section. Three-dimensional images can be reconstructed by taking a series of two-dimensional images at different focal depths in the specimen (known as a Z-series). Argon and krypton/argon lasers are commonly used, and a multiphoton system has been designed in which an argon laser excites a synthetic titanium-sapphire. A range of colours can thus be utilized.
+   </p>
+   <p>
+    Specimens are distinguished by fluorescence. Some components fluoresce spontaneously, but most are stained with dyes that fluoresce under the rays from a laser. Scanning rates can be high—in some systems a line of image is scanned every 0.488 millisecond (one millisecond is one thousandth of a second)—so a sequence of images showing how a specimen changes over time can be easily assembled. Methods like these are used to study the behaviour of living cells.
+   </p>
+  </h2>
+  <h2 id="h275742">
+   <title>
+    Ultraviolet microscopes
+   </title>
+   <p>
+    Ultraviolet (UV) microscopy was developed in the early 20th century by the German scientists August Köhler and Moritz von Rohr. Because of the shorter wavelength of UV light, higher resolution was possible, but the opacity of conventional glass lenses to these wavelengths necessitated the use of either a reflecting microscope or specially made quartz lenses. UV microscopes became most widely used for fluorescent microscopy, in which the UV caused microscope stains to fluoresce. In modern microscopy, lamps in the range from deep blue to near UV are more often used for this purpose. However, the interest in UV led to the recognition that the
+    <xref articleid="32318">
+     electron beam
+    </xref>
+    could be used as an illuminant of very short wavelength, and it was this that gave rise to interest in the
+    <xref articleid="32323">
+     electron microscope
+    </xref>
+    .
+   </p>
+   <signature>
+    Robert R. Shannon
+   </signature>
+   <signature>
+    Brian J. Ford
+   </signature>
+  </h2>
+ </h1>
+ <h1 id="h8960">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   Informative works on the history of the microscope include
+   <e type="smallcap">
+    Robert Hooke
+   </e>
+   ,
+   <e type="italic">
+    Micrographia
+   </e>
+   (1665, reissued 1961);
+   <e type="smallcap">
+    B.J. Ford
+   </e>
+   ,
+   <e type="italic">
+    Single Lens, Story of the Simple Microscope
+   </e>
+   (1985);
+   <e type="smallcap">
+    Clifford Dobell
+   </e>
+   ,
+   <e type="italic">
+    Antony van Leeuwenhoek and His “Little Animals”
+   </e>
+   (1932, reissued 1960); and
+   <e type="smallcap">
+    Savile Bradbury
+   </e>
+   ,
+   <e type="italic">
+    The Evolution of the Microscope
+   </e>
+   (1967).
+  </p>
+  <p>
+   General surveys of the subject, with details on features and applications, are found in
+   <e type="smallcap">
+    T.G. Rochow
+   </e>
+   and
+   <e type="smallcap">
+    E.G. Rochow
+   </e>
+   ,
+   <e type="italic">
+    An Introduction to Microscopy by Means of Light, Electrons, X-Rays, or Ultrasound
+   </e>
+   (1978);
+   <e type="smallcap">
+    E.A. Ash
+   </e>
+   ,
+   <e type="italic">
+    Scanned Image Microscopy
+   </e>
+   (1980);
+   <e type="smallcap">
+    W.G. Hartley
+   </e>
+   ,
+   <e type="italic">
+    The Light Microscope
+   </e>
+   (1993);
+   <e type="smallcap">
+    Jeremy Burgess
+   </e>
+   ,
+   <e type="smallcap">
+    Michael Marten
+   </e>
+   , and
+   <e type="smallcap">
+    Rosemary Taylor
+   </e>
+   ,
+   <e type="italic">
+    Microcosmos
+   </e>
+   (1987); and
+   <e type="smallcap">
+    R.J. Oldfield
+   </e>
+   ,
+   <e type="italic">
+    Light Microscopy: An Illustrated Guide
+   </e>
+   (1994).
+  </p>
+  <p>
+   <e type="smallcap">
+    Shinya Inoue
+   </e>
+   and
+   <e type="smallcap">
+    K.R. Spring
+   </e>
+   ,
+   <e type="italic">
+    Video Microscopy: The Fundamentals
+   </e>
+   (1997), is a key work in its field.
+  </p>
+  <signature>
+   Robert R. Shannon
+  </signature>
+  <signature>
+   Brian J. Ford
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="472589" articletypeid="1" language="en_us" lastupdate="2023-Mar-03 10:41:30" url="/article/information-retrieval/472589" version="4">
+ <title>
+  information retrieval
+ </title>
+ <p>
+  <e type="bold">
+   information retrieval
+  </e>
+  , recovery of information, especially in a
+  <xref articleid="29424">
+   database
+  </xref>
+  stored in a
+  <xref articleid="117728">
+   computer
+  </xref>
+  . Two main approaches are matching words in the query against the database index (keyword searching) and traversing the database using
+  <xref articleid="1629">
+   hypertext
+  </xref>
+  or hypermedia links. Evolving information-retrieval techniques, exemplified by developments with
+  <xref articleid="1458">
+   Internet
+  </xref>
+  <xref articleid="396602">
+   search engines
+  </xref>
+  , combine natural language, hyperlinks, and keyword searching. Internet retrieval can be complicated by the location of the content, whether it is accessible on the common "surface web" or only on the
+  <xref articleid="636422">
+   deep web
+  </xref>
+  or
+  <xref articleid="632084">
+   dark web
+  </xref>
+  . Other techniques that seek higher levels of retrieval precision are studied by researchers involved with
+  <xref articleid="9711">
+   artificial intelligence
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

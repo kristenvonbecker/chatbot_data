@@ -1,0 +1,2889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="109429" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 04:13:36" url="/article/number-game/109429" version="12">
+ <title>
+  number game
+ </title>
+ <p>
+  <e type="bold">
+   number game
+  </e>
+  , any of various puzzles and games that involve aspects of mathematics.
+ </p>
+ <p>
+  Mathematical recreations comprise puzzles and games that vary from naive amusements to sophisticated problems, some of which have never been solved. They may involve arithmetic, algebra, geometry, theory of numbers, graph theory, topology, matrices, group theory, combinatorics (dealing with problems of arrangements or designs), set theory, symbolic logic, or probability theory. Any attempt to classify this colourful assortment of material is at best arbitrary. Included in this article are the history and the main types of number games and mathematical recreations and the principles on which they are based. Details, including descriptions of puzzles, games, and recreations mentioned in the article, will be found in the references listed in the bibliography.
+ </p>
+ <p>
+  At times it becomes difficult to tell where pastime ends and serious mathematics begins. An innocent puzzle requiring the traverse of a path may lead to technicalities of graph theory; a simple problem of counting parts of a geometric figure may involve combinatorial theory; dissecting a polygon may involve transformation geometry and group theory; logical inference problems may involve matrices. A problem regarded in medieval times—or before electronic computers became commonplace—as very difficult may prove to be quite simple when attacked by the mathematical methods of today.
+ </p>
+ <p>
+  Mathematical recreations have a universal appeal. The urge to solve a puzzle is manifested alike by young and old, by the unsophisticated as well as the sophisticated. An outstanding English mathematician,
+  <xref articleid="39242">
+   G.H. Hardy
+  </xref>
+  , observed that professional puzzle makers, aware of this propensity, exploit it diligently, knowing full well that the general public gets an intellectual kick out of such activities.
+ </p>
+ <p>
+  The relevant literature has become extensive, particularly since the beginning of the 20th century. Some of it is repetitious, but surprisingly enough, successive generations have found the older chestnuts to be quite delightful, whether dressed in new clothes or not. Much newly created material is continually being added.
+ </p>
+ <h1 id="h27892">
+  <title>
+   History
+  </title>
+  <h2 id="h27893">
+   <title>
+    Early history
+   </title>
+   <p>
+    People have always taken delight in devising “problems” for the purpose of posing a challenge or providing intellectual pleasure. Thus, many mathematical recreations of early origin that have reappeared from time to time in new dress seem to have survived chiefly because they appeal to man’s sense of curiosity or mystery. A few survived from the ancient Greeks and Romans: little was known about them during the Dark Ages, but a strong interest in such problems arose during the Middle Ages, stimulated partly by the invention of printing, partly by enthusiastic writers of arithmetic texts, and partly by the rivalry and disputations among early algebraists and scholars. Such activities were most prominent on the Continent, particularly in Italy and Germany. Notable contributors included Rabbi ben Ezra (1140), Fibonacci (
+    <xref articleid="47817">
+     Leonardo of Pisa
+    </xref>
+    ; 1202),
+    <xref articleid="62911">
+     Robert Recorde
+    </xref>
+    (1542), and
+    <xref articleid="20283">
+     Girolamo Cardano
+    </xref>
+    (1545).
+   </p>
+   <h3 id="h27894">
+    <title>
+     Kinds of problems
+    </title>
+    <p>
+     The problems in general were of two kinds: those involving the manipulation of objects, and those requiring computation. The first required little or no mathematical skill, merely general intelligence and ingenuity, as for example, so-called decanting and difficult crossings problems. A typical example of the former is how to measure out one quart of a liquid if only an eight-, a five-, and a three-quart measure are available. Difficult crossings problems are exemplified by the dilemma of three couples trying to cross a stream in a boat that will hold only two persons, with each husband too jealous to leave his wife in the company of either of the other men. Many variants of both types of problems have appeared over the years.
+    </p>
+   </h3>
+   <h3 id="h27895">
+    <title>
+     Some examples
+    </title>
+    <p>
+     Problems involving computation also took on a variety of forms; some were as follows:
+    </p>
+    <h4 id="h27896">
+     <title>
+      Finding a number
+     </title>
+     <p>
+      Think of a number, triple it, and take half the product; triple this and take half the result; then divide by 9. The quotient will be one-fourth the original number.
+     </p>
+    </h4>
+    <h4 id="h27897">
+     <title>
+      “God-Greet-You” problems
+     </title>
+     <p>
+      For example, in “God greet you, all you 30 companions,” someone says: “If there were as many of us again and half as many more, then there would be 30 of us.” How many were there?
+     </p>
+    </h4>
+    <h4 id="h27898">
+     <title>
+      The chessboard problem
+     </title>
+     <p>
+      How many grains of wheat are required in order to place one grain on the first square, 2 on the second, 4 on the third, and so on for the 64 squares?
+     </p>
+    </h4>
+    <h4 id="h27899">
+     <title>
+      The lion in the well
+     </title>
+     <p>
+      This is typical of many problems dealing with the time required to cover a certain distance at a constant rate while at the same time progress is hindered by a constant retrograde motion. There is a lion in a well whose depth is 50 palms. He climbs
+      <fraction>
+       <num>
+        1
+       </num>
+       <den>
+        7
+       </den>
+      </fraction>
+      of a palm daily and slips back
+      <fraction>
+       <num>
+        1
+       </num>
+       <den>
+        9
+       </den>
+      </fraction>
+      of a palm. In how many days will he get out of the well?
+     </p>
+    </h4>
+    <h4 id="h27900">
+     <title>
+      Courier problems
+     </title>
+     <p>
+      These are typified by the movements of bodies at given rates in which some position of these bodies is given and the time required for them to arrive at some other specified position is demanded.
+     </p>
+    </h4>
+   </h3>
+  </h2>
+  <h2 id="h27901">
+   <title>
+    Pioneers and imitators
+   </title>
+   <p>
+    The 17th century produced books devoted solely to recreational problems not only in mathematics but frequently in mechanics and natural philosophy as well. The first important contribution was that of the Frenchman Claude-Gaspar Bachet de Méziriac, one of the earliest pioneers in this field, who is remembered for two mathematical works: his
+    <e type="italic">
+     Diophanti
+    </e>
+    , the first edition of a Greek text on the theory of numbers (1621), and his
+    <e type="italic">
+     Problèmes plaisans et delectables qui se font par les nombres
+    </e>
+    (1612). The latter passed through five editions, the last as late as 1959; it was the forerunner of similar collections of recreations to follow. The emphasis was placed on arithmetic rather than geometric puzzles. Among the outstanding problems given by Bachet were questions involving number bases other than 10; card tricks; watch-dial puzzles depending on numbering schemes; the determination of the smallest set of weights that would enable one to weigh any integral number of pounds from one pound to 40, inclusive; and difficult crossings or ferry problems.
+   </p>
+   <p>
+    In 1624 a French Jesuit, Jean Leurechon, writing under the pen name of van Etten, published
+    <e type="italic">
+     Récréations mathématiques
+    </e>
+    . This volume struck the popular fancy, passing through at least 30 editions before 1700, despite the fact that it was based largely on the work of Bachet, from whom he took the simpler problems, disregarding the more significant portions. Yet it did contain some original work, and it served as a model for others, including Mydorge and Schwenter. The first English edition (1633) bore the title:
+    <e type="italic">
+     Mathematicall Recreations, or a Collection of Sundrie Problemes, extracted out of the Ancient and Moderne Philosophers, as Secrets in Nature, and Experiments in Arithmeticke, Geometrie, Cosmographie, Horologographie, Astronomie, Navigation, Musicke, Opticks, Architecture, Staticke, Machanicks, Chimestrie, Waterworkes, Fireworks, etc. Not vulgarly made manifest until this Time . . . . Most of which were written first in Greeke and Latine, lately compiled in French, by HENRY VAN ETTEN Gent. And now delivered in the English Tongue with the Examinations, Corrections, and Augmentations
+    </e>
+    [
+    <e type="italic">
+     translated by
+     <xref articleid="57717">
+      William Oughtred
+     </xref>
+    </e>
+    ].
+   </p>
+   <p>
+    The rising tide of interest was exploited by French mathematicians Claude Mydorge, whose
+    <e type="italic">
+     Examen du livre des récréations mathématiques
+    </e>
+    was published in 1630, and Denis Henrion, whose
+    <e type="italic">
+     Les Récréations mathématiques avec l’examen de ses problèmes en arithmétique, géométrie, méchanique, cosmographie, optique, catoptrique
+    </e>
+    , etc., based largely upon Mydorge’s book, appeared in 1659. Leurechon’s book, meanwhile, had found its way into Germany: Daniel Schwenter, a professor of Hebrew, Oriental languages, and mathematics, assiduously compiled a comprehensive collection of recreational problems based on a translation of Leurechon’s book, together with many other problems that he himself had previously collected. This work appeared posthumously in 1636 under the title
+    <e type="italic">
+     Deliciae Physico-mathematicae oder Mathematische und Philosophische Erquickstunden
+    </e>
+    . Immensely popular, Schwenter’s book was enlarged by two supplementary editions in 1651–53. For some years thereafter Schwenter’s enlarged edition was the most comprehensive treatise of its kind, although in 1641–42 the Italian Jesuit Mario Bettini had issued a two-volume work called
+    <e type="italic">
+     Apiaria Universae Philosophiae Mathematicae in Quibus Paradoxa et Nova Pleraque Machinamenta Exhibentur
+    </e>
+    , which was followed in 1660 by a third volume entitled
+    <e type="italic">
+     Recreationum Mathematicarum Apiaria Novissima Duodecim . . . .
+    </e>
+    And in 1665 one Johann Mohr in Schleswig published an imitation of Schwenter under the title of
+    <e type="italic">
+     Arithmetische Lustgarten
+    </e>
+    .
+   </p>
+   <p>
+    In England, somewhat belatedly, William Leybourn, a mathematics teacher, textbook writer, and surveyor, in 1694, published his
+    <e type="italic">
+     Pleasure with Profit: Consisting of Recreations of Divers Kinds, viz., Numerical, Geometrical, Mechanical, Statical, Astronomical, Horometrical, Cryptographical, Magnetical, Automatical, Chymical, and Historical
+    </e>
+    . The title page further states that the purpose of the book was to “recreate ingenious spirits and to induce them to make farther scrutiny into these sublime sciences, and to divert them from following such vices, to which Youth (in this Age) are so much inclined.” Much of the volume is conventional textbook material, for most of Leybourn’s published works grew out of his teaching.
+   </p>
+  </h2>
+  <h2 id="h27902">
+   <title>
+    18th and 19th centuries
+   </title>
+   <p>
+    The 18th century saw a continuation of this interest. Published in England were volumes by Edward Hatton, Thomas Gent, Samuel Clark, and William Hooper. In 1775 Charles Hutton published five volumes of extracts from the
+    <e type="italic">
+     Ladies’ Diary
+    </e>
+    dealing with “entertaining mathematical and poetical parts.” On the Continent there appeared several writers, including: Christian Pescheck, Abat Bonaventura, the Dutch writer Paul Halcken, and Edme-Gilles Guyot’s four volumes of
+    <e type="italic">
+     Nouvelles Récréations physiques et mathématiques
+    </e>
+    , etc. (1769, 1786). But by far the outstanding work was that of Jacques Ozanam, the precursor of books to follow for the next 200 years. First published in four volumes in 1694, his
+    <e type="italic">
+     Récréations mathématique et physiques
+    </e>
+    went through many editions; based on the works of Bachet, Mydorge, Leurechon, and Schwenter, it was later revised and enlarged by Montucla, then translated into English by Charles Hutton (1803, 1814) and again revised by Edward Riddle (1840, 1844).
+   </p>
+   <p>
+    The first half of the 19th century produced only a moderate number of lesser writers on mathematical recreations, but the second half of the 19th century witnessed a crescendo of interest, culminating in the outstanding contributions of Édouard Lucas, C.L. Dodgson (
+    <xref articleid="20520">
+     Lewis Carroll
+    </xref>
+    ), and others at the turn of the century. Lucas’ four-volume
+    <e type="italic">
+     Récréations mathématiques
+    </e>
+    (1882–94) became a classic. The mathematical recreations of Dodgson included
+    <e type="italic">
+     Symbolic Logic
+    </e>
+    and
+    <e type="italic">
+     The Game of Logic; Pillow Problems
+    </e>
+    and
+    <e type="italic">
+     A Tangled Tale
+    </e>
+    , 2 vol. (1885–95).
+   </p>
+  </h2>
+  <h2 id="h27903">
+   <title>
+    20th century
+   </title>
+   <p>
+    Among the more colourful figures at the turn of the 20th century were two Americans named
+    <xref articleid="49180">
+     Sam Loyd
+    </xref>
+    , father and son. Tremendously successful in making puzzles, the elder Loyd sold his weekly puzzle column to a national syndicate for years, and, in addition, created or adapted hundreds of mechanical puzzles fashioned of cardboard, wood, and metal that were also financially rewarding. When Loyd II died in 1934 at the age of 60, it was estimated that he had produced at least 10,000 puzzles.
+   </p>
+   <p>
+    In Germany, Hermann Schubert published
+    <e type="italic">
+     Zwölf Geduldspiele
+    </e>
+    in 1899 and the
+    <e type="italic">
+     Mathematische Mussestunden
+    </e>
+    (3rd ed., 3 vol.) in 1907–09. Between 1904 and 1920 Wilhelm Ahrens published several works, the most significant being his
+    <e type="italic">
+     Mathematische Unterhaltungen und Spiele
+    </e>
+    (2 vol., 1910) with an extensive bibliography.
+   </p>
+   <p>
+    Among British contributors, Henry Dudeney, a contributor to the
+    <e type="italic">
+     Strand Magazine
+    </e>
+    , published several very popular collections of puzzles that have been reprinted from time to time (1917–67). The first edition of W.W. Rouse Ball’s
+    <e type="italic">
+     Mathematical Recreations and Essays
+    </e>
+    appeared in 1892; it soon became a classic, largely because of its scholarly approach. After passing through 10 editions it was revised by the British professor
+    <xref articleid="435318">
+     H.S.M. Coxeter
+    </xref>
+    in 1938; it is still a standard reference.
+   </p>
+   <p>
+    Outstanding work was that of Maurice Kraitchik, editor of the periodical
+    <e type="italic">
+     Sphinx
+    </e>
+    and author of several well-known works published between 1900 and 1942.
+   </p>
+   <p>
+    About the middle third of the 20th century, there was a gradual shift in emphasis on various topics. Up to that time interest had focussed largely on such amusements as numerical curiosities; simple geometric puzzles; arithmetical story problems; paper folding and string figures; geometric dissections; manipulative puzzles; tricks with numbers and with cards; magic squares; those venerable diversions concerning angle trisection, duplication of the cube, squaring the circle, as well as the elusive fourth dimension. By the middle of the century, interest began to swing toward more mathematically sophisticated topics: cryptograms; recreations involving modular arithmetic, numeration bases, and number theory; graphs and networks; lattices, group theory; topological curiosities; packing and covering; flexagons; manipulation of geometric shapes and forms; combinatorial problems; probability theory; inferential problems; logical paradoxes; fallacies of logic; and paradoxes of the infinite.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h27904">
+  <title>
+   Types of games and recreations
+  </title>
+  <h2 id="h27905">
+   <title>
+    Arithmetic and algebraic recreations
+   </title>
+   <h3 id="h27906">
+    <title>
+     Number patterns and curiosities
+    </title>
+    <p>
+     Some groupings of natural numbers, when operated upon by the ordinary processes of arithmetic, reveal rather remarkable patterns, affording pleasant pastimes. For example:
+     <formula>
+      <inlinemedia id="i14558" mediaid="14558" url="/58/14558-004-CB73CE95.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Another type of number pleasantry concerns multigrades; i.e., identities between the sums of two sets of numbers and the sums of their squares or higher powers—e.g.,
+     <formula>
+      <inlinemedia id="i14557" mediaid="14557" url="/57/14557-004-9961728A.jpg"/>
+     </formula>
+    </p>
+    <p>
+     An easy method of forming a multigrade is to start with a simple equality—e.g., 1 + 5 = 2 + 4—then add, for example, 5 to each term: 6 + 10 = 7 + 9. A second-order multigrade is obtained by “switching sides” and combining, as shown below:
+     <formula>
+      <inlinemedia id="i14556" mediaid="14556" url="/56/14556-004-02B0319F.jpg"/>
+     </formula>
+    </p>
+    <p>
+     On each side the sum of the first powers (
+     <e type="italic">
+      S
+     </e>
+     <sub>
+      1
+     </sub>
+     ) is 22 and of the second powers (
+     <e type="italic">
+      S
+     </e>
+     <sub>
+      2
+     </sub>
+     ) is 156.
+    </p>
+    <p>
+     Ten may be added to each term to derive a third-order multigrade:
+     <formula>
+      <inlinemedia id="i14555" mediaid="14555" url="/55/14555-004-5D546599.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Switching sides and combining, as before:
+     <formula>
+      <inlinemedia id="i14554" mediaid="14554" url="/54/14554-004-A875D2E3.jpg"/>
+     </formula>
+    </p>
+    <p>
+     In this example
+     <e type="italic">
+      S
+     </e>
+     <sub>
+      1
+     </sub>
+     = 84,
+     <e type="italic">
+      S
+     </e>
+     <sub>
+      2
+     </sub>
+     = 1,152, and
+     <e type="italic">
+      S
+     </e>
+     <sub>
+      3
+     </sub>
+     = 17,766.
+    </p>
+    <p>
+     This process can be continued indefinitely to build multigrades of successively higher orders. Similarly, all terms in a multigrade may be multiplied or divided by the same number without affecting the equality. Many variations are possible: for example, palindromic multigrades that read the same backward and forward, and multigrades composed of prime numbers.
+    </p>
+    <p>
+     Other number curiosities and oddities are to be found. Thus, narcissistic numbers are numbers that can be represented by some kind of mathematical manipulation of their digits. A whole number, or integer, that is the sum of the
+     <e type="italic">
+      n
+     </e>
+     th powers of its digits (e.g., 153 = 1
+     <sup>
+      3
+     </sup>
+     + 5
+     <sup>
+      3
+     </sup>
+     + 3
+     <sup>
+      3
+     </sup>
+     ) is called a perfect digital invariant. On the other hand, a recurring digital invariant is illustrated by:
+     <formula>
+      <inlinemedia id="i14553" mediaid="14553" url="/53/14553-004-A7B0FA54.jpg"/>
+     </formula>
+    </p>
+    <p>
+     (From
+     <e type="italic">
+      Mathematics on Vacation
+     </e>
+     , Joseph Madachy; Charles Scribner’s Sons.)
+    </p>
+    <p>
+     A variation of such digital invariants is
+     <formula>
+      <inlinemedia id="i14552" mediaid="14552" url="/52/14552-004-FF468D77.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Another curiosity is exemplified by a number that is equal to the
+     <e type="italic">
+      n
+     </e>
+     th power of the sum of its digits:
+     <formula>
+      <inlinemedia id="i14551" mediaid="14551" url="/51/14551-004-FF42D8D9.jpg"/>
+     </formula>
+    </p>
+    <p>
+     An automorphic number is an integer whose square ends with the given integer, as (25)
+     <sup>
+      2
+     </sup>
+     = 625, and (76)
+     <sup>
+      2
+     </sup>
+     = 5776. Strobogrammatic numbers read the same after having been rotated through 180°; e.g., 69, 96, 1001.
+    </p>
+    <p>
+     It is not improbable that such curiosities should have suggested intrinsic properties of numbers bordering on mysticism.
+    </p>
+   </h3>
+   <h3 id="h27907">
+    <title>
+     Digital problems
+    </title>
+    <p>
+     The problem of the four
+     <e type="italic">
+      n
+     </e>
+     ’s calls for the expression of as large a sequence of integers as possible, beginning with 1, representing each integer in turn by a given digit used exactly four times. The answer depends upon the rules of operation that are admitted. Two partial examples are shown.
+    </p>
+    <p>
+     For four 1s:
+     <formula>
+      <inlinemedia id="i14550" mediaid="14550" url="/50/14550-004-45BCF1B7.jpg"/>
+     </formula>
+    </p>
+    <p>
+     For four 4s:
+     <formula>
+      <inlinemedia id="i14549" mediaid="14549" url="/49/14549-004-A9EFA991.jpg"/>
+     </formula>
+    </p>
+    <p>
+     (In M. Bicknell &amp; V. Hoggatt, “64 Ways to Write 64 Using Four 4’s,”
+     <e type="italic">
+      Recreational Mathematics Magazine
+     </e>
+     , No. 14, Jan.–Feb. 1964, p. 13.)
+    </p>
+    <p>
+     Obviously, many alternatives are possible; e.g., 7 = 4 +
+     <sqroot>
+      4
+     </sqroot>
+     + 4/4 could also be expressed as 4!/4 + 4/4, or as 44/4 - 4. The factorial of a positive integer is the product of all the positive integers less than or equal to the given integer; e.g., “factorial 4,” or 4! = 4 × 3 × 2 × 1. If the use of factorial notation is not allowed, it is still possible to express the numbers from 1 to 22 inclusive with four “4s”; thus 22 = (4 + 4)/.4 +
+     <sqroot>
+      4
+     </sqroot>
+     . But if the rules are extended, many additional combinations are possible.
+    </p>
+    <p>
+     A similar problem requires that the integers be expressed by using the first
+     <e type="italic">
+      m
+     </e>
+     positive integers,
+     <e type="italic">
+      m
+     </e>
+     &gt; 3 (“
+     <e type="italic">
+      m
+     </e>
+     is greater than three”) and the operational symbols used in elementary algebra. For example, using the digits 1, 2, 3, and 4:
+     <formula>
+      <inlinemedia id="i14548" mediaid="14548" url="/48/14548-004-A27A783C.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Such problems have many variations; for example, more than 100 ways of arranging the digits 1 to 9,
+     <e type="italic">
+      in order
+     </e>
+     , to give a value of 100 have been demonstrated.
+    </p>
+    <p>
+     All of these digital problems require considerable ingenuity but involve little significant mathematics.
+    </p>
+   </h3>
+   <h3 id="h27908">
+    <title>
+     Cryptarithms
+    </title>
+    <p>
+     The term “crypt-arithmetic” was introduced in 1931, when the following multiplication problem appeared in the Belgian journal
+     <e type="italic">
+      Sphinx
+     </e>
+     :
+     <formula>
+      <inlinemedia id="i14547" mediaid="14547" url="/47/14547-004-E0CD2A84.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The shortened word cryptarithm now denotes mathematical problems usually calling for addition, subtraction, multiplication, or division and replacement of the digits by letters of the alphabet or some other symbols.
+    </p>
+    <p>
+     An analysis of the original puzzle suggested the general method of solving a relatively simple cryptarithm:
+    </p>
+    <list type="ul">
+     <item>
+      1. In the second partial product D × A = D, hence A = 1.
+     </item>
+     <item>
+      2. D × C and E × C both end in C; since for any two digits 1–9 the only multiple that will produce this result is 5 (zero if both digits are even, 5 if both are odd), C = 5.
+     </item>
+     <item>
+      3. D and E must be odd. Since both partial products have only three digits, neither D nor E can be 9. This leaves only 3 and 7. In the first partial product E × B is a number of two digits, while in the second partial product D × B is a number of only one digit. Thus E is larger than D, so E = 7 and D = 3.
+     </item>
+     <item>
+      4. Since D × B has only one digit, B must be 3 or less. The only two possibilities are 0 and 2. B cannot be zero because 7B is a two digit number. Thus B = 2.
+     </item>
+     <item>
+      5. By completing the multiplication, F = 8, G = 6, and H = 4.
+     </item>
+     <item>
+      6. Answer: 125 × 37 = 4,625.
+     </item>
+    </list>
+    <p>
+     (From
+     <e type="italic">
+      150 Puzzles in Crypt-Arithmetic
+     </e>
+     by Maxey Brooke; Dover Publications, Inc., New York, 1963. Reprinted through the permission of the publisher.)
+    </p>
+    <p>
+     Such puzzles had apparently appeared, on occasion, even earlier. Alphametics refers specifically to cryptarithms in which the combinations of letters make sense, as in one of the oldest and probably best known of all alphametics:
+     <formula>
+      <inlinemedia id="i14546" mediaid="14546" url="/46/14546-004-25321D86.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Unless otherwise indicated, convention requires that the initial letters of an alphametic cannot represent zero, and that two or more letters may not represent the same digit. If these conventions are disregarded, the alphametic must be accompanied by an appropriate clue to that effect. Some cryptarithms are quite complex and elaborate and have multiple solutions. Electronic computers have been used for the solution of such problems.
+    </p>
+   </h3>
+   <h3 id="h27909">
+    <title>
+     Paradoxes and fallacies
+    </title>
+    <p>
+     Mathematical paradoxes and fallacies have long intrigued mathematicians. A mathematical paradox is a mathematical conclusion so unexpected that it is difficult to accept even though every step in the reasoning is valid. A mathematical fallacy, on the other hand, is an instance of improper reasoning leading to an unexpected result that is patently false or absurd. The error in a fallacy generally violates some principle of logic or mathematics, often unwittingly. Such fallacies are quite puzzling to the tyro, who, unless he is aware of the principle involved, may well overlook the subtly concealed error. A sophism is a fallacy in which the error has been knowingly committed, for whatever purpose. If the error introduced into a calculation or a proof leads innocently to a
+     <e type="italic">
+      correct
+     </e>
+     result, the result is a “howler,” often said to depend on “making the right mistake.”
+    </p>
+    <p>
+     Many paradoxes arise from the concepts of infinity and limiting processes. For example, the infinite series
+     <formula>
+      <inlinemedia id="i14545" mediaid="14545" url="/45/14545-004-EFE9AEB3.jpg"/>
+     </formula>
+    </p>
+    <p>
+     has a continually greater sum the more terms are included, but the sum always remains less than 2, although it approaches nearer and nearer to 2 as more terms are included. On the other hand, the series
+     <formula>
+      <inlinemedia id="i14544" mediaid="14544" url="/44/14544-004-6A75F27B.jpg"/>
+     </formula>
+    </p>
+    <p>
+     is called divergent: it has no limit, the sum becoming larger than any chosen value if sufficient terms are taken. Another paradox is the fact that there are just as many even natural numbers as there are even and odd numbers altogether, thus contradicting the notion that “the whole is greater than any of its parts.” This seeming contradiction arises from the properties of collections containing an infinite number of objects. Since both are infinite, they are for both practical and mathematical purposes equal.
+    </p>
+    <p>
+     The so-called paradoxes of Zeno (
+     <e type="italic">
+      c.
+     </e>
+     450
+     <e type="smallcap">
+      bce
+     </e>
+     ) are, strictly speaking, sophisms. In the race between Achilles and the tortoise, the two start moving at the same moment, but, if the tortoise is initially given a lead and continues to move ahead, Achilles can run at any speed and never catch up. Zeno’s argument rests on the presumption that Achilles must first reach the point where the tortoise started, by which time the tortoise will have moved ahead to another point, and so on. Obviously, Zeno did not believe what he claimed; his interest lay in locating the error in his argument. The same observation is true of the three remaining paradoxes of Zeno, the
+     <e type="italic">
+      Dichotomy
+     </e>
+     , “motion is impossible”; the
+     <e type="italic">
+      Arrow
+     </e>
+     , “motionless even while in flight”; and the
+     <e type="italic">
+      Stadium
+     </e>
+     , or “a given time interval is equivalent to an interval twice as long.” Beneath the sophistry of these contradictions lie subtle and elusive concepts of limits and infinity, only completely explained in the 19th century when the foundations of analysis became more rigorous and the theory of transfinite numbers had been formulated.
+    </p>
+    <p>
+     Common algebraic fallacies usually involve a violation of one or another of the following assumptions:
+     <formula>
+      <inlinemedia id="i14543" mediaid="14543" url="/43/14543-004-852D0B83.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Three examples of such violations follow:
+     <formula>
+      <inlinemedia id="i14542" mediaid="14542" url="/42/14542-004-16814F84.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Thus
+     <e type="italic">
+      a
+     </e>
+     is both greater than
+     <e type="italic">
+      b
+     </e>
+     and less than
+     <e type="italic">
+      b
+     </e>
+     .
+    </p>
+    <p>
+     An example of an illegal operation or “lucky boner” is:
+     <formula>
+      <inlinemedia id="i14541" mediaid="14541" url="/41/14541-004-7E87EC25.jpg"/>
+     </formula>
+    </p>
+   </h3>
+   <h3 id="h27910">
+    <title>
+     Polygonal and other figurate numbers
+    </title>
+    <p>
+     Among the many relationships of numbers that have fascinated man are those that suggest (or were derived from) the arrangement of points representing numbers into series of geometrical figures. Such numbers, known as figurate or polygonal numbers, appeared in 15th-century arithmetic books and were probably known to the ancient Chinese; but they were of especial interest to the ancient Greek mathematicians. To the
+     <xref articleid="108670">
+      Pythagoreans
+     </xref>
+     (
+     <e type="italic">
+      c.
+     </e>
+     500
+     <e type="smallcap">
+      bce
+     </e>
+     ), numbers were of paramount significance; everything could be explained by numbers, and numbers were invested with specific characteristics and personalities. Among other properties of numbers, the Pythagoreans recognized that numbers had “shapes.” Thus, the triangular numbers, 1, 3, 6, 10, 15, 21, etc., were visualized as points or dots arranged in the shape of a triangle.
+    </p>
+    <p>
+     <assembly id="a2678" url="/assembly/view/2678">
+      <media mediaid="3125" type="image" url="/25/3125-004-F9C0BA3C.jpg"/>
+      <caption>
+       Figure 1: Square numbers shown formed from consecutive triangular numbers.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     Square numbers are the squares of natural numbers, such as 1, 4, 9, 16, 25, etc., and can be represented by square arrays of dots, as shown in
+     <assemblyref assemblyid="a2678">
+      Figure 1
+     </assemblyref>
+     . Inspection reveals that the sum of any two adjacent triangular numbers is always a square number.
+    </p>
+    <p>
+     <assembly id="a2679" url="/assembly/view/2679">
+      <media mediaid="3126" type="image" url="/26/3126-004-8BE77C2D.jpg"/>
+      <caption>
+       Figure 2: Oblong numbers formed by doubling triangular numbers.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     Oblong numbers are the numbers of dots that can be placed in rows and columns in a rectangular array, each row containing one more dot than each column. The first few oblong numbers are 2, 6, 12, 20, and 30. This series of numbers is the successive sums of the series of even numbers or the products of two consecutive numbers: 2 = 1·2; 6 = 2·3 = 2 + 4; 12 = 3·4 = 2 + 4 + 6; 20 = 4·5 = 2 + 4 + 6 + 8; etc. An oblong number also is formed by doubling any triangular number (
+     <e type="italic">
+      see
+     </e>
+     <assemblyref assemblyid="a2679">
+      Figure 2
+     </assemblyref>
+     ).
+    </p>
+    <p>
+     <assembly id="a2680" url="/assembly/view/2680">
+      <media mediaid="3127" type="image" url="/27/3127-004-689A5531.jpg"/>
+      <caption>
+       Figure 3: Odd numbers shown as gnomons.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     The gnomons include all of the odd numbers; these can be represented by a right angle, or a carpenter’s square, as illustrated in
+     <assemblyref assemblyid="a2680">
+      Figure 3
+     </assemblyref>
+     . Gnomons were extremely useful to the Pythagoreans. They could build up squares by adding gnomons to smaller squares and from such a figure could deduce many interrelationships: thus 1
+     <sup>
+      2
+     </sup>
+     + 3 = 2
+     <sup>
+      2
+     </sup>
+     , 2
+     <sup>
+      2
+     </sup>
+     + 5 = 3
+     <sup>
+      2
+     </sup>
+     , etc.; or 1 + 3 + 5 = 3
+     <sup>
+      2
+     </sup>
+     , 1 + 3 + 5 + 7 = 4
+     <sup>
+      2
+     </sup>
+     , 1 + 3 + 5 + 7 + 9 = 5
+     <sup>
+      2
+     </sup>
+     , etc. Indeed, it is quite likely that Pythagoras first realized the famous relationship between the sides of a right triangle, represented by
+     <e type="italic">
+      a
+     </e>
+     <sup>
+      2
+     </sup>
+     +
+     <e type="italic">
+      b
+     </e>
+     <sup>
+      2
+     </sup>
+     =
+     <e type="italic">
+      c
+     </e>
+     <sup>
+      2
+     </sup>
+     , by contemplating the properties of gnomons and square numbers, observing that any odd square can be added to some even square to form a third square. Thus
+     <formula>
+      <inlinemedia id="i14540" mediaid="14540" url="/40/14540-004-957686F3.jpg"/>
+     </formula>
+     and, in general,
+     <e type="italic">
+      a
+     </e>
+     <sup>
+      2
+     </sup>
+     +
+     <e type="italic">
+      b
+     </e>
+     <sup>
+      2
+     </sup>
+     =
+     <e type="italic">
+      c
+     </e>
+     <sup>
+      2
+     </sup>
+     , where
+     <e type="italic">
+      a
+     </e>
+     <sup>
+      2
+     </sup>
+     =
+     <e type="italic">
+      b
+     </e>
+     +
+     <e type="italic">
+      c
+     </e>
+     . This is a special class of Pythagorean triples (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="109429" refid="h27911">
+      Pythagorean triples
+     </xref>
+     ).
+    </p>
+    <p>
+     Besides these, the Greeks also studied numbers having pentagonal, hexagonal, and other shapes. Many relationships can be shown to exist between these geometric patterns and algebraic expressions.
+    </p>
+    <p>
+     Polygonal numbers constitute a subdivision of a class of numbers known as figurate numbers. Examples include the arithmetic sequences
+     <formula>
+      <inlinemedia id="i14539" mediaid="14539" url="/39/14539-004-9DD715D1.jpg"/>
+     </formula>
+    </p>
+    <p>
+     When new series are formed from the sums of the terms of these series, the results are, respectively,
+     <formula>
+      <inlinemedia id="i14538" mediaid="14538" url="/38/14538-004-64EC60BA.jpg"/>
+     </formula>
+    </p>
+    <p>
+     These series are not arithmetic sequences but are seen to be the polygonal triangular and square numbers. Polygonal number series can also be added to form threedimensional figurate numbers; these sequences are called pyramidal numbers.
+    </p>
+    <p>
+     The significance of polygonal and figurate numbers lies in their relation to the modern theory of numbers. Even the simple, elementary properties and relations of numbers often demand sophisticated mathematical tools. Thus, it has been shown that every integer is either a triangular number, the sum of two triangular numbers, or the sum of three triangular numbers: e.g., 8 = 1 + 1 + 6, 42 = 6 + 36, 43 = 15 + 28, 44 = 6 + 10 + 28.
+    </p>
+   </h3>
+   <h3 id="h27911">
+    <title>
+     Pythagorean triples
+    </title>
+    <p>
+     The study of Pythagorean triples as well as the general theorem of Pythagoras leads to many unexpected byways in mathematics. A Pythagorean triple is formed by the measures of the sides of an integral right triangle—i.e., any set of three positive integers such that
+     <e type="italic">
+      a
+     </e>
+     <sup>
+      2
+     </sup>
+     +
+     <e type="italic">
+      b
+     </e>
+     <sup>
+      2
+     </sup>
+     =
+     <e type="italic">
+      c
+     </e>
+     <sup>
+      2
+     </sup>
+     . If
+     <e type="italic">
+      a
+     </e>
+     ,
+     <e type="italic">
+      b
+     </e>
+     , and
+     <e type="italic">
+      c
+     </e>
+     are relatively prime—i.e., if no two of them have a common factor—the set is a primitive Pythagorean triple.
+    </p>
+    <p>
+     A formula for generating all primitive Pythagorean triples is
+     <formula>
+      <inlinemedia id="i14537" mediaid="14537" url="/37/14537-004-24E2C844.jpg"/>
+     </formula>
+     in which
+     <e type="italic">
+      p
+     </e>
+     and
+     <e type="italic">
+      q
+     </e>
+     are relatively prime,
+     <e type="italic">
+      p
+     </e>
+     and
+     <e type="italic">
+      q
+     </e>
+     are neither both even nor both odd, and
+     <e type="italic">
+      p
+     </e>
+     &gt;
+     <e type="italic">
+      q
+     </e>
+     . By choosing
+     <e type="italic">
+      p
+     </e>
+     and
+     <e type="italic">
+      q
+     </e>
+     appropriately, for example, primitive Pythagorean triples such as the following are obtained:
+     <formula>
+      <inlinemedia id="i14536" mediaid="14536" url="/36/14536-004-CB7C325F.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The only primitive triple that consists of consecutive integers is 3, 4, 5.
+    </p>
+    <p>
+     Certain characteristic properties are of interest:
+    </p>
+    <list type="ul">
+     <item>
+      1. Either
+      <e type="italic">
+       a
+      </e>
+      or
+      <e type="italic">
+       b
+      </e>
+      is divisible by 3.
+     </item>
+     <item>
+      2. Either
+      <e type="italic">
+       a
+      </e>
+      or
+      <e type="italic">
+       b
+      </e>
+      is divisible by 4.
+     </item>
+     <item>
+      3. Either
+      <e type="italic">
+       a
+      </e>
+      or
+      <e type="italic">
+       b
+      </e>
+      or
+      <e type="italic">
+       c
+      </e>
+      is divisible by 5.
+     </item>
+     <item>
+      4. The product of
+      <e type="italic">
+       a
+      </e>
+      ,
+      <e type="italic">
+       b
+      </e>
+      , and
+      <e type="italic">
+       c
+      </e>
+      is divisible by 60.
+     </item>
+     <item>
+      5. One of the quantities
+      <e type="italic">
+       a
+      </e>
+      ,
+      <e type="italic">
+       b
+      </e>
+      ,
+      <e type="italic">
+       a
+      </e>
+      +
+      <e type="italic">
+       b
+      </e>
+      ,
+      <e type="italic">
+       a
+      </e>
+      -
+      <e type="italic">
+       b
+      </e>
+      is divisible by 7.
+     </item>
+    </list>
+    <p>
+     It is also true that if
+     <e type="italic">
+      n
+     </e>
+     is any integer, then 2
+     <e type="italic">
+      n
+     </e>
+     + 1, 2
+     <e type="italic">
+      n
+     </e>
+     <sup>
+      2
+     </sup>
+     + 2
+     <e type="italic">
+      n
+     </e>
+     , and 2
+     <e type="italic">
+      n
+     </e>
+     <sup>
+      2
+     </sup>
+     + 2
+     <e type="italic">
+      n
+     </e>
+     + 1 form a Pythagorean triple.
+    </p>
+    <p>
+     Certain properties of Pythagorean triples were known to the ancient Greeks—e.g., that the hypotenuse of a primitive triple is always an odd integer. It is now known that an odd integer
+     <e type="italic">
+      R
+     </e>
+     is the hypotenuse of such a triple if and only if every prime factor of
+     <e type="italic">
+      R
+     </e>
+     is of the form 4
+     <e type="italic">
+      k
+     </e>
+     + 1, where
+     <e type="italic">
+      k
+     </e>
+     is a positive integer.
+    </p>
+   </h3>
+   <h3 id="h27912">
+    <title>
+     Perfect numbers and Mersenne numbers
+    </title>
+    <p>
+     Most numbers are either “abundant” or “deficient.” In an abundant number, the sum of its proper divisors (i.e., including 1 but excluding the number itself) is greater than the number; in a deficient number, the sum of its proper divisors is less than the number. A perfect number is an integer that equals the sum of its proper divisors. For example, 24 is abundant, its divisors giving a sum of 36; 32 is deficient, giving a sum of 31. The number 6 is a perfect number, since 1 + 2 + 3 = 6; so is 28, since 1 + 2 + 4 + 7 + 14 = 28. The next two perfect numbers are 496 and 8,128. The first four perfect numbers were known to the ancients. Indeed,
+     <xref articleid="33178">
+      Euclid
+     </xref>
+     suggested that any number of the form 2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+      − 1
+     </sup>
+     (2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     − 1) is a perfect number whenever 2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     − 1 is prime, but it was not until the 18th century that the Swiss mathematician
+     <xref articleid="33216">
+      Leonhard Euler
+     </xref>
+     proved that every even perfect number must be of the form 2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+      − 1
+     </sup>
+     (2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     − 1), where 2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     − 1 is a prime.
+    </p>
+    <p>
+     A number of the form 2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     − 1 is called a
+     <xref articleid="471459">
+      Mersenne number
+     </xref>
+     after the French mathematician
+     <xref articleid="52176">
+      Marin Mersenne
+     </xref>
+     ; it may be
+     <xref articleid="61382">
+      prime
+     </xref>
+     (i.e., having no factor except itself or 1) or composite (composed of two or more prime factors). A necessary though not sufficient condition that 2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     − 1 be a prime is that
+     <e type="italic">
+      n
+     </e>
+     be a prime. Thus, all even perfect numbers have the form 2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+      − 1
+     </sup>
+     (2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     − 1) where both
+     <e type="italic">
+      n
+     </e>
+     and 2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     − 1 are prime numbers. Until comparatively recently, only 12 perfect numbers were known. In 1876 the French mathematician Édouard Lucas found a way to test the primality of Mersenne numbers. By 1952 the U.S. mathematician Raphael M. Robinson had applied Lucas’ test and, by means of electronic digital computers, had found the Mersenne primes for
+     <e type="italic">
+      n
+     </e>
+     = 521; 607; 1,279; 2,203; and 2,281, thus adding five more perfect numbers to the list. By the 21st century, more than 40 Mersenne primes had been found.
+    </p>
+    <p>
+     It is known that to every Mersenne prime there corresponds an even perfect number and vice versa. But two questions are still unanswered: the first is whether there are any odd perfect numbers, and the second is whether there are infinitely many perfect numbers.
+    </p>
+    <p>
+     Many remarkable properties are revealed by perfect numbers. All perfect numbers, for example, are triangular. Also, the sum of the reciprocals of the divisors of a perfect number (including the reciprocal of the number itself) is always equal to 2. Thus
+     <formula>
+      <inlinemedia id="i14535" mediaid="14535" url="/35/14535-004-85C3231B.jpg"/>
+     </formula>
+    </p>
+   </h3>
+   <h3 id="h27913">
+    <title>
+     Fibonacci numbers
+    </title>
+    <p>
+     In 1202 the mathematician
+     <xref articleid="47817">
+      Leonardo of Pisa
+     </xref>
+     , also called Fibonacci, published an influential treatise,
+     <e type="italic">
+      Liber abaci
+     </e>
+     . It contained the following recreational problem: “How many pairs of rabbits can be produced from a single pair in one year if it is assumed that every month each pair begets a new pair which from the second month becomes productive?” Straightforward calculation generates the following sequence:
+     <formula>
+      <inlinemedia id="i14534" mediaid="14534" url="/34/14534-004-697B2235.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The second row represents the first 12 terms of the sequence now known by Fibonacci’s name, in which each term (except the first two) is found by adding the two terms immediately preceding; in general,
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      <e type="italic">
+       n
+      </e>
+     </sub>
+     =
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      <e type="italic">
+       n
+      </e>
+      − 1
+     </sub>
+     +
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      <e type="italic">
+       n
+      </e>
+      − 2
+     </sub>
+     , a relation that was not recognized until about 1600.
+    </p>
+    <p>
+     Over the years, especially in the middle decades of the 20th century, the properties of the Fibonacci numbers have been extensively studied, resulting in a considerable literature. Their properties seem inexhaustible; for example,
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      <e type="italic">
+       n
+      </e>
+      + 1
+     </sub>
+     ·
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      <e type="italic">
+       n
+      </e>
+      − 1
+     </sub>
+     =
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      <e type="italic">
+       n
+      </e>
+     </sub>
+     <sup>
+      2
+     </sup>
+     + (−1)
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     . Another formula for generating the Fibonacci numbers is attributed to Édouard Lucas:
+     <formula>
+      <inlinemedia id="i14533" mediaid="14533" url="/33/14533-004-E37B2DE6.jpg"/>
+     </formula>
+    </p>
+    <p>
+     The ratio (
+     <sqroot>
+      5
+     </sqroot>
+     + 1) : 2 = 1.618 . . ., designated as Φ, is known as the
+     <xref articleid="37247">
+      golden number
+     </xref>
+     ; the ratio (
+     <sqroot>
+      5
+     </sqroot>
+     − 1) : 2, the reciprocal of Φ, is equal to 0.618 . . . . Both these ratios are related to the roots of
+     <e type="italic">
+      x
+     </e>
+     <sup>
+      2
+     </sup>
+     −
+     <e type="italic">
+      x
+     </e>
+     − 1 = 0, an equation derived from the Divine Proportion of the 15th-century Italian mathematician Luca Pacioli, namely,
+     <e type="italic">
+      a
+     </e>
+     /
+     <e type="italic">
+      b
+     </e>
+     =
+     <e type="italic">
+      b
+     </e>
+     /(
+     <e type="italic">
+      a
+     </e>
+     +
+     <e type="italic">
+      b
+     </e>
+     ), when
+     <e type="italic">
+      a
+     </e>
+     &lt;
+     <e type="italic">
+      b
+     </e>
+     , by setting
+     <e type="italic">
+      x
+     </e>
+     =
+     <e type="italic">
+      b
+     </e>
+     /
+     <e type="italic">
+      a
+     </e>
+     . In short, dividing a segment into two parts in mean and extreme proportion, so that the smaller part is to the larger part as the larger is to the entire segment, yields the so-called Golden Section, an important concept in both ancient and modern artistic and architectural design. Thus, a rectangle the sides of which are in the approximate ratio of 3 : 5 (Φ
+     <sup>
+      −1
+     </sup>
+     = 0.618 . . .), or 8 : 5 (Φ = 1.618 . . .), is presumed to have the most pleasing proportions, aesthetically speaking.
+    </p>
+    <p>
+     Raising the golden number to successive powers generates the sequence that begins as follows:
+     <formula>
+      <inlinemedia id="i14532" mediaid="14532" url="/32/14532-004-ECDB6EBD.jpg"/>
+     </formula>
+    </p>
+    <p>
+     In this sequence the successive coefficients of the radical
+     <sqroot>
+      5
+     </sqroot>
+     are Fibonacci’s 1, 1, 2, 3, 5, 8, while the successive second terms within the parentheses are the so-called Lucas sequence: 1, 3, 4, 7, 11, 18. The Lucas sequence shares the recursive relation of the Fibonacci sequence; that is,
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      <e type="italic">
+       n
+      </e>
+     </sub>
+     =
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      <e type="italic">
+       n
+      </e>
+      − 1
+     </sub>
+     +
+     <e type="italic">
+      x
+     </e>
+     <sub>
+      <e type="italic">
+       n
+      </e>
+      − 2
+     </sub>
+     .
+    </p>
+    <p>
+     <assembly id="a2681" url="/assembly/view/2681">
+      <media mediaid="3128" type="image" url="/28/3128-004-A1AF9D25.jpg"/>
+      <caption>
+       Figure 4: Golden rectangles and the logarithmic spiral.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     If a golden rectangle ABCD is drawn and a square ABEF is removed, the remaining rectangle ECDF is also a golden rectangle. If this process is continued and circular arcs are drawn, the curve formed approximates the logarithmic spiral, a form found in nature (
+     <e type="italic">
+      see
+     </e>
+     <assemblyref assemblyid="a2681">
+      Figure 4
+     </assemblyref>
+     ). The logarithmic spiral is the graph of the equation
+     <e type="italic">
+      r
+     </e>
+     =
+     <e type="italic">
+      k
+     </e>
+     <sup>
+      Θ
+     </sup>
+     , in polar coordinates, where
+     <e type="italic">
+      k
+     </e>
+     = Φ
+     <sup>
+      2/π
+     </sup>
+     . The Fibonacci numbers are also exemplified by the botanical phenomenon known as phyllotaxis. Thus, the arrangement of the whorls on a pinecone or pineapple, of petals on a sunflower, and of branches from some stems follows a sequence of Fibonacci numbers or the series of fractions
+     <formula>
+      <inlinemedia id="i14531" mediaid="14531" url="/31/14531-004-1C3575D2.jpg"/>
+     </formula>
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h27914">
+   <title>
+    Geometric and topological recreations
+   </title>
+   <h3 id="h27915">
+    <title>
+     Optical illusions
+    </title>
+    <p>
+     The creation and analysis of optical illusions may involve mathematical and geometric principles such as the proportionality between the areas of similar figures and the squares of their linear dimensions. Some involve physiological or psychological considerations, such as the fact that, when making visual comparisons, relative lengths are more accurately perceived than relative areas.
+    </p>
+    <p>
+     For treatment of optical illusions and their illusory effects, including unorthodox use of perspective, distorted angles, deceptive shading, unusual juxtaposition, equivocal contours or contrasts, colour effects, chromatic aberration, and afterimages,
+     <e type="italic">
+      see
+     </e>
+     the articles
+     <xref articleid="110469">
+      illusion
+     </xref>
+     ;
+     <xref articleid="110470">
+      hallucination
+     </xref>
+     .
+    </p>
+   </h3>
+   <h3 id="h27916">
+    <title>
+     Geometric fallacies and paradoxes
+    </title>
+    <p>
+     Some geometric fallacies include “proofs”: (1) that every triangle is isosceles (i.e., has two equal sides); (2) that every angle is a right angle; (3) that if ABCD is a quadrilateral in which AB = CD, then AD must be parallel to BC; and (4) that every point in the interior of a circle lies on the circle.
+    </p>
+    <p>
+     The explanations of fallacious proofs in geometry usually include one or another of the following: faulty construction; violation of a logical principle, such as assuming the truth of a converse, or confusing partial inverses or converses; misinterpretation of a definition, or failing to take note of“necessary and sufficient” conditions; too great dependence upon diagrams and intuition; being trapped by limiting processes and deceptive appearances.
+    </p>
+   </h3>
+   <h3 id="h27917">
+    <title>
+     Impossible figures
+    </title>
+    <p>
+     <assembly id="a2682" url="/assembly/view/2682">
+      <media mediaid="3129" type="image" url="/29/3129-004-83560A8C.jpg"/>
+      <caption>
+       Figure 5: Impossible figures.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     At first glance, drawings such as those in
+     <assemblyref assemblyid="a2682">
+      Figure 5
+     </assemblyref>
+     appear to represent plausible three-dimensional objects, but closer inspection reveals that they cannot; the representation is flawed by faulty perspective, false juxtaposition, or psychological distortion. Among the first to produce these drawings—also called undecidable figures—was Oscar Reutersvard of Sweden, who made them the central features of a set of Swedish postage stamps.
+    </p>
+    <p>
+     <assembly id="a2684" url="/assembly/view/2684">
+      <media mediaid="3130" type="image" url="/30/3130-004-8C00A6C7.jpg"/>
+      <caption>
+       Figure 6: The endless stair.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     In 1958 L.S. Penrose, a British geneticist, and his son
+     <xref articleid="59107">
+      Roger Penrose
+     </xref>
+     , a mathematical physicist, introduced the undecidable figures called strange loops. One of these is the Penrose square stairway (
+     <assemblyref assemblyid="a2684">
+      Figure 6
+     </assemblyref>
+     ), which one could apparently traverse in either direction forever without getting higher or lower. Strange loops are important features of some of
+     <xref articleid="32985">
+      M.C. Escher’s
+     </xref>
+     lithographs, including “Ascending and Descending” (1960) and “Waterfall” (1961). The concept of the strange loop is related to the idea of infinity and also to logical paradoxes involving self-referential statements, such as that of
+     <xref articleid="32800">
+      Epimenides
+     </xref>
+     (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="109429" refid="h27940">
+      Logical paradoxes
+     </xref>
+     ).
+    </p>
+   </h3>
+   <h3 id="h27918">
+    <title>
+     Pathological curves
+    </title>
+    <p>
+     A mathematical curve is said to be pathological if it lacks certain properties of continuous curves. For example, its tangent may be undefined at some—or indeed any—point; the curve may enclose a finite area but be infinite in length; or its curvature may be undefinable. Some of these curves may be regarded as the limit of a series of geometrical constructions; their lengths or the areas they enclose appear to be the limits of sequences of numbers. Their idiosyncrasies constitute paradoxes rather than optical illusions or fallacies.
+    </p>
+    <p>
+     <assembly id="a2696" url="/assembly/view/2696">
+      <media mediaid="3131" type="image" url="/31/3131-004-5988FE09.jpg"/>
+      <caption>
+       Figure 7: Van Koch’s snowflake curve.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     Von Koch’s snowflake curve, for example, is the figure obtained by trisecting each side of an equilateral triangle and replacing the centre segment by two sides of a smaller equilateral triangle projecting outward, then treating the resulting figure the same way, and so on. The first two stages of this process are shown in
+     <assemblyref assemblyid="a2696">
+      Figure 7
+     </assemblyref>
+     . As the construction proceeds, the perimeter of the curve increases without limit, but the area it encloses does approach an upper bound, which is
+     <fraction>
+      <num>
+       8
+      </num>
+      <den>
+       5
+      </den>
+     </fraction>
+     the area of the original triangle.
+    </p>
+    <p>
+     <assembly id="a2683" url="/assembly/view/2683">
+      <media mediaid="3132" type="image" url="/32/3132-004-C764525C.jpg"/>
+      <caption>
+       Figure 8: A space-filling curve (see text).
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     In seeming defiance of the fact that a curve is “one-dimensional” and thus cannot fill a given space, it can be shown that the curve produced by continuing the stages in
+     <assemblyref assemblyid="a2683">
+      Figure 8
+     </assemblyref>
+     , when completed, will pass through
+     <e type="italic">
+      every
+     </e>
+     point in the square. In fact, by similar reasoning, the curve can be made to fill completely an entire cube.
+    </p>
+    <p>
+     <assembly id="a2695" url="/assembly/view/2695">
+      <media mediaid="3133" type="image" url="/33/3133-004-76B7BD8E.jpg"/>
+      <caption>
+       Figure 9: The Sierpinski curve.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     The Sierpinski curve, the first few stages of which are shown in
+     <assemblyref assemblyid="a2695">
+      Figure 9
+     </assemblyref>
+     , contains every point interior to a square, and it describes a closed path. As the process of forming the curve is continued indefinitely, the length of the curve approaches
+     <xref articleid="384399">
+      infinity
+     </xref>
+     , while the area enclosed by it approaches
+     <fraction>
+      <num>
+       5
+      </num>
+      <den>
+       12
+      </den>
+     </fraction>
+     that of the square.
+    </p>
+    <p>
+     A fractal curve, loosely speaking, is one that retains the same general pattern of irregularity regardless of how much it is magnified; von Koch’s snowflake is such a curve. At each stage in its construction, the length of its perimeter increases in the ratio of 4 to 3. The mathematician
+     <xref articleid="399924">
+      Benoit Mandelbrot
+     </xref>
+     has generalized the term dimension, symbolized
+     <e type="italic">
+      D
+     </e>
+     , to denote the power to which 3 must be raised to produce 4; that is, 3
+     <sup>
+      <e type="italic">
+       D
+      </e>
+     </sup>
+     = 4. The dimension that characterizes von Koch’s snowflake is therefore log 4/log 3, or approximately 1.26.
+    </p>
+    <p>
+     Beginning in the 1950s Mandelbrot and others have intensively studied the self-similarity of pathological curves, and they have applied the theory of
+     <xref articleid="35083">
+      fractals
+     </xref>
+     in modelling natural phenomena. Random fluctuations induce a statistical self-similarity in natural patterns; analysis of these patterns by Mandelbrot’s techniques has been found useful in such diverse fields as
+     <xref articleid="110311">
+      fluid mechanics
+     </xref>
+     ,
+     <xref articleid="36477">
+      geomorphology
+     </xref>
+     , human
+     <xref articleid="110578">
+      physiology
+     </xref>
+     ,
+     <xref articleid="109547">
+      economics
+     </xref>
+     , and
+     <xref articleid="110292">
+      linguistics
+     </xref>
+     . Specifically, for example, characteristic “landscapes” revealed by microscopic views of surfaces in connection with
+     <xref articleid="16720">
+      Brownian movement
+     </xref>
+     , vascular networks, and the shapes of polymer molecules are all related to fractals.
+    </p>
+   </h3>
+   <h3 id="h27919">
+    <title>
+     Mazes
+    </title>
+    <p>
+     <assembly id="a2685" url="/assembly/view/2685">
+      <media mediaid="3134" type="image" url="/34/3134-004-6A7A4CC5.jpg"/>
+      <caption>
+       Figure 10:
+       <e type="italic">
+        Examples of mazes.
+       </e>
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     A maze having only one entrance and one exit can be solved by placing one hand against either wall and keeping it there while traversing it; the exit can always be reached in this manner, although not necessarily by the shortest path. If the goal is within the labyrinth, the “hand-on-wall” method will also succeed, provided that there is no closed circuit; i.e., a route that admits of complete traverse back to the beginning (
+     <assemblyref assemblyid="a2685">
+      Figure 10
+     </assemblyref>
+     ).
+    </p>
+    <p>
+     If there are no closed circuits—i.e., no detached walls—the maze is “simply connected”; otherwise the maze is “multiply connected.” A classic general method of “threading a maze” is to designate a place where there is a choice of turning as a node; a path or node that has not yet been entered as a “new” path or node; and one that has already been entered as an “old” path or node.
+    </p>
+    <p>
+     The procedure is as follows:
+    </p>
+    <list type="ul">
+     <item>
+      Never traverse a path more than twice.
+     </item>
+     <item>
+      When arriving at a new node, select either path.
+     </item>
+     <item>
+      When arriving at an old node or at a dead end by a new path, return by the same path.
+     </item>
+     <item>
+      When arriving at an old node by an old path, select a new path, if possible; otherwise, an old path.
+     </item>
+    </list>
+    <p>
+     Although recreational interest in mazes has diminished, two areas of modern science have found them to be of value: psychology and communications technology. The former is concerned with learning behaviour, the latter with improved design of computers.
+    </p>
+   </h3>
+   <h3 id="h27920">
+    <title>
+     Geometric dissections
+    </title>
+    <p>
+     Geometric dissection problems involve the cutting of geometric figures into pieces that can be arranged to form other geometric figures; for example, cutting a rectangle into parts that can be put together in the form of a square and vice versa. Interest in this area of mathematical recreations began to manifest itself toward the close of the 18th century when Montucla called attention to this problem. As the subject became more popular, greater emphasis was given to the more general problem of dissecting a given polygon of any number of sides into parts that would form another polygon of equal area. Then, in the early 20th century, interest shifted to finding the
+     <e type="italic">
+      minimum
+     </e>
+     number of pieces required to change one figure into another.
+    </p>
+    <p>
+     According to a comprehensive theory of equidecomposable figures that was outlined in detail about 1960, two polygons are said to be equidecomposable if it is possible to dissect, or decompose, one of them into a finite number of pieces that can then be rearranged to form the second polygon. Obviously, the two polygons have equal areas.
+    </p>
+    <p>
+     According to the converse theorem, if two polygons have equal areas, they are equidecomposable.
+    </p>
+    <p>
+     In the method of complementation, congruent parts are added to two figures so as to make the two new figures congruent. It is known that equicomplementable figures have equal areas and that, if two polygons have equal areas, they are equicomplementable. As the theory advanced, the relation of equidecomposability to various motions such as translations, central symmetry, and, indeed, to groups of motions in general, was explored. Studies were also extended to the more difficult questions of dissecting polyhedra.
+    </p>
+    <p>
+     <assembly id="a2686" url="/assembly/view/2686">
+      <media mediaid="3135" type="image" url="/35/3135-004-EB1BEE56.jpg"/>
+      <caption>
+       Figure 11: Greek cross converted by dissection into a square.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     On the “practical” side, the execution of a dissection, such as converting the Greek cross into a square (
+     <assemblyref assemblyid="a2686">
+      Figure 11
+     </assemblyref>
+     ), may require the use of ingenious procedures, some of which have been described by H. Lindgren (
+     <e type="italic">
+      see
+     </e>
+     Bibliography).
+    </p>
+    <p>
+     <assembly id="a2687" url="/assembly/view/2687">
+      <media mediaid="3136" type="image" url="/36/3136-004-40677C79.jpg"/>
+      <caption>
+       Figure 12: Squared rectangle (see text).
+      </caption>
+      <credit>
+       From Martin Gardner,
+       <e type="italic">
+        The Second Scientific American Book of Mathematical Puzzles and Diversions
+       </e>
+       , copyright © 1961, 1987 by Martin Gardner; reprinted by permission of University of Chicago Press
+      </credit>
+     </assembly>
+     A quite different and distinctly modern type of dissection deserves brief mention, the so-called squaring the square, or squared rectangles. Thus, the problem of subdividing a square into smaller squares, no two of which are alike, which was long thought to be unsolvable, has been solved by the means of network theory. In this connection, a squared rectangle is a rectangle that can be dissected into a finite number of squares; if no two of these squares are equal, the squared rectangle is said to be perfect. The order of a squared rectangle is the number of constituent squares. It is known that there are no perfect rectangles of orders less than 9, and that there are exactly two perfect rectangles of order 9. (One of these is shown as
+     <assemblyref assemblyid="a2687">
+      Figure 12
+     </assemblyref>
+     .) The dissection of a square into unequal squares, deemed impossible as early as 1907, was first reported in 1939.
+    </p>
+   </h3>
+   <h3 id="h27921">
+    <title>
+     Graphs and networks
+    </title>
+    <p>
+     The word graph may refer to the familiar curves of analytic geometry and function theory, or it may refer to simple geometric figures consisting of points and lines connecting some of these points; the latter are sometimes called linear graphs, although there is little confusion within a given context. Such graphs have long been associated with puzzles.
+    </p>
+    <p>
+     <assembly id="a2688" url="/assembly/view/2688">
+      <media mediaid="3137" type="image" url="/37/3137-004-2EF6D219.jpg"/>
+      <caption>
+       Figure 13:
+       <e type="italic">
+        Examples of linear graphs.
+       </e>
+       (A) Graph. (B) Complete graphs. (C) Nonplanar graph. (D) Nonplanar graph of (C) changed to equivalent planar graph.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assembly id="a2689" url="/assembly/view/2689">
+      <media mediaid="3138" type="image" url="/38/3138-004-A6B6EC4D.jpg"/>
+      <caption>
+       Figure 14: Three wells problem (see text).
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     If a finite number of points are connected by lines (
+     <assemblyref assemblyid="a2688">
+      Figure 13A
+     </assemblyref>
+     ), the resulting figure is a graph; the points, or corners, are called the vertices, and the lines are called the edges. If every pair of vertices is connected by an edge, the graph is called a complete graph (
+     <assemblyref assemblyid="a2688">
+      Figure 13B
+     </assemblyref>
+     ). A planar graph is one in which the edges have no intersection or common points except at the edges. (It should be noted that the edges of a graph need not be straight lines.) Thus a nonplanar graph can be transformed into an equivalent, or isomorphic, planar graph, as in
+     <assemblyref assemblyid="a2688">
+      Figures 13C
+     </assemblyref>
+     and
+     <assemblyref assemblyid="a2688">
+      13D
+     </assemblyref>
+     . An interesting puzzle involves the problem of the three wells. Here (
+     <assemblyref assemblyid="a2689">
+      Figure 14
+     </assemblyref>
+     ) A, B, and C represent three neighbours’ houses, and R, S, and T three wells. It is desired to have paths leading from each house to each well, allowing no path to cross any other path. The proof that the problem is impossible depends on the so-called
+     <xref articleid="471457">
+      Jordan curve theorem
+     </xref>
+     that a continuous closed curve in a plane divides the plane into an interior and an exterior region in such a way that any continuous line connecting a point in the interior with a point in the exterior must intersect the curve. Planar graphs have proved useful in the design of electrical networks.
+    </p>
+    <p>
+     A connected graph is one in which every vertex, or point (or, in the case of a solid, a corner), is connected to every other point by an arc; an arc denotes an unbroken succession of edges. A route that never passes over an edge more than once, although it may pass through a point any number of times, is sometimes called a path.
+    </p>
+    <p>
+     <assembly id="a393" url="/assembly/view/393">
+      <media mediaid="3139" type="image" url="/39/3139-004-55954C9E.jpg"/>
+      <caption>
+       Figure 15:
+       <e type="italic">
+        Illustrations of Euler’s principles.
+       </e>
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     Modern
+     <xref articleid="37754">
+      graph theory
+     </xref>
+     (in the sense of linear graphs) had its inception with the work of
+     <xref articleid="33216">
+      Euler
+     </xref>
+     in connection with the “
+     <xref articleid="384377">
+      Königsberg bridge problem
+     </xref>
+     ” and was, for many years, associated with curves now called Eulerian paths—i.e., figures that can be drawn without retracing edges or lifting the pencil from the paper. The city of Königsberg (now Kaliningrad) embraces the banks and an island of the forked Pregel (Pregolya) River; seven bridges span the different branches (
+     <e type="italic">
+      see
+     </e>
+     <assemblyref assemblyid="a393">
+      Figure 15A
+     </assemblyref>
+     ). The problem was: Could a person leave home, take a walk, and return, crossing each bridge just once? Euler showed why it is impossible.
+    </p>
+    <p>
+     Briefly stated, Euler’s principles (which apply to any closed network) are as follows:
+    </p>
+    <list type="ul">
+     <item>
+      The number of even points—i.e., those in which an even number of edges meet—is of no significance.
+     </item>
+     <item>
+      The number of odd points is always even; this includes the case of a network with only even points.
+     </item>
+     <item>
+      If there are
+      <e type="italic">
+       no odd points
+      </e>
+      , one can start at any point and finish at the same point.
+     </item>
+     <item>
+      If there are
+      <e type="italic">
+       exactly two odd points
+      </e>
+      , one can start at either of the odd points and finish at the other odd point.
+     </item>
+     <item>
+      If there are
+      <e type="italic">
+       more than two odd points
+      </e>
+      , the network cannot be traced in one continuous path; if there are 2
+      <e type="italic">
+       n
+      </e>
+      odd points and no more, it can be traced in
+      <e type="italic">
+       n
+      </e>
+      separate paths.
+     </item>
+    </list>
+    <p>
+     Thus, in Figure 15,
+     <assemblyref assemblyid="a393">
+      B
+     </assemblyref>
+     and
+     <assemblyref assemblyid="a393">
+      C
+     </assemblyref>
+     can be traversed by Eulerian paths;
+     <assemblyref assemblyid="a393">
+      D
+     </assemblyref>
+     and
+     <assemblyref assemblyid="a393">
+      E
+     </assemblyref>
+     cannot;
+     <assemblyref assemblyid="a393">
+      F
+     </assemblyref>
+     shows a network corresponding to the Königsberg bridge problem, in which the points represent the land areas and the edges the seven bridges.
+    </p>
+    <p>
+     <assembly id="a2690" url="/assembly/view/2690">
+      <media mediaid="3140" type="image" url="/40/3140-004-305D2026.jpg"/>
+      <caption>
+       Figure 16: Hamilton circuit.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     Networks are related to a variety of recreational problems that involve combining or arranging points in a plane or in space. Among the earliest was a puzzle invented by an Irish mathematician,
+     <xref articleid="39042">
+      Sir William Rowan Hamilton
+     </xref>
+     (1859), which required finding a route along the edges of a regular dodecahedron that would pass once and only once through every point. In another version, the puzzle was made more convenient by replacing the dodecahedron by a graph isomorphic to the graph formed by the 30 edges of the dodecahedron (
+     <assemblyref assemblyid="a2690">
+      Figure 16
+     </assemblyref>
+     ). A Hamilton circuit is one that passes through each point exactly once but does not, in general, cover all the edges; actually, it covers only two of the three edges that intersect at each vertex. The route shown in heavy lines is one of several possible Hamilton circuits.
+    </p>
+    <p>
+     Graph theory lends itself to a variety of problems involving combinatorics: for example, designing a network to connect a set of cities by railroads or by telephone lines; planning city streets or traffic patterns; matching jobs with applicants; arranging round-robin tournaments such that every team or individual meets every other team or individual.
+    </p>
+   </h3>
+   <h3 id="h27922">
+    <title>
+     Map-colouring problems
+    </title>
+    <p>
+     Cartographers have long recognized that no more than four colours are needed to shade the regions on any map in such a way that adjoining regions are distinguished by colour. The corresponding mathematical question, framed in 1852, became the celebrated “
+     <xref articleid="35031">
+      four-colour map problem
+     </xref>
+     ”: Is it possible to construct a planar map for which five colours are necessary? Similar questions can be asked for other surfaces. For example, it was found by the end of the 19th century that seven colours, but no more, may be needed to colour a map on a torus. Meanwhile the classical four-colour question withstood mathematical assaults until 1976, when mathematicians at the
+     <xref articleid="1974">
+      University of Illinois
+     </xref>
+     announced that four colours suffice. Their published proof, including diagrams derived from more than 1,000 hours of calculations on a high-speed computer, was the first significant mathematical proof to rely heavily on artificial computation.
+    </p>
+   </h3>
+   <h3 id="h27923">
+    <title>
+     Flexagons
+    </title>
+    <p>
+     A flexagon is a polygon constructed from a strip of paper or thin metal foil in such a way that the figure possesses the property of changing its faces when it is flexed. First discussed in 1939, flexagons have become a fascinating mathematical recreation. One of the simplest flexagons is the trihexaflexagon, made by cutting a strip of suitable material and marking off 10 equilateral triangles. By folding appropriately several times and then gluing the last triangle onto the reverse side of the first triangle, the resulting model may be flexed so that one of the faces disappears and another face takes its place.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h27924">
+   <title>
+    Manipulative recreations
+   </title>
+   <h3 id="h27925">
+    <title>
+     Puzzles involving configurations
+    </title>
+    <p>
+     One of the earliest puzzles and games that require arranging counters into some specified alignment or configuration was Lucas’ Puzzle: in a row of seven squares, each of the three squares at the left end is occupied by a black counter, each of the three squares at the right end is occupied by a white counter, and the centre square is vacant. The object is to move one counter at a time until the squares originally occupied by white counters are occupied by black, and vice versa; black counters can be moved only to the right and white only to the left. A counter may move to an adjacent vacant square or it may jump one counter of the other colour to occupy a vacant square. The puzzle may be enlarged to any number of counters of each colour. For
+     <e type="italic">
+      n
+     </e>
+     counters of each kind the number of required moves is
+     <e type="italic">
+      n
+     </e>
+     (
+     <e type="italic">
+      n
+     </e>
+     + 2).
+    </p>
+    <p>
+     A similar puzzle uses eight numbered counters placed on nine positions. The aim is to shift the counters so that they will appear in reverse numerical order; only single moves and jumps are permitted.
+    </p>
+    <p>
+     Well known, but by no means as trivial, are games for two players, such as ticktacktoe and its more sophisticated variations, one of which calls for each player to begin with three counters (3 black, 3 white); the first player places a counter in any cell, except the center cell, of a 3 × 3 diagram; the players then alternate until all the counters are down. If neither has won by getting three in a row, each, in turn, is permitted to move a counter to an adjacent square, moving only horizontally or vertically. Achieving three in a row constitutes a win. There are many variations. The game can be played on a 4 × 4 diagram, each player starting with four counters; sometimes diagonal moves are permitted. Another version is played on a 5 × 5 pattern. Yet another interesting modification, popular in Europe, is variously known as mill or nine men’s morris, played with counters on a board consisting of three concentric squares and eight transversals.
+    </p>
+    <p>
+     Another game of this sort is played on a diamond-shaped board of tessellated hexagons, usually 11 on each edge, where by “tessellated” we mean fitted together like tiles to cover the board completely. Two opposite edges of the diamond are designated “white”; the other two sides, “black.” Each player has a supply of black or white counters. The players alternately place a piece on any vacant hexagon; the object of the game is for each player to complete an unbroken chain of his pieces between the sides designating his colour. Though the game does not end until one of the players has made a complete chain, it may meander across the board; it cannot end in a draw because the only way one player can block the other is by completing his own chain. The game was created by Piet Hein in 1942 in Denmark, where it quickly became popular under the name of polygon. It was invented independently in the United States in 1948 by
+     <xref articleid="1531">
+      John Nash
+     </xref>
+     , and a few years later one version was marketed under the name of hex.
+    </p>
+    <p>
+     In addition to the aforementioned varieties of a class of games that can be loosely described as “three in a row” or “specified alignment,” many others also exist, such as three- and four-dimensional ticktacktoe and even a computer ticktacktoe. The game strategy in ticktacktoe is by no means simple; an excellent mathematical analysis is given by F. Schuh.
+    </p>
+   </h3>
+   <h3 id="h27926">
+    <title>
+     Chessboard problems
+    </title>
+    <p>
+     Recreational problems posed with regard to the conventional chessboard are legion. Among the most widely discussed is the problem of how to place eight queens on a chessboard in such a way that none of the queens is attacking any other queen; the problem interested the great German mathematician C.F. Gauss (
+     <e type="italic">
+      c.
+     </e>
+     1850). Another group of problems has to do with the knight’s tour; in particular, to find a closed knight’s tour that ends at the starting point, that does not enter any square more than once, but that passes through all the squares in one tour. Problems of the knight’s tour are intimately connected with the construction of magic squares. Other chessboard problems are concerned with determining the relative values of the various chess pieces; finding the maximum number of pieces of any one type that can be put on a board so that no one piece can take any other; finding the minimum number of pieces of any one type that can be put on a board so as to command all cells; and how to place 16 queens on a board so that no three of them are in a straight line.
+    </p>
+   </h3>
+   <h3 id="h27927">
+    <title>
+     The Fifteen Puzzle
+    </title>
+    <p>
+     <assembly id="a2691" url="/assembly/view/2691">
+      <media mediaid="3141" type="image" url="/41/3141-004-59CC9847.jpg"/>
+      <caption>
+       Figure 17: (A) Fifteen Puzzle with no inversions. (B) With two inversions. (C) With five inversions.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     One of the best known of all puzzles is the Fifteen Puzzle, which Sam Loyd the elder claimed to have invented about 1878, though modern scholars have documented earlier inventors. It is also known as the Boss Puzzle, Gem Puzzle, and Mystic Square. It became popular all over Europe almost at once. It consists essentially of a shallow square tray that holds 15 small square counters numbered from 1 to 15, and one square blank space. With the 15 squares initially placed in random order and with the blank space in the lower right-hand corner, the puzzle is to rearrange them in numerical order by sliding only, with the blank space ending up back in the lower right-hand corner. It may overwhelm the reader to learn that there are more than 20,000,000,000,000 possible different arrangements that the pieces (including the blank space) can assume. But in 1879 two American mathematicians proved that only one-half of all possible initial arrangements, or about 10,000,000,000,000, admitted of a solution. The mathematical analysis is as follows. Basically, no matter what path it takes, as long as it ends its journey in the lower right-hand corner of the tray, any numeral must pass through an even number of boxes. In the normal position of the squares (
+     <assemblyref assemblyid="a2691">
+      Figure 17A
+     </assemblyref>
+     ), regarded row by row from left to right, each number is larger than all the preceding numbers; i.e., no number
+     <e type="italic">
+      precedes
+     </e>
+     any number smaller than itself. In any other than the normal arrangement, one or more numbers will precede others smaller than themselves. Every such instance is called an inversion. For example, in the sequence 9, 5, 3, 4, the 9 precedes three numbers smaller than itself and the 5 precedes two numbers smaller than itself, making a total of five inversions. If the total number of
+     <e type="italic">
+      all
+     </e>
+     the inversions in a given arrangement is
+     <e type="italic">
+      even
+     </e>
+     , the puzzle can be solved by bringing the squares back to the normal arrangement; if the total number of inversions is
+     <e type="italic">
+      odd
+     </e>
+     , the puzzle cannot be solved. Thus, in
+     <assemblyref assemblyid="a2691">
+      Figure 17B
+     </assemblyref>
+     there are two inversions, and the puzzle can be solved; in
+     <assemblyref assemblyid="a2691">
+      Figure 17C
+     </assemblyref>
+     there are five inversions, and the puzzle has no solution. Theoretically, the puzzle can be extended to a tray of
+     <e type="italic">
+      m
+     </e>
+     ×
+     <e type="italic">
+      n
+     </e>
+     spaces with (
+     <e type="italic">
+      m
+     </e>
+     <e type="italic">
+      n
+     </e>
+     − 1) numbered counters.
+    </p>
+   </h3>
+   <h3 id="h27928">
+    <title>
+     The Tower of Hanoi
+    </title>
+    <p>
+     <assembly id="a2692" url="/assembly/view/2692">
+      <media mediaid="3142" type="image" url="/42/3142-004-DBB8AF76.jpg"/>
+      <caption>
+       Figure 18: Tower of Hanoi.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     The puzzle of the Tower of Hanoi is widely believed to have been invented in 1883 by the French mathematician Édouard Lucas, though his role in its invention has been disputed. Ever popular, made of wood or plastic, it still can be found in toy shops. It consists essentially of three pegs fastened to a stand and of eight circular disks, each having a hole in the centre. The disks, all of different radii, are initially placed (
+     <e type="italic">
+      see
+     </e>
+     <assemblyref assemblyid="a2692">
+      Figure 18
+     </assemblyref>
+     ) on one of the pegs, with the largest disk on the bottom and the smallest on top; no disk rests upon one smaller than itself. The task is to transfer the individual disks from one peg to another so that no disk ever rests on one smaller than itself, and, finally, to transfer the tower; i.e., all the disks in their proper order, from their original peg to one of the other pegs. It can be shown that for a tower of
+     <e type="italic">
+      n
+     </e>
+     disks, there will be required 2
+     <sup>
+      <e type="italic">
+       n
+      </e>
+     </sup>
+     − 1 transfers of individual disks to shift the tower completely to another peg. Thus for 8 disks, the puzzle requires 2
+     <sup>
+      8
+     </sup>
+     − 1, or 255 transfers. If the original “needle” (peg) was a tower with 64 disks, the number of transfers would be 2
+     <sup>
+      6
+     </sup>
+     <sup>
+      4
+     </sup>
+     − 1, or 18,446,744,073,709,551,615; this is exactly the same number required to fill an 8 × 8 checkerboard with grains of wheat, 1 on the first square, 2 on the second, 4 on the next, then 8, 16, 32, etc.
+    </p>
+   </h3>
+   <h3 id="h27929">
+    <title>
+     Polyominoes
+    </title>
+    <p>
+     <assembly id="a2693" url="/assembly/view/2693">
+      <media mediaid="3143" type="image" url="/43/3143-004-88C97AD9.jpg"/>
+      <caption>
+       Figure 19:
+       <e type="italic">
+        Shapes made of squares.
+       </e>
+       (A) Monomino with simple polyominoes. (B) Pentominoes. (C) Heptomino with interior “hole.”
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     The term polyomino was introduced in 1953 as a jocular extension of the word domino. A polyomino is a simply connected set of equal-sized squares, each joined to at least one other along an edge. The simpler polyomino shapes are shown in
+     <assemblyref assemblyid="a2693">
+      Figure 19A
+     </assemblyref>
+     . Somewhat more fascinating are the pentominoes, of which there are exactly 12 forms (
+     <assemblyref assemblyid="a2693">
+      Figure 19B
+     </assemblyref>
+     ). Asymmetrical pieces, which have different shapes when they are flipped over, are counted as one.
+    </p>
+    <p>
+     The number of distinct polyominoes of any order is a function of the number of squares in each, but, as yet, no general formula has been found. It has been shown that there are 35 types of hexominoes and 108 types of heptominoes, if the dubious heptomino with an interior “hole” is included.
+    </p>
+    <p>
+     Recreations with polyominoes include a wide variety of problems in combinatorial geometry, such as forming desired shapes and specified designs, covering a chessboard with polyominoes in accordance with prescribed conditions, etc. Two illustrations may suffice.
+    </p>
+    <p>
+     The 35 hexominoes, having a total area of 210 squares, would seem to admit of arrangement into a rectangle 3 × 70, 5 × 42, 6 × 35, 7 × 30, 10 × 21, or 14 × 15; however, no such rectangle can be formed.
+    </p>
+    <p>
+     Can the 12 pentominoes, together with one square tetromino, form an 8 × 8 checkerboard? A solution of the problem was shown around 1935. It is not known how many solutions there are, but it has been estimated to be at least 1,000. In 1958, by use of a computer, it was shown that there are 65 solutions in which the square tetromino is exactly in the centre of the checkerboard.
+    </p>
+   </h3>
+   <h3 id="h27930">
+    <title>
+     Soma Cubes
+    </title>
+    <p>
+     <assembly id="a2694" url="/assembly/view/2694">
+      <media mediaid="3144" type="image" url="/44/3144-004-872BE1A5.jpg"/>
+      <caption>
+       Figure 20:
+       <e type="italic">
+        Soma Cubes.
+       </e>
+       (Top) The seven basic pieces. (Bottom) Examples of some of the shapes that can be built from Soma pieces.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     Piet Hein of Denmark, also known for his invention of the mathematical games known as hex and tac tix, stumbled upon the fact that all the irregular shapes that can be formed by combining three or four congruent cubes joined at their faces can be put together to form a larger cube. There are exactly seven such shapes, called Soma Cubes; they are shown in
+     <assemblyref assemblyid="a2694">
+      Figure 20
+     </assemblyref>
+     . No two shapes are alike, although the fifth and sixth are mirror images of each other. The fact that these seven pieces (comprising 27 “unit” cubes) can be reassembled to form one large cube is indeed remarkable.
+    </p>
+    <p>
+     Many interesting solid shapes can be formed from the seven Soma Cubes, shapes resembling, for example, a sofa, a chair, a castle, a tunnel, a pyramid, and so on. Even the assembling of the seven basic pieces into a large cube can be done in more than 230 essentially different ways.
+    </p>
+    <p>
+     As a recreation, the Soma Cubes are fascinating. With experience, many persons find that they can solve Soma problems mentally. Psychologists who have used them find that the ability to solve Soma problems is roughly correlated with general intelligence, although there are some strange anomalies at both ends of the distribution of intelligence. In any event, people playing with the cubes do not appear to want to stop; the variety of interesting structures possible seems endless.
+    </p>
+   </h3>
+   <h3 id="h27931">
+    <title>
+     Coloured squares and cubes
+    </title>
+    <p>
+     There is a wide variety of puzzles involving coloured square tiles and coloured cubes. In one, the object is to arrange the 24 three-colour patterns, including repetitions, that can be obtained by subdividing square tiles diagonally, using three different colours, into a 4 × 6 rectangle so that each pair of touching edges is the same colour and the entire border of the rectangle is the same colour.
+    </p>
+    <p>
+     More widely known perhaps is the 30 Coloured Cubes Puzzle. If six colours are used to paint the faces there result 2,226 different combinations. If from this total only those cubes that bear all six colours on their faces are selected, a set of 30 different cubes is obtained; two cubes are regarded as “different” if they cannot be placed side by side so that all corresponding faces match. Many fascinating puzzles arise from these coloured squares and cubes; many more could be devised. Some of them have appeared commercially at various times under different names, such as the Mayblox Puzzle, the Tantalizer, and the Katzenjammer.
+    </p>
+    <p>
+     A revival of interest in coloured-cube problems was aroused by the appearance of a puzzle known as Instant Insanity, consisting of four cubes, each of which has its faces painted white, red, green, and blue in a definite scheme. The puzzle is to assemble the cubes into a 1 × 1 × 4 prism such that all four colours appear on each of the four long faces of the prism. Since each cube admits of 24 different orientations, there are 82,944 possible prismatic arrangements; of these only two are the required solutions.
+    </p>
+    <p>
+     This puzzle was soon superseded by
+     <xref articleid="443574">
+      Rubik’s Cube
+     </xref>
+     , developed independently by
+     <xref articleid="1210">
+      Ernő Rubik
+     </xref>
+     (who obtained a Hungarian patent in 1975) and Terutoshi Ishigi (who obtained a Japanese patent in 1976). The cube appears to be composed of 27 smaller cubes, or cubelets; in its initial state, each of the six faces of the cube is made up of nine cubelet faces all of the same colour. In the commercial versions of the puzzle, an internal system of pivots allows any layer of nine cubelets to be rotated with respect to the rest, so that successive rotations about the three axes cause the cubelet faces to become scrambled. The challenge of restoring a scrambled cube to its original configuration is formidable, inasmuch as more than 10
+     <sup>
+      1
+     </sup>
+     <sup>
+      9
+     </sup>
+     states can be reached from a given starting condition. A thriving literature quickly developed for the exposition of systematic solutions (based on group theory) of scrambled cubes.
+    </p>
+   </h3>
+   <h3 id="h27932">
+    <title>
+     Nim and similar games
+    </title>
+    <p>
+     A game so old that its origin is obscure, nim lends itself nicely to mathematical analysis. In its generalized form, any number of objects (counters) are divided arbitrarily into several piles. Two people play alternately; each, in turn, selects any one of the piles and removes from it all the objects, or as many as he chooses, but at least one object. The player removing the last object wins. Every combination of the objects may be considered “safe” or “unsafe”; i.e., if the position left by a player after his move assures a win for that player, the position is called safe. Every unsafe position can be made safe by an appropriate move, but every safe position is made unsafe by any move. To determine whether a position is safe or unsafe, the number of objects in each pile may be expressed in binary notation: if each column adds up to zero or an even number, the position is safe. For example, if at some stage of the game, three piles contain 4, 9, and 15 objects, the calculation is:
+     <formula>
+      <inlinemedia id="i14530" mediaid="14530" url="/30/14530-004-58A5671B.jpg"/>
+     </formula>
+    </p>
+    <p>
+     Since the second column from the right adds up to 1, an odd number, the given combination is unsafe. A skillful player will always move so that every unsafe position left to him is changed to a safe position.
+    </p>
+    <p>
+     A similar game is played with just two piles; in each draw the player may take objects from either pile or from both piles, but in the latter event he must take the same number from each pile. The player taking the last counter is the winner.
+    </p>
+    <p>
+     Games such as nim make considerable demands upon the player’s ability to translate decimal numbers into binary numbers and vice versa. Since digital computers operate on the binary system, however, it is possible to program a computer (or build a special machine) that will play a perfect game. Such a machine was invented by American physicist Edward Uhler Condon and an associate; their automatic Nimatron was exhibited at the New York World’s Fair in 1940.
+    </p>
+    <p>
+     Games of this sort seem to be widely played the world over. The game of pebbles, also known as the game of odds, is played by two people who start with an odd number of pebbles placed in a pile. Taking turns, each player draws one, or two, or three pebbles from the pile. When all the pebbles have been drawn, the player who has an odd number of them in his possession wins.
+    </p>
+    <p>
+     Predecessors of these games, in which players distribute pebbles, seeds, or other counters into rows of holes under varying rules, have been played for centuries in Africa and Asia and are known as mancala games.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h27933">
+   <title>
+    Problems of logical inference
+   </title>
+   <h3 id="h27934">
+    <title>
+     Logical puzzles
+    </title>
+    <p>
+     Many challenging questions do not involve numerical or geometrical considerations but call for deductive inferences based chiefly on logical relationships. Such puzzles are not to be confounded with riddles, which frequently rely upon deliberately misleading or ambiguous statements, a play on words, or some other device intended to catch the unwary. Logical puzzles do not admit of a standard procedure or generalized pattern for their solution and are usually solved by some trial-and-error method. This is not to say that the guessing is haphazard; on the contrary, the given facts (generally minimal) suggest several hypotheses. These can be successively rejected if found inconsistent, until, by substitution and elimination, the solution is finally reached. The use of various techniques of logic may sometimes prove helpful, but in the last analysis, success depends largely upon that elusive capacity called ingenuity. For convenience, logic problems are arbitrarily grouped in the following categories.
+    </p>
+    <h4 id="h27935">
+     <title>
+      The brakeman, the fireman, and the engineer
+     </title>
+     <p>
+      The brakeman-fireman-engineer puzzle has become a classic. The following version of it appeared in
+      <xref articleid="43213">
+       Oswald Jacoby
+      </xref>
+      and William Benson’s
+      <e type="italic">
+       Mathematics for Pleasure
+      </e>
+      (1962).
+     </p>
+     <quote>
+      <p>
+       The names, not necessarily respectively, of the brakeman, fireman, and engineer of a certain train were Smith, Jones, and Robinson. Three passengers on the train happened to have the same names and, in order to distinguish them from the railway employees, will be referred to hereafter as Mr. Smith, Mr. Jones, and Mr. Robinson. Mr. Robinson lived in Detroit; the brakeman lived halfway between Chicago and Detroit; Mr. Jones earned exactly $2,000 per year; Smith beat the fireman at billiards; the brakeman’s next-door neighbour, one of the passengers, earned exactly three times as much as the brakeman; and the passenger who lived in Chicago had the same name as the brakeman. What was the name of the engineer?
+      </p>
+     </quote>
+    </h4>
+    <h4 id="h27936">
+     <title>
+      Overlapping groups
+     </title>
+     <p>
+      The following problem is typical of the overlapping-groups category. Among the members of a high-school language club, 21 were studying French; 20, German; 26, Spanish; 12, both French and Spanish; 10, both French and German; nine, both Spanish and German; and three, French, Spanish, and German. How many club members were there? How many members were studying only one language?
+     </p>
+    </h4>
+    <h4 id="h27937">
+     <title>
+      Truths and lies
+     </title>
+     <p>
+      Another kind of logical inference puzzle concerns truths and lies. One variety is as follows: The natives of a certain island are known as knights or knaves, though they are indistinguishable in appearance. The knights always tell the truth, and the knaves always lie. A visitor to the island, meeting three natives, asks them whether they are knights or knaves. The first says something inaudible. The second, pointing to the first, says, “He says that he is a knight.” The third, pointing to the second, says, “He lies.” Knowing beforehand that only one is a knave, the visitor decides what each of the three is.
+     </p>
+     <p>
+      In a slightly different type, four men, one of whom was known to have committed a certain crime, made the following statements when questioned by the police:
+     </p>
+     <quote>
+      <p>
+       <e type="italic">
+        Archie
+       </e>
+       : Dave did it.
+      </p>
+      <p>
+       Dave: Tony did it.
+      </p>
+      <p>
+       Gus: I didn’t do it.
+      </p>
+      <p>
+       Tony: Dave lied when he said I did it.
+      </p>
+     </quote>
+     <p>
+      If only one of these four statements is true, who was the guilty man? On the other hand, if only one of these four statements is false, who was the guilty man? (From
+      <e type="italic">
+       101 Puzzles in Thought and Logic
+      </e>
+      by C.R. Wylie, Jr.; Dover Publications, Inc., New York, 1957. Reprinted through the permission of the publisher.)
+     </p>
+    </h4>
+    <h4 id="h27938">
+     <title>
+      The smudged faces
+     </title>
+     <p>
+      The problem of the smudged faces is another instance of pure logical deduction. Three travellers were aboard a train that had just emerged from a tunnel, leaving a smudge of soot on the forehead of each. While they were laughing at each other, and before they could look into a mirror, a neighbouring passenger suggested that although no one of the three knew whether he himself was smudged, there was a way of finding out without using a mirror. He suggested: “Each of the three of you look at the other two; if you see at least one whose forehead is smudged, raise your hand.” Each raised his hand at once. “Now,” said the neighbour, “as soon as one of you knows for sure whether his own forehead is smudged or not, he should drop his hand, but not before.” After a moment or two, one of the men dropped his hand with a smile of satisfaction, saying: “I know.” How did that man know that his forehead was smudged?
+     </p>
+    </h4>
+    <h4 id="h27939">
+     <title>
+      The unexpected hanging
+     </title>
+     <p>
+      A final example might be the paradox of the unexpected hanging, a remarkable puzzle that first became known by word of mouth in the early 1940s. One form of the paradox is the following: A prisoner has been sentenced on Saturday. The judge announces that “the hanging will take place at noon on one of the seven days of next week, but you will not know which day it is until you are told on the morning of the day of the hanging.” The prisoner, on mulling this over, decided that the judge’s sentence could not possibly be carried out. “For example,” said he, “I can’t be hanged next Saturday, the last day of the week, because on Friday afternoon I’d still be alive and I’d know for sure that I’d be hanged on Saturday. But I’d known this
+      <e type="italic">
+       before
+      </e>
+      I was told about it on Saturday morning, and this would contradict the judge’s statement.” In the same way, he argued, they could not hang him on Friday, or Thursday, or Wednesday, Tuesday, or Monday. “And they can’t hang me tomorrow,” thought the prisoner, “because I know it today!”
+     </p>
+     <p>
+      Careful analysis reveals that this argument is false, and that the decree can be carried out. The paradox is a subtle one. The crucial point is that a statement about a future event can be known to be a true prediction by one person but not known to be true by another person until
+      <e type="italic">
+       after
+      </e>
+      the event has taken place.
+     </p>
+    </h4>
+   </h3>
+   <h3 id="h27940">
+    <title>
+     Logical paradoxes
+    </title>
+    <p>
+     Highly amusing and often tantalizing, logical paradoxes generally lead to searching discussions of the foundations of mathematics. As early as the 6th century
+     <e type="smallcap">
+      bce
+     </e>
+     , the Cretan prophet
+     <xref articleid="32800">
+      Epimenides
+     </xref>
+     allegedly observed that “All Cretans are liars,” which, in effect, means that “All statements made by Cretans are false.” Since Epimenides was a Cretan, the statement made by him is false. Thus the initial statement is self-contradictory. A similar dilemma was given by an English mathematician, P.E.B. Jourdain, in 1913, when he proposed the card paradox. This was a card on one side of which was printed:
+    </p>
+    <quote>
+     <p>
+      “The sentence on the other side of this card is TRUE.”
+     </p>
+    </quote>
+    <p>
+     On the other side of the card the sentence read:
+    </p>
+    <quote>
+     <p>
+      “The sentence on the other side of this card is FALSE.”
+     </p>
+    </quote>
+    <p>
+     The barber paradox, offered by
+     <xref articleid="64464">
+      Bertrand Russell
+     </xref>
+     , was of the same sort: The only barber in the village declared that he shaved everyone in the village who did not shave himself. On the face of it, this is a perfectly innocent remark until it is asked “Who shaves the barber?” If he does not shave himself, then he is one of those in the village who does not shave himself and so is shaved by the barber, namely, himself. If he shaves himself, he is, of course, one of the people in the village who is not shaved by the barber. The self-contradiction lies in the fact that a statement is made about “all” the members of a certain class, when the statement or the object to which the statement refers is itself a member of the class. In short, the Russell paradox hinges on the distinction between those classes that are members of themselves and those that are not members of themselves. Russell attempted to resolve the paradox of the class of all classes by introducing the concept of a hierarchy of logical types but without much success. Indeed, the entire problem lies close to the philosophical
+     <xref articleid="109826">
+      foundations of mathematics
+     </xref>
+     .
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h27941">
+  <title>
+   Bibliography
+  </title>
+  <h2 id="h27942">
+   <title>
+    General works
+   </title>
+   <p>
+    <e type="smallcap">
+     W.W. Rouse Ball
+    </e>
+    and
+    <e type="smallcap">
+     H.S.M. Coxeter
+    </e>
+    ,
+    <e type="italic">
+     Mathematical Recreations and Essays
+    </e>
+    , 12th ed. (1974);
+    <e type="smallcap">
+     John H. Conway
+    </e>
+    ,
+    <e type="italic">
+     On Numbers and Games
+    </e>
+    (1976);
+    <e type="smallcap">
+     Henry E. Dudeney
+    </e>
+    ,
+    <e type="italic">
+     536 Puzzles and Curious Problems
+    </e>
+    , ed. by
+    <e type="smallcap">
+     Martin Gardner
+    </e>
+    (1967);
+    <e type="smallcap">
+     Kobon Fujimura
+    </e>
+    ,
+    <e type="italic">
+     The Tokyo Puzzles
+    </e>
+    , trans. from the Japanese, ed. by
+    <e type="smallcap">
+     Martin Gardner
+    </e>
+    (1978);
+    <e type="smallcap">
+     Martin Gardner
+    </e>
+    , more than a dozen collections of mathematical recreations, including
+    <e type="italic">
+     Mathematical Circus
+    </e>
+    (1979, reissued 1981) and
+    <e type="italic">
+     Wheels, Life and Other Mathematical Amusements
+    </e>
+    (1983);
+    <e type="smallcap">
+     Douglas R. Hofstadter
+    </e>
+    ,
+    <e type="italic">
+     Gödel, Escher, Bach: An Eternal Golden Braid
+    </e>
+    (1979, reprinted 1980);
+    <e type="smallcap">
+     J.A.H. Hunter
+    </e>
+    ,
+    <e type="italic">
+     Challenging Mathematical Teasers
+    </e>
+    (1980);
+    <e type="smallcap">
+     J.A.H. Hunter
+    </e>
+    and
+    <e type="smallcap">
+     Joseph S. Madachy
+    </e>
+    ,
+    <e type="italic">
+     Mathematical Diversions
+    </e>
+    , rev. ed. (1975);
+    <e type="smallcap">
+     David A. Klarner
+    </e>
+    , ed.,
+    <e type="italic">
+     The Mathematical Gardner
+    </e>
+    (1981), a tribute to Martin Gardner;
+    <e type="smallcap">
+     Boris A. Kordemsky
+    </e>
+    ,
+    <e type="italic">
+     The Moscow Puzzles
+    </e>
+    , trans. from the Russian by
+    <e type="smallcap">
+     Albert Parry
+    </e>
+    , ed. by
+    <e type="smallcap">
+     Martin Gardner
+    </e>
+    (1972);
+    <e type="smallcap">
+     Maurice Kraitchik
+    </e>
+    ,
+    <e type="italic">
+     Mathematical Recreations
+    </e>
+    , 2nd rev. ed. (1953);
+    <e type="smallcap">
+     Joseph S. Madachy
+    </e>
+    ,
+    <e type="italic">
+     Madachy’s Mathematical Recreations
+    </e>
+    (1979);
+    <e type="smallcap">
+     T.H. O’Beirne
+    </e>
+    ,
+    <e type="italic">
+     Puzzles and Paradoxes
+    </e>
+    (1965, reprinted 1984);
+    <e type="smallcap">
+     Hubert Phillips
+    </e>
+    (“
+    <e type="smallcap">
+     Caliban
+    </e>
+    ”),
+    <e type="italic">
+     Question Time: An Omnibus of Problems for a Brainy Day
+    </e>
+    (1938);
+    <e type="smallcap">
+     Frederik Schuh
+    </e>
+    ,
+    <e type="italic">
+     The Master Book of Mathematical Recreations
+    </e>
+    , trans. from the Dutch, ed. by
+    <e type="smallcap">
+     T.H. O’Beirne
+    </e>
+    (1968);
+    <e type="smallcap">
+     Hugo Steinhaus
+    </e>
+    ,
+    <e type="italic">
+     Mathematical Snapshots
+    </e>
+    , 3rd U.S. ed. (1983; originally published in Polish, 1954).
+   </p>
+  </h2>
+  <h2 id="h27943">
+   <title>
+    Books on special topics
+   </title>
+   <p>
+    (
+    <e type="italic">
+     Cube puzzles
+    </e>
+    ):
+    <e type="smallcap">
+     John Ewing
+    </e>
+    and
+    <e type="smallcap">
+     Czes Kosniowski
+    </e>
+    ,
+    <e type="italic">
+     Puzzle It Out: Cubes, Groups, and Puzzles
+    </e>
+    (1982);
+    <e type="smallcap">
+     P.A. MacMahon
+    </e>
+    ,
+    <e type="italic">
+     New Mathematical Pastimes
+    </e>
+    (1921);
+    <e type="smallcap">
+     James G. Nourse
+    </e>
+    ,
+    <e type="italic">
+     The Simple Solution to Cubic Puzzles
+    </e>
+    (1981);
+    <e type="smallcap">
+     Don Taylor
+    </e>
+    and
+    <e type="smallcap">
+     Leanne Rylands
+    </e>
+    ,
+    <e type="italic">
+     Cube Games
+    </e>
+    (1981);
+    <e type="smallcap">
+     Ferdinand Winter
+    </e>
+    ,
+    <e type="italic">
+     Das Spiel der 30 Bunten Würfel
+    </e>
+    (1934). (
+    <e type="italic">
+     Dissections
+    </e>
+    ):
+    <e type="smallcap">
+     V.G. Boltyanskii
+    </e>
+    ,
+    <e type="italic">
+     Equivalent and Equidecomposable Figures
+    </e>
+    (1963; originally published in Russian, 1956);
+    <e type="smallcap">
+     Harry Lindgren
+    </e>
+    ,
+    <e type="italic">
+     Geometric Dissections
+    </e>
+    (1964). (
+    <e type="italic">
+     Fallacies
+    </e>
+    ):
+    <e type="smallcap">
+     V.M. Bradis
+    </e>
+    ,
+    <e type="smallcap">
+     V.L. Minkovskii
+    </e>
+    , and
+    <e type="smallcap">
+     A.K. Kharcheva
+    </e>
+    ,
+    <e type="italic">
+     Lapses in Mathematical Reasoning
+    </e>
+    (1963; originally published in Russian, 2nd ed., 1959);
+    <e type="smallcap">
+     Edwin A. Maxwell
+    </e>
+    ,
+    <e type="italic">
+     Fallacies in Mathematics
+    </e>
+    (1959, reprinted 1969). (
+    <e type="italic">
+     Fibonacci numbers
+    </e>
+    ):
+    <e type="smallcap">
+     Verner E. Hoggatt, Jr.,
+    </e>
+    <e type="italic">
+     Fibonacci and Lucas Numbers
+    </e>
+    (1969). (
+    <e type="italic">
+     Fractals
+    </e>
+    ):
+    <e type="smallcap">
+     Benoit B. Mandelbrot
+    </e>
+    ,
+    <e type="italic">
+     The Fractal Geometry of Nature
+    </e>
+    , rev. ed. (1983). (
+    <e type="italic">
+     Graphs
+    </e>
+    ):
+    <e type="smallcap">
+     Oystein Ore
+    </e>
+    ,
+    <e type="italic">
+     Graphs and Their Uses
+    </e>
+    (1963). (
+    <e type="italic">
+     Logical inference
+    </e>
+    ):
+    <e type="smallcap">
+     Maxey Brooke
+    </e>
+    ,
+    <e type="italic">
+     150 Puzzles in Crypt-Arithmetic
+    </e>
+    , 2nd rev. ed. (1969);
+    <e type="smallcap">
+     Hubert Phillips
+    </e>
+    (“
+    <e type="smallcap">
+     Caliban
+    </e>
+    ”),
+    <e type="italic">
+     My Best Puzzles in Logic and Reasoning
+    </e>
+    (1961);
+    <e type="smallcap">
+     Raymond M. Smullyan
+    </e>
+    ,
+    <e type="italic">
+     What Is the Name of This Book? The Riddle of Dracula and Other Logical Puzzles
+    </e>
+    (1978), and
+    <e type="italic">
+     This Book Needs No Title
+    </e>
+    (1980);
+    <e type="smallcap">
+     George J. Summers
+    </e>
+    ,
+    <e type="italic">
+     Test Your Logic: 50 Puzzles in Deductive Reasoning
+    </e>
+    (1972);
+    <e type="smallcap">
+     Clarence R. Wylie
+    </e>
+    ,
+    <e type="italic">
+     101 Puzzles in Thought and Logic
+    </e>
+    (1957). (
+    <e type="italic">
+     Manipulative puzzles and games
+    </e>
+    ):
+    <e type="smallcap">
+     Maxey Brooke
+    </e>
+    ,
+    <e type="italic">
+     Fun for the Money
+    </e>
+    (1963);
+    <e type="smallcap">
+     Solomon W. Golomb
+    </e>
+    ,
+    <e type="italic">
+     Polyominoes
+    </e>
+    (1965);
+    <e type="smallcap">
+     Ronald C. Read
+    </e>
+    ,
+    <e type="italic">
+     Tangrams: 330 Puzzles
+    </e>
+    (1965);
+    <e type="smallcap">
+     T. Sundara Row
+    </e>
+    ,
+    <e type="italic">
+     Geometric Exercises in Paper Folding
+    </e>
+    , 2nd ed. (1905, reprinted 1966);
+    <e type="smallcap">
+     Sid Sackson
+    </e>
+    ,
+    <e type="italic">
+     A Gamut of Games
+    </e>
+    (1969, reissued 1982). (
+    <e type="italic">
+     Mazes
+    </e>
+    ):
+    <e type="smallcap">
+     Walter Shepherd
+    </e>
+    ,
+    <e type="italic">
+     Mazes and Labyrinths: A Book of Puzzles
+    </e>
+    , rev. ed. (1961). (
+    <e type="italic">
+     Polytopes
+    </e>
+    ):
+    <e type="smallcap">
+     H.S.M. Coxeter
+    </e>
+    ,
+    <e type="italic">
+     Regular Polytopes
+    </e>
+    , 3rd ed. (1973);
+    <e type="smallcap">
+     H. Martyn Cundy
+    </e>
+    and
+    <e type="smallcap">
+     A.P. Rollett
+    </e>
+    ,
+    <e type="italic">
+     Mathematical Models
+    </e>
+    , 2nd ed. (1961, reprinted 1977);
+    <e type="smallcap">
+     L. Fejes Tóth
+    </e>
+    ,
+    <e type="italic">
+     Regular Figures
+    </e>
+    (1964). (
+    <e type="italic">
+     Probability
+    </e>
+    ):
+    <e type="smallcap">
+     Warren Weaver
+    </e>
+    ,
+    <e type="italic">
+     Lady Luck: The Theory of Probability
+    </e>
+    (1963, reprinted 1982).
+   </p>
+  </h2>
+  <h2 id="h27944">
+   <title>
+    Periodicals
+   </title>
+   <p>
+    <e type="italic">
+     Journal of Recreational Mathematics
+    </e>
+    (quarterly; United States);
+    <e type="italic">
+     Pythagoras
+    </e>
+    (4 issues a year; the Netherlands, England, and the United States).
+   </p>
+   <signature>
+    William L. Schaaf
+   </signature>
+  </h2>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

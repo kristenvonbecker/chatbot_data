@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="3018" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 20:05:48" url="/article/apoptosis/3018" version="4">
+ <title>
+  apoptosis
+ </title>
+ <p>
+  <assembly id="a145843" url="/assembly/view/145843">
+   <title>
+    apoptosis
+   </title>
+   <media mediaid="142661" type="image" url="/61/142661-004-FE36C5A6.jpg"/>
+   <caption>
+    Extrinsic and intrinsic factors of apoptosis.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   apoptosis
+  </e>
+  , also called
+  <e type="bold">
+   programmed cell death
+  </e>
+  ,
+  <assemblyref assemblyid="a145843"/>
+  in biology, a mechanism that allows
+  <xref articleid="106125">
+   cells
+  </xref>
+  to self-destruct when stimulated by the appropriate trigger. Apoptosis can be triggered by mild cellular injury and by various factors internal or external to the cell; the damaged cells are then disposed of in an orderly fashion. As a morphologically distinct form of programmed cell death, apoptosis is different from the other major process of cell death known as
+  <xref articleid="55157">
+   necrosis
+  </xref>
+  . Apoptosis involves condensation of the
+  <xref articleid="56461">
+   nucleus
+  </xref>
+  and
+  <xref articleid="28447">
+   cytoplasm
+  </xref>
+  , followed by cellular partitioning into well-defined fragments for disposal. In multicellular organisms, cell number normally results from the rate of cell production minus the rate of apoptosis.
+ </p>
+ <h1 id="h295465">
+  <title>
+   Discovery of programmed cell death
+  </title>
+  <p>
+   In the early 1840s, a biological use for the mechanism of planned apoptosis became apparent when scientists realized that the development from fertilized egg to adult is not a linear process. In many instances, initial structures, such as the tadpole’s tail, are superseded by entirely distinct adult systems, such as the frog’s legs. In the 20th century the medical significance of cell death was recognized by Australian researcher John Foxton R. Kerr and Scottish scientists Andrew H. Wyllie and Alastair Currie. In a paper published in 1972, they used the term
+   <e type="italic">
+    apoptosis
+   </e>
+   (from the Greek word meaning “falling off,” as leaves do in autumn) to describe the occurrence of apoptotic cells in human tissues.
+  </p>
+  <p>
+   The discovery of the developmental lineage and death of each cell in the
+   <xref articleid="55228">
+    nematode
+   </xref>
+   <e type="italic">
+    Caenorhabditis elegans
+   </e>
+   confirmed the role of programmed cell death in development. South African-born biologist
+   <xref articleid="395926">
+    Sydney Brenner
+   </xref>
+   , American biologist
+   <xref articleid="395927">
+    H. Robert Horvitz
+   </xref>
+   , and British biologist
+   <xref articleid="395928">
+    John E. Sulston
+   </xref>
+   shared the Nobel Prize in Physiology or Medicine in 2002 for this work.
+  </p>
+  <p>
+   In adult animals apoptosis is used to remove cells that have become a threat to survival. Such cells can include
+   <xref articleid="106118">
+    cancer
+   </xref>
+   cells or cells that are infected with
+   <xref articleid="110416">
+    bacteria
+   </xref>
+   or a
+   <xref articleid="106000">
+    virus
+   </xref>
+   . Apoptosis also removes cells that are normal but no longer needed, such as cells that produce
+   <xref articleid="7812">
+    antibodies
+   </xref>
+   after the need for the antibody has passed. Apoptosis can also be triggered in otherwise normal cells by external stimuli, including nutrient removal,
+   <xref articleid="73094">
+    toxins
+   </xref>
+   ,
+   <xref articleid="110803">
+    hormones
+   </xref>
+   , heat, and
+   <xref articleid="109464">
+    radiation
+   </xref>
+   . It is estimated that a mass of cells equal to body weight is removed by apoptosis each year. Given this range of critical situations in which apoptosis occurs or is required, the possibility for therapeutic intervention is extraordinary. This realization has generated a massive research effort focused on apoptosis.
+  </p>
+ </h1>
+ <h1 id="h295466">
+  <title>
+   Regulation of apoptosis
+  </title>
+  <p>
+   Apoptosis occurs on a cell-by-cell basis. For each affected cell, two primary phases are observed: one of initiation and a second of execution. The resulting cell remnants are processed for reuse. Both phases are complex and require exquisite organization of multiple cellular systems, including interactions between
+   <xref articleid="110575">
+    proteins
+   </xref>
+   and cellular membranes. The initiation phase, or “death decision,” became of significant interest following the description of a group of proteins in mammals known as the BCL-2 protein family. This protein family, which provides the framework for controlling apoptosis, takes its name from a type of cancer called B-cell
+   <xref articleid="49516">
+    lymphoma
+   </xref>
+   . BCL-2, the first family member, forms the molecular basis for sustaining the lymphoma cancer cells. The BCL-2 family of proteins has at least 25 members. Most of these are known as BH-3-only proteins. BH-3-only proteins function as activators or sensitizers of apoptosis and monitor important cell processes for dysfunction. They also control the function of two death-initiating, or pro-apoptotic, proteins (Bax and Bak) and a large number of death-preventing, or anti-apoptotic, proteins, which include BCL-XL and BCL-2. In mammals this control occurs primarily on the membranes of
+   <xref articleid="443654">
+    mitochondria
+   </xref>
+   , where the mortality decision for each cell is constantly reviewed under the supervision of the three contesting factions of the BCL-2 protein family.
+  </p>
+  <p>
+   A second family of proteins, the caspase proteolytic
+   <xref articleid="32739">
+    enzymes
+   </xref>
+   , contributes to both regulation by the BCL-2 family and execution of apoptosis after the death decision is confirmed. Caspases function in large part by the activation of other enzymes that dismantle the cellular
+   <xref articleid="28450">
+    cytoskeleton
+   </xref>
+   and cellular
+   <xref articleid="98575">
+    organelles
+   </xref>
+   and that degrade the nuclear
+   <xref articleid="30730">
+    DNA
+   </xref>
+   (deoxyribonucleic acid), from which there is no possibility of recovery. The cellular destruction occurs in place (
+   <e type="italic">
+    in situ
+   </e>
+   ), and the cellular membrane system is reorganized to package the degraded components, including the digested genetic material, in membrane compartments. This packaging system prevents the materials from being released generally within tissues. Macrophages and other scavenger cells then engulf the membrane packets and process them for reuse as the most basic cellular components. In some instances, neighbouring cells may also engulf the degraded components.
+  </p>
+  <p>
+   Employing the intrinsic pathway, cancer cells, cells that are infected with bacteria or virus particles, and mutant cells can be assigned to apoptosis. The extrinsic pathway is commonly associated with cellular death receptors.
+  </p>
+ </h1>
+ <h1 id="h295467">
+  <title>
+   Apoptosis in medicine
+  </title>
+  <p>
+   Manipulating apoptosis is one avenue through which scientists can address a number of vexing medical problems. Cancer requires the suppression of apoptosis to allow survival of the abnormal tumour cells. Restoring effective surveillance of abnormal cells can contribute dramatically to cancer eradication. Likewise, enhanced targeting of infected cells for apoptotic destruction mimics the physiological role of apoptosis in resolving infection by disposing of the infected cells.
+  </p>
+  <p>
+   Inhibition of apoptosis has the potential to dramatically limit the damage resulting from episodes of ischemia in cardiac and neural tissue (ischemia is a reduction in blood flow to affected tissues). In addition, the selective control of apoptosis in the
+   <xref articleid="109569">
+    immune system
+   </xref>
+   can dramatically improve therapy for diseases from
+   <xref articleid="1565">
+    diabetes mellitus
+   </xref>
+   to HIV/
+   <xref articleid="4173">
+    AIDS
+   </xref>
+   . These opportunities and a basic curiosity about how cells regulate their own mortality sustain an extensive research effort centring around the mechanisms controlling and executing apoptosis.
+  </p>
+  <signature>
+   Paul H. Schlesinger
+  </signature>
+ </h1>
+ <h1 id="h295464">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   Overviews of programmed cell death and its study include
+   <e type="smallcap">
+    Christopher Potten
+   </e>
+   and
+   <e type="smallcap">
+    James Wilson
+   </e>
+   ,
+   <e type="italic">
+    Apoptosis: The Life and Death of Cells
+   </e>
+   (2004); and
+   <e type="smallcap">
+    Richard A. Lockshin
+   </e>
+   and
+   <e type="smallcap">
+    Zahra Zakeri
+   </e>
+   (eds.),
+   <e type="italic">
+    When Cells Die II: A Comprehensive Evaluation of Apoptosis and Programmed Cell Death
+   </e>
+   , 2nd ed. (2004). Detailed information on the regulation and process of apoptosis is provided in
+   <e type="smallcap">
+    Michael Jacobson
+   </e>
+   and
+   <e type="smallcap">
+    Nicola McCarthy
+   </e>
+   (eds.),
+   <e type="italic">
+    Apoptosis
+   </e>
+   (2002).
+  </p>
+  <signature>
+   Paul H. Schlesinger
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

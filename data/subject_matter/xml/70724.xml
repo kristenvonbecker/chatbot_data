@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="70724" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 01:32:36" url="/article/symmetry/70724" version="5">
+ <title>
+  symmetry
+ </title>
+ <p>
+  <e type="bold">
+   symmetry
+  </e>
+  , in physics, the concept that the properties of particles such as atoms and molecules remain unchanged after being subjected to a variety of symmetry transformations or “operations.” Since the earliest days of natural philosophy (
+  <xref articleid="62073">
+   Pythagoras
+  </xref>
+  in the 6th century
+  <e type="smallcap">
+   bce
+  </e>
+  ), symmetry has furnished insight into the laws of physics and the nature of the cosmos. The two outstanding theoretical achievements of the 20th century,
+  <xref articleid="109465">
+   relativity
+  </xref>
+  and
+  <xref articleid="110312">
+   quantum mechanics
+  </xref>
+  , involve notions of symmetry in a fundamental way.
+ </p>
+ <p>
+  The application of symmetry to physics leads to the important conclusion that certain physical laws, particularly
+  <xref articleid="25938">
+   conservation laws
+  </xref>
+  , governing the behaviour of objects and particles are not affected when their geometric coordinates—including time, when it is considered as a fourth dimension—are transformed by means of symmetry operations. The physical laws thus remain valid at all places and times in the universe. In
+  <xref articleid="108654" refid="h32484">
+   particle physics
+  </xref>
+  , considerations of symmetry can be used to derive conservation laws and to determine which particle interactions can take place and which cannot (the latter are said to be forbidden). Symmetry also has applications in many other areas of physics and chemistry—for example, in relativity and quantum theory, crystallography, and
+  <xref articleid="110407">
+   spectroscopy
+  </xref>
+  . Crystals and molecules may indeed be described in terms of the number and type of symmetry operations that can be performed on them. The quantitative discussion of symmetry is called group theory.
+ </p>
+ <p>
+  Valid symmetry operations are those that can be performed without changing the appearance of an object. The number and type of such operations depend on the geometry of the object to which the operations are applied. The meaning and variety of symmetry operations may be illustrated by considering a square lying on a table. For the square, valid operations are (1) rotation about its centre through 90°, 180°, 270°, or 360°, (2) reflection through mirror planes perpendicular to the table and running either through any two opposite corners of the square or through the midpoints of any two opposing sides, and (3) reflection through a mirror plane in the plane of the table. There are therefore nine symmetry operations that yield a result indistinguishable from the original square. A circle would be said to have higher symmetry because, for example, it could be rotated through an infinite number of angles (not just multiples of 90°) to give an identical circle.
+ </p>
+ <p>
+  <xref articleid="108593">
+   Subatomic particles
+  </xref>
+  have various properties and are affected by certain forces that exhibit symmetry. An important property that gives rise to a conservation law is
+  <xref articleid="58495">
+   parity
+  </xref>
+  . In quantum mechanics all elementary particles and atoms may be described in terms of a wave equation. If this wave equation remains identical after simultaneous reflection of all spatial coordinates of the particle through the origin of the coordinate system, then it is said to have even parity. If such simultaneous reflection results in a wave equation that differs from the original wave equation only in sign, then the particle is said to have odd parity. The overall parity of a collection of particles, such as a molecule, is found to be unchanged with time during physical processes and reactions; this fact is expressed as the law of conservation of parity. At the subatomic level, however, parity is not conserved in reactions that are due to the
+  <xref articleid="76351">
+   weak force
+  </xref>
+  .
+ </p>
+ <p>
+  Elementary particles are also said to have internal symmetry; these symmetries are useful in classifying particles and in leading to
+  <xref articleid="66658">
+   selection rules
+  </xref>
+  . Such an internal symmetry is baryon number, which is a property of a class of particles called
+  <xref articleid="38748">
+   hadrons
+  </xref>
+  . Hadrons with a baryon number of zero are called
+  <xref articleid="52218">
+   mesons
+  </xref>
+  , those with a number of +1 are
+  <xref articleid="13562">
+   baryons
+  </xref>
+  . By symmetry there must exist another class of particles with a baryon number of −1; these are the
+  <xref articleid="7839">
+   antimatter
+  </xref>
+  counterparts of baryons called antibaryons. Baryon number is conserved during nuclear interactions.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

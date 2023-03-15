@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="32273" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:47:46" url="/article/electric-current/32273" version="7">
+ <title>
+  electric current
+ </title>
+ <p>
+  <e type="bold">
+   electric current
+  </e>
+  , any movement of
+  <xref articleid="32271">
+   electric charge
+  </xref>
+  carriers, such as
+  <xref articleid="108593">
+   subatomic
+  </xref>
+  charged particles (e.g.,
+  <xref articleid="32316">
+   electrons
+  </xref>
+  having negative charge,
+  <xref articleid="61626">
+   protons
+  </xref>
+  having positive charge),
+  <xref articleid="42688">
+   ions
+  </xref>
+  (
+  <xref articleid="110411">
+   atoms
+  </xref>
+  that have lost or gained one or more electrons), or holes (electron deficiencies that may be thought of as positive particles).
+ </p>
+ <p>
+  Electric current in a wire, where the charge carriers are electrons, is a measure of the quantity of charge passing any point of the wire per unit of time. In
+  <xref articleid="5927">
+   alternating current
+  </xref>
+  the motion of the electric charges is periodically reversed; in
+  <xref articleid="30595">
+   direct current
+  </xref>
+  it is not. In many contexts the direction of the current in electric circuits is taken as the direction of positive charge flow, the direction opposite to the actual electron drift. When so defined the current is called conventional current.
+ </p>
+ <p>
+  <assembly id="a174175" url="/assembly/view/174175">
+   <title>
+    Learn why copper’s low resistance makes it an excellent conductor of electrical currents
+   </title>
+   <media mediaid="161915" thumburl="/15/161915-049-810B7772.jpg" type="video" url=""/>
+   <caption>
+    The relationship between current and resistance in an electric circuit.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a174175"/>
+  Current is usually denoted by the symbol
+  <e type="italic">
+   I
+  </e>
+  .
+  <xref articleid="56866">
+   Ohm’s law
+  </xref>
+  relates the current flowing through a conductor to the voltage
+  <e type="italic">
+   V
+  </e>
+  and
+  <xref articleid="63265">
+   resistance
+  </xref>
+  <e type="italic">
+   R
+  </e>
+  ; that is,
+  <e type="italic">
+   V
+  </e>
+  =
+  <e type="italic">
+   I
+  </e>
+  <e type="italic">
+   R
+  </e>
+  . An alternative statement of Ohm’s law is
+  <e type="italic">
+   I
+  </e>
+  =
+  <e type="italic">
+   V
+  </e>
+  /
+  <e type="italic">
+   R
+  </e>
+  .
+ </p>
+ <p>
+  Current in
+  <xref articleid="110302">
+   gases
+  </xref>
+  and
+  <xref articleid="110301">
+   liquids
+  </xref>
+  generally consists of a flow of positive ions in one direction together with a flow of negative ions in the opposite direction. To treat the overall effect of the current, its direction is usually taken to be that of the positive charge carrier. A current of negative charge moving in the opposite direction is equivalent to a positive charge of the same magnitude moving in the conventional direction and must be included as a contribution to the total current. Current in
+  <xref articleid="66711">
+   semiconductors
+  </xref>
+  consists of the motion of holes in the conventional direction and electrons in the opposite direction.
+ </p>
+ <p>
+  Currents of many other kinds exist, such as beams of protons,
+  <xref articleid="61025">
+   positrons
+  </xref>
+  , or charged pions and
+  <xref articleid="54309">
+   muons
+  </xref>
+  in
+  <xref articleid="108531">
+   particle accelerators
+  </xref>
+  .
+ </p>
+ <p>
+  <assembly id="a1347" url="/assembly/view/1347">
+   <title>
+    magnetic field produced by electric current
+   </title>
+   <media mediaid="252" type="image" url="/52/252-004-21FDB1DA.jpg"/>
+   <caption>
+    A magnetic field produced by a small section of wire with electric current
+    <e type="italic">
+     i
+    </e>
+    .
+   </caption>
+   <credit>
+    Courtesy of the Department of Physics and Astronomy, Michigan State University
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a1347"/>
+  Electric current generates an accompanying
+  <xref articleid="50022">
+   magnetic field
+  </xref>
+  , as in
+  <xref articleid="32309">
+   electromagnets
+  </xref>
+  . When an electric current flows in an external magnetic field, it experiences a
+  <xref articleid="50023">
+   magnetic force
+  </xref>
+  , as in
+  <xref articleid="106043">
+   electric motors
+  </xref>
+  . The
+  <xref articleid="39732">
+   heat
+  </xref>
+  loss, or energy dissipated, by electric current in a conductor is proportional to the square of the current.
+ </p>
+ <p>
+  A common unit of electric current is the
+  <xref articleid="7233">
+   ampere
+  </xref>
+  , which is defined as a flow of one
+  <xref articleid="26554">
+   coulomb
+  </xref>
+  of charge per second, or 6.2 × 10
+  <sup>
+   18
+  </sup>
+  electrons per second. The centimetre–gram–second units of current is the electrostatic unit of charge (esu) per second. One ampere equals 3 × 10
+  <sup>
+   9
+  </sup>
+  esu per second.
+ </p>
+ <p>
+  Commercial power lines make available about 100 amps to a typical home; a 60-watt lightbulb pulls about 0.5 amp of current and a one-room air conditioner about 15 amps. (For more on electric current,
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="106019">
+   electricity: Direct electric current
+  </xref>
+  and
+  <xref articleid="106019" refid="h71569">
+   electricity: Alternating electric currents
+  </xref>
+  .)
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

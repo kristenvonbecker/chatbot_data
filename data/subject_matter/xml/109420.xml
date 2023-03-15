@@ -1,0 +1,2172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="109420" articletypeid="1" language="en_us" lastupdate="2023-Feb-10 10:13:57" url="/article/game-theory/109420" version="15">
+ <title>
+  game theory
+ </title>
+ <p>
+  <e type="bold">
+   game theory
+  </e>
+  , branch of applied mathematics that provides tools for analyzing situations in which parties, called players, make decisions that are interdependent. This interdependence causes each player to consider the other player’s possible decisions, or strategies, in formulating strategy. A solution to a game describes the optimal decisions of the players, who may have similar, opposed, or mixed interests, and the outcomes that may result from these decisions.
+ </p>
+ <p>
+  Although game theory can be and has been used to analyze parlour games, its applications are much broader. In fact, game theory was originally developed by the Hungarian-born American mathematician
+  <xref articleid="75728">
+   John von Neumann
+  </xref>
+  and his Princeton University colleague
+  <xref articleid="53740">
+   Oskar Morgenstern
+  </xref>
+  , a German-born American economist, to solve problems in economics. In their book
+  <e type="italic">
+   The Theory of Games and Economic Behavior
+  </e>
+  (1944), von Neumann and Morgenstern asserted that the mathematics developed for the physical sciences, which describes the workings of a disinterested nature, was a poor model for economics. They observed that economics is much like a game, wherein players anticipate each other’s moves, and therefore requires a new kind of mathematics, which they called game theory. Game theory was further developed in the 1950s by American mathematician
+  <xref articleid="1531">
+   John Nash
+  </xref>
+  , who established the mathematical principles of game theory, a branch of mathematics that examines the rivalries between competitors with mixed interests. (The name for this branch of studies may be somewhat of a misnomer—game theory generally does not share the fun or frivolity associated with games.)
+ </p>
+ <p>
+  Game theory has been applied to a wide variety of situations in which the choices of players interact to affect the outcome. In stressing the strategic aspects of decision making, or aspects controlled by the players rather than by pure chance, the theory both supplements and goes beyond the classical theory of
+  <xref articleid="109439">
+   probability
+  </xref>
+  . It has been used, for example, to determine what political coalitions or business conglomerates are likely to form, the optimal price at which to sell products or services in the face of competition, the power of a voter or a bloc of voters, whom to select for a jury, the best site for a manufacturing plant, and the behaviour of certain animals and plants in their struggle for survival. It has even been used to challenge the legality of certain voting systems.
+ </p>
+ <p>
+  It would be surprising if any one theory could address such an enormous range of “games,” and in fact there is no single game theory. A number of theories have been proposed, each applicable to different situations and each with its own concepts of what constitutes a solution. This article describes some simple games, discusses different theories, and outlines principles underlying game theory. Additional concepts and methods that can be used to analyze and solve decision problems are treated in the article
+  <xref articleid="108643">
+   optimization
+  </xref>
+  .
+ </p>
+ <h1 id="h22612">
+  <title>
+   Classification of games
+  </title>
+  <p>
+   Games can be classified according to certain significant features, the most obvious of which is the number of players. Thus, a game can be designated as being a one-person, two-person, or
+   <e type="italic">
+    n
+   </e>
+   -person (with
+   <e type="italic">
+    n
+   </e>
+   greater than two) game, with games in each category having their own distinctive features. In addition, a player need not be an individual; it may be a nation, a corporation, or a team comprising many people with shared interests.
+  </p>
+  <p>
+   In games of perfect information, such as
+   <xref articleid="105867">
+    chess
+   </xref>
+   , each player knows everything about the game at all times.
+   <xref articleid="60574">
+    Poker
+   </xref>
+   , on the other hand, is an example of a game of imperfect information because players do not know all of their opponents’ cards.
+  </p>
+  <p>
+   The extent to which the goals of the players coincide or conflict is another basis for classifying games. Constant-sum games are games of total conflict, which are also called games of pure competition. Poker, for example, is a constant-sum game because the combined wealth of the players remains constant, though its distribution shifts in the course of play.
+  </p>
+  <p>
+   Players in constant-sum games have completely opposed interests, whereas in variable-sum games they may all be winners or losers. In a labour-management dispute, for example, the two parties certainly have some conflicting interests, but both will benefit if a strike is averted.
+  </p>
+  <p>
+   Variable-sum games can be further distinguished as being either cooperative or noncooperative. In cooperative games players can communicate and, most important, make binding agreements; in noncooperative games players may communicate, but they cannot make binding agreements, such as an enforceable contract. An automobile salesperson and a potential customer will be engaged in a cooperative game if they agree on a price and sign a contract. However, the dickering that they do to reach this point will be noncooperative. Similarly, when people bid independently at an auction they are playing a noncooperative game, even though the high bidder agrees to complete the purchase.
+  </p>
+  <p>
+   Finally, a game is said to be finite when each player has a finite number of options, the number of players is finite, and the game cannot go on indefinitely. Chess,
+   <xref articleid="22734">
+    checkers
+   </xref>
+   , poker, and most parlour games are finite. Infinite games are more subtle and will only be touched upon in this article.
+  </p>
+  <p>
+   A game can be described in one of three ways: in extensive, normal, or characteristic-function form. (Sometimes these forms are combined, as described in the section
+   <xref articleid="109420" refid="h255880">
+    Theory of moves
+   </xref>
+   .) Most parlour games, which progress step by step, one move at a time, can be modeled as games in extensive form. Extensive-form games can be described by a “game tree,” in which each turn is a vertex of the tree, with each branch indicating the players’ successive choices.
+  </p>
+  <p>
+   The normal (strategic) form is primarily used to describe two-person games. In this form a game is represented by a payoff matrix, wherein each row describes the strategy of one player and each column describes the strategy of the other player. The matrix entry at the intersection of each row and column gives the outcome of each player choosing the corresponding strategy. The payoffs to each player associated with this outcome are the basis for determining whether the strategies are “in equilibrium,” or stable.
+  </p>
+  <p>
+   The characteristic-function form is generally used to analyze games with more than two players. It indicates the minimum value that each coalition of players—including single-player coalitions—can guarantee for itself when playing against a coalition made up of all the other players.
+  </p>
+ </h1>
+ <h1 id="h22613">
+  <title>
+   One-person games
+  </title>
+  <p>
+   One-person games are also known as games against nature. With no opponents, the player only needs to list available options and then choose the optimal outcome. When chance is involved the game might seem to be more complicated, but in principle the decision is still relatively simple. For example, a person deciding whether to carry an umbrella weighs the costs and benefits of carrying or not carrying it. While this person may make the wrong decision, there does not exist a conscious opponent. That is, nature is presumed to be completely indifferent to the player’s decision, and the person can base his decision on simple probabilities. One-person games hold little interest for game theorists.
+  </p>
+ </h1>
+ <h1 id="h22614">
+  <title>
+   Two-person constant-sum games
+  </title>
+  <h2 id="h22615">
+   <title>
+    Games of perfect information
+   </title>
+   <p>
+    The simplest game of any real theoretical interest is a two-person constant-sum game of perfect information. Examples of such games include chess, checkers, and the Japanese game of
+    <xref articleid="37127">
+     go
+    </xref>
+    . In 1912 the German mathematician Ernst Zermelo proved that such games are strictly determined; by making use of all available information, the players can deduce strategies that are optimal, which makes the outcome preordained (strictly determined). In chess, for example, exactly one of three outcomes must occur if the players make optimal choices: (1) White wins (has a strategy that wins against any strategy of Black); (2) Black wins; or (3) White and Black draw. In principle, a sufficiently powerful
+    <xref articleid="70387">
+     supercomputer
+    </xref>
+    could determine which of the three outcomes will occur. However, considering that there are some 10
+    <sup>
+     43
+    </sup>
+    distinct 40-move games of chess possible, there seems no possibility that such a computer will be developed now or in the foreseeable future. Therefore, while chess is of only minor interest in game theory, it is likely to remain a game of enduring intellectual interest.
+   </p>
+  </h2>
+  <h2 id="h22616">
+   <title>
+    Games of imperfect information
+   </title>
+   <p>
+    A “saddlepoint” in a two-person constant-sum game is the outcome that rational players would choose. (Its name derives from its being the minimum of a row that is also the maximum of a column in a payoff matrix—to be illustrated shortly—which corresponds to the shape of a saddle.) A saddlepoint always exists in games of perfect information but may or may not exist in games of imperfect information. By choosing a strategy associated with this outcome, each player obtains an amount at least equal to his payoff at that outcome, no matter what the other player does. This payoff is called the value of the game; as in perfect-information games, it is preordained by the players’ choices of strategies associated with the saddlepoint, making such games strictly determined.
+   </p>
+   <p>
+    <assembly id="a85150" url="/assembly/view/85150">
+     <title>
+      payoff matrix with saddlepoint
+     </title>
+     <media mediaid="91952" type="image" url="/52/91952-004-EA94C68A.jpg"/>
+     <caption>
+      Table 1 The normal-form table illustrates the concept of a saddlepoint, or entry, in a payoff matrix at which the expected gain of each participant (row or column) has the highest guaranteed payoff.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    The normal-form game in
+    <assemblyref assemblyid="a85150">
+     Table 1
+    </assemblyref>
+    is used to illustrate the calculation of a saddlepoint. Two political parties,
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    , must each decide how to handle a controversial issue in a certain election. Each party can either support the issue, oppose it, or evade it by being ambiguous. The decisions by
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    on this issue determine the percentage of the vote that each party receives. The entries in the payoff matrix represent party
+    <e type="italic">
+     A
+    </e>
+    ’s percentage of the vote (the remaining percentage goes to
+    <e type="italic">
+     B
+    </e>
+    ). When, for example,
+    <e type="italic">
+     A
+    </e>
+    supports the issue and
+    <e type="italic">
+     B
+    </e>
+    evades it,
+    <e type="italic">
+     A
+    </e>
+    gets 80 percent and
+    <e type="italic">
+     B
+    </e>
+    20 percent of the vote.
+   </p>
+   <p>
+    Assume that each party wants to maximize its vote.
+    <e type="italic">
+     A
+    </e>
+    ’s decision seems difficult at first because it depends on
+    <e type="italic">
+     B
+    </e>
+    ’s choice of strategy.
+    <e type="italic">
+     A
+    </e>
+    does best to support if
+    <e type="italic">
+     B
+    </e>
+    evades, oppose if
+    <e type="italic">
+     B
+    </e>
+    supports, and evade if
+    <e type="italic">
+     B
+    </e>
+    opposes.
+    <e type="italic">
+     A
+    </e>
+    must therefore consider
+    <e type="italic">
+     B
+    </e>
+    ’s decision before making its own. Note that no matter what
+    <e type="italic">
+     A
+    </e>
+    does,
+    <e type="italic">
+     B
+    </e>
+    obtains the largest percentage of the vote (smallest percentage for
+    <e type="italic">
+     A
+    </e>
+    ) by opposing the issue rather than supporting it or evading it. Once
+    <e type="italic">
+     A
+    </e>
+    recognizes this, its strategy obviously should be to evade, settling for 30 percent of the vote. Thus, a 30 to 70 percent division of the vote, to
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    respectively, is the game’s saddlepoint.
+   </p>
+   <p>
+    A more systematic way of finding a saddlepoint is to determine the so-called maximin and minimax values.
+    <e type="italic">
+     A
+    </e>
+    first determines the minimum percentage of votes it can obtain for each of its strategies; it then finds the maximum of these three minimum values, giving the maximin. The minimum percentages
+    <e type="italic">
+     A
+    </e>
+    will get if it supports, opposes, or evades are, respectively, 20, 25, and 30. The largest of these, 30, is the maximin value. Similarly, for each strategy
+    <e type="italic">
+     B
+    </e>
+    chooses, it determines the maximum percentage of votes
+    <e type="italic">
+     A
+    </e>
+    will win (and thus the minimum that it can win). In this case, if
+    <e type="italic">
+     B
+    </e>
+    supports, opposes, or evades, the maximum
+    <e type="italic">
+     A
+    </e>
+    will get is 80, 30, and 80, respectively.
+    <e type="italic">
+     B
+    </e>
+    will obtain its largest percentage by minimizing
+    <e type="italic">
+     A
+    </e>
+    ’s maximum percent of the vote, giving the minimax. The smallest of
+    <e type="italic">
+     A
+    </e>
+    ’s maximum values is 30, so 30 is
+    <e type="italic">
+     B
+    </e>
+    ’s minimax value. Because both the minimax and the maximin values coincide, 30 is a saddlepoint. The two parties might as well announce their strategies in advance, because the other party cannot gain from this knowledge.
+   </p>
+  </h2>
+  <h2 id="h22617">
+   <title>
+    Mixed strategies and the minimax theorem
+   </title>
+   <p>
+    <assembly id="a85151" url="/assembly/view/85151">
+     <title>
+      payoff matrix without saddlepoint
+     </title>
+     <media mediaid="91953" type="image" url="/53/91953-004-C953BD0E.jpg"/>
+     <caption>
+      Table 2 When a saddlepoint does not exist for a payoff matrix, a probabilistic strategy is optimal. Based on the possible rewards, the participants assign probabilities to each choice so as to maximize their expected (average) rewards. For instance, in this example the guard should protect the $100,000 deposit 10 out of 11 times and the $10,000 deposit 1 out of 11 times. Some type of random number generator (such as, here, an 11-sided die) is used to determine the appropriate strategy in order to avoid predictability.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    When saddlepoints exist, the optimal strategies and outcomes can be easily determined, as was just illustrated. However, when there is no saddlepoint the calculation is more elaborate, as illustrated in
+    <assemblyref assemblyid="a85151">
+     Table 2
+    </assemblyref>
+    .
+   </p>
+   <p>
+    A guard is hired to protect two safes in separate locations:
+    <e type="italic">
+     S
+    </e>
+    1 contains $10,000 and
+    <e type="italic">
+     S
+    </e>
+    2 contains $100,000. The guard can protect only one safe at a time from a safecracker. The safecracker and the guard must decide in advance, without knowing what the other party will do, which safe to try to rob and which safe to protect. When they go to the same safe, the safecracker gets nothing; when they go to different safes, the safecracker gets the contents of the unprotected safe.
+   </p>
+   <p>
+    In such a game, game theory does not indicate that any one particular strategy is best. Instead, it prescribes that a strategy be chosen in accordance with a probability distribution, which in this simple example is quite easy to calculate. In larger and more complex games, finding this strategy involves solving a problem in linear programming, which can be considerably more difficult.
+   </p>
+   <p>
+    To calculate the appropriate probability distribution in this example, each player adopts a strategy that makes him indifferent to what his opponent does. Assume that the guard protects
+    <e type="italic">
+     S
+    </e>
+    1 with probability
+    <e type="italic">
+     p
+    </e>
+    and
+    <e type="italic">
+     S
+    </e>
+    2 with probability 1 −
+    <e type="italic">
+     p
+    </e>
+    . Thus, if the safecracker tries
+    <e type="italic">
+     S
+    </e>
+    1, he will be successful whenever the guard protects
+    <e type="italic">
+     S
+    </e>
+    2. In other words, he will get $10,000 with probability 1 −
+    <e type="italic">
+     p
+    </e>
+    and $0 with probability
+    <e type="italic">
+     p
+    </e>
+    for an average gain of $10,000(1 −
+    <e type="italic">
+     p
+    </e>
+    ). Similarly, if the safecracker tries
+    <e type="italic">
+     S
+    </e>
+    2, he will get $100,000 with probability
+    <e type="italic">
+     p
+    </e>
+    and $0 with probability 1 −
+    <e type="italic">
+     p
+    </e>
+    for an average gain of $100,000
+    <e type="italic">
+     p
+    </e>
+    .
+   </p>
+   <p>
+    The guard will be indifferent to which safe the safecracker chooses if the average amount stolen is the same in both cases—that is, if $10,000(1 −
+    <e type="italic">
+     p
+    </e>
+    ) = $100,000
+    <e type="italic">
+     p
+    </e>
+    . Solving for
+    <e type="italic">
+     p
+    </e>
+    gives
+    <e type="italic">
+     p
+    </e>
+    = 1/11. If the guard protects
+    <e type="italic">
+     S
+    </e>
+    1 with probability 1/11 and
+    <e type="italic">
+     S
+    </e>
+    2 with probability 10/11, he will lose, on average, no more than about $9,091 whatever the safecracker does.
+   </p>
+   <p>
+    Using the same kind of argument, it can be shown that the safecracker will get an average of at least $9,091 if he tries to steal from
+    <e type="italic">
+     S
+    </e>
+    1 with probability 10/11 and from
+    <e type="italic">
+     S
+    </e>
+    2 with probability 1/11. This solution in terms of mixed strategies, which are assumed to be chosen at random with the indicated probabilities, is analogous to the solution of the game with a saddlepoint (in which a pure, or single best, strategy exists for each player).
+   </p>
+   <p>
+    The safecracker and the guard give away nothing if they announce the probabilities with which they will randomly choose their respective strategies. On the other hand, if they make themselves predictable by exhibiting any kind of pattern in their choices, this information can be exploited by the other player.
+   </p>
+   <p>
+    The minimax theorem, which von Neumann proved in 1928, states that every finite, two-person constant-sum game has a solution in pure or mixed strategies. Specifically, it says that for every such game between players
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    , there is a value
+    <e type="italic">
+     v
+    </e>
+    and strategies for
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    such that, if
+    <e type="italic">
+     A
+    </e>
+    adopts its optimal (maximin) strategy, the outcome will be at least as favourable to
+    <e type="italic">
+     A
+    </e>
+    as
+    <e type="italic">
+     v
+    </e>
+    ; if
+    <e type="italic">
+     B
+    </e>
+    adopts its optimal (minimax) strategy, the outcome will be no more favourable to
+    <e type="italic">
+     A
+    </e>
+    than
+    <e type="italic">
+     v
+    </e>
+    . Thus,
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    have both the incentive and the ability to enforce an outcome that gives an (expected) payoff of
+    <e type="italic">
+     v
+    </e>
+    .
+   </p>
+  </h2>
+  <h2 id="h22618">
+   <title>
+    Utility theory
+   </title>
+   <p>
+    In the previous example it was tacitly assumed that the players were maximizing their average profits, but in practice players may consider other factors. For example, few people would risk a sure gain of $1,000,000 for an even chance of winning either $3,000,000 or $0, even though the expected (average) gain from this bet is $1,500,000. In fact, many decisions that people make, such as buying insurance policies, playing lotteries, and gambling at a casino, indicate that they are not maximizing their average profits. Game theory does not attempt to state what a player’s goal should be; instead, it shows how a player can best achieve his goal, whatever that goal is.
+   </p>
+   <p>
+    Von Neumann and Morgenstern understood this distinction; to accommodate all players, whatever their goals, they constructed a theory of utility. They began by listing certain axioms that they thought all rational decision makers would follow (for example, if a person likes tea better than coffee, and coffee better than milk, then that person should like tea better than milk). They then proved that it was possible to define a utility function for such decision makers that would reflect their preferences. In essence, a utility function assigns a number to each player’s alternatives to convey their relative attractiveness. Maximizing someone’s expected utility automatically determines a player’s most preferred option. In recent years, however, some doubt has been raised about whether people actually behave in accordance with these axioms, and alternative axioms have been proposed.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h22619">
+  <title>
+   Two-person variable-sum games
+  </title>
+  <p>
+   Much of the early work in game theory was on two-person constant-sum games because they are the easiest to treat mathematically. The players in such games have diametrically opposed interests, and there is a consensus about what constitutes a solution (as given by the minimax theorem). Most games that arise in practice, however, are variable-sum games; the players have both common and opposed interests. For example, a buyer and a seller are engaged in a variable-sum game (the buyer wants a low price and the seller a high one, but both want to make a deal), as are two hostile nations (they may disagree about numerous issues, but both gain if they avoid going to war).
+  </p>
+  <p>
+   Some “obvious” properties of two-person constant-sum games are not valid in variable-sum games. In constant-sum games, for example, both players cannot gain (they may or may not lose, but they cannot both gain) if they are deprived of some of their strategies. In variable-sum games, however, players may gain if some of their strategies are no longer available. This might not seem possible at first. One would think that if a player benefited from not using certain strategies, the player would simply avoid those strategies and choose more advantageous ones, but this is not always the case. For example, in a region with high unemployment a worker may be willing to accept a lower salary to obtain or keep a job, but if a minimum wage law makes that option illegal, the worker may be “forced” to accept a higher salary.
+  </p>
+  <p>
+   The effect of communication is particularly revealing of the difference between constant-sum and variable-sum games. In constant-sum games it never helps a player to give an adversary information, and it never hurts a player to learn an opponent’s optimal strategy (pure or mixed) in advance. However, these properties do not necessarily hold in variable-sum games. Indeed, a player may want an opponent to be well-informed. In a labour-management dispute, for example, if the labour union is prepared to strike, it behooves the union to inform management and thereby possibly achieve its goal without a strike. In this example, management is not harmed by the advance information (it, too, benefits by avoiding a costly strike). In other variable-sum games, knowing an opponent’s strategy can sometimes be disadvantageous. For example, a blackmailer can only benefit if he first informs his victim that he will harm him—generally by disclosing some sensitive and secret details of the victim’s life—if his terms are not met. For such a threat to be credible, the victim must fear the disclosure and believe that the blackmailer is capable of executing the threat. (The credibility of threats is a question that game theory studies.) Although a blackmailer may be able to harm a victim without any communication taking place, a blackmailer cannot extort a victim unless he first adequately informs the victim of his intent and its consequences. Thus, the victim’s knowledge of the blackmailer’s strategy, including his ability and will to carry out the threat, works to the blackmailer’s advantage.
+  </p>
+  <h2 id="h22620">
+   <title>
+    Cooperative versus noncooperative games
+   </title>
+   <p>
+    Communication is pointless in constant-sum games because there is no possibility of mutual gain from cooperating. In variable-sum games, on the other hand, the ability to communicate, the degree of communication, and even the order in which players communicate can have a profound influence on the outcome.
+   </p>
+   <p>
+    <assembly id="a85153" url="/assembly/view/85153">
+     <title>
+      variable-sum payoff matrix
+     </title>
+     <media mediaid="91954" type="image" url="/54/91954-004-E606B248.jpg"/>
+     <caption>
+      Table 3 In variable-sum games each payoff depends on both players’ actions. Therefore, each matrix entry lists two payoffs, one for each player.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    In the variable-sum game shown in
+    <assemblyref assemblyid="a85153">
+     Table 3
+    </assemblyref>
+    , each matrix entry consists of two numbers. (Because the combined wealth of the players is not constant, it is impossible to deduce one player’s payoff from the payoff of the other; consequently, both players’ payoffs must be given.) The first number in each entry is the payoff to the row player (player
+    <e type="italic">
+     A
+    </e>
+    ), and the second number is the payoff to the column player (player
+    <e type="italic">
+     B
+    </e>
+    ).
+   </p>
+   <p>
+    In this example it will be to player
+    <e type="italic">
+     A
+    </e>
+    ’s advantage if the game is cooperative and to player
+    <e type="italic">
+     B
+    </e>
+    ’s advantage if the game is noncooperative. Without communication, assume each player applies the “sure-thing” principle: it maximizes its minimum payoff by determining the minimum it will receive whatever its opponent does. Thereby,
+    <e type="italic">
+     A
+    </e>
+    determines that it will do best to choose strategy I no matter what
+    <e type="italic">
+     B
+    </e>
+    does: if
+    <e type="italic">
+     B
+    </e>
+    chooses i,
+    <e type="italic">
+     A
+    </e>
+    will get 3 regardless of what
+    <e type="italic">
+     A
+    </e>
+    does; if
+    <e type="italic">
+     B
+    </e>
+    chooses ii,
+    <e type="italic">
+     A
+    </e>
+    will get 4 rather than 3.
+    <e type="italic">
+     B
+    </e>
+    similarly determines that it will do best to choose i no matter what
+    <e type="italic">
+     A
+    </e>
+    does. Selecting these two strategies,
+    <e type="italic">
+     A
+    </e>
+    will get 3 and
+    <e type="italic">
+     B
+    </e>
+    will get 4 at (3, 4).
+   </p>
+   <p>
+    In a cooperative game, however,
+    <e type="italic">
+     A
+    </e>
+    can threaten to play II unless
+    <e type="italic">
+     B
+    </e>
+    agrees to play ii. If
+    <e type="italic">
+     B
+    </e>
+    agrees, its payoff will be reduced to 3 while
+    <e type="italic">
+     A
+    </e>
+    ’s payoff will rise to 4 at (4, 3); if
+    <e type="italic">
+     B
+    </e>
+    does not agree and
+    <e type="italic">
+     A
+    </e>
+    carries out its threat,
+    <e type="italic">
+     A
+    </e>
+    will neither gain nor lose at (3, 2) compared to (3, 4), but
+    <e type="italic">
+     B
+    </e>
+    will get a payoff of only 2. Clearly,
+    <e type="italic">
+     A
+    </e>
+    will be unaffected if
+    <e type="italic">
+     B
+    </e>
+    does not agree and thus has a credible threat;
+    <e type="italic">
+     B
+    </e>
+    will be affected and obviously will do better at (4, 3) than at (3, 2) and should comply with the threat.
+   </p>
+   <p>
+    Sometimes both players can gain from the ability to communicate. Two pilots trying to avoid a midair collision clearly will benefit if they can communicate, and the degree of communication allowed between them may even determine whether or not they will crash. Generally, the more two players’ interests coincide, the more important and advantageous communication becomes.
+   </p>
+   <p>
+    The solution to a cooperative game in which players have a common goal involves coordinating the players’ decisions effectively. This is relatively straightforward, as is finding the solution to constant-sum games with a saddlepoint. For games in which the players have both common and conflicting interests—in other words, in most variable-sum games, whether cooperative or noncooperative—what constitutes a solution is much harder to define and make persuasive.
+   </p>
+  </h2>
+  <h2 id="h22621">
+   <title>
+    The Nash solution
+   </title>
+   <p>
+    Although solutions to variable-sum games have been defined in a number of different ways, they sometimes seem inequitable or are not enforceable. One well-known cooperative solution to two-person variable-sum games was proposed by the American mathematician
+    <xref articleid="1531">
+     John F. Nash
+    </xref>
+    , who received the
+    <xref articleid="343006">
+     Nobel Prize for Economics
+    </xref>
+    in 1994 for this and related work he did in game theory.
+   </p>
+   <p>
+    Given a game with a set of possible outcomes and associated utilities for each player, Nash showed that there is a unique outcome that satisfies four conditions: (1) The outcome is independent of the choice of a utility function (that is, if a player prefers
+    <e type="italic">
+     x
+    </e>
+    to
+    <e type="italic">
+     y
+    </e>
+    , the solution will not change if one function assigns
+    <e type="italic">
+     x
+    </e>
+    a utility of 10 and
+    <e type="italic">
+     y
+    </e>
+    a utility of 1 or a second function assigns the values of 20 and 2). (2) Both players cannot do better simultaneously (a condition known as Pareto-optimality). (3) The outcome is independent of irrelevant alternatives (in other words, if unattractive options are added to or dropped from the list of alternatives, the solution will not change). (4) The outcome is symmetrical (that is, if the players reverse their roles, the solution will remain the same, except that the payoffs will be reversed).
+   </p>
+   <p>
+    In some cases the Nash solution seems inequitable because it is based on a balance of threats—the possibility that no agreement will be reached, so that both players will suffer losses—rather than a “fair” outcome. When, for example, a rich person and a poor person are to receive $10,000 provided they can agree on how to divide the money (if they fail to agree, they receive nothing), most people assume that the fair solution would be for each person to get half, or even that the poor person should get more than half. According to the Nash solution, however, there is a utility for each player associated with all possible outcomes. Moreover, the specific choice of utility functions should not affect the solution (condition 1) as long as they reflect each person’s preferences. In this example, assume that the rich person’s utility is equal to one-half the money received and that the poor person’s utility is equal to the money received. These different functions reflect the fact that additional income is more precious to the poor person. Under the Nash solution, the threat of reaching no agreement induces the poor person to accept one-third of the $10,000, giving the rich person two-thirds. In general, the Nash solution finds an outcome such that each player gains the same amount of utility.
+   </p>
+  </h2>
+  <h2 id="h22622">
+   <title>
+    The prisoner’s dilemma
+   </title>
+   <p>
+    <assembly id="a85154" url="/assembly/view/85154">
+     <title>
+      prisoner’s dilemma
+     </title>
+     <media mediaid="91955" type="image" url="/55/91955-004-AF92CB6A.jpg"/>
+     <caption>
+      The prisoner’s dilemma is a well-known problem in game theory. It demonstrates how communication between the participants can drastically alter their best strategy.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    To illustrate the kinds of difficulties that arise in two-person noncooperative variable-sum games, consider the celebrated prisoner’s dilemma (PD), originally formulated by the American mathematician Albert W. Tucker. Two prisoners,
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    , suspected of committing a robbery together, are isolated and urged to confess. Each is concerned only with getting the shortest possible prison sentence for himself; each must decide whether to confess without knowing his partner’s decision. Both prisoners, however, know the consequences of their decisions: (1) if both confess, both go to jail for five years; (2) if neither confesses, both go to jail for one year (for carrying concealed weapons); and (3) if one confesses while the other does not, the confessor goes free (for turning state’s evidence) and the silent one goes to jail for 20 years. The normal form of this game is shown in
+    <assemblyref assemblyid="a85154">
+     Table 4
+    </assemblyref>
+    .
+   </p>
+   <p>
+    Superficially, the analysis of PD is very simple. Although
+    <e type="italic">
+     A
+    </e>
+    cannot be sure what
+    <e type="italic">
+     B
+    </e>
+    will do, he knows that he does best to confess when
+    <e type="italic">
+     B
+    </e>
+    confesses (he gets five years rather than 20) and also when
+    <e type="italic">
+     B
+    </e>
+    remains silent (he serves no time rather than a year); analogously,
+    <e type="italic">
+     B
+    </e>
+    will reach the same conclusion. So the solution would seem to be that each prisoner does best to confess and go to jail for five years. Paradoxically, however, the two robbers would do better if they both adopted the apparently irrational strategy of remaining silent; each would then serve only one year in jail. The irony of PD is that when each of two (or more) parties acts selfishly and does not cooperate with the other (that is, when he confesses), they do worse than when they act unselfishly and cooperate together (that is, when they remain silent).
+   </p>
+   <p>
+    PD is not just an intriguing hypothetical problem; real-life situations with similar characteristics have often been observed. For example, two shopkeepers engaged in a price war may well be caught up in a PD. Each shopkeeper knows that if he has lower prices than his rival, he will attract his rival’s customers and thereby increase his own profits. Each therefore decides to lower his prices, with the result that neither gains any customers and both earn smaller profits. Similarly, nations competing in an arms race and farmers increasing crop production can also be seen as manifestations of PD. When two nations keep buying more weapons in an attempt to achieve military superiority, neither gains an advantage and both are poorer than when they started. A single farmer can increase his profits by increasing production, but when all farmers increase their output a market glut ensues, with lower profits for all.
+   </p>
+   <p>
+    It might seem that the paradox inherent in PD could be resolved if the game were played repeatedly. Players would learn that they do best when both act unselfishly and cooperate. Indeed, if one player failed to cooperate in one game, the other player could retaliate by not cooperating in the next game, and both would lose until they began to “see the light” and cooperated again. When the game is repeated a fixed number of times, however, this argument fails. To see this, suppose two shopkeepers set up their booths at a 10-day county fair. Furthermore, suppose that each maintains full prices, knowing that if he does not, his competitor will retaliate the next day. On the last day, however, each shopkeeper realizes that his competitor can no longer retaliate and so there is little reason not to lower their prices. But if each shopkeeper knows that his rival will lower his prices on the last day, he has no incentive to maintain full prices on the ninth day. Continuing this reasoning, one concludes that rational shopkeepers will have a price war every day. It is only when the game is played repeatedly, and neither player knows when the sequence will end, that the cooperative strategy can succeed.
+   </p>
+   <p>
+    In 1980 the American political scientist Robert Axelrod engaged a number of game theorists in a round-robin tournament. In each match the strategies of two theorists, incorporated in computer programs, competed against one another in a sequence of PDs with no definite end. A “nice” strategy was defined as one in which a player always cooperates with a cooperative opponent. Also, if a player’s opponent did not cooperate during one turn, most strategies prescribed noncooperation on the next turn, but a player with a “forgiving” strategy reverted rapidly to cooperation once its opponent started cooperating again. In this experiment it turned out that every nice strategy outperformed every strategy that was not nice. Furthermore, of the nice strategies, the forgiving ones performed best.
+   </p>
+   <h3 id="h255880">
+    <title>
+     Theory of moves
+    </title>
+    <p>
+     Another approach to inducing cooperation in PD and other variable-sum games is the theory of moves (TOM). Proposed by the American political scientist Steven J. Brams, TOM allows players, starting at any outcome in a payoff matrix, to move and countermove within the matrix, thereby capturing the changing strategic nature of games as they evolve over time. In particular, TOM assumes that players think ahead about the consequences of all of the participants’ moves and countermoves when formulating plans. Thereby, TOM embeds extensive-form calculations within the normal form, deriving advantages of both forms: the nonmyopic thinking of the extensive form disciplined by the economy of the normal form.
+    </p>
+    <p>
+     To illustrate the nonmyopic perspective of TOM, consider what happens in PD as a function of where play starts:
+    </p>
+    <list type="ul">
+     <item>
+      When play starts noncooperatively, players are stuck, no matter how far ahead they look, because as soon as one player departs, the other player, enjoying his best outcome, will not move on. Outcome: The players stay at the noncooperative outcome.
+     </item>
+     <item>
+      When play starts cooperatively, neither player will defect, because if he does, the other player will also defect, and they both will end up worse off. Thinking ahead, therefore, neither player will defect. Outcome: The players stay at the cooperative outcome.
+     </item>
+     <item>
+      When play starts at one of the win-lose outcomes (best for one player, worst for the other), the player doing best will know that if he is not magnanimous, and consequently does not move to the cooperative outcome, his opponent will move to the noncooperative outcome, inflicting on the best-off player his next-worst outcome. Therefore, it is in the best-off player’s interest, as well as his opponent’s, that he act magnanimously, anticipating that if he does not, the noncooperative outcome (next-worst for both), rather than the cooperative outcome (next-best for both), will be chosen. Outcome: The best-off player will move to the cooperative outcome, where play will remain.
+     </item>
+    </list>
+    <p>
+     Such rational moves are not beyond the pale of most players. Indeed, they are frequently made by those who look beyond the immediate consequences of their own choices. Such far-sighted players can escape the dilemma in PD—as well as poor outcomes in other variable-sum games—provided play does not begin noncooperatively. Hence, TOM does not predict unconditional cooperation in PD but, instead, makes it a function of the starting point of play.
+    </p>
+   </h3>
+   <h3 id="h255881">
+    <title>
+     Biological applications
+    </title>
+    <p>
+     One fascinating and unexpected application of game theory in general, and PD in particular, occurs in biology. When two males confront each other, whether competing for a mate or for some disputed territory, they can behave either like “hawks”—fighting until one is maimed, killed, or flees—or like “doves”—posturing a bit but leaving before any serious harm is done. (In effect, the doves cooperate while the hawks do not.) Neither type of behaviour, it turns out, is ideal for survival: a species containing only hawks would have a high casualty rate; a species containing only doves would be vulnerable to an invasion by hawks or a mutation that produces hawks, because the population growth rate of the competitive hawks would be much higher initially than that of the doves.
+    </p>
+    <p>
+     Thus, a species with males consisting exclusively of either hawks or doves is vulnerable. The English biologist John Maynard Smith showed that a third type of male behaviour, which he called “bourgeois,” would be more stable than that of either pure hawks or pure doves. A bourgeois may act like either a hawk or a dove, depending on some external cues; for example, it may fight tenaciously when it meets a rival in its own territory but yield when it meets the same rival elsewhere. In effect, bourgeois animals submit their conflict to external arbitration to avoid a prolonged and mutually destructive struggle.
+    </p>
+    <p>
+     <assembly id="a85156" url="/assembly/view/85156">
+      <title>
+       biological competition
+      </title>
+      <media mediaid="91956" type="image" url="/56/91956-004-383215D5.jpg"/>
+      <caption>
+       Table 5 Bourgeois, or mixed attack/retreat behaviour, is the most stable strategy for a population. This strategy resists invasion by either hawks (which always attack) or doves (which always retreat). On the other hand, an all-hawk or all-dove population can be successfully invaded by bourgeois individuals because their expected payoff is higher (in terms of offspring) than either pure strategy.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     As shown in
+     <assemblyref assemblyid="a85156">
+      Table 5
+     </assemblyref>
+     , Smith constructed a payoff matrix in which various possible outcomes (e.g., death, maiming, successful mating), and the costs and benefits associated with them (e.g., cost of lost time), were weighted in terms of the expected number of genes propagated. Smith showed that a bourgeois invasion would be successful against a completely hawk population by observing that when a hawk confronts a hawk it loses 5, whereas a bourgeois loses only 2.5. (Because the population is assumed to be predominantly hawk, the success of the invasion can be predicted by comparing the average number of offspring a hawk will produce when it confronts another hawk with the average number of offspring a bourgeois will produce when confronting a hawk.) Patently, a bourgeois invasion against a completely dove population would be successful as well, gaining the bourgeois 6 offspring. On the other hand, a completely bourgeois population cannot be invaded by either hawks or doves, because the bourgeois gets 5 against bourgeois, which is more than either hawks or doves get when confronting bourgeois. Note in this application that the question is not what strategy a rational player will choose—animals are not assumed to make conscious choices, though their types may change through mutation—but what combinations of types are stable and hence likely to evolve.
+    </p>
+    <p>
+     Smith gave several examples that showed how the bourgeois strategy is used in practice. For example, male speckled wood butterflies seek sunlit spots on the forest floor where females are often found. There is a shortage of such spots, however, and in a confrontation between a stranger and an inhabitant, the stranger yields after a brief duel in which the combatants circle one another. The dueling skills of the adversaries have little effect on the outcome. When one butterfly is forcibly placed on another’s territory so that each considers the other the aggressor, the two butterflies duel with righteous indignation for a much longer time.
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h22624">
+  <title>
+   <e type="italic">
+    N
+   </e>
+   -person games
+  </title>
+  <p>
+   Theoretically,
+   <e type="italic">
+    n
+   </e>
+   -person games in which the players are not allowed to communicate and make binding agreements are not fundamentally different from two-person noncooperative games. In the two examples that follow, each involving three players, one looks for Nash equilibria—that is, stable outcomes from which no player would normally depart because to do so would be disadvantageous.
+  </p>
+  <h2 id="h255882">
+   <title>
+    Sequential and simultaneous truels
+   </title>
+   <p>
+    As an example of an
+    <e type="italic">
+     n
+    </e>
+    -person noncooperative game, imagine three players,
+    <e type="italic">
+     A
+    </e>
+    ,
+    <e type="italic">
+     B
+    </e>
+    , and
+    <e type="italic">
+     C
+    </e>
+    , situated at the corners of an equilateral triangle. They engage in a truel, or three-person duel, in which each player has a gun with one bullet. Assume that each player is a perfect shot and can kill one other player at any time. There is no fixed order of play, but any shooting that occurs is sequential: no player fires at the same time as any other. Consequently, if a bullet is fired, the results are known to all players before another bullet is fired.
+   </p>
+   <p>
+    Suppose that the players order their goals as follows: (1) survive alone, (2) survive with one opponent, (3) survive with both opponents, (4) not survive, with no opponents alive, (5) not survive, with one opponent alive, and (6) not survive, with both opponents alive. Thus, surviving alone is best, dying alone is worst.
+   </p>
+   <p>
+    If a player can either fire or not fire at another player, who, if anybody, will shoot whom? It is not difficult to see that outcome (3), in which nobody shoots, is the unique Nash equilibrium—any player that departs from not shooting does worse. Suppose, on the contrary, that
+    <e type="italic">
+     A
+    </e>
+    shoots
+    <e type="italic">
+     B
+    </e>
+    , hoping for
+    <e type="italic">
+     A
+    </e>
+    ’s outcome (2), whereby he and
+    <e type="italic">
+     C
+    </e>
+    survive. Now, however,
+    <e type="italic">
+     C
+    </e>
+    can shoot a disarmed
+    <e type="italic">
+     A
+    </e>
+    , thereby leaving himself as the sole survivor, or outcome (1). As this is
+    <e type="italic">
+     A
+    </e>
+    ’s penultimate outcome (5), in which
+    <e type="italic">
+     A
+    </e>
+    and one opponent (
+    <e type="italic">
+     B
+    </e>
+    ) are killed while the other opponent (
+    <e type="italic">
+     C
+    </e>
+    ) lives,
+    <e type="italic">
+     A
+    </e>
+    should not fire the first shot; the same reasoning applies to the other two players. Consequently, nobody will shoot, resulting in outcome (3), in which all three players survive.
+   </p>
+   <p>
+    Now consider whether any of the players can do better through collusion. Specifically, assume that
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    agree not to shoot each other; if either shoots another player, they agree it would be
+    <e type="italic">
+     C
+    </e>
+    . Nevertheless, if
+    <e type="italic">
+     A
+    </e>
+    shoots
+    <e type="italic">
+     C
+    </e>
+    (for instance),
+    <e type="italic">
+     B
+    </e>
+    could now repudiate the agreement with impunity and shoot
+    <e type="italic">
+     A
+    </e>
+    , thereby becoming the sole survivor.
+   </p>
+   <p>
+    Thus, thinking ahead about the unpleasant consequences of shooting first or colluding with another player to do so, nobody will shoot or collude. Thereby all players will survive if the players must act in sequence, giving outcome (3). Because no player can do better by shooting, or saying they will do so to another, these strategies yield a Nash equilibrium.
+   </p>
+   <p>
+    Next, suppose that the players act simultaneously; hence, they must decide in ignorance of each others’ intended actions. This situation is common in life: people often must act before they find out what others are doing. In a simultaneous truel there are three possibilities, depending on the number of rounds and whether or not this number is known:
+   </p>
+   <list type="ul">
+    <item>
+     One round. Now everybody will find it rational to shoot an opponent at the start of play. This is because no player can affect his own fate, but each does at least as well, and sometimes better, by shooting another player—whether the shooter lives or dies—because the number of surviving opponents is reduced. Hence, the Nash equilibrium is that everybody will shoot. When each player chooses his target at random, it is easy to see that each has a 25 percent chance of surviving. Consider player
+     <e type="italic">
+      A
+     </e>
+     ; he will die if
+     <e type="italic">
+      B
+     </e>
+     ,
+     <e type="italic">
+      C
+     </e>
+     , or both shoot him (three cases), compared with his surviving if
+     <e type="italic">
+      B
+     </e>
+     and
+     <e type="italic">
+      C
+     </e>
+     shoot each other (one case). Altogether, one of
+     <e type="italic">
+      A
+     </e>
+     ,
+     <e type="italic">
+      B
+     </e>
+     , or
+     <e type="italic">
+      C
+     </e>
+     will survive with probability 75 percent, and nobody will survive with probability 25 percent (when each player shoots a different opponent). Outcome: There will always be shooting, leaving one or no survivors.
+    </item>
+    <item>
+     <e type="italic">
+      N
+     </e>
+     rounds (
+     <e type="italic">
+      n
+     </e>
+     ≥ 2 and known). Assume that nobody has shot an opponent up to the penultimate, or (
+     <e type="italic">
+      n
+     </e>
+     − 1)st, round. Then, on the penultimate round, either of at least two players will rationally shoot or none will. First, consider the situation in which an opponent shoots
+     <e type="italic">
+      A
+     </e>
+     . Clearly,
+     <e type="italic">
+      A
+     </e>
+     can never do better than shoot, because
+     <e type="italic">
+      A
+     </e>
+     is going to be killed anyway. Moreover,
+     <e type="italic">
+      A
+     </e>
+     does better to shoot at whichever opponent (there must be at least one) that is not a target of
+     <e type="italic">
+      B
+     </e>
+     or
+     <e type="italic">
+      C
+     </e>
+     . On the other hand, suppose that nobody shoots
+     <e type="italic">
+      A
+     </e>
+     . If
+     <e type="italic">
+      B
+     </e>
+     and
+     <e type="italic">
+      C
+     </e>
+     shoot each other, then
+     <e type="italic">
+      A
+     </e>
+     has no reason to shoot (although
+     <e type="italic">
+      A
+     </e>
+     cannot be harmed by doing so). However, if one opponent, say
+     <e type="italic">
+      B
+     </e>
+     , holds his fire, and
+     <e type="italic">
+      C
+     </e>
+     shoots
+     <e type="italic">
+      B
+     </e>
+     ,
+     <e type="italic">
+      A
+     </e>
+     again cannot do better than hold his fire also, because he can eliminate
+     <e type="italic">
+      C
+     </e>
+     on the next round. (Note that
+     <e type="italic">
+      C
+     </e>
+     , because it has already fired his only bullet, does not threaten
+     <e type="italic">
+      A
+     </e>
+     .) Finally, suppose that both
+     <e type="italic">
+      B
+     </e>
+     and
+     <e type="italic">
+      C
+     </e>
+     hold their fire. If
+     <e type="italic">
+      A
+     </e>
+     shoots an opponent, say
+     <e type="italic">
+      B
+     </e>
+     , then his other opponent,
+     <e type="italic">
+      C
+     </e>
+     , will eliminate
+     <e type="italic">
+      A
+     </e>
+     on the last, or
+     <e type="italic">
+      n
+     </e>
+     th, round. But if
+     <e type="italic">
+      A
+     </e>
+     holds his fire, the game passes onto the
+     <e type="italic">
+      n
+     </e>
+     th round and, as discussed in (1) above,
+     <e type="italic">
+      A
+     </e>
+     has a 25 percent chance of surviving, assuming random choices. Thus, if nobody else shoots on the (
+     <e type="italic">
+      n
+     </e>
+     − 1)st round,
+     <e type="italic">
+      A
+     </e>
+     again cannot do better than hold his fire during this round. Whether the players refrain from shooting on the (
+     <e type="italic">
+      n
+     </e>
+     − 1)st round or not—each strategy may be a best response to what the other players do—shooting will be rational on the
+     <e type="italic">
+      n
+     </e>
+     th round if there is more than one survivor and at least one player has a bullet remaining. Moreover, the anticipation of shooting on the (
+     <e type="italic">
+      n
+     </e>
+     −1)st or
+     <e type="italic">
+      n
+     </e>
+     th round may cause players to fire earlier, perhaps even back to the first and second rounds. Outcome: There will always be shooting, leaving one or no survivors.
+    </item>
+    <item>
+     <e type="italic">
+      N
+     </e>
+     rounds (
+     <e type="italic">
+      n
+     </e>
+     unlimited). The new wrinkle here is that it may be rational for no player to shoot on any round, leading to the survival of all three players. How can this happen? The argument in (1) above that “if you are shot at, you might as well shoot somebody” still applies. However, even if you are, say,
+     <e type="italic">
+      A
+     </e>
+     , and
+     <e type="italic">
+      B
+     </e>
+     shoots
+     <e type="italic">
+      C
+     </e>
+     , you cannot do better than shoot
+     <e type="italic">
+      B
+     </e>
+     , making yourself the sole survivor—outcome (1). As before, you do best—whether you are shot at or not—if you shoot somebody who is not the target of anybody else, beginning on the first round. Suppose, however, that
+     <e type="italic">
+      B
+     </e>
+     and
+     <e type="italic">
+      C
+     </e>
+     refrain from shooting in the first round, and consider
+     <e type="italic">
+      A
+     </e>
+     ’s situation. Shooting an opponent is not rational for
+     <e type="italic">
+      A
+     </e>
+     on the first round because the surviving opponent will then shoot
+     <e type="italic">
+      A
+     </e>
+     on the next round (there will always be a next round if
+     <e type="italic">
+      n
+     </e>
+     is unlimited). On the other hand, if all the players hold their fire, and continue to do so in subsequent rounds, then all three players will remain alive. While there is no “best” strategy in all situations, the possibilities of survival will increase if
+     <e type="italic">
+      n
+     </e>
+     is unlimited. Outcome: There may be zero, one (any of
+     <e type="italic">
+      A
+     </e>
+     ,
+     <e type="italic">
+      B
+     </e>
+     , or
+     <e type="italic">
+      C
+     </e>
+     ), or three survivors, but never two. To summarize, shooting is never rational in a sequential truel, whereas it is always rational in a simultaneous truel that goes only one round. Thus, “nobody shoots” and “everybody shoots” are the Nash equilibria in these two kinds of truels. In simultaneous truels that go more than one round, by comparison, there are multiple Nash equilibria. If the number of rounds is known, then there is one Nash equilibrium in which a player shoots, and one in which he does not, at the start, but in the end there will be only one or no survivors. When the number of rounds is unlimited, however, a new Nash equilibrium is possible in which nobody shoots on any round. Thus, like PD with an uncertain number of rounds, an unlimited number of rounds in a truel can lead to greater cooperation.
+    </item>
+   </list>
+  </h2>
+  <h2 id="h255883">
+   <title>
+    Power in voting: the paradox of the chair’s position
+   </title>
+   <p>
+    Many applications of
+    <e type="italic">
+     n
+    </e>
+    -person game theory are concerned with voting, in which strategic calculations are often rampant. Surprisingly, these calculations can result in the ostensibly most powerful player in a voting body being hurt. For example, assume the chair of a voting body, while not having more votes than other members, can break ties. This would seem to make the chair more powerful, but it turns out that the possession of a tie-breaking vote may backfire, putting the chair at a disadvantage relative to the other members. In this manner the greater resources that a player has may not always translate into greater power, which here will mean the ability of a player to obtain a preferred outcome.
+   </p>
+   <p>
+    In the three-person noncooperative voting game to be analyzed, players are assumed to rank the possible outcomes that can occur. The problem in finding a solution is not a lack of Nash equilibria, but too many. So the question becomes, Which, if any, are likely to be selected by the players? Specifically, is one more appealing than the others? The answer is “yes,” but it requires extending the idea of a sure-thing strategy to its successive application in different stages of play.
+   </p>
+   <p>
+    To illustrate the chair’s problem, suppose there are three voters (
+    <e type="italic">
+     X
+    </e>
+    ,
+    <e type="italic">
+     Y
+    </e>
+    , and
+    <e type="italic">
+     Z
+    </e>
+    ) and three voting alternatives (
+    <e type="italic">
+     x
+    </e>
+    ,
+    <e type="italic">
+     y
+    </e>
+    , and
+    <e type="italic">
+     z
+    </e>
+    ). Assume that voter
+    <e type="italic">
+     X
+    </e>
+    prefers
+    <e type="italic">
+     x
+    </e>
+    to
+    <e type="italic">
+     y
+    </e>
+    and
+    <e type="italic">
+     y
+    </e>
+    to
+    <e type="italic">
+     z
+    </e>
+    , indicated by
+    <e type="italic">
+     x
+    </e>
+    <e type="italic">
+     y
+    </e>
+    <e type="italic">
+     z
+    </e>
+    ; voter
+    <e type="italic">
+     Y
+    </e>
+    ’s preference is
+    <e type="italic">
+     y
+    </e>
+    <e type="italic">
+     z
+    </e>
+    <e type="italic">
+     x
+    </e>
+    , and voter
+    <e type="italic">
+     Z
+    </e>
+    ’s is
+    <e type="italic">
+     z
+    </e>
+    <e type="italic">
+     x
+    </e>
+    <e type="italic">
+     y
+    </e>
+    . These preferences give rise to what is known as a Condorcet voting paradox because the social ordering, according to majority rule, is intransitive: although a majority of voters (
+    <e type="italic">
+     X
+    </e>
+    and
+    <e type="italic">
+     Z
+    </e>
+    ) prefers
+    <e type="italic">
+     x
+    </e>
+    to
+    <e type="italic">
+     y
+    </e>
+    , and a majority (
+    <e type="italic">
+     X
+    </e>
+    and
+    <e type="italic">
+     Y
+    </e>
+    ) prefers
+    <e type="italic">
+     y
+    </e>
+    to
+    <e type="italic">
+     z
+    </e>
+    , a majority (
+    <e type="italic">
+     Y
+    </e>
+    and
+    <e type="italic">
+     Z
+    </e>
+    ) also prefers
+    <e type="italic">
+     z
+    </e>
+    to
+    <e type="italic">
+     x
+    </e>
+    . (The French
+    <xref articleid="32680">
+     Enlightenment
+    </xref>
+    philosopher
+    <xref articleid="25130">
+     Marie-Jean-Antoine-Nicolas Condorcet
+    </xref>
+    first examined such voting paradoxes following the
+    <xref articleid="35357">
+     French Revolution
+    </xref>
+    .) So there is no Condorcet winner—that is, an alternative that would beat every other choice in separate pairwise contests.
+   </p>
+   <p>
+    Assume that a simple plurality determines the winning alternative. Furthermore, in the event of a three-way tie (there can never be a two-way tie if there are three votes), assume that the chair,
+    <e type="italic">
+     X
+    </e>
+    , can break the tie, giving the chair what would appear to be an edge over the other two voters,
+    <e type="italic">
+     Y
+    </e>
+    and
+    <e type="italic">
+     Z
+    </e>
+    , who have the same one vote but no tie-breaker.
+   </p>
+   <p>
+    Under sincere voting, everyone votes for his first choice, without taking into account what the other voters might do. In this case, voter
+    <e type="italic">
+     X
+    </e>
+    will get his first choice (
+    <e type="italic">
+     x
+    </e>
+    ) by being able to break a three-way tie in favour of
+    <e type="italic">
+     x
+    </e>
+    . However,
+    <e type="italic">
+     X
+    </e>
+    ’s apparent advantage will disappear if voting is “sophisticated.”
+   </p>
+   <p>
+    To see why, first note that
+    <e type="italic">
+     X
+    </e>
+    has a sure-thing, or dominant, strategy of “vote for
+    <e type="italic">
+     x
+    </e>
+    ”; it is never worse and sometimes better than any other strategy, whatever the other two voters do. Thus, if the other two voters vote for the same alternative,
+    <e type="italic">
+     x
+    </e>
+    will win; and
+    <e type="italic">
+     X
+    </e>
+    cannot do better than vote sincerely for
+    <e type="italic">
+     x
+    </e>
+    , so voting sincerely is never worse. On the other hand, if the other two voters disagree,
+    <e type="italic">
+     X
+    </e>
+    ’s tie-breaking vote (along with his regular vote) will be decisive in
+    <e type="italic">
+     x
+    </e>
+    ’s selection, which is
+    <e type="italic">
+     X
+    </e>
+    ’s best outcome.
+   </p>
+   <p>
+    <assembly id="a89994" url="/assembly/view/89994">
+     <title>
+      first reduction table
+     </title>
+     <media mediaid="91957" type="image" url="/57/91957-004-DEEA4F73.jpg"/>
+     <caption>
+      Table 6 First reduction table.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    Given the dominant-strategy choice of
+    <e type="italic">
+     x
+    </e>
+    on the part of
+    <e type="italic">
+     X
+    </e>
+    , then
+    <e type="italic">
+     Y
+    </e>
+    and
+    <e type="italic">
+     Z
+    </e>
+    face reduced strategy choices, as shown in
+    <assemblyref assemblyid="a89994">
+     Table 6
+    </assemblyref>
+    for the first reduction. (It is a reduction because
+    <e type="italic">
+     X
+    </e>
+    ’s strategy of voting for
+    <e type="italic">
+     x
+    </e>
+    is taken as a given.) In this reduction,
+    <e type="italic">
+     Y
+    </e>
+    has one, and
+    <e type="italic">
+     Z
+    </e>
+    has two, dominated strategies (indicated by
+    <e type="italic">
+     D
+    </e>
+    ), which are never better and sometimes worse than some other strategy, whatever the other two voters do. For example, observe that “vote for
+    <e type="italic">
+     x
+    </e>
+    ” by
+    <e type="italic">
+     Y
+    </e>
+    always leads to his worst outcome,
+    <e type="italic">
+     x
+    </e>
+    . This leaves
+    <e type="italic">
+     Y
+    </e>
+    with two undominated strategies, “vote for
+    <e type="italic">
+     y
+    </e>
+    ” and “vote for
+    <e type="italic">
+     z
+    </e>
+    ,” which are neither dominant nor dominated strategies: “vote for
+    <e type="italic">
+     y
+    </e>
+    ” is better than “vote for
+    <e type="italic">
+     z
+    </e>
+    ” if
+    <e type="italic">
+     Z
+    </e>
+    chooses
+    <e type="italic">
+     y
+    </e>
+    (leading to
+    <e type="italic">
+     y
+    </e>
+    rather than
+    <e type="italic">
+     x
+    </e>
+    ), whereas the reverse is the case if
+    <e type="italic">
+     Z
+    </e>
+    chooses
+    <e type="italic">
+     z
+    </e>
+    (leading to
+    <e type="italic">
+     z
+    </e>
+    rather than
+    <e type="italic">
+     x
+    </e>
+    ). By contrast,
+    <e type="italic">
+     Z
+    </e>
+    has a dominant strategy of “vote for
+    <e type="italic">
+     z
+    </e>
+    ,” which leads to outcomes at least as good as and sometimes better than his other two strategies.
+   </p>
+   <p>
+    <assembly id="a89995" url="/assembly/view/89995">
+     <title>
+      second reduction table
+     </title>
+     <media mediaid="91958" type="image" url="/58/91958-004-1596614E.jpg"/>
+     <caption>
+      Table 7 Second reduction table.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    When voters have complete information about each other’s preferences, they will eliminate the dominated strategies in the first reduction. The elimination of these strategies gives the second reduction matrix, as shown in
+    <assemblyref assemblyid="a89995">
+     Table 7
+    </assemblyref>
+    . Then
+    <e type="italic">
+     Y
+    </e>
+    , choosing between “vote for
+    <e type="italic">
+     y
+    </e>
+    ” and “vote for
+    <e type="italic">
+     z
+    </e>
+    ” in this matrix, would eliminate the now dominated “vote for
+    <e type="italic">
+     y
+    </e>
+    ” because that choice would result in
+    <e type="italic">
+     x
+    </e>
+    ’s winning due to the chair’s tie-breaking vote. Instead,
+    <e type="italic">
+     Y
+    </e>
+    would choose “vote for
+    <e type="italic">
+     z
+    </e>
+    ,” ensuring
+    <e type="italic">
+     z
+    </e>
+    ’s election, which is the next-best outcome for
+    <e type="italic">
+     Y
+    </e>
+    . In this manner
+    <e type="italic">
+     z
+    </e>
+    , which is not the first choice of a majority and could in fact be beaten by
+    <e type="italic">
+     y
+    </e>
+    in a pairwise contest, becomes the sophisticated outcome, which is the outcome produced by the successive elimination of dominated strategies by the voters (beginning with
+    <e type="italic">
+     X
+    </e>
+    ’s sincere choice of
+    <e type="italic">
+     x
+    </e>
+    ).
+   </p>
+   <p>
+    Sophisticated voting results in a Nash equilibrium because none of the players can do better by departing from their sophisticated strategy. This is clearly true for
+    <e type="italic">
+     X
+    </e>
+    , because
+    <e type="italic">
+     x
+    </e>
+    is his dominant strategy; given
+    <e type="italic">
+     X
+    </e>
+    ’s choice of
+    <e type="italic">
+     x
+    </e>
+    ,
+    <e type="italic">
+     z
+    </e>
+    is dominant for
+    <e type="italic">
+     Z
+    </e>
+    ; and given these choices by
+    <e type="italic">
+     X
+    </e>
+    and
+    <e type="italic">
+     Z
+    </e>
+    ,
+    <e type="italic">
+     z
+    </e>
+    is dominant for
+    <e type="italic">
+     Y
+    </e>
+    . These “contingent” dominance relations, in general, make sophisticated strategies a Nash equilibrium.
+   </p>
+   <p>
+    Observe, however, that there are four other Nash equilibria in this game. First, the choice of each of
+    <e type="italic">
+     x
+    </e>
+    ,
+    <e type="italic">
+     y
+    </e>
+    , or
+    <e type="italic">
+     z
+    </e>
+    by all three voters are all Nash equilibria, because no single voter’s departure can change the outcome to a different one, much less a better one, for that player. In addition, the choice of
+    <e type="italic">
+     x
+    </e>
+    by
+    <e type="italic">
+     X
+    </e>
+    ,
+    <e type="italic">
+     y
+    </e>
+    by
+    <e type="italic">
+     Y
+    </e>
+    , and
+    <e type="italic">
+     x
+    </e>
+    by
+    <e type="italic">
+     Z
+    </e>
+    —resulting in
+    <e type="italic">
+     x
+    </e>
+    —is also a Nash equilibrium, because no voter’s departure would lead to his obtaining a better outcome.
+   </p>
+   <p>
+    In game-theoretic terms, sophisticated voting produces a different and smaller game in which some formerly undominated strategies in the larger game become dominated in the smaller game. The removal of such strategies—sometimes in several successive stages—can enable each voter to determine what outcomes are likely. In particular, sophisticated voters can foreclose the possibility that their worst outcomes will be chosen by successively removing dominated strategies, given the presumption that other voters will do likewise.
+   </p>
+   <p>
+    How does sophisticated voting affect the chair’s presumed extra voting power? Observe that the chair’s tie-breaking vote is not only not helpful but positively harmful: it guarantees that
+    <e type="italic">
+     X
+    </e>
+    ’s worst outcome (
+    <e type="italic">
+     z
+    </e>
+    ) will be chosen if voting is sophisticated. When voters’ preferences are not so conflictual (note that the three voters have different first, second, and third choices when, as here, there is a Condorcet voting paradox), the paradox of the chair’s position does not occur, making this paradox the exception rather than the rule.
+   </p>
+  </h2>
+  <h2 id="h22625">
+   <title>
+    The von Neumann–Morgenstern theory
+   </title>
+   <p>
+    Von Neumann and Morgenstern were the first to construct a cooperative theory of
+    <e type="italic">
+     n
+    </e>
+    -person games. They assumed that various groups of players might join together to form coalitions, each of which has an associated value defined as the minimum amount that the coalition can ensure by its own efforts. (In practice, such groups might be blocs in a legislative body or business partners in a conglomerate.) They described these
+    <e type="italic">
+     n
+    </e>
+    -person games in characteristic-function form—that is, by listing the individual players (one-person coalitions), all possible coalitions of two or more players, and the values that each of these coalitions could ensure if a counter-coalition comprising all other players acted to minimize the amount that the coalition can obtain. They also assumed that the characteristic function is superadditive: the value of a coalition of two formerly separate coalitions is at least as great as the sum of the separate values of the two coalitions.
+   </p>
+   <p>
+    The sum of payments to the players in each coalition must equal the value of that coalition. Moreover, each player in a coalition must receive no less than what he could obtain playing alone; otherwise, he would not join the coalition. Each set of payments to the players describes one possible outcome of an
+    <e type="italic">
+     n
+    </e>
+    -person cooperative game and is called an imputation. Within a coalition
+    <e type="italic">
+     S
+    </e>
+    , an imputation
+    <e type="italic">
+     X
+    </e>
+    is said to dominate another imputation
+    <e type="italic">
+     Y
+    </e>
+    if each player in
+    <e type="italic">
+     S
+    </e>
+    gets more with
+    <e type="italic">
+     X
+    </e>
+    than with
+    <e type="italic">
+     Y
+    </e>
+    and if the players in
+    <e type="italic">
+     S
+    </e>
+    receive a total payment that does not exceed the coalition value of
+    <e type="italic">
+     S
+    </e>
+    . This means that players in the coalition prefer the payoff
+    <e type="italic">
+     X
+    </e>
+    to the payoff
+    <e type="italic">
+     Y
+    </e>
+    and have the power to enforce this preference.
+   </p>
+   <p>
+    Von Neumann and Morgenstern defined the solution to an
+    <e type="italic">
+     n
+    </e>
+    -person game as a set of imputations satisfying two conditions: (1) no imputation in the solution dominates another imputation in the solution and (2) any imputation not in the solution is dominated by another one in the solution. A von Neumann–Morgenstern solution is not a single outcome but, rather, a set of outcomes, any one of which may occur. It is stable because, for the members of the coalition, any imputation outside the solution is dominated by—and is therefore less attractive than—an imputation within the solution. The imputations within the solution are viable because they are not dominated by any other imputations in the solution.
+   </p>
+   <p>
+    In any given cooperative game there are generally many—sometimes infinitely many—solutions. A simple three-person game that illustrates this fact is one in which any two players, as well as all three players, receive one unit, which they can divide between or among themselves in any way that they wish; individual players receive nothing. In such a case the value of each two-person coalition, and the three-person coalition as well, is 1.
+   </p>
+   <p>
+    One solution to this game consists of three imputations, in each of which one player receives 0 and the other two players receive 1/2 each. There is no self-domination within the solution, because if one imputation is substituted for another, one player gets more, one gets less, and one gets the same (for domination, each of the players forming a coalition must gain). In addition, any imputation outside the solution is dominated by one in the solution, because the two players with the lowest payoffs must each get less than 1/2; clearly, this imputation is dominated by an imputation in the solution in which these two players each get 1/2. According to this solution, at any given time one of its three imputations will occur, but von Neumann and Morgenstern do not predict which one.
+   </p>
+   <p>
+    A second solution to this game consists of all the imputations in which player
+    <e type="italic">
+     A
+    </e>
+    receives 1/4 and players
+    <e type="italic">
+     B
+    </e>
+    and
+    <e type="italic">
+     C
+    </e>
+    share the remaining 3/4. Although this solution gives a different set of outcomes from the first solution, it, too, satisfies von Neumann and Morgenstern’s two conditions. For any imputation within the solution, player
+    <e type="italic">
+     A
+    </e>
+    always gets 1/4 and therefore cannot gain. In addition, because players
+    <e type="italic">
+     B
+    </e>
+    and
+    <e type="italic">
+     C
+    </e>
+    share a fixed sum, if one of them gains in a proposed imputation, the other must lose. Thus, no imputation in the solution dominates another imputation in the solution.
+   </p>
+   <p>
+    For any imputation not in the solution, player
+    <e type="italic">
+     A
+    </e>
+    must get either more or less than 1/4. When
+    <e type="italic">
+     A
+    </e>
+    gets more than 1/4, players
+    <e type="italic">
+     B
+    </e>
+    and
+    <e type="italic">
+     C
+    </e>
+    share less than 3/4 and, therefore, can do better with an imputation within the solution. When player
+    <e type="italic">
+     A
+    </e>
+    gets less than 1/4, say 1/8, he always does better with an imputation in the solution. Players
+    <e type="italic">
+     B
+    </e>
+    and
+    <e type="italic">
+     C
+    </e>
+    now have more to share; but no matter how they split the new total of 7/8, there is an imputation in the solution that one of them will prefer. When they share equally, each gets 7/16; but player
+    <e type="italic">
+     B
+    </e>
+    , for example, can get more in the imputation (1/4, 1/2, 1/4), which is in the solution. When players
+    <e type="italic">
+     B
+    </e>
+    and
+    <e type="italic">
+     C
+    </e>
+    do not divide the 7/8 equally, the player who gets the smaller amount can always do better with an imputation in the solution. Thus, any imputation outside the solution is dominated by one inside the solution. Similarly, it can be shown that all of the imputations in which player
+    <e type="italic">
+     B
+    </e>
+    gets 1/4 and players
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     C
+    </e>
+    share 3/4, as well as the set of all imputations in which player
+    <e type="italic">
+     C
+    </e>
+    gets 1/4 and players
+    <e type="italic">
+     A
+    </e>
+    and
+    <e type="italic">
+     B
+    </e>
+    share 3/4, also constitute a solution to the game.
+   </p>
+   <p>
+    Although there may be many solutions to a game (each representing a different “standard of behaviour”), it was not apparent at first that there would always be at least one in every cooperative game. Von Neumann and Morgenstern found no game without a solution, and they deemed it important that no such game exists. However, in 1967 a fairly complicated 10-person game was discovered by the American mathematician William F. Lucas that did not have a solution. This and later counterexamples indicated that the von Neumann–Morgenstern solution is not universally applicable, but it remains compelling, especially since no definitive theory of
+    <e type="italic">
+     n
+    </e>
+    -person cooperative games exists.
+   </p>
+  </h2>
+  <h2 id="h255884">
+   <title>
+    The Banzhaf value in voting games
+   </title>
+   <p>
+    In the section
+    <xref articleid="109420" refid="h255883">
+     Power in voting: the paradox of the chair’s position
+    </xref>
+    , it was shown that power defined as control over outcomes is not synonymous with control over resources, such as a chair’s tie-breaking vote. The strategic situation facing voters intervenes and may cause them to reassess their strategies in light of the additional resources that the chair possesses. In doing so, they may be led to “gang up” against the chair. (Note that
+    <e type="italic">
+     Y
+    </e>
+    and
+    <e type="italic">
+     Z
+    </e>
+    do this without any explicit communication or binding agreement; the coalition they form against the chair
+    <e type="italic">
+     X
+    </e>
+    is an implicit one and the game, therefore, remains a noncooperative one.) In effect, the chair’s resources become a burden to bear, not power to relish.
+   </p>
+   <p>
+    When players’ preferences are not known beforehand, though, it is useful to define power in terms of their ability to alter the outcome by changing their votes, as governed by a constitution, bylaws, or other rules of the game. Various measures of voting power have been proposed for simple games, in which every coalition has a value of 1 (if it has enough votes to win) or 0 (if it does not). The sum of the powers of all the players is 1. When a player has 0 power, his vote has no influence on the outcome; when a player has a power of 1, the outcome depends only on his vote. The key to calculating voting power is determining the frequency with which a player casts a critical vote.
+   </p>
+   <p>
+    American attorney John F. Banzhaf III proposed that all combinations in which any player is the critical voter—that is, in which a measure passes only with this voter’s support—be considered equally likely. The Banzhaf value for each player is then the number of combinations in which this voter is critical divided by the total number of combinations in which each voter (including this one) is critical.
+   </p>
+   <p>
+    This view is not compatible with defining the voting power of a player to be proportional to the number of votes he casts, because votes per se may have little or no bearing on the choice of outcomes. For example, in a three-member voting body in which
+    <e type="italic">
+     A
+    </e>
+    has 4 votes,
+    <e type="italic">
+     B
+    </e>
+    2 votes, and
+    <e type="italic">
+     C
+    </e>
+    1 vote, members
+    <e type="italic">
+     B
+    </e>
+    and
+    <e type="italic">
+     C
+    </e>
+    will be powerless if a simple majority wins. The fact that members
+    <e type="italic">
+     B
+    </e>
+    and
+    <e type="italic">
+     C
+    </e>
+    together control 3/7 of the votes is irrelevant in the selection of outcomes, so these members are called dummies. Member
+    <e type="italic">
+     A
+    </e>
+    , by contrast, is a dictator by virtue of having enough votes alone to determine the outcome. A voting body can have only one dictator, whose existence renders all other members dummies, but there may be dummies and no dictator (an example is given below).
+   </p>
+   <p>
+    A minimal winning coalition (MWC) is one in which the subtraction of at least one of its members renders it losing. To illustrate the calculation of Banzhaf values, consider a voting body with two 2-vote members (distinguished as 2a and 2b) and one 3-vote member, in which a simple majority wins. There are three distinct MWCs—(3, 2a), (3, 2b), and (2a, 2b)—or combinations in which some voter is critical; the grand coalition, comprising all three members, (3, 2a, 2b), is not an MWC because no single member’s defection would cause it to lose.
+   </p>
+   <p>
+    As each member’s defection is critical in two MWCs, each member’s proportion of voting power is two-sixths, or one-third. Thus, the Banzhaf index, which gives the Banzhaf values for each member in
+    <xref articleid="384392">
+     vector
+    </xref>
+    form, is (1/3, 1/3, 1/3). Clearly, the voting power of the 3-vote member is the same as that of each of the two 2-vote members, although the 3-vote member has 50 percent greater weight (more votes) than each of the 2-vote members.
+   </p>
+   <p>
+    The discrepancy between voting weight and voting power is more dramatic in the voting body (50, 49, 1) where, again, a simple majority wins. The 50-vote member is critical in all three MWCs—(50, 1), (50, 49), and (50, 49, 1), giving him a veto because his presence is necessary for a coalition to be winning—whereas the 49-vote member is critical in only (50, 49) and the 1-vote member in only (50, 1). Thus, the Banzhaf index for (50, 49, 1) is (3/5, 1/5, 1/5), making the 49-vote member indistinguishable from the 1-vote member; the 50-vote member, with just one more vote than the 49-vote member, has three times as much voting power.
+   </p>
+   <p>
+    In 1958 six West European countries formed the
+    <xref articleid="33265">
+     European Economic Community
+    </xref>
+    (EEC). The three large countries (West Germany, France, and Italy) each had 4 votes on its Council of Ministers, the two medium-size countries (Belgium and the Netherlands) 2 votes each, and the one small country (Luxembourg) 1 vote. The decision rule of the Council was a qualified majority of 12 out of 17 votes, giving the large countries Banzhaf values of 5/21 each, the medium-size countries 1/7 each, and—amazingly—Luxembourg no voting power at all. From 1958 to 1973—when the EEC admitted three additional members—Luxembourg was a dummy. Luxembourg might as well not have gone to Council meetings except to participate in the debate, because its one vote could never change the outcome. To see this without calculating the Banzhaf values of all the members, note that the votes of the five other countries are all even numbers. Therefore, an MWC with exactly 12 votes could never include Luxembourg’s (odd) 1 vote; while a 13-vote MWC that included Luxembourg could form, Luxembourg’s defection would never render such an MWC losing. It is worth noting that as the Council kept expanding with the addition of new countries and the formation of the European Union, Luxembourg never reverted to being a dummy, even though its votes became an ever smaller proportion of the total.
+   </p>
+   <p>
+    The Banzhaf and other power indices, rooted in cooperative game theory, have been applied to many voting bodies, not necessarily weighted, sometimes with surprising results. For example, the Banzhaf index has been used to calculate the power of the 5 permanent and 10 nonpermanent members of the United Nations Security Council. (The permanent members, all with a veto, have 83 percent of the power.) It has also been used to compare the power of representatives, senators, and the president in the U.S. federal system.
+   </p>
+   <p>
+    Banzhaf himself successfully challenged the constitutionality of the weighted-voting system used in Nassau county, New York, showing that three of the County Board’s six members were dummies. Likewise, the former Board of Estimate of New York City, in which three citywide officials (mayor, chair of the city council, and comptroller) had two votes each and the five borough presidents had one vote each, was declared unconstitutional by the U.S. Supreme Court; this was because Brooklyn had approximately six times the population of Staten Island but the same one vote on the Board, in violation of the equal-protection clause of the 14th Amendment of the U.S. Constitution that requires “one person, one vote.” Finally, it has been argued that the U.S.
+    <xref articleid="32264">
+     Electoral College
+    </xref>
+    , which is effectively a weighted voting body because almost all states cast their electoral votes as blocs, violates one person, one vote in presidential elections, because voters from large states have approximately three times as much voting power, on a per-capita basis, as voters from small states.
+   </p>
+   <p>
+    Game theory is now well established and widely used in a variety of disciplines. The foundations of economics, for example, are increasingly grounded in game theory; among game theory’s many applications in economics is the design of Federal Communications Commission auctions of airwaves, which have netted the U.S. government billions of dollars. Game theory is being used increasingly in political science to study strategy in areas as diverse as campaigns and elections, defense policy, and international relations. In biology, business, management science, computer science, and law, game theory has been used to model a variety of strategic situations. Game theory has even penetrated areas of philosophy (e.g., to study the equilibrium properties of ethical rules), religion (e.g., to interpret Bible stories), and pure mathematics (e.g., to analyze how to divide a cake fairly among
+    <e type="italic">
+     n
+    </e>
+    people). All in all, game theory holds out great promise not only for advancing the understanding of strategic interaction in very different settings but also for offering prescriptions for the design of better auction, bargaining, voting, and information systems that involve strategic choice.
+   </p>
+   <signature>
+    Morton D. Davis
+   </signature>
+   <signature>
+    Steven J. Brams
+   </signature>
+  </h2>
+ </h1>
+ <h1 id="h22630">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   The seminal work in game theory is
+   <e type="smallcap">
+    John von Neumann
+   </e>
+   and
+   <e type="smallcap">
+    Oskar Morgenstern
+   </e>
+   ,
+   <e type="italic">
+    Theory of Games and Economic Behavior
+   </e>
+   , 3rd ed. (1953, reprinted 1980).
+   <e type="smallcap">
+    Avinash K. Dixit
+   </e>
+   and
+   <e type="smallcap">
+    Barry J. Nalebuff
+   </e>
+   ,
+   <e type="italic">
+    Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life
+   </e>
+   (1991), uses case studies, without formal mathematical analysis, to introduce the principles of game theory. Two introductions that require only high school algebra are
+   <e type="smallcap">
+    Avinash K. Dixit
+   </e>
+   and
+   <e type="smallcap">
+    Susan Skeath
+   </e>
+   ,
+   <e type="italic">
+    Games of Strategy
+   </e>
+   (1999); and
+   <e type="smallcap">
+    Philip D. Straffin
+   </e>
+   ,
+   <e type="italic">
+    Game Theory
+   </e>
+   (1993).
+  </p>
+  <p>
+   Applications of game theory are presented in
+   <e type="smallcap">
+    Nesmith C. Ankeny
+   </e>
+   ,
+   <e type="italic">
+    Poker Strategy: Winning with Game Theory
+   </e>
+   (1981, reprinted 1982);
+   <e type="smallcap">
+    Robert Axelrod
+   </e>
+   ,
+   <e type="italic">
+    The Evolution of Cooperation
+   </e>
+   (1984);
+   <e type="smallcap">
+    Douglas G. Baird
+   </e>
+   ,
+   <e type="smallcap">
+    Robert H. Gertner
+   </e>
+   , and
+   <e type="smallcap">
+    Randal C. Picker
+   </e>
+   ,
+   <e type="italic">
+    Game Theory and the Law
+   </e>
+   (1994);
+   <e type="smallcap">
+    Steven J. Brams
+   </e>
+   ,
+   <e type="italic">
+    Biblical Games: Game Theory and the Hebrew Bible
+   </e>
+   , 2nd ed. (2002);
+   <e type="smallcap">
+    Steven J. Brams
+   </e>
+   ,
+   <e type="italic">
+    Theory of Moves
+   </e>
+   (1994);
+   <e type="smallcap">
+    Dan S. Felsenthal
+   </e>
+   and
+   <e type="smallcap">
+    Moshé Machover
+   </e>
+   ,
+   <e type="italic">
+    The Measurement of Voting Power: Theory and Practice, Problems and Paradoxes
+   </e>
+   (1998);
+   <e type="smallcap">
+    Barry O’Neill
+   </e>
+   ,
+   <e type="italic">
+    Honor, Symbols, and War
+   </e>
+   (1999); and
+   <e type="smallcap">
+    Karl Sigmund
+   </e>
+   ,
+   <e type="italic">
+    Games of Life: Explorations in Ecology, Evolution, and Behavior
+   </e>
+   (1993).
+  </p>
+  <p>
+   Histories of game theory can be found in
+   <e type="smallcap">
+    William Poundstone
+   </e>
+   ,
+   <e type="italic">
+    Prisoner’s Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb
+   </e>
+   (1992); and
+   <e type="smallcap">
+    E. Roy Weintraub
+   </e>
+   (ed.),
+   <e type="italic">
+    Toward a History of Game Theory
+   </e>
+   (1992).
+  </p>
+  <signature>
+   Steven J. Brams
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

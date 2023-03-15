@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="32309" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:47:57" url="/article/electromagnet/32309" version="3">
+ <title>
+  electromagnet
+ </title>
+ <p>
+  <e type="bold">
+   electromagnet
+  </e>
+  , device consisting of a core of magnetic material surrounded by a coil through which an electric current is passed to magnetize the core. An electromagnet is used wherever controllable magnets are required, as in contrivances in which the magnetic flux is to be varied, reversed, or switched on and off.
+ </p>
+ <p>
+  The engineering design of electromagnets is systematized by means of the concept of the magnetic circuit. In the magnetic circuit a magnetomotive force
+  <e type="italic">
+   F,
+  </e>
+  or
+  <e type="italic">
+   F
+  </e>
+  m, is defined as the ampere-turns of the coil that generates the magnetic field to produce the magnetic flux in the circuit. Thus, if a coil of
+  <e type="italic">
+   n
+  </e>
+  turns per metre carries a current
+  <e type="italic">
+   i
+  </e>
+  amperes, the field inside the coil is
+  <e type="italic">
+   ni
+  </e>
+  amperes per metre and the magnetomotive force that it generates is
+  <e type="italic">
+   nil
+  </e>
+  ampere-turns, where
+  <e type="italic">
+   l
+  </e>
+  is the length of the coil. More conveniently, the magnetomotive force is
+  <e type="italic">
+   Ni,
+  </e>
+  where
+  <e type="italic">
+   N
+  </e>
+  is the total number of turns in the coil. The magnetic flux density
+  <e type="italic">
+   B
+  </e>
+  is the equivalent, in the magnetic circuit, of the current density in an electric circuit. In the magnetic circuit the magnetic equivalent to current is the total flux symbolized by the Greek letter phi,
+  <e type="italic">
+   ϕ
+  </e>
+  , given by
+  <e type="italic">
+   BA,
+  </e>
+  where
+  <e type="italic">
+   A
+  </e>
+  is the cross-sectional area of the magnetic circuit. In an electric circuit the electromotive force (
+  <e type="italic">
+   E
+  </e>
+  ) is related to the current,
+  <e type="italic">
+   i,
+  </e>
+  in the circuit by
+  <e type="italic">
+   E
+  </e>
+  =
+  <e type="italic">
+   Ri,
+  </e>
+  where
+  <e type="italic">
+   R
+  </e>
+  is the resistance of the circuit. In the magnetic circuit
+  <e type="italic">
+   F
+  </e>
+  =
+  <e type="italic">
+   rϕ,
+  </e>
+  where
+  <e type="italic">
+   r
+  </e>
+  is the reluctance of the magnetic circuit and is equivalent to resistance in the electric circuit. Reluctance is obtained by dividing the length of the magnetic path
+  <e type="italic">
+   l
+  </e>
+  by the permeability times the cross-sectional area
+  <e type="italic">
+   A
+  </e>
+  ; thus
+  <e type="italic">
+   r
+  </e>
+  =
+  <e type="italic">
+   l/μA,
+  </e>
+  the Greek letter mu,
+  <e type="italic">
+   μ,
+  </e>
+  symbolizing the permeability of the medium forming the magnetic circuit. The units of reluctance are ampere-turns per weber. These concepts can be employed to calculate the reluctance of a magnetic circuit and thus the current required through a coil to force the desired flux through this circuit.
+ </p>
+ <p>
+  Several assumptions involved in this type of calculation, however, make it at best only an approximate guide to design. The effect of a permeable medium on a magnetic field can be visualized as being to crowd the magnetic lines of force into itself. Conversely, the lines of force passing from a region of high to one of low permeability tend to spread out, and this occurrence will take place at an air gap. Thus the flux density, which is proportional to the number of lines of force per unit area, will be reduced in the air gap by the lines bulging out, or fringing, at the sides of the gap. This effect will increase for longer gaps; rough corrections can be made for taking the fringing effect into account.
+ </p>
+ <p>
+  It has also been assumed that the magnetic field is entirely confined within the coil. In fact, there is always a certain amount of leakage flux, represented by magnetic lines of force around the outside of the coil, which does not contribute to the magnetization of the core. The leakage flux is generally small if the permeability of the magnetic core is relatively high.
+ </p>
+ <p>
+  In practice, the permeability of a magnetic material is a function of the flux density in it. Thus, the calculation can only be done for a real material if the actual magnetization curve, or, more usefully, a graph of
+  <e type="italic">
+   μ
+  </e>
+  against
+  <e type="italic">
+   B,
+  </e>
+  is available.
+ </p>
+ <p>
+  Finally, the design assumes that the magnetic core is not magnetized to saturation. If it were, the flux density could not be increased in the air gap in this design, no matter how much current were passed through the coil. These concepts are expanded further in following sections on specific devices.
+ </p>
+ <h1 id="h2074">
+  <title>
+   Solenoids.
+  </title>
+  <p>
+   <assembly id="a5344" url="/assembly/view/5344">
+    <media mediaid="197" type="image" url="/97/197-004-512E13B5.jpg"/>
+    <caption>
+     Figure 1: Elements of a solenoid
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   A solenoid is generally a long coil through which current is flowing, establishing a magnetic field. More narrowly, the name has come to refer to an electromechanical device that produces a mechanical motion on being energized with an electric current. In its simplest form it consists of an iron frame enclosing the coil and a cylindrical plunger moving inside the coil, as shown in
+   <assemblyref assemblyid="a5344">
+    Figure 1
+   </assemblyref>
+   . For an alternating current supply, the iron losses in a solid frame restrict the efficiency and a laminated frame is used, which is made up of a pile of thin sheets of iron cut to the appropriate shape and stacked with a layer of insulating varnish between each sheet. When the coil is energized, the plunger moves into the coil by virtue of the magnetic attraction between it and the frame until it makes contact with the frame.
+  </p>
+  <p>
+   Alternating-current solenoids tend to be more powerful in the fully open position than direct-current units. This occurs because the initial current, high because of the inductance of the coil, is lowered by the air gap between the plunger and frame. As the solenoid closes, this air gap decreases, the inductance of the coil increases, and the alternating current through it falls. If an alternating-current solenoid sticks in the open position the coil is likely to burn out.
+  </p>
+  <p>
+   When a solenoid is fully opened, it has a large air gap, and the high reluctance of this gap keeps the flux in the magnetic circuit low for a given magnetomotive force, and the force on the plunger is correspondingly low. As the plunger closes, the reluctance falls and the flux increases so that the force increases progressively. Manufacturers of solenoids provide force-stroke curves so that users can select the proper unit for their purpose. The curve can be modified by spring loading the plunger so that the force provided throughout the stroke may be matched to the particular mechanical load.
+  </p>
+ </h1>
+ <h1 id="h2075">
+  <title>
+   Relays.
+  </title>
+  <p>
+   A relay is a device in which the solenoid principle is applied to opening and closing light-current electrical circuits. The same device applied in heavy-current circuits is called a contactor, or circuit breaker.
+  </p>
+  <p>
+   <assembly id="a5345" url="/assembly/view/5345">
+    <media mediaid="198" type="image" url="/98/198-004-6AD264B1.jpg"/>
+    <caption>
+     Figure 2: Elements of a relay
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   Because the amount of mechanical movement required is generally small, the solenoid plunger is usually stationary, and part of the frame is hinged to give the necessary movement. This arrangement is illustrated schematically in
+   <assemblyref assemblyid="a5345">
+    Figure 2
+   </assemblyref>
+   . When the coil is energized, the hinged part of the frame is attracted to the solid iron core in the coil; this attraction pushes the contacts together. When the energizing current is removed, the hinged part is forced back to the open position by the springiness of the contact.
+  </p>
+  <p>
+   <assembly id="a5346" url="/assembly/view/5346">
+    <media mediaid="199" type="image" url="/99/199-004-BFDC93E3.jpg"/>
+    <caption>
+     Figure 3: Elements of a reed relay
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   With the appearance of transistorized switching circuits, which use remarkably low power, a need arose for a relay that would operate reliably with a power of 100 to 300 milliwatts, compared with 4 watts for the conventional relay. This need was met by the reed relay, or reed switch, shown in
+   <assemblyref assemblyid="a5346">
+    Figure 3
+   </assemblyref>
+   . It consists of two flat blades of 50–50 nickel–iron alloy that overlap with a gap between them. When a magnetic field is applied along the length of the blades, opposite magnetic poles are induced in the overlapping parts, and they are attracted together, making electrical contact. On removal of the field, the springiness of the contact blade opens the contact. The overlap region is plated on each blade with gold to ensure good electrical contact, and the enclosing glass capsule is filled with dry nitrogen to prevent corrosion. The field required to operate the device is a function of the amount of overlap, and there is an optimum overlap corresponding to minimum required operating current.
+  </p>
+  <p>
+   Present reed switches used in telephone equipment are operated by up to 50 volts direct current. Typically, the reed closes at 58 ampere-turns and releases at 15 ampere-turns, the hold current being 27 ampere-turns. The contact closes to give a stable contact resistance in 2 milliseconds, releases in 100 microseconds, and has a lifetime of more than 50,000,000 operations. Using a 35,000 turn coil the coil resistance is typically 18,600 ohms so that the current at 50 volts is 2.7 milliamperes. The minimum operating condition requires only about 1.7 milliamperes, so that the relay can be worked satisfactorily at lower voltage.
+  </p>
+  <p>
+   By the use of small, external, permanent magnets, reed switches can be made into latching relays that remain closed when the energizing field is removed. They can also be designed with three blades to give changeover contacts.
+  </p>
+ </h1>
+ <h1 id="h2076">
+  <title>
+   Design of large electromagnets.
+  </title>
+  <p>
+   Sooner or later almost every scientific research laboratory finds that it requires a facility for producing large magnetic fields. A number of advanced technologies likewise require large electromagnets. A cyclotron, for example, is a device used for scientific research in which subatomic charged particles are accelerated by an alternating electric field in a constant magnetic field. It uses a large magnet to produce moderate fields but with a pole diameter that may be several metres. Some industries make use of huge, high-powered electromagnets for lifting purposes.
+  </p>
+  <p>
+   <assembly id="a5347" url="/assembly/view/5347">
+    <media mediaid="200" type="image" url="/00/200-004-EF1EB500.jpg"/>
+    <caption>
+     Figure 4: Elements of a typical electromagnet
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   The basic design principles of large electromagnets are those discussed earlier. The difficulties arise in trying to estimate the magnitude of the fringing flux across the air gap and the leakage flux around the coils. Their effects are minimized by using a tapered shape for the cores and pole caps; a typical laboratory magnet is shown in
+   <assemblyref assemblyid="a5347">
+    Figure 4
+   </assemblyref>
+   . Because soft iron saturates at 2.16 webers per square m, flux densities in the air gap are generally limited to the region of 2.1 webers per square m with iron magnets.
+  </p>
+  <p>
+   When designed for lifting or load-carrying purposes, an electromagnet may be required to have a single exposed pole face to which the load to be carried will attach itself, and it will therefore have the shape of a bar magnet. The design is then dominated by the demagnetizing field. Suitably designed magnets can lift many times their own weight and are in general use in steelworks and scrapyards.
+  </p>
+ </h1>
+ <h1 id="h2077">
+  <title>
+   Principal applications
+  </title>
+  <p>
+   Electromagnets have a wide variety of uses. A summary of the principles of operation of some of the important devices in a few major areas of application—communications, research, electrical industry, and magnetic recording—is given below.
+  </p>
+  <p>
+   Modern telephone systems are based on the reed relay, together with solid-state circuits for complex routing of connections. The telephone receiver is basically an electromagnet with a U-shaped yoke having coils wound on each leg of the U. Passage of the electrical signal through the coils causes magnetic attraction of a soft-iron diaphragm supported a small distance from the ends of the U. The diaphragm is deflected by an amount proportional to the magnitude of the current in the coil and generates sound waves as it moves back and forth. Improvement in magnetic materials has increased the sensitivity of the telephone receiver, but the basic design has remained unchanged.
+  </p>
+  <p>
+   The loudspeaker performs the same function as the earphone of the telephone receiver but is required to displace a larger volume of air. The diaphragm comprises a flexible cone of large area carrying a coil of fine wire on a small ring located at its apex. The ring lies between the poles of a powerful cylindrically shaped permanent magnet. Audio-frequency current through the coil causes deflection of the diaphragm, as in the earphone. Modern loudspeakers are much more sensitive and efficient than their predecessors because of the improvement in permanent-magnet materials. The higher the flux density in the gap, the greater the sensitivity and the potential for fidelity of reproduction; modern loudspeakers use flux densities of up to one weber per square m. Alloy magnets are usually used.
+  </p>
+  <p>
+   Magnetic fields supply a powerful research tool without which modern physics could scarcely have grown to its present extent. A major area of application is in the interaction of magnetic fields and charged subatomic particles. A moving particle that carries a charge, such as an electron, can be regarded as an electric current and, like a current-carrying wire, experiences a force in a magnetic field. The direction of the force is perpendicular both to the direction of motion of the particle and to the magnetic field, so that the particle is deflected from its original path. This principle can be used to focus a stream of electrons into a narrow beam and to deflect the beam by creating suitable magnetic fields, either from permanent magnets or from electromagnets. Every television receiver contains just such focusing and deflection systems to scan the face of the television tube with an electron beam.
+  </p>
+  <p>
+   In scientific applications the same principle is used in the electron microscope, in which the beam of electrons is passed through a series of magnetic “lenses,” just as light is passed through glass lenses in a conventional microscope.
+  </p>
+  <p>
+   As noted above, the cyclotron makes use of a magnetic field to cause charged particles to execute a circular path. On each traverse of the circle they are accelerated and finally acquire enormous kinetic energy (energy of motion). The cyclotron has been an important tool in nuclear research and in the production of radioactive isotopes.
+  </p>
+  <p>
+   The same principle may be used to analyze materials in the mass spectrometer. The actual deflection of a moving charged particle in a magnetic field is determined by its charge, mass, and velocity. In a mass spectrometer the material under investigation is in the form of a gas of ionized particles that are accelerated by a fixed electric field. In passing through the magnetic field the particles are deflected by an amount determined by their mass, providing they all carry the same charge. By recording their arrival position at a fixed target, the mass of the particles can be deduced.
+  </p>
+  <p>
+   The electrical industry is founded on the generation and exploitation of magnetic fields. The electric motor is based on the force generated on a current-carrying conductor; the generator is based on the inverse effect that a conductor moving in a magnetic field has a current induced in it. In general, high-flux densities are required in the magnetic circuits of motors and generators, and this requirement has led to the use of soft iron or silicon–iron electromagnets as the source of magnetic fields in them. With the advent of modern permanent-magnet materials, however, small direct-current motors, in which the field is provided by permanent magnets, are finding wide applications, particularly in the toy industry (
+   <e type="italic">
+    see
+   </e>
+   <xref articleid="50017">
+    magnet
+   </xref>
+   ).
+  </p>
+  <p>
+   The principle of magnetic recording is to induce a permanent magnetization in a material by means of the signal to be recorded. The induced magnetization must be proportional to the amplitude of the signal and must remain in the material when the signal is removed. Thus, a magnetic material is required that has a high permeability, so that it will magnetize readily in a small field; a high remanent magnetization, so that the stored information can be easily “read”; and not too high (but not too low) a coercive force, so that the stored information can be erased without great difficulty.
+  </p>
+  <p>
+   The most common type of magnetic recorder makes use of a magnetic tape. This passes at constant speed close to a recording head that may consist of a U-shaped magnet yoke with coils wound on each limb. As the current in the coil varies in accordance with the audio-frequency signal to be recorded, a varying magnetization is induced in the tape. To play back the recorded information, the tape is passed through or near a coil so that the magnetic flux from the tape cuts the wires of the coil and induces an audio-frequency current in it. The tape may be erased by passing it through a recording head that carries a high-frequency signal, which has the effect of demagnetizing the tape.
+  </p>
+  <p>
+   Computer information is in a particularly simple form for magnetic storage because it consists of a chain of electrical pulses of standard amplitude. Material requirements for the tape are not so stringent as for audio recording, the important feature being only that the tape should not demagnetize spontaneously. Many computers have replaced tape storage by discs of magnetic alloy that rotate under the recording head. Information can be stored at a higher density (bits per unit area) than in tape, and access to the information can be made faster by traversing the “read” head in a radial direction across the discs. For information on other related magnetic recording devices,
+   <e type="italic">
+    see
+   </e>
+   <xref articleid="50029">
+    magnetic recording
+   </xref>
+   .
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

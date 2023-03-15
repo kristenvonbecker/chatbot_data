@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="474203" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 06:09:34" url="/article/environmental-scanning-electron-microscope/474203" version="2">
+ <title>
+  environmental scanning electron microscope (ESEM)
+ </title>
+ <p>
+  <e type="bold">
+   environmental scanning electron microscope (ESEM)
+  </e>
+  , type of
+  <xref articleid="32323">
+   electron microscope
+  </xref>
+  . Unlike the conventional
+  <xref articleid="474202">
+   scanning electron microscope
+  </xref>
+  , the ESEM obviates the need for special specimen preparation (for example, covering the specimen with
+  <xref articleid="37211">
+   gold
+  </xref>
+  to render it electrically conducting is unnecessary) and can examine a specimen at various temperatures and in a gaseous atmosphere, thus obviating the need for a hard vacuum. The environment in an ESEM can be selected from among water vapour, air,
+  <xref articleid="55947">
+   nitrogen
+  </xref>
+  ,
+  <xref articleid="9382">
+   argon
+  </xref>
+  , and
+  <xref articleid="57841">
+   oxygen
+  </xref>
+  , and such dynamic phenomena as wetting, drying, melting, freezing, crystallization, and corrosion can be observed with an ESEM.
+ </p>
+ <p>
+  The key to the functioning of an ESEM is the design of the secondary
+  <xref articleid="32316">
+   electron
+  </xref>
+  detector, which relies on gas ionization. Primary electrons are emitted from the gun, and they eject secondary electrons from the surface of the specimen. These secondary electrons are accelerated toward the moderate electric field of the detector. Collisions between the electrons and gas
+  <xref articleid="53247">
+   molecules
+  </xref>
+  liberate more free electrons that perpetuate the signal. Positive
+  <xref articleid="42688">
+   ions
+  </xref>
+  in the gaseous environment neutralize an excess electron charge on the specimen, and controlling the pressure reduces surface charging on the specimen.
+ </p>
+ <p>
+  A mechanical substage is capable of allowing tensile, compression, flexion, and load control modes, with the possibility of using micromanipulators and a pipette, which can add liquids during observation. A wide range of stage temperatures is available. It is thus possible to study corrosion as it happens and even to make routine observations of living
+  <xref articleid="117436">
+   arthropods
+  </xref>
+  .
+ </p>
+ <signature>
+  Brian J. Ford
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

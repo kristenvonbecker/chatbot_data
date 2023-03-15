@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="9286" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 20:24:21" url="/article/Archimedes-principle/9286" version="8">
+ <title>
+  Archimedes’ principle
+ </title>
+ <p>
+  <assembly id="a170696" url="/assembly/view/170696">
+   <title>
+    Archimedes’ principle of buoyancy
+   </title>
+   <media mediaid="153030" type="image" url="/30/153030-004-41FAF000.jpg"/>
+   <caption>
+    Archimedes’ principle of buoyancy. Here a 5-kg object immersed in water is shown being acted upon by a buoyant (upward) force of 2 kg, which is equal to the weight of the water displaced by the immersed object. The buoyant force reduces the object’s apparent weight by 2 kg—that is, from 5 kg to 3 kg.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   Archimedes’ principle
+  </e>
+  ,
+  <assemblyref assemblyid="a170696"/>
+  physical law of buoyancy, discovered by the ancient Greek mathematician and inventor
+  <xref articleid="109383">
+   Archimedes
+  </xref>
+  , stating that any body completely or partially submerged in a fluid (
+  <xref articleid="110302">
+   gas
+  </xref>
+  or
+  <xref articleid="110301">
+   liquid
+  </xref>
+  ) at rest is acted upon by an upward, or buoyant,
+  <xref articleid="34834">
+   force
+  </xref>
+  , the magnitude of which is equal to the weight of the fluid displaced by the body. The volume of displaced fluid is equivalent to the volume of an object fully immersed in a fluid or to that fraction of the volume below the surface for an object partially submerged in a liquid. The weight of the displaced portion of the fluid is equivalent to the magnitude of the buoyant force. The buoyant force on a body floating in a liquid or gas is also equivalent in magnitude to the weight of the floating object and is opposite in direction; the object neither rises nor sinks. For example, a ship that is launched sinks into the ocean until the weight of the water it displaces is just equal to its own weight. As the ship is loaded, it sinks deeper, displacing more water, and so the magnitude of the buoyant force continuously matches the weight of the ship and its cargo.
+ </p>
+ <p>
+  <assembly id="a204500" url="/assembly/view/204500">
+   <title>
+    Discover why an object will float or sink
+   </title>
+   <media mediaid="181395" thumburl="/95/181395-049-673A20CE.jpg" type="video" url=""/>
+   <caption>
+    Learn what determines whether an object in water will float or sink.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a204500"/>
+  If the weight of an object is less than that of the displaced fluid, the object rises, as in the case of a block of
+  <xref articleid="110435">
+   wood
+  </xref>
+  that is released beneath the surface of
+  <xref articleid="76210">
+   water
+  </xref>
+  or a
+  <xref articleid="1713">
+   helium
+  </xref>
+  -filled balloon that is let loose in
+  <xref articleid="5193">
+   air
+  </xref>
+  . An object heavier than the amount of the fluid it displaces, though it sinks when released, has an apparent weight loss equal to the weight of the fluid displaced. In fact, in some accurate weighings, a correction must be made in order to compensate for the buoyancy effect of the surrounding air.
+ </p>
+ <p>
+  <assembly id="a232733" url="/assembly/view/232733">
+   <title>
+    buoyancy
+   </title>
+   <media mediaid="62818" type="image" url="/18/62818-004-D0ABDFC1.jpg"/>
+   <caption>
+    The weight of a ship acts through the ship’s centre of gravity (G). It is counteracted by buoyancy—the force of displaced water—which acts upward through a centre of buoyancy (B). When a ship is upright (left), the forces are in direct opposition. When the ship heels (right), B shifts to the low side. Buoyancy then acts through the metacentre (M), a point on the ship’s centreline above G.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a232733"/>
+  The buoyant force, which always opposes
+  <xref articleid="106265">
+   gravity
+  </xref>
+  , is nevertheless caused by gravity. Fluid pressure increases with depth because of the (gravitational) weight of the fluid above. This increasing pressure applies a force on a submerged object that increases with depth. The result is buoyancy.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

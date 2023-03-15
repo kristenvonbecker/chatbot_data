@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="63015" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 00:47:15" url="/article/reference-frame/63015" version="3">
+ <title>
+  reference frame
+ </title>
+ <p>
+  <e type="bold">
+   reference frame
+  </e>
+  , also called
+  <e type="bold">
+   frame of reference
+  </e>
+  , in dynamics, system of graduated lines symbolically attached to a body that serve to describe the position of points relative to the body. The position of a point on the surface of the Earth, for example, can be described by degrees of latitude, measured north and south from the Equator, and degrees of longitude, measured east and west from the great circle passing through Greenwich, England, and the poles.
+ </p>
+ <p>
+  The reference frames used in dynamics are known as coordinate systems with axes (lines) emanating from a point known as the origin. The position of a point moving parallel to a plane (plane motion) can be described by two numbers: (1) either the distances of the point from two lines at right angles to one another on the plane (rectangular coordinates), or (2) the length of a line with one end fixed at the origin and the other end at the moving point and the angle that the line makes with a fixed axis (polar coordinates). Motion in three dimensions can be described by three rectangular coordinates or by the length of a line emanating from the origin and two angles (spherical coordinates); one of these angles is equivalent to degrees of longitude and the other to degrees of latitude. In all cases a line from the origin to the point is known as the position vector for the point. As the point moves, the
+  <xref articleid="61022">
+   position vector
+  </xref>
+  changes in both magnitude and direction, and the velocity of the point is defined in terms of these changes.
+ </p>
+ <p>
+  Strictly speaking, Newton’s laws of motion are valid only in a coordinate system at rest with respect to the “fixed” stars. Such a system is known as a Newtonian, or inertial reference, frame. The laws are also valid in any set of rigid axes moving with constant velocity and without rotation relative to the inertial frame; this concept is known as the principle of Newtonian or Galilean relativity. A coordinate system attached to the Earth is not an inertial reference frame because the Earth rotates and is accelerated with respect to the Sun. Although the solutions to most engineering problems can be obtained to a satisfactory degree of accuracy by assuming that an Earth-based reference frame is an inertial one, there are some applications in which the rotation of the Earth cannot be neglected; among these is the operation of a gyroscopic compass. (See
+  <xref articleid="22100">
+   centrifugal force
+  </xref>
+  ;
+  <xref articleid="26305">
+   Coriolis force
+  </xref>
+  .)
+ </p>
+ <p>
+  To describe the position of a point that moves relative to a body that is moving relative to the Earth, it is usually convenient to use a reference frame attached to the moving body. The motion of the piston in the engine of a moving automobile, for example, is of more interest relative to the block than relative to the ground, whereas the motion of the moving parts of the engine relative to one another may be more important than their motions relative to the block.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

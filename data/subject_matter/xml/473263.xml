@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="473263" articletypeid="1" language="en_us" lastupdate="2021-Aug-06 11:30:27" url="/article/scientific-visualization/473263" version="3">
+ <title>
+  scientific visualization
+ </title>
+ <p>
+  <assembly id="a257524" url="/assembly/view/257524">
+   <title>
+    Venus
+   </title>
+   <media mediaid="210527" type="image" url="/27/210527-004-C3098D72.jpg"/>
+   <caption>
+    This global view of the surface of Venus is centred at 180° E longitude. Magellan synthetic aperture radar mosaics from the first cycle of Magellan mapping were mapped onto a computer-simulated globe to create this image.
+   </caption>
+   <credit>
+    NASA/JPL
+   </credit>
+  </assembly>
+  <e type="bold">
+   scientific visualization
+  </e>
+  ,
+  <assemblyref assemblyid="a257524"/>
+  process of graphically displaying real or simulated scientific data. It is a vital procedure in the creative realization of scientific ideas, particularly in
+  <xref articleid="109626">
+   computer science
+  </xref>
+  . Basic visualization techniques include surface rendering, volume rendering, and animation. High-performance
+  <xref articleid="1514">
+   workstations
+  </xref>
+  or
+  <xref articleid="70387">
+   supercomputers
+  </xref>
+  are used to show
+  <xref articleid="1627">
+   simulations
+  </xref>
+  , and high-level
+  <xref articleid="25054">
+   programming languages
+  </xref>
+  are being developed to support visualization programming. Scientific visualization has applications in
+  <xref articleid="110576">
+   biology
+  </xref>
+  , business,
+  <xref articleid="108655">
+   chemistry
+  </xref>
+  , computer science,
+  <xref articleid="105951">
+   education
+  </xref>
+  ,
+  <xref articleid="105842">
+   engineering
+  </xref>
+  , and
+  <xref articleid="110314">
+   medicine
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

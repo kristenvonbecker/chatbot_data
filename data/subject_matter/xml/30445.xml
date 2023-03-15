@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="30445" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 21:36:57" url="/article/dilemma/30445" version="1">
+ <title>
+  dilemma
+ </title>
+ <p>
+  <e type="bold">
+   dilemma
+  </e>
+  , in syllogistic, or traditional, logic, any one of several forms of inference in which there are two major premises of hypothetical form and a disjunctive (“either . . . or”) minor premise. For example:
+ </p>
+ <p>
+  If we increase the price, sales will slump.
+ </p>
+ <p>
+  If we decrease the quality, sales will slump.
+ </p>
+ <p>
+  Either we increase the price or
+ </p>
+ <p>
+  we decrease the quality.
+ </p>
+ <p>
+  Therefore, sales will slump.
+ </p>
+ <p>
+  In logic ⊃ signifies “if . . . then”; ∨ signifies “either . . . or”. Symbolically, therefore, a dilemma is an argument of the form
+  <e type="italic">
+   A
+  </e>
+  ⊃
+  <e type="italic">
+   C, B
+  </e>
+  ⊃
+  <e type="italic">
+   C, A
+  </e>
+  ∨
+  <e type="italic">
+   B,
+  </e>
+  therefore
+  <e type="italic">
+   C
+  </e>
+  .
+ </p>
+ <p>
+  It is not necessary that a dilemma should have an unwelcome conclusion; but from its use in rhetoric the word has come to mean a situation in which each of the alternative courses of action (presented as the only ones open) leads to some unsatisfactory consequence. To take a familiar example, a person who is asked, “Have you stopped beating your wife?” is presented with a rhetorical dilemma. In this more complicated version of the dilemma, however, two unwelcome results are presented instead of one (
+  <e type="italic">
+   C,
+  </e>
+  above). Thus, the conclusion itself becomes a disjunction:
+ </p>
+ <p>
+  Either you have been beating your wife or you are continuing to beat her.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

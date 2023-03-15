@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="106043" articletypeid="1" language="en_us" lastupdate="2022-Aug-23 14:23:08" url="/article/electric-motor/106043" version="7">
+ <title>
+  electric motor
+ </title>
+ <p>
+  <e type="bold">
+   electric motor
+  </e>
+  , any of a class of devices that convert electrical energy to mechanical energy, usually by employing electromagnetic phenomena.
+ </p>
+ <p>
+  Most electric motors develop their mechanical torque by the interaction of conductors carrying current in a direction at right angles to a magnetic field. The various types of electric motor differ in the ways in which the conductors and the field are arranged and also in the control that can be exercised over mechanical output torque, speed, and position. Most of the major kinds are delineated below.
+ </p>
+ <h1 id="h45823">
+  <title>
+   Induction motors
+  </title>
+  <p>
+   <assembly id="a1398" url="/assembly/view/1398">
+    <title>
+     three-phase induction motor
+    </title>
+    <media mediaid="323" type="image" url="/23/323-004-87FBC603.jpg"/>
+    <caption>
+     Cross section of a three-phase induction motor.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   The simplest type of induction motor is shown in cross section in the
+   <assemblyref assemblyid="a1398">
+    figure
+   </assemblyref>
+   . A three-phase set of stator windings is inserted in slots in the stator iron. These windings may be connected either in a wye configuration, normally without external connection to the neutral point, or in a delta configuration. The rotor consists of a cylindrical iron core with conductors placed in slots around the surface. In the most usual form, these rotor conductors are connected together at each end of the rotor by a conducting end ring.
+  </p>
+  <p>
+   <assembly id="a1395" url="/assembly/view/1395">
+    <title>
+     waveforms of a three-phase system
+    </title>
+    <media mediaid="320" type="image" url="/20/320-004-B7BDD073.jpg"/>
+    <caption>
+     Waveforms of a three-phase system.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assembly id="a1399" url="/assembly/view/1399">
+    <title>
+     production of a rotating magnetic field
+    </title>
+    <media mediaid="324" type="image" url="/24/324-004-411DFF3A.jpg"/>
+    <caption>
+     Production of a rotating magnetic field by three-phase currents in three stator windings.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   The basis of operation of the induction motor may be developed by first assuming that the stator windings are connected to a three-phase electric supply and that a set of three sinusoidal currents of the form shown in the
+   <assemblyref assemblyid="a1395">
+    figure
+   </assemblyref>
+   flow in the stator windings. This
+   <assemblyref assemblyid="a1399">
+    figure
+   </assemblyref>
+   shows the effect of these currents in producing a magnetic field across the air gap of the machine for six instants in a cycle. For simplicity, only the central conductor loop for each phase winding is shown. At the instant
+   <e type="italic">
+    t
+   </e>
+   <sub>
+    1
+   </sub>
+   in the
+   <assemblyref assemblyid="a1395">
+    figure
+   </assemblyref>
+   , the current in phase
+   <e type="italic">
+    a
+   </e>
+   is maximum positive, while that in phases
+   <e type="italic">
+    b
+   </e>
+   and
+   <e type="italic">
+    c
+   </e>
+   is half that value negative. The result is a magnetic field with an approximately sinusoidal distribution around the air gap with a maximum outward value at the top and a maximum inward value at the bottom. At time
+   <e type="italic">
+    t
+   </e>
+   <sub>
+    2
+   </sub>
+   in the
+   <assemblyref assemblyid="a1395">
+    figure
+   </assemblyref>
+   (i.e., one-sixth of a cycle later), the current in phase
+   <e type="italic">
+    c
+   </e>
+   is maximum negative, while that in both phase
+   <e type="italic">
+    b
+   </e>
+   and phase
+   <e type="italic">
+    a
+   </e>
+   is half value positive. The result, as shown for
+   <e type="italic">
+    t
+   </e>
+   <sub>
+    2
+   </sub>
+   in the
+   <assemblyref assemblyid="a1399">
+    figure
+   </assemblyref>
+   , is again a sinusoidally distributed magnetic field but rotated 60° counterclockwise. Examination of the current distribution for
+   <e type="italic">
+    t
+   </e>
+   <sub>
+    3
+   </sub>
+   ,
+   <e type="italic">
+    t
+   </e>
+   <sub>
+    4
+   </sub>
+   ,
+   <e type="italic">
+    t
+   </e>
+   <sub>
+    5
+   </sub>
+   , and
+   <e type="italic">
+    t
+   </e>
+   <sub>
+    6
+   </sub>
+   shows that the magnetic field continues to rotate as time progresses. The field completes one revolution in one cycle of the stator currents. Thus, the combined effect of three equal sinusoidal currents, uniformly displaced in time and flowing in three stator windings uniformly displaced in angular position, is to produce a rotating magnetic field with a constant magnitude and a mechanical angular velocity that depends on the frequency of the electric supply.
+  </p>
+  <p>
+   <assembly id="a1400" url="/assembly/view/1400">
+    <title>
+     rotating field and the currents that it produces
+    </title>
+    <media mediaid="325" type="image" url="/25/325-004-1AED92B6.jpg"/>
+    <caption>
+     A rotating field and the currents that it produces in short-circuited rotor conductors.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   The rotational motion of the magnetic field with respect to the rotor conductors causes a voltage to be induced in each, proportional to the magnitude and the velocity of the field relative to the conductors. Since the rotor conductors are short-circuited together at each end, the effect will be to cause currents to flow in these conductors. In the simplest mode of operation, these currents will be about equal to the induced voltage divided by the conductor resistance. The pattern of rotor currents for the instant
+   <e type="italic">
+    t
+   </e>
+   <sub>
+    1
+   </sub>
+   of the
+   <assemblyref assemblyid="a1399">
+    figure
+   </assemblyref>
+   is shown in this
+   <assemblyref assemblyid="a1400">
+    figure
+   </assemblyref>
+   . The currents are seen to be approximately sinusoidally distributed around the rotor periphery and to be located so as to produce a counterclockwise torque on the rotor (i.e., a torque in the same direction as the field rotation). This torque acts to accelerate the rotor and to rotate the mechanical load. As the rotational speed of the rotor increases, its speed relative to that of the rotating field decreases. Thus, the induced voltage is reduced, leading to a proportional reduction in rotor conductor current and in torque. The rotor speed reaches a steady value when the torque produced by the rotor currents equals the torque required at that speed by the load with no excess torque available for accelerating the combined inertia of the load and the motor.
+  </p>
+  <p>
+   The mechanical output power must be provided by an electrical input power. The original stator currents shown in the
+   <assemblyref assemblyid="a1399">
+    figure
+   </assemblyref>
+   are just sufficient to produce the rotating magnetic field. To maintain this rotating field in the presence of the rotor currents of the
+   <assemblyref assemblyid="a1400">
+    figure
+   </assemblyref>
+   , it is necessary that the stator windings carry an additional component of sinusoidal current of such a magnitude and phase as to cancel the effect of the magnetic field that would otherwise be produced by the rotor currents in the
+   <assemblyref assemblyid="a1400">
+    figure
+   </assemblyref>
+   . The total stator current in each phase winding is then the sum of a sinusoidal component to produce the magnetic field and another sinusoid, leading the first by one-quarter of a cycle, or 90°, to provide the required electrical power. The second, or power, component of the current is in phase with the voltage applied to the stator, while the first, or magnetizing, component lags the applied voltage by a quarter cycle, or 90°. At rated load, this magnetizing component is usually in the range of 0.4 to 0.6 of the magnitude of power component.
+  </p>
+  <p>
+   A majority of three-phase induction motors operate with their stator windings connected directly to a three-phase electric supply of constant voltage and constant frequency. Typical supply voltages range from 230 volts line-to-line for motors of relatively low power (e.g., 0.5 to 50 kilowatts) to about 15 kilovolts line-to-line for high-power motors up to about 10 megawatts.
+  </p>
+  <p>
+   Except for a small voltage drop in the resistance of the stator winding, the supply voltage is matched by the time rate of change of the magnetic flux in the stator of the machine. Thus, with a constant-frequency, constant-voltage supply, the magnitude of the rotating magnetic field is held constant, and the torque is roughly proportional to the power component of the supply current.
+  </p>
+  <p>
+   With the induction motor shown in the foregoing figures, the magnetic field rotates through one revolution for each cycle of the supply frequency. For a 60-hertz supply, the field speed is then 60 revolutions per second, or 3,600 per minute. The rotor speed is less than the speed of the field by an amount that is just enough to induce the required voltage in the rotor conductors to produce the rotor current needed for the load torque. At full load, the speed is typically 0.5 to 5 percent lower than the field speed (often called synchronous speed), with the higher percentage applying to smaller motors. This difference in speed is frequently referred to as the slip.
+  </p>
+  <p>
+   Other synchronous speeds can be obtained with a constant frequency supply by building a machine with a larger number of pairs of magnetic poles, as opposed to the two-pole construction of the
+   <assemblyref assemblyid="a1398">
+    figure
+   </assemblyref>
+   . The possible values of magnetic-field speed in revolutions per minute are 120
+   <e type="italic">
+    f
+   </e>
+   /
+   <e type="italic">
+    p
+   </e>
+   , where
+   <e type="italic">
+    f
+   </e>
+   is the frequency in hertz (cycles per second) and
+   <e type="italic">
+    p
+   </e>
+   is the number of poles (which must be an even number). A given iron frame can be wound for any one of several possible numbers of pole pairs by using coils that span an angle of approximately (360/
+   <e type="italic">
+    p
+   </e>
+   )°. The torque available from the machine frame will remain unchanged, since it is proportional to the product of the magnetic field and the allowable coil current. Thus, the power rating for the frame, being the product of torque and speed, will be roughly inversely proportional to the number of pole pairs. The most common synchronous speeds for 60-hertz motors are 1,800 and 1,200 revolutions per minute.
+  </p>
+  <h2 id="h45824">
+   <title>
+    Construction of induction motors
+   </title>
+   <p>
+    The stator frame consists of laminations of silicon steel, usually with a thickness of about 0.5 millimetre. Lamination is necessary since a voltage is induced along the axial length of the steel as well as in the stator conductors. The laminations are insulated from each other usually by a varnish layer. This breaks up the conducting path in the steel and limits the losses (known as eddy current losses) in the steel.
+   </p>
+   <p>
+    The stator coils are normally made of copper; round conductors of many turns per coil are used for small motors, and rectangular bars of fewer turns are employed for larger machines. The coils are electrically insulated. It is common practice to bring only three leads out to a terminal block whether the winding is connected in wye or in delta.
+   </p>
+   <p>
+    The magnetic part of the rotor is also made of steel laminations, mainly to facilitate stamping conductor slots of the desired shape and size. In most induction motors, the rotor winding is of the squirrel-cage type where solid conductors in the slots are shorted together at each end of the rotor iron by conducting end rings. In such machines there is no need to insulate the conductors from the iron. For motors up to about 300 kilowatts, the squirrel cage often consists of an aluminum casting incorporating the conductors, the end rings, and a cooling fan. For larger motors, the squirrel cage is made of copper, aluminum, or brass bars welded or brazed to end rings of a similar material. In any case, the rotor is very rugged and is also economical to produce in contrast to rotors requiring electrically insulated windings.
+   </p>
+   <p>
+    The rotor slots need not be rectangular. The shape of the slots can be designed to provide a variety of torque-speed characteristics.
+   </p>
+  </h2>
+  <h2 id="h45825">
+   <title>
+    Starting characteristics
+   </title>
+   <p>
+    When operated from a constant-frequency supply, the three-phase induction motor constitutes essentially a constant-speed drive, with the speed decreasing only 1 to 5 percent as load torque is increased from zero to rated value. In most installations, induction motors can be started and brought up to speed by connecting the stator terminals directly to the electric supply. This establishes the rotating field in the machine. At zero speed the velocity of this field, relative to that of the rotor, is high. If the rotor current were limited only by the resistance of the rotor bars, the rotor currents would be extremely high. The starting current is, however, limited by additional paths for the magnetic field around the stator and rotor conductors, known as flux leakage paths. Usually, the starting current is thus limited to about four to seven times rated current when started on full voltage. The torque at starting is usually in the range of 1.75 to 2.5 times rated value.
+   </p>
+   <p>
+    If the stator current on starting is larger than is permissible from the electric supply system, the motor may be started on a reduced voltage of about 70 to 80 percent using a step-down transformer. Alternatively, the stator windings can be connected in wye to start and can be switched to delta as the speed approaches rated value. Such measures reduce the starting torque substantially. A reduction in the starting voltage to 75 percent results in a reduction in the electric supply current to 56 percent but also results in only 56 percent of the starting torque that would be provided with full voltage.
+   </p>
+   <p>
+    Other motor starters insert a resistance or inductance in series with each stator phase during the starting period. For a load with a very high inertia, the high rotor currents during starting may cause rotor overheating. In such a drive, a variable frequency and voltage supply from an electronic converter may be provided for starting.
+   </p>
+  </h2>
+  <h2 id="h45826">
+   <title>
+    Protection
+   </title>
+   <p>
+    The heat generated by power losses in the conductors and iron parts of the machine, as well as the friction heat, must be removed by the cooling system to limit the temperature of the motor. The main purpose of protection apparatus is to prevent damage to the most vulnerable part of the motor, the insulation on the stator windings. For low-power motors, a temperature-sensitive device is often mounted inside the motor and used to switch off the electric supply if the temperature reaches its limiting safe value. With larger motors, temperature-sensitive detectors may be imbedded at one or more locations in the stator windings.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h45827">
+  <title>
+   Wound-rotor induction motors
+  </title>
+  <p>
+   Some special induction motors are constructed with insulated coils in the rotor similar to those in the stator winding. The rotor windings are usually of a three-phase type with three connections made to insulated conducting rings (known as slip rings) mounted on an internal part of the rotor shaft. Carbon brushes provide for external electric connections.
+  </p>
+  <p>
+   A wound-rotor motor with three resistors connected to its slip rings can provide a high starting torque without excessive starting current. By varying the resistance, a degree of speed control can be provided for some types of mechanical load. The efficiency of such drives is, however, low unless the speed is reasonably close to the synchronous value because of the high losses in the rotor circuit resistances. As an alternative, an electronic rectifier-inverter system can be connected to the rotor slip rings to extract power and feed it back to the electric supply system. This arrangement, normally called a slip recovery system, provides speed control with acceptable efficiency.
+  </p>
+ </h1>
+ <h1 id="h45828">
+  <title>
+   Single-phase induction motors
+  </title>
+  <p>
+   The development of a rotating field in an induction machine requires a set of currents displaced in phase (as shown in the
+   <assemblyref assemblyid="a1395">
+    figure
+   </assemblyref>
+   ) flowing in a set of stator windings that are displaced around the stator periphery. While this is straightforward where a three-phase supply is available, most commercial and domestic supplies are only of a single phase, typically with a voltage of 120 or 240 volts. There are several ways in which the necessary revolving field can be produced from this single-phase supply.
+  </p>
+  <h2 id="h45829">
+   <title>
+    Capacitor induction motor
+   </title>
+   <p>
+    This motor is similar to the three-phase motor except that it has only two windings (
+    <e type="italic">
+     a
+    </e>
+    -
+    <e type="italic">
+     a
+    </e>
+    ′ and
+    <e type="italic">
+     b
+    </e>
+    -
+    <e type="italic">
+     b
+    </e>
+    ′) on its stator displaced 90° from each other. The
+    <e type="italic">
+     a
+    </e>
+    -
+    <e type="italic">
+     a
+    </e>
+    ′ winding is connected directly to the single-phase supply. For starting, the
+    <e type="italic">
+     b
+    </e>
+    -
+    <e type="italic">
+     b
+    </e>
+    ′ winding (commonly called the auxiliary winding) is connected through a capacitor (a device that stores electric charge) to the same supply. The effect of the capacitor is to make the current entering the winding
+    <e type="italic">
+     b
+    </e>
+    -
+    <e type="italic">
+     b
+    </e>
+    ′ lead the current in
+    <e type="italic">
+     a
+    </e>
+    -
+    <e type="italic">
+     a
+    </e>
+    ′ by approximately 90°, or one-quarter of a cycle, with the rotor at standstill. Thus, the rotating field and the starting torque are provided.
+   </p>
+   <p>
+    As the motor speed approaches its rated value, it is no longer necessary to excite the auxiliary winding to maintain the rotating field. The currents produced in the rotor squirrel-cage bars as they pass the winding
+    <e type="italic">
+     a
+    </e>
+    -
+    <e type="italic">
+     a
+    </e>
+    ′ are retained with negligible change as they rotate past the winding
+    <e type="italic">
+     b
+    </e>
+    -
+    <e type="italic">
+     b
+    </e>
+    ′. The rotor can continue to generate the rotating field with only winding a-a′connected. The winding
+    <e type="italic">
+     b
+    </e>
+    -
+    <e type="italic">
+     b
+    </e>
+    ′ is usually disconnected by a centrifugal switch that opens when the speed is about 80 percent of rated value.
+   </p>
+   <p>
+    Power ratings for these capacitor-start induction motors are usually restricted to about two kilowatts for a 120-volt supply and 10 kilowatts for a 230-volt supply because of the limitations on voltage drop in the supply lines, which would otherwise occur on starting. Typical values of synchronous speed on a 60-hertz supply are 1,800 or 1,200 revolutions per minute for four- and six-pole motors, respectively. Lower-speed motors can be constructed with more poles but are less common.
+   </p>
+   <p>
+    The efficiency of the motor can be somewhat increased and the line current decreased by the use of two capacitors, only one of which is taken out of the circuit (by means of a centrifugal switch) as the rated speed is approached. The remaining capacitor continues to provide a leading current to phase
+    <e type="italic">
+     b
+    </e>
+    -
+    <e type="italic">
+     b
+    </e>
+    ′, approximating a two-phase supply. This arrangement is known as a capacitor-start, capacitor-run motor.
+   </p>
+   <p>
+    Capacitor induction motors are widely used for heavy-duty applications requiring high starting torque. Examples are refrigerator compressors, pumps, and conveyors.
+   </p>
+  </h2>
+  <h2 id="h45830">
+   <title>
+    Split-phase motors
+   </title>
+   <p>
+    <assembly id="a1401" url="/assembly/view/1401">
+     <title>
+      split-phase induction motor
+     </title>
+     <media mediaid="326" type="image" url="/26/326-004-D5083076.jpg"/>
+     <caption>
+      Split-phase induction motor.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    An alternative means of providing a rotating field for starting is to use two stator windings, as in the
+    <assemblyref assemblyid="a1401">
+     figure
+    </assemblyref>
+    , where the auxiliary winding
+    <e type="italic">
+     b
+    </e>
+    -
+    <e type="italic">
+     b
+    </e>
+    ′ is made of more turns of smaller conductors so that its resistance is much larger than that of winding
+    <e type="italic">
+     a
+    </e>
+    -
+    <e type="italic">
+     a
+    </e>
+    ′. The effect of this is that the current in phase
+    <e type="italic">
+     b
+    </e>
+    -
+    <e type="italic">
+     b
+    </e>
+    ′ leads that of
+    <e type="italic">
+     a
+    </e>
+    -
+    <e type="italic">
+     a
+    </e>
+    ′, but only by about 20–30 degrees at standstill. While the field is largely pulsating, it contains enough rotating component to provide a starting torque of 1.5 to 2.0 times rated value. To prevent overheating, the auxiliary winding is disconnected by a centrifugal switch when the speed reaches 75–80 percent of rated value.
+   </p>
+   <p>
+    These split-phase motors are inexpensive to produce and are installed in many domestic appliances. Where more than one steady speed is required, as in household laundry appliances, the motor may be wound for two alternative pole pairs, one for low speed and the other for high speed.
+   </p>
+  </h2>
+  <h2 id="h45831">
+   <title>
+    Shaded-pole motors
+   </title>
+   <p>
+    The shaded-pole motor is provided with a main winding connected to the single-phase electric supply. In addition, it has a permanently short-circuited winding located ahead of the main winding in the direction of rotation. This second winding is known as a shading coil and consists of one or more shorted turns. The shading coil delays the establishment of magnetic flux in the region that it encircles and thus produces a small component of rotating field at standstill.
+   </p>
+   <p>
+    The starting torque is small, typically only 30 to 50 percent of the rated torque. As a result, the motor is suitable only for mechanical loads, such as fans, for which the torque is low at low speed and increases with speed.
+   </p>
+   <p>
+    Shaded-pole motors are inefficient because of the losses in the permanently shorted winding. As a result, they are used only in small power ratings where efficiency is less important than initial cost. Typical efficiencies are up to 30 percent in larger units and less than 5 percent in very small ones. They are used mainly for fans and other small household appliances.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h45832">
+  <title>
+   Servomotors
+  </title>
+  <p>
+   A servomotor is a small induction motor with two stator windings displaced 90° with respect to each other around its periphery. The rotor is usually of the squirrel-cage type but made with relatively high resistance conductors. The purpose of the motor is to provide a controlled torque in either direction of operation. To achieve this, one winding is connected to a single-phase, constant-frequency supply. The other winding is provided with a controllable voltage of the same frequency, displaced 90° in phase. This voltage is normally provided by an electronic amplifier with a low-power signal input. The motor torque is approximately proportional to the voltage on this second winding and thus to the signal input. The direction of the torque can be reversed by changing the input signal from 90° leading to 90° lagging.
+  </p>
+  <p>
+   On some servomotors the rotor consists of an aluminum cup fitted in the air gap between the stator and a stationary iron core. This rotor has low inertia and is capable of high acceleration. Servomotors are made only in small power ratings because of their high losses and low efficiency. They are used in position-control systems.
+  </p>
+ </h1>
+ <h1 id="h45833">
+  <title>
+   Linear induction motors
+  </title>
+  <p>
+   <assembly id="a1402" url="/assembly/view/1402">
+    <title>
+     evolution of a linear induction motor
+    </title>
+    <media mediaid="327" type="image" url="/27/327-004-48841807.jpg"/>
+    <caption>
+     Evolution of a linear induction motor The four-pole induction motor is shown as (top) split open and (bottom) flattened (see text).
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   A linear induction motor provides linear force and motion rather than rotational torque. The shape and operation of a linear induction motor can be visualized as depicted in the
+   <assemblyref assemblyid="a1402">
+    figure
+   </assemblyref>
+   by making a radial cut in a rotating induction machine and flattening it out. The result is a flat “stator,” or upper section, of iron laminations that carry a three-phase, multipole winding with conductors perpendicular to the direction of motion. The “rotor,” or lower section, could consist of iron laminations and a squirrel-cage winding but more normally consists of a continuous copper or aluminum sheet placed over a solid or laminated iron backing.
+  </p>
+  <p>
+   One application of linear motors is in rapid-transit vehicles for public transportation. The “stator” is carried on the underside of the vehicle, and the “rotor” is located between the rails on the track. An advantage of this type of propulsion is that high acceleration and braking can be obtained without dependence on adhesion of the steel wheels to the steel rails in the presence of rain, ice, or a steep slope.
+  </p>
+  <p>
+   Electrical power is supplied to such a rapid-transit vehicle through sliding connections to an energized rail or overhead wire. To provide speed control and braking, an electronic power converter on board the vehicle produces a three-phase output of the desired voltage and frequency.
+  </p>
+  <p>
+   In an alternative arrangement for vehicle propulsion, the copper and iron sheets of the
+   <assemblyref assemblyid="a1402">
+    figure
+   </assemblyref>
+   can be placed on the underside of the vehicle and sections of stator can be placed at intervals along the track. This has the advantage that no electric power need be supplied to the vehicle itself.
+  </p>
+  <p>
+   Linear induction motors also are used to drive conveyors, sliding doors, textile shuttles, and machine tools. Their advantage is that no physical contact is required and thus wear and maintenance are minimized. In another form, linear motors are used as electromagnetic pumps where the rotor consists of a conducting fluid, such as a liquid metal (say, mercury or sodium-potassium alloy).
+  </p>
+  <p>
+   The efficiency of linear motors is somewhat less than that of rotating motors because of end effects. Its “rotor” must be magnetized as it comes under the “stator.” This reduces the effectiveness of the first one or two pole spans. The input current is also relatively high because the air gap is usually larger than in rotating machines and more current is required to produce the magnetic field across it.
+  </p>
+ </h1>
+ <h1 id="h45834">
+  <title>
+   Induction motors for speed and position control
+  </title>
+  <p>
+   On a constant-frequency supply, an induction motor is essentially a near-constant speed drive. Induction motors, however, can be used to provide accurate speed and position control in either direction of rotation by the use of a controllable-voltage, controllable-frequency three-phase supply. This is produced by means of an electronic inverter. Using semiconductor switches, the utility supply is converted into a set of three near-sinusoidal inputs of controlled voltage and frequency to the stator windings. The speed of the motor will then approach the synchronous value of 120
+   <e type="italic">
+    f
+   </e>
+   /
+   <e type="italic">
+    p
+   </e>
+   revolutions per minute for a controlled frequency of
+   <e type="italic">
+    f
+   </e>
+   cycles per second. Reversal of the phase sequence from
+   <e type="italic">
+    a
+   </e>
+   <e type="italic">
+    b
+   </e>
+   <e type="italic">
+    c
+   </e>
+   to
+   <e type="italic">
+    a
+   </e>
+   <e type="italic">
+    c
+   </e>
+   <e type="italic">
+    b
+   </e>
+   reverses the direction of the torque. For accurate control of speed or position, the speed of the shaft can be monitored by a tachometer or position sensor and compared with a signal representing the desired value. The difference is then used to control the inverter frequency. Generally, the voltage varies directly with the frequency to keep the magnitude of the magnetic field constant.
+  </p>
+ </h1>
+ <h1 id="h45835">
+  <title>
+   Synchronous motors
+  </title>
+  <p>
+   <assembly id="a1393" url="/assembly/view/1393">
+    <title>
+     elementary synchronous generator
+    </title>
+    <media mediaid="316" type="image" url="/16/316-004-30B9B35B.jpg"/>
+    <caption>
+     Elementary synchronous generator.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   A synchronous motor is one in which the rotor normally rotates at the same speed as the revolving field in the machine. The stator is similar to that of an induction machine consisting of a cylindrical iron frame with windings, usually three-phase, located in slots around the inner periphery. The difference is in the rotor, which normally contains an insulated winding connected through slip rings or other means to a source of direct current (
+   <e type="italic">
+    see
+   </e>
+   <assemblyref assemblyid="a1393">
+    figure
+   </assemblyref>
+   ).
+  </p>
+  <p>
+   The principle of operation of a synchronous motor can be understood by considering the stator windings to be connected to a three-phase alternating-current supply. The effect of the stator current is to establish a magnetic field rotating at 120
+   <e type="italic">
+    f
+   </e>
+   /
+   <e type="italic">
+    p
+   </e>
+   revolutions per minute for a frequency of
+   <e type="italic">
+    f
+   </e>
+   hertz and for
+   <e type="italic">
+    p
+   </e>
+   poles. A direct current in a
+   <e type="italic">
+    p
+   </e>
+   -pole field winding on the rotor will also produce a magnetic field rotating at rotor speed. If the rotor speed is made equal to that of the stator field and there is no load torque, these two magnetic fields will tend to align with each other. As mechanical load is applied, the rotor slips back a number of degrees with respect to the rotating field of the stator, developing torque and continuing to be drawn around by this rotating field. The angle between the fields increases as load torque is increased. The maximum available torque is achieved when the angle by which the rotor field lags the stator field is 90°. Application of more load torque will stall the motor.
+  </p>
+  <p>
+   One advantage of the synchronous motor is that the magnetic field of the machine can be produced by the direct current in the field winding, so that the stator windings need to provide only a power component of current in phase with the applied stator voltage—i.e., the motor can operate at unity power factor. This condition minimizes the losses and heating in the stator windings.
+  </p>
+  <p>
+   The power factor of the stator electrical input can be directly controlled by adjustment of the field current. If the field current is increased beyond the value required to provide the magnetic field, the stator current changes to include a component to compensate for this overmagnetization. The result will be a total stator current that leads the stator voltage in phase, thus providing to the power system reactive volt-amperes needed to magnetize other apparatuses connected to the system such as transformers and induction motors. Operation of a large synchronous motor at such a leading power factor may be an effective way of improving the overall power factor of the electrical loads in a manufacturing plant to avoid additional electric supply rates that may otherwise be charged for low power-factor loads.
+  </p>
+  <p>
+   Three-phase synchronous motors find their major application in industrial situations where there is a large, reasonably steady mechanical load, usually in excess of 300 kilowatts, and where the ability to operate at leading power factor is of value. Below this power level, synchronous machines are generally more expensive than induction machines.
+  </p>
+  <p>
+   The field current may be supplied from an externally controlled rectifier through slip rings, or, in larger motors, it may be provided by a shaft-mounted rectifier with a rotating transformer or generator.
+  </p>
+  <p>
+   A synchronous motor with only a field winding carrying a direct current would not be self-starting. At any speed other than synchronous speed, its rotor would experience an oscillating torque of zero average value as the rotating magnetic field repeatedly passes the slower moving rotor. Normally, a short-circuited winding similar to that of an induction machine is added to the rotor to provide starting torque. The motor is started, either with full or reduced stator voltage, and brought up to about 95 percent of synchronous speed, usually with the field winding short-circuited to protect it from excessive induced voltage. The field current is then applied and the rotor pulls into synchronism with the revolving field.
+  </p>
+  <p>
+   This additional rotor winding is usually referred to as a damper winding because of its additional property of damping out any oscillation that might be caused by sudden changes in the load on the rotor when in synchronism. Adjustment to load changes involves changes in the angle by which the rotor field lags the stator field and thus involves short-term changes in instantaneous speed. These cause currents to be induced in the damper windings, producing a torque that acts to oppose the speed change.
+  </p>
+  <p>
+   Protection for synchronous motors is similar to that employed with large induction motors. Temperature may be sensed in both the stator and field windings and used to switch off the electric supply. Considerable heating occurs in the rotor-damper winding during starting, and a timer is frequently installed to prevent repeated starts within a limited time interval.
+  </p>
+ </h1>
+ <h1 id="h45836">
+  <title>
+   Permanent-magnet motors
+  </title>
+  <p>
+   The magnetic field for a synchronous machine may be provided by using permanent magnets made of neodymium-boron-iron, samarium-cobalt, or ferrite on the rotor. In some motors, these magnets are mounted with adhesive on the surface of the rotor core such that the magnetic field is radially directed across the air gap. In other designs, the magnets are inset into the rotor core surface or inserted in slots just below the surface. Another form of permanent-magnet motor has circumferentially directed magnets placed in radial slots that provide magnetic flux to iron poles, which in turn set up a radial field in the air gap.
+  </p>
+  <p>
+   The main application for permanent-magnet motors is in variable-speed drives where the stator is supplied from a variable-frequency, variable-voltage, electronically controlled source. Such drives are capable of precise speed and position control. Because of the absence of power losses in the rotor, as compared with induction motor drives, they are also highly efficient.
+  </p>
+  <p>
+   Permanent-magnet motors can be designed to operate at synchronous speed from a supply of constant voltage and frequency. The magnets are embedded in the rotor iron, and a damper winding is placed in slots in the rotor surface to provide starting capability. Such a motor does not, however, have means of controlling the stator power factor.
+  </p>
+ </h1>
+ <h1 id="h45837">
+  <title>
+   Hysteresis motors
+  </title>
+  <p>
+   A distinctive feature of synchronous motors is that the speed is uniquely related to the supply frequency. As a result, several special types of synchronous motors have found wide application in devices such as clocks, tape recorders, and phonographs. One of the most extensively used is the hysteresis motor in which the rotor consists of a ring of a semi-permanent magnet material like a high-carbon steel. At full speed, the motor operates as a permanent-magnet synchronous machine. If the speed is reduced by pulling the rotor out of synchronism, the stator field causes the rotor material to be cyclically magnetized around its hysteresis loop resulting in a rotor field that lags the stator field by a few degrees and continues to produce torque. These motors provide good starting torque with very low ripple and are very quiet. Their efficiency is low, and applications are restricted to small power ratings.
+  </p>
+ </h1>
+ <h1 id="h45838">
+  <title>
+   Reluctance motors
+  </title>
+  <p>
+   <assembly id="a1404" url="/assembly/view/1404">
+    <title>
+     reluctance motor in cross section
+    </title>
+    <media mediaid="328" type="image" url="/28/328-004-4BE4914F.jpg"/>
+    <caption>
+     A reluctance motor in cross section.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   Reluctance motors operate on the principle that forces are established that tend to cause iron poles carrying a magnetic flux to align with each. One form of reluctance motor is shown in cross section in the
+   <assemblyref assemblyid="a1404">
+    figure
+   </assemblyref>
+   . The rotor consists of four iron poles with no electrical windings. The stator has six poles each with a current-carrying coil. In the condition represented in the figure, current has just been passed through coils
+   <e type="italic">
+    a
+   </e>
+   and
+   <e type="italic">
+    a
+   </e>
+   ′, producing a torque on the rotor aligning two of its poles with those of the
+   <e type="italic">
+    a
+   </e>
+   -
+   <e type="italic">
+    a
+   </e>
+   ′ stator. The current is now switched off in coils
+   <e type="italic">
+    a
+   </e>
+   and
+   <e type="italic">
+    a
+   </e>
+   ′ and switched on to coils
+   <e type="italic">
+    b
+   </e>
+   and
+   <e type="italic">
+    b
+   </e>
+   ′. This produces a counterclockwise torque on the rotor aligning two rotor poles with stator poles
+   <e type="italic">
+    b
+   </e>
+   and
+   <e type="italic">
+    b
+   </e>
+   ′. This process is then repeated with stator coils
+   <e type="italic">
+    c
+   </e>
+   and
+   <e type="italic">
+    c
+   </e>
+   ′ and then with coils
+   <e type="italic">
+    a
+   </e>
+   and
+   <e type="italic">
+    a
+   </e>
+   ′. The torque is dependent on the magnitude of the coil currents but is independent of its polarity. The direction of rotation can be changed by changing the order in which the coils are energized. Reluctance motors can have other pole configurations, such as eight stator poles and six rotor poles.
+  </p>
+  <p>
+   The currents in the stator coils are usually controlled by semiconductor switches connecting the coils to a direct voltage source. A signal from a position sensor mounted on the motor shaft is used to activate the switches at the appropriate time instants. Frequently a magnetic sensor based on the Hall effect is employed. (The Hall effect involves the development of a transverse electric field in a semiconductor material when it carries a current and is placed in a magnetic field perpendicular to the current.) The overall system is known as a self-synchronous motor drive. It can operate over a wide and controlled speed range.
+  </p>
+  <p>
+   In another reluctance motor configuration, the stator is made similar to that of an induction motor and is supplied from a three-phase controllable supply. The rotor consists of longitudinal iron laminations separated by nonmagnetic spacers. Flux from the stator encounters much lower reluctance along the laminations than across them.
+  </p>
+  <p>
+   Reluctance motors can be designed for constant speed operation from a constant frequency supply. The rotor has salient poles without field windings. The stator is cylindrical and contains a three-phase winding similar to that of an induction machine. A damper winding is fitted in the rotor surface so that the machine can start as an induction motor. After the rotor pulls into synchronism with the rotating field of the stator, it operates as a synchronous motor at constant speed.
+  </p>
+ </h1>
+ <h1 id="h45839">
+  <title>
+   Single-phase synchronous motors
+  </title>
+  <p>
+   A revolving field can be produced in synchronous motors from a single-phase source by use of the same method as for single-phase induction motors. With the main stator winding connected directly to the supply, an auxiliary winding may be connected through a capacitor. Alternatively, an auxiliary winding of a higher resistance can be employed, as in the
+   <assemblyref assemblyid="a1401">
+    figure
+   </assemblyref>
+   . For small clock motors, the shaded-pole construction of the stator is widely used in combination with a hysteresis-type rotor (see above). The efficiency of these motors is very low, usually less than 2 percent, but the cost is low as well.
+  </p>
+ </h1>
+ <h1 id="h45840">
+  <title>
+   Direct-current commutator motors
+  </title>
+  <p>
+   An elementary form of a direct-current (DC) motor is shown in Figure 6 of the article on electric generator. A stationary magnetic field is produced across the rotor by poles on the stator. These poles may be encircled by field coils carrying direct current, or they may contain permanent magnets. The rotor or armature consists of an iron core with a coil accommodated in slots. The ends of the coil are connected to the bars of a commutator switch mounted on the rotor shaft. Stationary graphite brushes lead to external terminals.
+  </p>
+  <p>
+   Suppose a direct-current supply is connected to the armature terminals such that a current enters at the positive terminal. This current interacts with the magnetic flux to produce a counterclockwise torque, which in turn accelerates the rotor. When the rotor has turned about 120°, the connection from the supply to the armature coil is reversed by the commutator. The new direction of the current in the armature coil is such as to continue to produce counterclockwise torque while the coil is under the pole. A voltage proportional to the speed is generated in the armature coil. While this coil voltage is alternating, the commutator action produces a unidirectional voltage at the motor terminals with the polarity shown. The electrical input will be the product of this terminal voltage and the input current. The mechanical output power will be the product of the rotor torque and speed.
+  </p>
+  <p>
+   In a practical DC motor, the armature winding consists of a number of coils in slots, each spanning 1/
+   <e type="italic">
+    p
+   </e>
+   of the rotor periphery for
+   <e type="italic">
+    p
+   </e>
+   poles. In small motors the number of coils may be as low as six, while in large motors it may be as large as 300. The coils are all connected in series, and each junction is connected to a commutator bar. All coils under the poles contribute to torque production.
+  </p>
+  <p>
+   A typical small DC motor, such as those used in automobile fans, contains two poles made of ferrite permanent-magnet material. When higher torque is required, as, for example, in the starter motor of an automobile, stronger magnets such as neodymium-iron-boron may be employed. When the terminals of this motor are connected to a constant direct-voltage source, such as a battery, the initial current will be limited only by the resistance of the armature winding and the brushes. The torque produced by the interaction of this current with the field accelerates the rotor. A voltage is generated in the winding proportional to the speed. This voltage opposes that of the source, thus reducing the current and the torque. With no mechanical load, the generated voltage will rise to a value nearly equal to the source voltage, allowing just enough current to provide for friction torque. Application of a load torque slows down the rotor, decreasing the generated voltage, increasing the current, and producing torque to match the load torque.
+  </p>
+  <p>
+   With larger motors, the armature winding resistance is too low to limit the current on starting to a value that can be switched by the commutator. These motors are normally started with a resistance connected in series to the armature supply. This resistance is usually decreased in stages as the speed increases.
+  </p>
+  <p>
+   Permanent-magnet commutator motors have no provision for speed control when attached to a constant-voltage supply. If speed adjustment is desired, the permanent-magnet field can be replaced by iron poles with field coils. These coils can be provided with current from the same supply as for the armature or from a separate supply. A variable series resistor can be used to adjust the field current. With maximum field current and thus maximum magnetic flux, the generated voltage will equal the supply voltage at a minimum value of no-load speed. If the field current is reduced, the motor will have to rotate faster through the reduced flux to generate the same voltage and the no-load speed will be increased. For a given rated armature current, the available torque will be reduced because of the reduced flux. The motor, however, will be able to provide the same mechanical power at a higher speed and lower torque.
+  </p>
+  <p>
+   Commutator motors with adjustable field current are known as shunt motors, or separately excited motors. Normally, the available speed range is less than 2 to 1, but special motors can provide a speed range of up to 10 to 1.
+  </p>
+  <p>
+   Another form of commutator motor is the series motor in which the field coils, with relatively few turns, carry the same current as does the armature. With a high value of current, the flux is high, making the torque high and the speed low. As the current is reduced, the torque is reduced and the speed increases. In the past, such motors were widely used in electric transportation vehicles, such as subway trains and fork-lift trucks.
+  </p>
+  <p>
+   Large DC motors usually have four or more poles to reduce the thickness of the required iron in the stator yoke and to reduce the length of the end connections on the armature coils. These motors may also have additional small poles, or interpoles, placed between the main poles and have coils carrying the supply current. These poles are placed so as to generate a small voltage in each armature coil as it is shorted out by the commutator. This assists the quick reversal of current in the coil and prevents commutator sparking.
+  </p>
+  <p>
+   DC commutator motors have been extensively used in steel mills, paper mills, robots, and machine tools where accurate control of speed or speed reversal, or both, are required. The field is supplied from a separate voltage source, usually with constant field current, or from permanent magnets. The armature is supplied from a source of controllable voltage. The speed is then approximately proportional to the source voltage. Reversal of the armature supply voltage at a controlled rate reverses the motor.
+  </p>
+ </h1>
+ <h1 id="h45841">
+  <title>
+   Alternating-current commutator motors
+  </title>
+  <p>
+   A specially designed series-commutator motor may be operated from a single-phase alternating voltage supply. When the supply current reverses, both the magnetic field and the armature current are reversed. Thus, the torque remains in the same direction. These motors are often called universal motors because they may be used with either a direct-voltage supply or with a 60-hertz alternating-voltage supply. They have wide application in such small domestic appliances as mixers, portable tools, and vacuum cleaners.
+  </p>
+ </h1>
+ <h1 id="h45842">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   Overviews may be found in the following texts:
+   <e type="smallcap">
+    Gordon R. Slemon
+   </e>
+   ,
+   <e type="italic">
+    Electric Machines and Drives
+   </e>
+   (1992);
+   <e type="smallcap">
+    Syed A. Nasar
+   </e>
+   (ed.),
+   <e type="italic">
+    Handbook of Electric Machines
+   </e>
+   (1987);
+   <e type="smallcap">
+    Syed A. Nasar
+   </e>
+   and
+   <e type="smallcap">
+    L.E. Unnewehr
+   </e>
+   ,
+   <e type="italic">
+    Electromechanics and Electric Machines
+   </e>
+   , 2nd ed. (1983);
+   <e type="smallcap">
+    Vincent Del Toro
+   </e>
+   ,
+   <e type="italic">
+    Electric Machines and Power Systems
+   </e>
+   (1985); and
+   <e type="smallcap">
+    George McPherson
+   </e>
+   and
+   <e type="smallcap">
+    Robert D. Laramore
+   </e>
+   ,
+   <e type="italic">
+    An Introduction to Electrical Machines and Transformers
+   </e>
+   , 2nd ed. (1990).
+  </p>
+  <signature>
+   Gordon R. Slemon
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

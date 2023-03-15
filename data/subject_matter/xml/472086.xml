@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="472086" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 06:00:22" url="/article/complex-variable/472086" version="1">
+ <title>
+  complex variable
+ </title>
+ <p>
+  <e type="bold">
+   complex variable
+  </e>
+  , In mathematics, a
+  <xref articleid="473553">
+   variable
+  </xref>
+  that can take on the value of a
+  <xref articleid="25024">
+   complex number
+  </xref>
+  . In basic algebra, the variables
+  <e type="italic">
+   x
+  </e>
+  and
+  <e type="italic">
+   y
+  </e>
+  generally stand for values of real numbers. The algebra of complex numbers (complex analysis) uses the complex variable
+  <e type="italic">
+   z
+  </e>
+  to represent a number of the form
+  <e type="italic">
+   a
+  </e>
+  +
+  <e type="italic">
+   b
+  </e>
+  <e type="italic">
+   i
+  </e>
+  . The modulus of
+  <e type="italic">
+   z
+  </e>
+  is its
+  <xref articleid="471690">
+   absolute value
+  </xref>
+  . A complex variable may be graphed as a
+  <xref articleid="384392">
+   vector
+  </xref>
+  from the origin to the point (
+  <e type="italic">
+   a
+  </e>
+  ,
+  <e type="italic">
+   b
+  </e>
+  ) in a rectangular
+  <xref articleid="472124">
+   coordinate system
+  </xref>
+  , its modulus corresponding to the vector’s length. Called an Argand diagram, this representation establishes a connection between complex analysis and vector analysis.
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="472292">
+   Euler’s formula
+  </xref>
+  .
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="30730" articletypeid="1" language="en_us" lastupdate="2022-Mar-21 09:03:53" url="/article/DNA/30730" version="21">
+ <title>
+  DNA
+ </title>
+ <p>
+  <assembly id="a90501" url="/assembly/view/90501">
+   <title>
+    initial proposal of DNA structure
+   </title>
+   <media mediaid="779" type="image" url="/79/779-004-13506D8B.jpg"/>
+   <caption>
+    The initial proposal of the structure of DNA by James Watson and Francis Crick, which was accompanied by a suggestion on the means of replication.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   DNA
+  </e>
+  , abbreviation of
+  <e type="bold">
+   deoxyribonucleic acid
+  </e>
+  ,
+  <assemblyref assemblyid="a90501"/>
+  organic chemical of complex molecular structure that is found in all
+  <xref articleid="61465">
+   prokaryotic
+  </xref>
+  and
+  <xref articleid="33173">
+   eukaryotic
+  </xref>
+  <xref articleid="106125">
+   cells
+  </xref>
+  and in many
+  <xref articleid="106000">
+   viruses
+  </xref>
+  . DNA codes genetic information for the transmission of inherited traits.
+ </p>
+ <p>
+  A brief treatment of DNA follows. For full treatment,
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="110582" refid="h261532">
+   genetics: DNA and the genetic code
+  </xref>
+  .
+ </p>
+ <p>
+  <assembly id="a209296" url="/assembly/view/209296">
+   <title>
+    Learn how Francis Crick and James Watson revolutionized genetics by discerning DNA’s structure
+   </title>
+   <media mediaid="152199" thumburl="/99/152199-049-895441CC.jpg" type="video" url="6S4aXgMT"/>
+   <caption>
+    This video introduces the basics of DNA, the chemical that underlies life on Earth.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assembly id="a2659" url="/assembly/view/2659">
+   <title>
+    DNA structure
+   </title>
+   <media mediaid="6520" type="image" url="/20/6520-004-CB4513DC.jpg"/>
+   <caption>
+    DNA structure, showing the nucleotide bases cytosine (C), thymine (T), adenine (A), and guanine (G) linked to a backbone of alternating phosphate (P) and deoxyribose sugar (S) groups. Two sugar-phosphate chains are paired through hydrogen bonds between A and T and between G and C, thus forming the twin-stranded double helix of the DNA molecule.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a209296"/>
+  <assemblyref assemblyid="a2659"/>
+  The chemical DNA was first discovered in 1869, but its role in genetic inheritance was not demonstrated until 1943. In 1953
+  <xref articleid="76285">
+   James Watson
+  </xref>
+  and
+  <xref articleid="27893">
+   Francis Crick
+  </xref>
+  , aided by the work of biophysicists
+  <xref articleid="35187">
+   Rosalind Franklin
+  </xref>
+  and
+  <xref articleid="77005">
+   Maurice Wilkins
+  </xref>
+  , determined that the structure of DNA is a double-helix
+  <xref articleid="60700">
+   polymer
+  </xref>
+  , a spiral consisting of two DNA strands wound around each other. The breakthrough led to significant advances in scientists’ understanding of DNA replication and hereditary control of cellular activities.
+ </p>
+ <p>
+  <assembly id="a2658" url="/assembly/view/2658">
+   <title>
+    polynucleotide chain of deoxyribonucleic acid (DNA)
+   </title>
+   <media mediaid="6519" type="image" url="/19/6519-004-88172EC9.jpg"/>
+   <caption>
+    Portion of polynucleotide chain of deoxyribonucleic acid (DNA). The inset shows the corresponding pentose sugar and pyrimidine base in ribonucleic acid (RNA).
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <assemblyref assemblyid="a2658"/>
+  Each strand of a DNA molecule is composed of a long chain of monomer
+  <xref articleid="56460">
+   nucleotides
+  </xref>
+  . The nucleotides of DNA consist of a deoxyribose sugar molecule to which is attached a
+  <xref articleid="59774">
+   phosphate
+  </xref>
+  group and one of four nitrogenous bases: two
+  <xref articleid="61952">
+   purines
+  </xref>
+  (
+  <xref articleid="3720">
+   adenine
+  </xref>
+  and
+  <xref articleid="38302">
+   guanine
+  </xref>
+  ) and two
+  <xref articleid="62053">
+   pyrimidines
+  </xref>
+  (
+  <xref articleid="28449">
+   cytosine
+  </xref>
+  and
+  <xref articleid="72358">
+   thymine
+  </xref>
+  ). The nucleotides are joined together by
+  <xref articleid="26644">
+   covalent bonds
+  </xref>
+  between the phosphate of one nucleotide and the sugar of the next, forming a phosphate-sugar backbone from which the nitrogenous bases protrude. One strand is held to another by
+  <xref articleid="472561">
+   hydrogen bonds
+  </xref>
+  between the bases; the sequencing of this bonding is specific—i.e., adenine bonds only with thymine, and cytosine only with guanine.
+ </p>
+ <p>
+  The configuration of the DNA molecule is highly stable, allowing it to act as a template for the replication of new DNA molecules, as well as for the production (
+  <xref articleid="474441">
+   transcription
+  </xref>
+  ) of the related
+  <xref articleid="63829">
+   RNA
+  </xref>
+  (ribonucleic acid) molecule. A segment of DNA that codes for the cell’s synthesis of a specific
+  <xref articleid="110575">
+   protein
+  </xref>
+  is called a
+  <xref articleid="36352">
+   gene
+  </xref>
+  .
+ </p>
+ <p>
+  DNA replicates by separating into two single strands, each of which serves as a template for a new strand. The new strands are copied by the same principle of hydrogen-bond pairing between bases that exists in the double helix. Two new double-stranded molecules of DNA are produced, each containing one of the original strands and one new strand. This “semiconservative” replication is the key to the stable inheritance of genetic traits.
+ </p>
+ <p>
+  Within a cell, DNA is organized into dense protein-DNA complexes called
+  <xref articleid="82456">
+   chromosomes
+  </xref>
+  . In eukaryotes, the chromosomes are located in the
+  <xref articleid="56461">
+   nucleus
+  </xref>
+  , although DNA also is found in
+  <xref articleid="443654">
+   mitochondria
+  </xref>
+  and
+  <xref articleid="82258">
+   chloroplasts
+  </xref>
+  . In prokaryotes, which do not have a membrane-bound nucleus, the DNA is found as a single circular chromosome in the
+  <xref articleid="28447">
+   cytoplasm
+  </xref>
+  . Some prokaryotes, such as
+  <xref articleid="110416">
+   bacteria
+  </xref>
+  , and a few eukaryotes have extrachromosomal DNA known as
+  <xref articleid="60331">
+   plasmids
+  </xref>
+  , which are autonomous, self-replicating genetic material. Plasmids have been used extensively in
+  <xref articleid="437419">
+   recombinant DNA technology
+  </xref>
+  to study gene expression.
+ </p>
+ <p>
+  The genetic material of viruses may be single- or double-stranded DNA or RNA.
+  <xref articleid="63323">
+   Retroviruses
+  </xref>
+  carry their genetic material as single-stranded RNA and produce the
+  <xref articleid="32739">
+   enzyme
+  </xref>
+  <xref articleid="470961">
+   reverse transcriptase
+  </xref>
+  , which can generate DNA from the RNA strand. Four-stranded DNA complexes known as G-quadruplexes have been observed in guanine-rich areas of the
+  <xref articleid="439231">
+   human genome
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

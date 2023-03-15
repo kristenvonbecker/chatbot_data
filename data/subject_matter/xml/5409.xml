@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="5409" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 20:13:06" url="/article/albedo/5409" version="3">
+ <title>
+  albedo
+ </title>
+ <p>
+  <assembly id="a160900" url="/assembly/view/160900">
+   <title>
+    sea ice and albedo
+   </title>
+   <media mediaid="152717" type="image" url="/17/152717-004-286AC66E.jpg"/>
+   <caption>
+    Scientists sampling meltwater ponds, which are filled with fresh water, on the surface of an ice floe. Sea ice has a higher albedo (and thus can reflect incoming sunlight) than open water, which tends to absorb more energy from sunlight.
+   </caption>
+   <credit>
+    Kathryn Hansen/NASA
+   </credit>
+  </assembly>
+  <e type="bold">
+   albedo
+  </e>
+  ,
+  <assemblyref assemblyid="a160900"/>
+  fraction of
+  <xref articleid="110443">
+   light
+  </xref>
+  that is reflected by a body or surface. It is commonly used in
+  <xref articleid="108656">
+   astronomy
+  </xref>
+  to describe the reflective properties of
+  <xref articleid="60298">
+   planets
+  </xref>
+  ,
+  <xref articleid="65844">
+   satellites
+  </xref>
+  , and
+  <xref articleid="110155">
+   asteroids
+  </xref>
+  . It is an important consideration in
+  <xref articleid="24388">
+   climatology
+  </xref>
+  since recent albedo decreases in the
+  <xref articleid="109839">
+   Arctic
+  </xref>
+  have increased
+  <xref articleid="39732">
+   heat
+  </xref>
+  <xref articleid="3403">
+   absorption
+  </xref>
+  at the surface.
+ </p>
+ <p>
+  Albedo is usually differentiated into two general types: normal albedo and Bond albedo. The former, also called normal reflectance, is a measure of a surface’s relative brightness when illuminated and observed vertically. The normal albedo of
+  <xref articleid="68389">
+   snow
+  </xref>
+  , for example, is nearly 1.0, whereas that of
+  <xref articleid="22505">
+   charcoal
+  </xref>
+  is about 0.04. Investigators frequently rely on observations of normal albedo to determine the surface compositions of satellites and asteroids. The albedo, diameter, and distance of such objects together determine their brightness. If the asteroids
+  <xref articleid="22142">
+   Ceres
+  </xref>
+  and
+  <xref articleid="75181">
+   Vesta
+  </xref>
+  , for example, could be observed at the same distance, Vesta would be the brighter of the two by roughly 10 percent. Though Vesta’s diameter measures less than half that of Ceres, Vesta appears brighter because its albedo is about 0.35, whereas that of Ceres is only 0.09.
+ </p>
+ <p>
+  Changes in
+  <xref articleid="110147">
+   Earth’s
+  </xref>
+  global albedo can affect
+  <xref articleid="37044">
+   global warming
+  </xref>
+  .
+  <xref articleid="384398">
+   Sea-ice
+  </xref>
+  loss in the
+  <xref articleid="109839">
+   Arctic
+  </xref>
+  since the end of the 20th century has lowered the region’s albedo, decreasing the region’s ability to reflect incoming
+  <xref articleid="70375">
+   sunlight
+  </xref>
+  while increasing its ability to absorb
+  <xref articleid="32627">
+   energy
+  </xref>
+  from sunlight. Researchers note that the Arctic’s falling albedo is producing a positive temperature
+  <xref articleid="33913">
+   feedback
+  </xref>
+  —in which greater energy absorption at the surface has led to increases in available heat, which, in turn melts additional
+  <xref articleid="108437">
+   ice
+  </xref>
+  , thereby decreasing the region’s albedo further.
+ </p>
+ <p>
+  Bond albedo, defined as the fraction of the total incident
+  <xref articleid="68564">
+   solar radiation
+  </xref>
+  reflected by a planet back to space, is a measure of the planet’s energy balance. (It is so named for the American astronomer George P. Bond, who in 1861 published a comparison of the brightness of the
+  <xref articleid="110144">
+   Sun
+  </xref>
+  , the
+  <xref articleid="110148">
+   Moon
+  </xref>
+  , and
+  <xref articleid="110150">
+   Jupiter
+  </xref>
+  .) The value of Bond albedo depends on the spectrum of the incident radiation because such albedo is defined over the entire range of
+  <xref articleid="76325">
+   wavelengths
+  </xref>
+  .
+  <xref articleid="31728">
+   Earth-orbiting satellites
+  </xref>
+  have been used to measure Earth’s Bond albedo. The most recent values obtained are approximately 0.29. The Moon, which has a very tenuous
+  <xref articleid="126202">
+   atmosphere
+  </xref>
+  and no
+  <xref articleid="24441">
+   clouds
+  </xref>
+  , has an albedo of 0.12. By contrast, that of
+  <xref articleid="110146">
+   Venus
+  </xref>
+  , which is covered by dense clouds, is 0.75.
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

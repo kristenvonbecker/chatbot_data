@@ -1,0 +1,2774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="41720" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 22:46:45" url="/article/hydrocarbon/41720" version="10">
+ <title>
+  hydrocarbon
+ </title>
+ <p>
+  <assembly id="a1543" url="/assembly/view/1543">
+   <title>
+    structures of common hydrocarbon compounds
+   </title>
+   <media mediaid="1555" type="image" url="/55/1555-004-2CA7B9CB.jpg"/>
+   <caption>
+    Structures assumed by hydrogen (H) and carbon (C) molecules in four common hydrocarbon compounds.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   hydrocarbon
+  </e>
+  ,
+  <assemblyref assemblyid="a1543"/>
+  any of a class of organic chemical compounds composed only of the elements
+  <xref articleid="20244">
+   carbon
+  </xref>
+  (C) and
+  <xref articleid="110604">
+   hydrogen
+  </xref>
+  (H). The carbon atoms join together to form the framework of the compound, and the hydrogen atoms attach to them in many different configurations. Hydrocarbons are the principal constituents of
+  <xref articleid="110438">
+   petroleum
+  </xref>
+  and
+  <xref articleid="110439">
+   natural gas
+  </xref>
+  . They serve as fuels and lubricants as well as raw materials for the production of
+  <xref articleid="108561">
+   plastics
+  </xref>
+  ,
+  <xref articleid="34169">
+   fibres
+  </xref>
+  ,
+  <xref articleid="23536">
+   rubbers
+  </xref>
+  , solvents,
+  <xref articleid="108418">
+   explosives
+  </xref>
+  , and industrial chemicals.
+ </p>
+ <p>
+  Many hydrocarbons occur in nature. In addition to making up
+  <xref articleid="35002">
+   fossil fuels
+  </xref>
+  , they are present in
+  <xref articleid="108708">
+   trees
+  </xref>
+  and
+  <xref articleid="108554">
+   plants
+  </xref>
+  , as, for example, in the form of pigments called
+  <xref articleid="20444">
+   carotenes
+  </xref>
+  that occur in carrots and green leaves. More than 98 percent of natural crude rubber is a hydrocarbon
+  <xref articleid="60700">
+   polymer
+  </xref>
+  , a chainlike
+  <xref articleid="53247">
+   molecule
+  </xref>
+  consisting of many units linked together. The structures and chemistry of individual hydrocarbons depend in large part on the types of chemical bonds that link together the
+  <xref articleid="110411">
+   atoms
+  </xref>
+  of their constituent molecules.
+ </p>
+ <p>
+  Nineteenth-century chemists classified hydrocarbons as either
+  <xref articleid="5736">
+   aliphatic
+  </xref>
+  or
+  <xref articleid="9593">
+   aromatic
+  </xref>
+  on the basis of their sources and properties. Aliphatic (from Greek
+  <e type="italic">
+   aleiphar
+  </e>
+  , “fat”) described hydrocarbons derived by chemical degradation of
+  <xref articleid="33807">
+   fats
+  </xref>
+  or oils. Aromatic hydrocarbons constituted a group of related substances obtained by chemical degradation of certain pleasant-smelling plant extracts. The terms
+  <e type="italic">
+   aliphatic
+  </e>
+  and
+  <e type="italic">
+   aromatic
+  </e>
+  are retained in modern terminology, but the compounds they describe are distinguished on the basis of structure rather than origin.
+ </p>
+ <p>
+  Aliphatic hydrocarbons are divided into three main groups according to the types of bonds they contain: alkanes, alkenes, and alkynes. Alkanes have only single bonds, alkenes contain a carbon-carbon double bond, and alkynes contain a carbon-carbon triple bond. Aromatic hydrocarbons are those that are significantly more stable than their Lewis structures would suggest; i.e., they possess “special stability.” They are classified as either arenes, which contain a
+  <xref articleid="78683">
+   benzene
+  </xref>
+  ring as a structural unit, or nonbenzenoid aromatic hydrocarbons, which possess special stability but lack a benzene ring as a structural unit.
+ </p>
+ <p>
+  <inlinemedia id="i117827" mediaid="117827" url="/27/117827-004-49F7A4EB.jpg"/>
+ </p>
+ <p>
+  This classification of hydrocarbons serves as an aid in associating structural features with properties but does not require that a particular substance be assigned to a single class. Indeed, it is common for a molecule to incorporate structural units characteristic of two or more hydrocarbon families. A molecule that contains both a carbon-carbon triple bond and a benzene ring, for example, would exhibit some properties that are characteristic of alkynes and others that are characteristic of arenes.
+ </p>
+ <p>
+  Alkanes are described as saturated hydrocarbons, while alkenes, alkynes, and aromatic hydrocarbons are said to be unsaturated.
+ </p>
+ <h1 id="h277889">
+  <title>
+   Aliphatic hydrocarbons
+  </title>
+  <h2 id="h277890">
+   <title>
+    Alkanes
+   </title>
+   <p>
+    Alkanes, hydrocarbons in which all the bonds are single, have molecular formulas that satisfy the general expression C
+    <sub>
+     <e type="italic">
+      n
+     </e>
+    </sub>
+    H
+    <sub>
+     2
+     <e type="italic">
+      n
+     </e>
+     + 2
+    </sub>
+    (where
+    <e type="italic">
+     n
+    </e>
+    is an integer). Carbon is
+    <e type="italic">
+     s
+    </e>
+    <e type="italic">
+     p
+    </e>
+    <sup>
+     3
+    </sup>
+    hybridized (three
+    <xref articleid="32316">
+     electron
+    </xref>
+    pairs are involved in bonding, forming a tetrahedral complex), and each C—C and C—H bond is a
+    <xref articleid="67711">
+     sigma (σ) bond
+    </xref>
+    (
+    <e type="italic">
+     see
+    </e>
+    <xref articleid="110108">
+     chemical bonding
+    </xref>
+    ). In order of increasing number of carbon atoms,
+    <xref articleid="52328">
+     methane
+    </xref>
+    (CH
+    <sub>
+     4
+    </sub>
+    ),
+    <xref articleid="33118">
+     ethane
+    </xref>
+    (C
+    <sub>
+     2
+    </sub>
+    H
+    <sub>
+     6
+    </sub>
+    ), and
+    <xref articleid="61550">
+     propane
+    </xref>
+    (C
+    <sub>
+     3
+    </sub>
+    H
+    <sub>
+     8
+    </sub>
+    ) are the first three members of the series.
+   </p>
+   <p>
+    <inlinemedia id="i16894" mediaid="16894" url="/94/16894-004-19F504AB.jpg"/>
+   </p>
+   <p>
+    Methane, ethane, and propane are the only alkanes uniquely defined by their molecular formula. For C
+    <sub>
+     4
+    </sub>
+    H
+    <sub>
+     10
+    </sub>
+    two different alkanes satisfy the rules of chemical bonding (namely, that carbon has four bonds and hydrogen has one in neutral molecules). One compound, called
+    <e type="italic">
+     n
+    </e>
+    -butane, where the prefix
+    <e type="italic">
+     n
+    </e>
+    - represents normal, has its four carbon atoms bonded in a continuous chain. The other, called isobutane, has a branched chain.
+   </p>
+   <p>
+    <inlinemedia id="i16893" mediaid="16893" url="/93/16893-004-EE040C03.jpg"/>
+   </p>
+   <p>
+    Different compounds that have the same molecular formula are called
+    <xref articleid="42954">
+     isomers
+    </xref>
+    . Isomers that differ in the order in which the atoms are connected are said to have different constitutions and are referred to as constitutional isomers. (An older name is structural isomers.) The compounds
+    <e type="italic">
+     n
+    </e>
+    -butane and isobutane are constitutional isomers and are the only ones possible for the formula C
+    <sub>
+     4
+    </sub>
+    H
+    <sub>
+     10
+    </sub>
+    . Because isomers are different compounds, they can have different physical and chemical properties. For example,
+    <e type="italic">
+     n
+    </e>
+    -butane has a higher boiling point (−0.5 °C [31.1 °F]) than isobutane (−11.7 °C [10.9 °F]).
+   </p>
+   <p>
+    There is no simple arithmetic relationship between the number of carbon atoms in a formula and the number of isomers.
+    <xref articleid="37754">
+     Graph theory
+    </xref>
+    has been used to calculate the number of constitutionally isomeric alkanes possible for values of
+    <e type="italic">
+     n
+    </e>
+    in C
+    <sub>
+     <e type="italic">
+      n
+     </e>
+    </sub>
+    H
+    <sub>
+     2
+     <e type="italic">
+      n
+     </e>
+     + 2
+    </sub>
+    from 1 through 400. The number of constitutional isomers increases sharply as the number of carbon atoms increases. There is probably no upper limit to the number of carbon atoms possible in hydrocarbons. The alkane CH
+    <sub>
+     3
+    </sub>
+    (CH
+    <sub>
+     2
+    </sub>
+    )
+    <sub>
+     388
+    </sub>
+    CH
+    <sub>
+     3
+    </sub>
+    , in which 390 carbon atoms are bonded in a continuous chain, has been synthesized as an example of a so-called superlong alkane. Several thousand carbon atoms are joined together in molecules of hydrocarbon polymers such as
+    <xref articleid="98896">
+     polyethylene
+    </xref>
+    ,
+    <xref articleid="98900">
+     polypropylene
+    </xref>
+    , and
+    <xref articleid="60723">
+     polystyrene
+    </xref>
+    .
+   </p>
+   <h3 id="h277891">
+    <title>
+     Nomenclature
+    </title>
+    <p>
+     The need to give each compound a unique name requires a richer variety of terms than is available with descriptive prefixes such as
+     <e type="italic">
+      n
+     </e>
+     - and iso-. The naming of
+     <xref articleid="57352">
+      organic compounds
+     </xref>
+     is facilitated through the use of formal systems of nomenclature. Nomenclature in organic chemistry is of two types: common and systematic. Common names originate in many different ways but share the feature that there is no necessary connection between name and structure. The name that corresponds to a specific structure must simply be memorized, much like learning the name of a person. Systematic names, on the other hand, are keyed directly to molecular structure according to a generally agreed upon set of rules. The most widely used standards for organic nomenclature evolved from suggestions made by a group of chemists assembled for that purpose in Geneva in 1892 and have been revised on a regular basis by the International Union of Pure and Applied Chemistry (IUPAC). The IUPAC rules govern all classes of organic compounds but are ultimately based on alkane names. Compounds in other families are viewed as derived from alkanes by appending functional groups to, or otherwise modifying, the carbon skeleton.
+    </p>
+    <p>
+     The IUPAC rules assign names to unbranched alkanes according to the number of their carbon atoms. Methane, ethane, and propane are retained for CH
+     <sub>
+      4
+     </sub>
+     , CH
+     <sub>
+      3
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     , and CH
+     <sub>
+      3
+     </sub>
+     CH
+     <sub>
+      2
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     , respectively. The
+     <e type="italic">
+      n
+     </e>
+     - prefix is not used for unbranched alkanes in systematic IUPAC nomenclature; therefore, CH
+     <sub>
+      3
+     </sub>
+     CH
+     <sub>
+      2
+     </sub>
+     CH
+     <sub>
+      2
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     is defined as butane, not
+     <e type="italic">
+      n
+     </e>
+     -butane. Beginning with five-carbon chains, the names of unbranched alkanes consist of a Latin or Greek stem corresponding to the number of carbons in the chain followed by the suffix -ane. A group of compounds such as the unbranched alkanes that differ from one another by successive introduction of CH
+     <sub>
+      2
+     </sub>
+     groups constitute a homologous series.
+    </p>
+    <p>
+     Alkanes with branched chains are named on the basis of the name of the longest chain of carbon atoms in the molecule, called the parent. The alkane shown has seven carbons in its longest chain and is therefore named as a derivative of heptane, the unbranched alkane that contains seven carbon atoms. The position of the CH
+     <sub>
+      3
+     </sub>
+     (methyl) substituent on the seven-carbon chain is specified by a number (3-), called a locant, obtained by successively numbering the carbons in the parent chain starting at the end nearer the branch. The compound is therefore called 3-methylheptane.
+    </p>
+    <p>
+     <inlinemedia id="i16892" mediaid="16892" url="/92/16892-004-48E7EFEC.jpg"/>
+    </p>
+    <p>
+     When there are two or more identical substituents, replicating prefixes (di-, tri-, tetra-, etc.) are used, along with a separate locant for each substituent. Different substituents, such as ethyl (―CH
+     <sub>
+      2
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     ) and methyl (―CH
+     <sub>
+      3
+     </sub>
+     ) groups, are cited in alphabetical order. Replicating prefixes are ignored when alphabetizing. In alkanes, numbering begins at the end nearest the substituent that appears first on the chain so that the carbon to which it is attached has as low a number as possible.
+    </p>
+    <p>
+     <inlinemedia id="i16891" mediaid="16891" url="/91/16891-004-23CE3B16.jpg"/>
+    </p>
+    <p>
+     Methyl and ethyl are examples of alkyl groups. An alkyl group is derived from an alkane by deleting one of its hydrogens, thereby leaving a potential point of attachment. Methyl is the only alkyl group derivable from methane and ethyl the only one from ethane. There are two C
+     <sub>
+      3
+     </sub>
+     H
+     <sub>
+      7
+     </sub>
+     and four C
+     <sub>
+      4
+     </sub>
+     H
+     <sub>
+      9
+     </sub>
+     alkyl groups. The IUPAC rules for naming alkanes and alkyl groups cover even very complex structures and are regularly updated. They are unambiguous in the sense that, although a single compound may have more than one correct IUPAC name, there is no possibility that two different compounds will have the same name.
+    </p>
+   </h3>
+   <h3 id="h277892">
+    <title>
+     Three-dimensional structures
+    </title>
+    <p>
+     <assembly id="a82" url="/assembly/view/82">
+      <title>
+       chemical structure of methane
+      </title>
+      <media mediaid="7411" type="image" url="/11/7411-004-84A98019.jpg"/>
+      <caption>
+       Tetrahedral geometry of methane: (A) stick-and-ball model and (B) diagram showing bond angles and distances. (Plain bonds represent bonds in the plane of the image; wedge and dashed bonds represent those directed toward and away from the viewer, respectively.)
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a82"/>
+     Most organic molecules, including all alkanes, are not planar but are instead characterized by three-dimensional structures. Methane, for example, has the shape of a regular tetrahedron with carbon at the centre and a hydrogen atom at each corner. Each H―C―H angle in methane is 109.5°, and each C―H bond distance is 1.09 angstroms (Å; 1Å = 1 × 10
+     <sup>
+      −10
+     </sup>
+     metre). Higher alkanes such as butane have bonds that are tetrahedrally disposed on each carbon except that the resulting C―C―C and H―C―H angles are slightly larger and smaller, respectively, than the ideal value of 109.5° characteristic of a perfectly symmetrical tetrahedron. Carbon-carbon bond distances in alkanes are normally close to 1.53 angstroms.
+    </p>
+    <p>
+     <assembly id="a83" url="/assembly/view/83">
+      <title>
+       eclipsed conformation of ethane
+      </title>
+      <media mediaid="7413" type="image" url="/13/7413-004-2A4F5D94.jpg"/>
+      <caption>
+       Eclipsed conformation is the least stable of all ethane conformations because the repulsive forces between electron pairs in the C―H bonds of adjacent carbons are maximized.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assembly id="a84" url="/assembly/view/84">
+      <title>
+       staggered conformation of ethane
+      </title>
+      <media mediaid="7415" type="image" url="/15/7415-004-FD55E5B1.jpg"/>
+      <caption>
+       Staggered conformation is the most stable of all ethane conformations because the repulsive forces between electron pairs in the C―H bonds of adjacent carbons are minimized.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a83"/>
+     <assemblyref assemblyid="a84"/>
+     An important aspect of the three-dimensional shape of alkanes and other organic molecules is their conformations, the nonidentical arrangements of atoms that are generated by rotation about single bonds. Of the infinite number of conformations possible for ethane—which are related by tiny increments of rotation of one CH
+     <sub>
+      3
+     </sub>
+     group with respect to the other—the eclipsed conformation is the least stable, and the staggered conformation is the most stable. The eclipsed conformation is said to suffer torsional strain because of repulsive forces between electron pairs in the C―H bonds of adjacent carbons. These repulsive forces are minimized in the staggered conformation since all C―H bonds are as far from one another as possible. Although rotation about the C―C bond of ethane is exceedingly rapid (millions of times per second at room temperature), at any instant most of the molecules exist in the staggered conformation.
+    </p>
+    <p>
+     For butane, two different staggered conformations, called anti and gauche, are possible. Methyl is a larger substituent than hydrogen, and the greater separation between methyl groups in the anti conformation makes it slightly more stable than the gauche.
+    </p>
+    <p>
+     <inlinemedia id="i16890" mediaid="16890" url="/90/16890-004-CA0ECABE.jpg"/>
+    </p>
+    <p>
+     The three-dimensional structures of higher alkanes are governed by the tetrahedral disposition of the four bonds to each carbon atom, by the preference for staggered conformations, and by the greater stability of anti C―C―C―C arrangements over gauche.
+    </p>
+   </h3>
+   <h3 id="h277893">
+    <title>
+     Cycloalkanes
+    </title>
+    <p>
+     Countless organic compounds are known in which a sequence of carbon atoms, rather than being connected in a chain, closes to form a ring. Saturated hydrocarbons that contain one ring are referred to as cycloalkanes. With a general formula of C
+     <sub>
+      <e type="italic">
+       n
+      </e>
+     </sub>
+     H
+     <sub>
+      2
+      <e type="italic">
+       n
+      </e>
+     </sub>
+     (
+     <e type="italic">
+      n
+     </e>
+     is an integer greater than 2), they have two fewer hydrogen atoms than an alkane with the same number of carbon atoms.
+     <xref articleid="28381">
+      Cyclopropane
+     </xref>
+     (C
+     <sub>
+      3
+     </sub>
+     H
+     <sub>
+      6
+     </sub>
+     ) is the smallest cycloalkane, whereas cyclohexane (C
+     <sub>
+      6
+     </sub>
+     H
+     <sub>
+      12
+     </sub>
+     ) is the most studied, best understood, and most important. It is customary to represent cycloalkane rings as polygons, with the understanding that each corner corresponds to a carbon atom to which is attached the requisite number of hydrogen atoms to bring its total number of bonds to four.
+    </p>
+    <p>
+     <inlinemedia id="i16889" mediaid="16889" url="/89/16889-004-FBAF6B57.jpg"/>
+    </p>
+    <p>
+     In naming cycloalkanes, alkyl groups attached to the ring are indicated explicitly and listed in alphabetical order, and the ring is numbered so as to give the lowest locant to the first-appearing substituent. If two different directions yield equivalent locants, the direction is chosen that gives the lower number to the substituent appearing first in the name.
+    </p>
+    <p>
+     <inlinemedia id="i16888" mediaid="16888" url="/88/16888-004-18788B80.jpg"/>
+    </p>
+    <p>
+     The three carbon atoms of cyclopropane define the corners of an equilateral triangle, a geometry that requires the C―C―C angles to be 60°. This 60° angle is much smaller than the normal tetrahedral bond angle of 109.5° and imposes considerable strain (called angle strain) on cyclopropane. Cyclopropane is further destabilized by the torsional strain that results from having three eclipsed C―H bonds above the plane of the ring and three below.
+    </p>
+    <p>
+     Cyclopropane is the only cycloalkane that is planar. Cyclobutane (C
+     <sub>
+      4
+     </sub>
+     H
+     <sub>
+      8
+     </sub>
+     ) and higher cycloalkanes adopt nonplanar conformations in order to minimize the eclipsing of bonds on adjacent atoms. The angle strain in cyclobutane is less than in cyclopropane, whereas cyclopentane and higher cycloalkanes are virtually free of angle strain. With the exception of cyclopropane, all cycloalkanes undergo rapid internal motion involving interconversion of nonplanar “puckered” conformations.
+    </p>
+    <p>
+     <inlinemedia id="i16887" mediaid="16887" url="/87/16887-004-12AFFB04.jpg"/>
+    </p>
+    <p>
+     Many of the most important principles of conformational analysis have been developed by examining cyclohexane. Three conformations of cyclohexane, designated as chair, boat, and skew (or twist), are essentially free of angle strain. Of these three the chair is the most stable, mainly because it has a staggered arrangement of all its bonds. The boat and skew conformations lack perfect staggering of bonds and are destabilized by torsional strain. The boat conformation is further destabilized by the mutual crowding of hydrogen atoms at carbons one and four. The shape of the boat brings its two “flagpole” hydrogen atoms to within 1.80 angstroms of each other, far closer than the 2.20-angstrom distance at which repulsive forces between hydrogen atoms become significant. At room temperature, 999 of every 1,000 cyclohexane molecules exist in the chair form (the other being skew).
+    </p>
+    <p>
+     <inlinemedia id="i16886" mediaid="16886" url="/86/16886-004-92E38D3D.jpg"/>
+    </p>
+    <p>
+     There are two orientations of carbon-hydrogen bonds in the chair conformation of cyclohexane. Six bonds are parallel to a vertical axis passing through the centre of the ring and are called axial (a) bonds. The directions of these six axial bonds alternate up and down from one carbon to the next around the ring; thus, the axial hydrogens at carbons one, three, and five lie on one side of the ring and those at carbons two, four, and six on the other. The remaining six bonds are referred to as equatorial (e) because they lie in a region corresponding to the approximate “equator” of the molecule. The shortest distances between nonbonded atoms are those involving axial hydrogens on the same side of the molecule.
+    </p>
+    <p>
+     A rapid process of chair-chair interconversion (called ring-flipping) interconverts the six axial and six equatorial hydrogen atoms in cyclohexane. Chair-chair interconversion is a complicated process brought about by successive conformational changes within the molecule. It is different from simple whole-molecule motions, such as spinning and tumbling, and because it is a conformational change only, it does not require any bonds to be broken.
+    </p>
+    <p>
+     <inlinemedia id="i16885" mediaid="16885" url="/85/16885-004-A0939236.jpg"/>
+    </p>
+    <p>
+     Chair-chair interconversion is especially important in substituted derivatives of cyclohexane. Any substituent is more stable when it occupies an equatorial rather than an axial site on the ring, since equatorial substituents are less crowded than axial ones. In methylcyclohexane, the chair conformation in which the large
+     <xref articleid="52341">
+      methyl group
+     </xref>
+     is equatorial is the most stable and, therefore, the most populated of all possible conformations. At any instant, almost all the methylcyclohexane molecules in a given sample exist in chair conformations, and about 95 percent of these have the methyl group in an equatorial orientation.
+    </p>
+    <p>
+     <inlinemedia id="i16884" mediaid="16884" url="/84/16884-004-8805EF9A.jpg"/>
+    </p>
+    <p>
+     The highly branched
+     <e type="italic">
+      tert
+     </e>
+     -butyl group (CH
+     <sub>
+      3
+     </sub>
+     )
+     <sub>
+      3
+     </sub>
+     C― (
+     <e type="italic">
+      tert
+     </e>
+     -butyl) is even more spatially demanding than the methyl group, and more than 99.99 percent of
+     <e type="italic">
+      tert
+     </e>
+     -butylcyclohexane molecules adopt chair conformations in which the (CH
+     <sub>
+      3
+     </sub>
+     )
+     <sub>
+      3
+     </sub>
+     C― group is equatorial.
+    </p>
+    <p>
+     Conformational analysis of six-membered rings, especially the greater stability of chair conformations with equatorial substituents, not only is important in the area of hydrocarbons but also is essential to an understanding of the properties of biologically important molecules, especially
+     <xref articleid="69640">
+      steroids
+     </xref>
+     and
+     <xref articleid="110799">
+      carbohydrates
+     </xref>
+     .
+     <xref articleid="39472">
+      Odd Hassel
+     </xref>
+     of Norway and
+     <xref articleid="13547">
+      Derek H.R. Barton
+     </xref>
+     of England shared the Nobel Prize for Chemistry in 1969 for their important discoveries in this area. Hassel’s studies dealt with structure, while Barton showed how conformational effects influence chemical reactivity.
+    </p>
+    <p>
+     The most stable structures of cycloalkanes and compounds based on them have been determined by a number of experimental techniques, including
+     <xref articleid="77657">
+      X-ray diffraction
+     </xref>
+     and
+     <xref articleid="32321">
+      electron diffraction
+     </xref>
+     analyses and infrared,
+     <xref articleid="56443">
+      nuclear magnetic resonance
+     </xref>
+     , and microwave spectroscopies. These experimental techniques have been joined by advances in computational methods such as molecular mechanics, whereby the total strain energies of various conformations are calculated and compared (
+     <e type="italic">
+      see also
+     </e>
+     <xref articleid="110108">
+      chemical bonding: Computational approaches to molecular structure
+     </xref>
+     ). The structure with the lowest total energy is the most stable and corresponds to the best combination of bond distances, bond angles, and conformation. One benefit of such calculations is that unstable conformations, which are difficult to study experimentally, can be examined. The quality of molecular mechanics calculations is such that it is claimed that many structural features of hydrocarbons can be computed more accurately than they can be measured.
+    </p>
+    <p>
+     The conformations of rings with 7–12 carbons have been special targets for study by molecular mechanics. Unlike cyclohexane, in which one conformation (the chair) is much more stable than any other, cycloalkanes with 7–12 carbons are generally populated by several conformations of similar energy. Rings with more than 12 carbons are sufficiently flexible to adopt conformations that are essentially strain-free.
+    </p>
+    <p>
+     Polycyclic hydrocarbons are hydrocarbons that contain more than one ring. They are classified as bicyclic, tricyclic, tetracyclic, and so forth, according to the number of formal bond disconnections necessary to produce a noncyclic carbon chain. Examples include
+     <e type="italic">
+      trans
+     </e>
+     -decalin and adamantane—both of which are present in small amounts in
+     <xref articleid="110438">
+      petroleum
+     </xref>
+     —and cubane, a compound synthesized for the purpose of studying the effects of strain on chemical reactivity.
+    </p>
+    <p>
+     <inlinemedia id="i16883" mediaid="16883" url="/83/16883-004-172A4B4C.jpg"/>
+    </p>
+   </h3>
+   <h3 id="h277894">
+    <title>
+     Stereoisomerism
+    </title>
+    <p>
+     Certain substituted derivatives of cycloalkanes exhibit a type of
+     <xref articleid="42954">
+      isomerism
+     </xref>
+     called stereoisomerism in which two substances have the same molecular formula and the same constitution but differ in the arrangement of their
+     <xref articleid="110411">
+      atoms
+     </xref>
+     in space. Methyl groups in 1,2-dimethylcyclopropane, for example, may be on the same (
+     <e type="italic">
+      cis
+     </e>
+     ) or opposite (
+     <e type="italic">
+      trans
+     </e>
+     ) sides of the plane defined by the ring. The resulting two substances are different compounds, each having its own properties such as
+     <xref articleid="80446">
+      boiling point
+     </xref>
+     (abbreviated bp here):
+    </p>
+    <p>
+     <inlinemedia id="i16882" mediaid="16882" url="/82/16882-004-B4AB005C.jpg"/>
+    </p>
+    <p>
+     <e type="italic">
+      Cis
+     </e>
+     -
+     <e type="italic">
+      trans
+     </e>
+     isomers belong to a class of stereoisomers known as diastereomers and are often referred to as geometric isomers, although this is an obsolete term.
+     <e type="italic">
+      Cis
+     </e>
+     -
+     <e type="italic">
+      trans
+     </e>
+     stereoisomers normally cannot be interconverted at room temperature, because to do so requires the breaking and reforming of chemical bonds.
+    </p>
+   </h3>
+   <h3 id="h277895">
+    <title>
+     Physical properties
+    </title>
+    <p>
+     Alkanes and cycloalkanes are nonpolar substances. Attractive forces between alkane molecules are dictated by London forces (or dispersion forces, arising from electron fluctuations in molecules;
+     <e type="italic">
+      see
+     </e>
+     <xref articleid="110108" refid="h43429">
+      chemical bonding: Intermolecular forces
+     </xref>
+     ) and are weak. Thus, alkanes have relatively low boiling points compared with polar molecules of comparable molecular weight. The boiling points of alkanes increase with increasing number of carbons. This is because the intermolecular attractive forces, although individually weak, become cumulatively more significant as the number of atoms and
+     <xref articleid="32316">
+      electrons
+     </xref>
+     in the molecule increases.
+    </p>
+    <p>
+     For a given number of carbon atoms, an unbranched alkane has a higher boiling point than any of its branched-chain isomers. This effect is evident upon comparing the boiling points (bp) of selected C
+     <sub>
+      8
+     </sub>
+     H
+     <sub>
+      18
+     </sub>
+     isomers. An unbranched alkane has a more extended shape, thereby increasing the number of intermolecular attractive forces that must be broken in order to go from the
+     <xref articleid="110301">
+      liquid
+     </xref>
+     state to the
+     <xref articleid="110302">
+      gaseous
+     </xref>
+     state. On the other hand, the relatively compact ellipsoidal shape of 2,2,3,3-tetramethylbutane permits it to pack into a crystal lattice more effectively than octane and so raises its
+     <xref articleid="51921">
+      melting point
+     </xref>
+     (mp).
+    </p>
+    <p>
+     <inlinemedia id="i16881" mediaid="16881" url="/81/16881-004-4004A849.jpg"/>
+    </p>
+    <p>
+     In general,
+     <xref articleid="68592">
+      solid
+     </xref>
+     alkanes do not often have high melting points. Unbranched alkanes tend toward a maximum in that the melting point of CH
+     <sub>
+      3
+     </sub>
+     (CH
+     <sub>
+      2
+     </sub>
+     )
+     <sub>
+      98
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     (115 °C [239 °F]) is not much different from that of CH
+     <sub>
+      3
+     </sub>
+     (CH
+     <sub>
+      2
+     </sub>
+     )
+     <sub>
+      148
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     (123 °C [253 °F]).
+    </p>
+    <p>
+     The
+     <xref articleid="75513">
+      viscosity
+     </xref>
+     of liquid alkanes increases with the number of carbons. Increased intermolecular attractive forces, as well as an increase in the extent to which nearby molecules become entangled when they have an extended shape, cause unbranched alkanes to be more viscous than their branched-chain isomers.
+    </p>
+    <p>
+     The densities of liquid hydrocarbons are all less than that of
+     <xref articleid="76210">
+      water
+     </xref>
+     , which is quite polar and possesses strong intermolecular attractive forces. All hydrocarbons are insoluble in water and, being less dense than water, float on its surface. Hydrocarbons are, however, usually soluble in one another as well as in organic solvents such as
+     <xref articleid="33145">
+      diethyl ether
+     </xref>
+     (CH
+     <sub>
+      3
+     </sub>
+     CH
+     <sub>
+      2
+     </sub>
+     OCH
+     <sub>
+      2
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     ).
+    </p>
+   </h3>
+   <h3 id="h277896">
+    <title>
+     Sources and occurrence
+    </title>
+    <p>
+     The most abundant sources of alkanes are
+     <xref articleid="110439">
+      natural gas
+     </xref>
+     and
+     <xref articleid="110438">
+      petroleum
+     </xref>
+     deposits, formed over a period of millions of years by the decay of organic matter in the absence of
+     <xref articleid="57841">
+      oxygen
+     </xref>
+     . Natural gas contains 60–80 percent
+     <xref articleid="52328">
+      methane
+     </xref>
+     , 5–9 percent
+     <xref articleid="33118">
+      ethane
+     </xref>
+     , 3–18 percent
+     <xref articleid="61550">
+      propane
+     </xref>
+     , and 2–14 percent higher hydrocarbons. Petroleum is a complex liquid mixture of hundreds of substances—including 150 or more hydrocarbons, approximately half of which are saturated.
+    </p>
+    <p>
+     Approximately two billion tons of methane are produced annually by the
+     <xref articleid="110416">
+      bacteria
+     </xref>
+     that live in
+     <xref articleid="105958">
+      termites
+     </xref>
+     and in the digestive systems of plant-eating
+     <xref articleid="110237">
+      animals
+     </xref>
+     . Smaller quantities of alkanes also can be found in a variety of natural materials. The so-called aggregation pheromone whereby
+     <e type="italic">
+      Blaberus craniifer
+     </e>
+     <xref articleid="24594">
+      cockroaches
+     </xref>
+     attract others of the same species is a 1:1 mixture of the volatile but relatively high-boiling liquid alkanes undecane, CH
+     <sub>
+      3
+     </sub>
+     (CH
+     <sub>
+      2
+     </sub>
+     )
+     <sub>
+      9
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     , and tetradecane, CH
+     <sub>
+      3
+     </sub>
+     (CH
+     <sub>
+      2
+     </sub>
+     )
+     <sub>
+      12
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     . Hentriacontane, CH
+     <sub>
+      3
+     </sub>
+     (CH
+     <sub>
+      2
+     </sub>
+     )
+     <sub>
+      29
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     , is a solid alkane present to the extent of 8–9 percent in
+     <xref articleid="14113">
+      beeswax
+     </xref>
+     , where its stability and impermeability to water contribute to the role it plays as a structural component.
+    </p>
+    <p>
+     With the exception of the alkanes that are readily available from petroleum, alkanes are synthesized in the laboratory and in industry by the
+     <xref articleid="41734">
+      hydrogenation
+     </xref>
+     of alkenes. Only a few methods are available in which a carbon-carbon bond-forming operation gives an alkane directly, and these tend to be suitable only for syntheses carried out on a small scale.
+    </p>
+   </h3>
+   <h3 id="h277897">
+    <title>
+     Chemical reactions
+    </title>
+    <p>
+     As is true for all hydrocarbons, alkanes burn in air to produce
+     <xref articleid="20249">
+      carbon dioxide
+     </xref>
+     (CO
+     <sub>
+      2
+     </sub>
+     ) and water (H
+     <sub>
+      2
+     </sub>
+     O) and release
+     <xref articleid="39732">
+      heat
+     </xref>
+     . The
+     <xref articleid="24921">
+      combustion
+     </xref>
+     of 2,2,4-trimethylpentane is expressed by the following chemical equation:
+    </p>
+    <p>
+     <inlinemedia id="i16406" mediaid="16406" url="/06/16406-004-0793C72A.jpg"/>
+    </p>
+    <p>
+     The fact that all hydrocarbon combustions are exothermic is responsible for their widespread use as fuels. Grades of
+     <xref articleid="36148">
+      gasoline
+     </xref>
+     are rated by comparing their tendency toward preignition or knocking to reference blends of heptane and 2,2,4-trimethylpentane and assigning
+     <xref articleid="56729">
+      octane numbers
+     </xref>
+     . Pure heptane (assigned an octane number of 0) has poor ignition characteristics, whereas 2,2,4-trimethylpentane (assigned an octane number of 100) resists knocking even in high-compression engines.
+    </p>
+    <p>
+     As a class, alkanes are relatively unreactive substances and undergo only a few reactions. An industrial process known as
+     <xref articleid="42955">
+      isomerization
+     </xref>
+     employs an aluminum chloride (AlCl
+     <sub>
+      3
+     </sub>
+     )
+     <xref articleid="20761">
+      catalyst
+     </xref>
+     to convert unbranched alkanes to their branched-chain isomers. In one such application,
+     <xref articleid="18305">
+      butane
+     </xref>
+     is isomerized to 2-methylpropane for use as a starting material in the preparation of 2,2,4-trimethylpentane (isooctane), which is a component of high-octane gasoline.
+    </p>
+    <p>
+     <inlinemedia id="i16880" mediaid="16880" url="/80/16880-004-EC376493.jpg"/>
+    </p>
+    <p>
+     The halogens
+     <xref articleid="82243">
+      chlorine
+     </xref>
+     (Cl
+     <sub>
+      2
+     </sub>
+     ) and
+     <xref articleid="16596">
+      bromine
+     </xref>
+     (Br
+     <sub>
+      2
+     </sub>
+     ) react with alkanes and cycloalkanes by replacing one or more
+     <xref articleid="110604">
+      hydrogens
+     </xref>
+     with a halogen. Although the reactions are exothermic, a source of energy such as ultraviolet light or high temperature is required to initiate the reaction, as, for example, in the chlorination of cyclobutane.
+    </p>
+    <p>
+     <inlinemedia id="i16879" mediaid="16879" url="/79/16879-004-70FD52FE.jpg"/>
+    </p>
+    <p>
+     The chlorinated derivatives of methane (CH
+     <sub>
+      3
+     </sub>
+     Cl, CH
+     <sub>
+      2
+     </sub>
+     Cl
+     <sub>
+      2
+     </sub>
+     , CHCl
+     <sub>
+      3
+     </sub>
+     , and CCl
+     <sub>
+      4
+     </sub>
+     ) are useful industrially and are prepared by various methods, including the reaction of methane with chlorine at temperatures on the order of 450 °C (840 °F).
+    </p>
+    <p>
+     The most important industrial organic chemical reaction in terms of its scale and economic impact is the dehydrogenation of ethane (obtained from natural gas) to form
+     <xref articleid="33146">
+      ethylene
+     </xref>
+     and hydrogen (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="41720" refid="h277901">
+      Alkenes and alkynes: Natural occurrence
+     </xref>
+     and
+     <xref articleid="41720" refid="h277902">
+      Synthesis
+     </xref>
+     ). The hydrogen produced is employed in the
+     <xref articleid="38697">
+      Haber-Bosch process
+     </xref>
+     for the preparation of
+     <xref articleid="7200">
+      ammonia
+     </xref>
+     from
+     <xref articleid="55947">
+      nitrogen
+     </xref>
+     .
+    </p>
+    <p>
+     <inlinemedia id="i16388" mediaid="16388" url="/88/16388-004-888D9C87.jpg"/>
+    </p>
+    <p>
+     The higher alkanes present in petroleum also yield ethylene under similar conditions by reactions that involve both dehydrogenation and the breaking of carbon-carbon bonds. The conversion of high-molecular-weight alkanes to lower ones is called
+     <xref articleid="26722">
+      cracking
+     </xref>
+     .
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h277898">
+   <title>
+    Alkenes and alkynes
+   </title>
+   <p>
+    Alkenes (also called
+    <xref articleid="57003">
+     olefins
+    </xref>
+    ) and alkynes (also called
+    <xref articleid="3510">
+     acetylenes
+    </xref>
+    ) belong to the class of unsaturated aliphatic hydrocarbons. Alkenes are hydrocarbons that contain a carbon-carbon double bond, whereas alkynes have a carbon-carbon triple bond. Alkenes are characterized by the general molecular formula C
+    <sub>
+     <e type="italic">
+      n
+     </e>
+    </sub>
+    H
+    <sub>
+     2
+     <e type="italic">
+      n
+     </e>
+    </sub>
+    , alkynes by C
+    <sub>
+     <e type="italic">
+      n
+     </e>
+    </sub>
+    H
+    <sub>
+     2
+     <e type="italic">
+      n
+     </e>
+     − 2
+    </sub>
+    . Ethene (C
+    <sub>
+     2
+    </sub>
+    H
+    <sub>
+     4
+    </sub>
+    ) is the simplest alkene and ethyne (C
+    <sub>
+     2
+    </sub>
+    H
+    <sub>
+     2
+    </sub>
+    ) the simplest alkyne.
+   </p>
+   <p>
+    <inlinemedia id="i16878" mediaid="16878" url="/78/16878-004-D5586013.jpg"/>
+   </p>
+   <p>
+    Ethylene is a planar molecule with a carbon-carbon double bond length (1.34 angstroms) that is significantly shorter than the corresponding single bond length (1.53 angstroms) in ethane. Acetylene has a linear H―C≡C―H geometry, and its carbon-carbon bond distance (1.20 angstroms) is even shorter than that of ethylene.
+   </p>
+   <h3 id="h277899">
+    <title>
+     Bonding in alkenes and alkynes
+    </title>
+    <p>
+     The generally accepted bonding model for alkenes views the double bond as being composed of a σ (sigma) component and a π (pi) component. In the case of ethylene, each carbon is
+     <e type="italic">
+      s
+     </e>
+     <e type="italic">
+      p
+     </e>
+     <sup>
+      2
+     </sup>
+     hybridized, and each is bonded to two hydrogens and the other carbon by σ bonds. Additionally, each carbon has a half-filled
+     <e type="italic">
+      p
+     </e>
+     orbital, the axis of which is perpendicular to the plane of the σ bonds. Side-by-side overlap of these two
+     <e type="italic">
+      p
+     </e>
+     orbitals generates a π bond. The pair of electrons in the π bond are equally likely to be found in the regions of space immediately above and below the plane defined by the atoms. Most of the important reactions of alkenes involve the electrons in the π component of the double bond because these are the electrons that are farthest from the positively charged nuclei and therefore the most weakly held.
+    </p>
+    <p>
+     <inlinemedia id="i16874" mediaid="16874" url="/74/16874-004-B26C2AED.jpg"/>
+    </p>
+    <p>
+     The triple bond of an alkyne consists of one σ and two π components linking two
+     <e type="italic">
+      s
+     </e>
+     <e type="italic">
+      p
+     </e>
+     hybridized carbons. In the case of acetylene, the molecule itself is linear with σ bonds between the two carbons and to each hydrogen. Each carbon has two
+     <e type="italic">
+      p
+     </e>
+     orbitals, the axes of which are perpendicular to each other. Overlap of two
+     <e type="italic">
+      p
+     </e>
+     orbitals, suitably aligned and on adjacent carbons, gives two π bonds.
+    </p>
+    <p>
+     <inlinemedia id="i16873" mediaid="16873" url="/73/16873-004-3E40CB63.jpg"/>
+    </p>
+   </h3>
+   <h3 id="h277900">
+    <title>
+     Nomenclature of alkenes and alkynes
+    </title>
+    <p>
+     Ethylene and acetylene are synonyms in the IUPAC nomenclature system for ethene and ethyne, respectively. Higher alkenes and alkynes are named by counting the number of carbons in the longest continuous chain that includes the double or triple bond and appending an -ene (alkene) or -yne (alkyne) suffix to the stem name of the unbranched alkane having that number of carbons. The chain is numbered in the direction that gives the lowest number to the first multiply bonded carbon, and adding it as a prefix to the name. Once the chain is numbered with respect to the multiple bond, substituents attached to the parent chain are listed in alphabetical order and their positions identified by number.
+    </p>
+    <p>
+     <inlinemedia id="i16877" mediaid="16877" url="/77/16877-004-84AB4D19.jpg"/>
+    </p>
+    <p>
+     Compounds that contain two double bonds are classified as dienes, those with three as trienes, and so forth. Dienes are named by replacing the -ane suffix of the corresponding alkane by -adiene and identifying the positions of the double bonds by numerical locants. Dienes are classified as cumulated, conjugated, or isolated according to whether the double bonds constitute a C=C=C unit, a C=C―C=C unit, or a C=C―(CXY)
+     <sub>
+      <e type="italic">
+       n
+      </e>
+     </sub>
+     ―C=C unit, respectively.
+    </p>
+    <p>
+     <inlinemedia id="i16405" mediaid="16405" url="/05/16405-004-B04B1F61.jpg"/>
+    </p>
+    <p>
+     Double bonds can be incorporated into rings of all sizes, resulting in cycloalkenes. In naming substituted derivatives of cycloalkenes, numbering begins at and continues through the double bond.
+    </p>
+    <p>
+     <inlinemedia id="i16876" mediaid="16876" url="/76/16876-004-5A266AFD.jpg"/>
+    </p>
+    <p>
+     Unlike rotation about carbon-carbon single bonds, which is exceedingly rapid, rotation about carbon-carbon double bonds does not occur under normal circumstances. Stereoisomerism is therefore possible in those alkenes in which neither carbon atom bears two identical substituents. In most cases, the names of stereoisomeric alkenes are distinguished by
+     <e type="italic">
+      cis
+     </e>
+     -
+     <e type="italic">
+      trans
+     </e>
+     notation. (An alternative method, based on the Cahn-Ingold-Prelog system and using E and Z prefixes, is also used.) Cycloalkenes in which the ring has eight or more carbons are capable of existing as
+     <e type="italic">
+      cis
+     </e>
+     or
+     <e type="italic">
+      trans
+     </e>
+     stereoisomers.
+     <e type="italic">
+      trans
+     </e>
+     -Cycloalkenes are too unstable to isolate when the ring has seven or fewer carbons.
+    </p>
+    <p>
+     <inlinemedia id="i16875" mediaid="16875" url="/75/16875-004-7B2D351E.jpg"/>
+    </p>
+    <p>
+     Because the C―C≡C―C unit of an alkyne is linear, cycloalkynes are possible only when the number of carbon atoms in the ring is large enough to confer the flexibility necessary to accommodate this geometry. Cyclooctyne (C
+     <sub>
+      8
+     </sub>
+     H
+     <sub>
+      12
+     </sub>
+     ) is the smallest cycloalkyne capable of being isolated and stored as a stable compound.
+    </p>
+   </h3>
+   <h3 id="h277901">
+    <title>
+     Natural occurrence
+    </title>
+    <p>
+     <xref articleid="33146">
+      Ethylene
+     </xref>
+     is formed in small amounts as a plant
+     <xref articleid="110803">
+      hormone
+     </xref>
+     . The biosynthesis of ethylene involves an
+     <xref articleid="32739">
+      enzyme
+     </xref>
+     -catalyzed decomposition of a novel
+     <xref articleid="7182">
+      amino acid
+     </xref>
+     , and, once formed, ethylene stimulates the ripening of fruits.
+    </p>
+    <p>
+     <inlinemedia id="i16872" mediaid="16872" url="/72/16872-004-F018D99B.jpg"/>
+    </p>
+    <p>
+     Alkenes are abundant in the
+     <xref articleid="33048">
+      essential oils
+     </xref>
+     of trees and other plants. (Essential oils are responsible for the characteristic odour, or “essence,” of the plant from which they are obtained.) Myrcene and
+     <xref articleid="48320">
+      limonene
+     </xref>
+     , for example, are alkenes found in
+     <xref articleid="13864">
+      bayberry
+     </xref>
+     and
+     <xref articleid="48293">
+      lime
+     </xref>
+     oil, respectively.
+     <xref articleid="73883">
+      Oil of turpentine
+     </xref>
+     , obtained by distilling the exudate from
+     <xref articleid="60072">
+      pine
+     </xref>
+     trees, is a mixture of hydrocarbons rich in α-
+     <xref articleid="60084">
+      pinene
+     </xref>
+     . α-Pinene is used as a paint thinner as well as a starting material for the preparation of synthetic
+     <xref articleid="19873">
+      camphor
+     </xref>
+     ,
+     <xref articleid="106187">
+      drugs
+     </xref>
+     , and other chemicals.
+    </p>
+    <p>
+     <inlinemedia id="i16871" mediaid="16871" url="/71/16871-004-AB7BD295.jpg"/>
+    </p>
+    <p>
+     Other naturally occurring hydrocarbons with double bonds include plant
+     <xref articleid="59993">
+      pigments
+     </xref>
+     such as
+     <xref articleid="49491">
+      lycopene
+     </xref>
+     , which is responsible for the red colour of ripe
+     <xref articleid="72825">
+      tomatoes
+     </xref>
+     and
+     <xref articleid="76268">
+      watermelon
+     </xref>
+     . Lycopene is a polyene (meaning many double bonds) that belongs to a family of 40-carbon hydrocarbons known as
+     <xref articleid="20444">
+      carotenes
+     </xref>
+     .
+    </p>
+    <p>
+     <inlinemedia id="i16870" mediaid="16870" url="/70/16870-004-0A61F743.jpg"/>
+    </p>
+    <p>
+     The sequence of alternating single and double bonds in lycopene is an example of a
+     <xref articleid="25876">
+      conjugated system
+     </xref>
+     . The degree of conjugation affects the light-absorption properties of unsaturated compounds. Simple alkenes absorb ultraviolet light and appear colourless. The
+     <xref articleid="76325">
+      wavelength
+     </xref>
+     of the light absorbed by unsaturated compounds becomes longer as the number of double bonds in conjugation with one another increases, with the result that polyenes containing regions of extended conjugation absorb visible light and appear yellow to red.
+    </p>
+    <p>
+     The hydrocarbon fraction of natural
+     <xref articleid="23536">
+      rubber
+     </xref>
+     (roughly 98 percent) is made up of a collection of
+     <xref articleid="60700">
+      polymer
+     </xref>
+     molecules, each of which contains approximately 20,000 C
+     <sub>
+      5
+     </sub>
+     H
+     <sub>
+      8
+     </sub>
+     structural units joined together in a regular repeating pattern.
+    </p>
+    <p>
+     <inlinemedia id="i16869" mediaid="16869" url="/69/16869-004-8937BB0F.jpg"/>
+    </p>
+    <p>
+     Natural products that contain carbon-carbon triple bonds, while numerous in
+     <xref articleid="108554">
+      plants
+     </xref>
+     and
+     <xref articleid="110641">
+      fungi
+     </xref>
+     , are far less abundant than those that contain double bonds and are much less frequently encountered.
+    </p>
+   </h3>
+   <h3 id="h277902">
+    <title>
+     Synthesis
+    </title>
+    <p>
+     The lower alkenes (through four-carbon alkenes) are produced commercially by cracking and dehydrogenation of the hydrocarbons present in natural gas and petroleum (
+     <e type="italic">
+      see above
+     </e>
+     <xref articleid="41720" refid="h277897">
+      Alkanes: Chemical reactions
+     </xref>
+     ). The annual global production of ethylene averages around 75 million metric tons. Analogous processes yield approximately 2 million metric tons per year of 1,3-butadiene (CH
+     <sub>
+      2
+     </sub>
+     =CHCH=CH
+     <sub>
+      2
+     </sub>
+     ). Approximately one-half of the ethylene is used to prepare
+     <xref articleid="98896">
+      polyethylene
+     </xref>
+     . Most of the remainder is utilized to make ethylene oxide (for the manufacture of
+     <xref articleid="33149">
+      ethylene glycol
+     </xref>
+     antifreeze and other products),
+     <xref articleid="75443">
+      vinyl chloride
+     </xref>
+     (for polymerization to
+     <xref articleid="60733">
+      polyvinyl chloride
+     </xref>
+     ), and
+     <xref articleid="70074">
+      styrene
+     </xref>
+     (for polymerization to
+     <xref articleid="60723">
+      polystyrene
+     </xref>
+     ). The principal application of propylene is in the preparation of polypropylene. 1,3-Butadiene is a starting material in the manufacture of synthetic rubber (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="41720" refid="h277905">
+      Polymerization
+     </xref>
+     ).
+    </p>
+    <p>
+     Higher alkenes and cycloalkenes are normally prepared by reactions in which a double bond is introduced into a saturated precursor by
+     <xref articleid="1856">
+      elimination
+     </xref>
+     (i.e., a reaction in which atoms or
+     <xref articleid="42688">
+      ions
+     </xref>
+     are lost from a molecule).
+    </p>
+    <p>
+     <inlinemedia id="i16868" mediaid="16868" url="/68/16868-004-52B42C78.jpg"/>
+    </p>
+    <p>
+     Examples include the dehydration of
+     <xref articleid="5513">
+      alcohols
+     </xref>
+     <formula>
+      <inlinemedia id="i16867" mediaid="16867" url="/67/16867-004-FB44B5BD.jpg"/>
+     </formula>
+     and the dehydrohalogenation (loss of a hydrogen atom and a
+     <xref articleid="110612">
+      halogen
+     </xref>
+     atom) of alkyl halides.
+    </p>
+    <p>
+     <inlinemedia id="i16866" mediaid="16866" url="/66/16866-004-360167D0.jpg"/>
+    </p>
+    <p>
+     These usually are laboratory rather than commercial methods. Alkenes also can be prepared by partial hydrogenation of alkynes (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="41720" refid="h277904">
+      Chemical properties
+     </xref>
+     ).
+    </p>
+    <p>
+     Acetylene is prepared industrially by cracking and dehydrogenation of hydrocarbons as described for ethylene (
+     <e type="italic">
+      see above
+     </e>
+     <xref articleid="41720" refid="h277897">
+      Alkanes: Chemical reactions
+     </xref>
+     ). Temperatures of about 800 °C (1,500 °F) produce ethylene; temperatures of roughly 1,150 °C (2,100 °F) yield acetylene. Acetylene, relative to ethylene, is an unimportant industrial chemical. Most of the compounds capable of being derived from acetylene are prepared more economically from ethylene, which is a less expensive starting material. Higher alkynes can be made from acetylene (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="41720" refid="h277904">
+      Chemical properties
+     </xref>
+     ) or by double elimination of a dihaloalkane (i.e., removal of both halogen atoms from a disubstituted alkane).
+    </p>
+    <p>
+     <inlinemedia id="i16865" mediaid="16865" url="/65/16865-004-31DCF802.jpg"/>
+    </p>
+   </h3>
+   <h3 id="h277903">
+    <title>
+     Physical properties
+    </title>
+    <p>
+     The physical properties of alkenes and alkynes are generally similar to those of alkanes or cycloalkanes with equal numbers of
+     <xref articleid="20244">
+      carbon
+     </xref>
+     atoms. Alkynes have higher
+     <xref articleid="80446">
+      boiling points
+     </xref>
+     than alkanes or alkenes, because the electric field of an alkyne, with its increased number of weakly held π
+     <xref articleid="32316">
+      electrons
+     </xref>
+     , is more easily distorted, producing stronger attractive forces between molecules.
+    </p>
+   </h3>
+   <h3 id="h277904">
+    <title>
+     Chemical properties
+    </title>
+    <p>
+     Alkenes react with a much richer variety of compounds than alkanes. The characteristic reaction of alkanes is
+     <xref articleid="1315">
+      substitution
+     </xref>
+     ; that of alkenes and alkynes is addition to the double or triple bond.
+     <xref articleid="41734">
+      Hydrogenation
+     </xref>
+     is the addition of molecular hydrogen (H
+     <sub>
+      2
+     </sub>
+     ) to a multiple bond, which converts alkenes to alkanes. The reaction occurs at a convenient rate only in the presence of certain finely divided
+     <xref articleid="52266">
+      metal
+     </xref>
+     catalysts, such as
+     <xref articleid="55747">
+      nickel
+     </xref>
+     (Ni),
+     <xref articleid="60356">
+      platinum
+     </xref>
+     (Pt),
+     <xref articleid="58119">
+      palladium
+     </xref>
+     (Pd), or
+     <xref articleid="63458">
+      rhodium
+     </xref>
+     (Rh).
+    </p>
+    <p>
+     <inlinemedia id="i16864" mediaid="16864" url="/64/16864-004-A025E357.jpg"/>
+    </p>
+    <p>
+     Hydrogenation is used to prepare alkanes and cycloalkanes and also to change the physical properties of highly unsaturated vegetable oils to increase their shelf life. In such processes the liquid oils are converted to fats of a more solid consistency.
+     <xref articleid="18337">
+      Butter
+     </xref>
+     substitutes such as
+     <xref articleid="50861">
+      margarine
+     </xref>
+     are prepared by partial hydrogenation of
+     <xref articleid="68954">
+      soybean
+     </xref>
+     oil.
+    </p>
+    <p>
+     Significant progress has been made in developing catalysts for enantioselective hydrogenation. An enantioselective hydrogenation is a hydrogenation in which one enantiomer of a chiral molecule (a molecule that can exist in two structural forms, or enantiomers) is formed in greater amounts than the other. This normally involves converting one of the carbons of the double bond to a stereogenic centre.
+    </p>
+    <p>
+     Typical catalysts for enantioselective hydrogenation are based on enantiomerically homogeneous
+     <xref articleid="48212">
+      ligands
+     </xref>
+     bonded to
+     <xref articleid="63458">
+      rhodium
+     </xref>
+     . Enantioselectivities exceeding 90 percent of a single enantiomer are commonplace in enantioselective hydrogenations, a major application of which is in the synthesis of enantiomerically pure drugs.
+    </p>
+    <p>
+     The halogens
+     <xref articleid="16596">
+      bromine
+     </xref>
+     and
+     <xref articleid="82243">
+      chlorine
+     </xref>
+     add to alkenes to yield dihaloalkanes. Addition is rapid even at room temperature and requires no catalyst. The most important application of this reaction is the addition of chlorine to ethylene to give 1,2-dichloroethane, from which
+     <xref articleid="75443">
+      vinyl chloride
+     </xref>
+     is prepared.
+    </p>
+    <p>
+     <inlinemedia id="i16404" mediaid="16404" url="/04/16404-004-1895A731.jpg"/>
+    </p>
+    <p>
+     Compounds of the type HX, where X is a halogen or other
+     <xref articleid="32331">
+      electronegative
+     </xref>
+     group, also add to alkenes; the hydrogen atom of HX becomes bonded to one of the carbon atoms of the C=C unit, and the X atom becomes bonded to the other.
+    </p>
+    <p>
+     <inlinemedia id="i16863" mediaid="16863" url="/63/16863-004-F7B5F2C2.jpg"/>
+    </p>
+    <p>
+     If HX is a strong acid, such as
+     <xref articleid="41724">
+      hydrochloric
+     </xref>
+     (HCl) or hydrobromic (HBr) acid, the reaction occurs rapidly; otherwise, an acid catalyst is required. One source of industrial ethanol, for example, is the reaction of ethylene with water in the presence of
+     <xref articleid="59782">
+      phosphoric acid
+     </xref>
+     .
+    </p>
+    <p>
+     When the two carbon atoms of a double bond are not equivalent, the H of the HX compound adds to the carbon that has the greater number of directly attached hydrogen atoms, and X adds to the one with the fewer. (This generalization is called the
+     <xref articleid="51025">
+      Markovnikov rule
+     </xref>
+     , named after Russian chemist
+     <xref articleid="51024">
+      Vladimir Markovnikov
+     </xref>
+     , who proposed the rule in 1869.) Thus, when
+     <xref articleid="70254">
+      sulfuric acid
+     </xref>
+     (H
+     <sub>
+      2
+     </sub>
+     SO
+     <sub>
+      4
+     </sub>
+     ) adds to propylene, the product is isopropyl hydrogen sulfate, not
+     <e type="italic">
+      n
+     </e>
+     -propyl hydrogen sulfate (CH
+     <sub>
+      3
+     </sub>
+     CH
+     <sub>
+      2
+     </sub>
+     CH
+     <sub>
+      2
+     </sub>
+     OSO
+     <sub>
+      3
+     </sub>
+     H). This is the first step in the industrial preparation of
+     <xref articleid="42965">
+      isopropyl alcohol
+     </xref>
+     , which is formed when isopropyl hydrogen sulfate is heated with water.
+    </p>
+    <p>
+     The term
+     <e type="italic">
+      regioselective
+     </e>
+     describes the preference for a reaction that occurs in one direction rather than another, as in the addition of sulfuric acid to propylene. A regiospecific reaction is one that is 100 percent regioselective. The Markovnikov rule expresses the regioselectivity to be expected in the addition of unsymmetrical reagents (such as HX) to unsymmetrical alkenes (such as H
+     <sub>
+      2
+     </sub>
+     C=CHR).
+    </p>
+    <p>
+     <xref articleid="80773">
+      Boron
+     </xref>
+     hydrides, compounds of the type R
+     <sub>
+      2
+     </sub>
+     BH, add to alkenes to give organoboranes (hydroboration), which can be oxidized to alcohols with
+     <xref articleid="41732">
+      hydrogen peroxide
+     </xref>
+     (H
+     <sub>
+      2
+     </sub>
+     O
+     <sub>
+      2
+     </sub>
+     ) (oxidation). The net result is the same as if H and ―OH add to the double bond with a regioselectivity opposite to the Markovnikov rule. The hydroboration-oxidation sequence is one of a large number of boron-based synthetic methods developed by American chemist
+     <xref articleid="16684">
+      Herbert C. Brown
+     </xref>
+     .
+    </p>
+    <p>
+     Vicinal diols, compounds with ―OH groups on adjacent carbons, are formed when alkenes react with certain oxidizing agents, especially potassium permanganate (KMnO
+     <sub>
+      4
+     </sub>
+     ) or osmium tetroxide (OsO
+     <sub>
+      4
+     </sub>
+     ). The most widely used methods employ catalytic amounts of OsO
+     <sub>
+      4
+     </sub>
+     in the presence of oxidizing agents such as
+     <e type="italic">
+      tert
+     </e>
+     -butyl hydroperoxide [(CH
+     <sub>
+      3
+     </sub>
+     )
+     <sub>
+      3
+     </sub>
+     COOH].
+    </p>
+    <p>
+     Alkenes are the customary starting materials from which
+     <xref articleid="343212">
+      epoxides
+     </xref>
+     , compounds containing a three-membered ring consisting of one oxygen atom and two carbon atoms, are made. The simplest epoxide, ethylene oxide (oxirane), is obtained by passing a mixture of ethylene and air (or oxygen) over a heated
+     <xref articleid="67807">
+      silver
+     </xref>
+     catalyst. Epoxides are useful intermediates for a number of transformations. Ethylene oxide, for example, is converted to
+     <xref articleid="33149">
+      ethylene glycol
+     </xref>
+     , which is used in the synthesis of
+     <xref articleid="60690">
+      polyester
+     </xref>
+     fibres and films and as the main component of automobile antifreeze. On a laboratory scale, epoxides are normally prepared by the reaction of an alkene and a peroxy acid.
+    </p>
+    <p>
+     <inlinemedia id="i16862" mediaid="16862" url="/62/16862-004-17F0D439.jpg"/>
+    </p>
+    <p>
+     Conjugated dienes undergo a novel and useful reaction known as the Diels-Alder cycloaddition. In this reaction, a conjugated diene reacts with an alkene to form a compound that contains a cyclohexene ring. The unusual feature of the Diels-Alder cycloaddition is that two carbon-carbon bonds are formed in a single operation by a reaction that does not require catalysts of any kind. The German chemists
+     <xref articleid="30385">
+      Otto Diels
+     </xref>
+     and
+     <xref articleid="5529">
+      Kurt Alder
+     </xref>
+     received the Nobel Prize for Chemistry in 1950 for discovering and demonstrating the synthetic value of this reaction.
+    </p>
+    <p>
+     <inlinemedia id="i16859" mediaid="16859" url="/59/16859-004-A513C50F.jpg"/>
+    </p>
+    <p>
+     Alkynes undergo addition with many of the same substances that react with alkenes. Hydrogenation of alkynes can be controlled so as to yield either an alkene or an alkane. Two molecules of H
+     <sub>
+      2
+     </sub>
+     add to the triple bond to give an alkane under the usual conditions of catalytic hydrogenation.
+    </p>
+    <p>
+     <inlinemedia id="i16858" mediaid="16858" url="/58/16858-004-420F2AF2.jpg"/>
+    </p>
+    <p>
+     Special, less active (poisoned) catalysts have been developed that permit the reaction to be halted at the alkene stage, and the procedure is used as a method for the synthesis of alkenes. When stereoisomeric alkenes are possible reaction products, the
+     <e type="italic">
+      cis
+     </e>
+     isomer is formed almost exclusively.
+    </p>
+    <p>
+     Alkynes react with Br
+     <sub>
+      2
+     </sub>
+     or Cl
+     <sub>
+      2
+     </sub>
+     by first adding one molecule of the halogen to give a dihaloalkene and then a second to yield a tetrahaloalkane.
+    </p>
+    <p>
+     <inlinemedia id="i16857" mediaid="16857" url="/57/16857-004-C8024358.jpg"/>
+    </p>
+    <p>
+     Compounds of the type HX, where X is an electronegative atom or group, also add to alkynes. When
+     <xref articleid="3510">
+      acetylene
+     </xref>
+     (HC≡CH) reacts with HCl, the product is vinyl chloride (CH
+     <sub>
+      2
+     </sub>
+     =CHCl), and, when HCN adds to acetylene, the product is acrylonitrile (CH
+     <sub>
+      2
+     </sub>
+     =CHCN). Both vinyl chloride and acrylonitrile are valuable starting materials for the production of useful
+     <xref articleid="60700">
+      polymers
+     </xref>
+     (
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="41720" refid="h277905">
+      Polymerization
+     </xref>
+     ), but neither is prepared in significant quantities from acetylene, because each is available at lower cost from an alkene (vinyl chloride from ethylene and acrylonitrile from propylene).
+    </p>
+    <p>
+     Hydration of alkynes is unusual in that the initial product, called an enol and characterized by an H―O―C=C― group, is unstable under the conditions of its formation and is converted to an isomer that contains a
+     <xref articleid="20267">
+      carbonyl group
+     </xref>
+     .
+    </p>
+    <p>
+     Although they are very weak acids, acetylene and terminal alkynes are much more acidic than alkenes and alkanes. A hydrogen attached to a triply bonded carbon can be removed by a very strong base such as sodium amide (NaNH
+     <sub>
+      2
+     </sub>
+     ) in liquid
+     <xref articleid="7200">
+      ammonia
+     </xref>
+     as the solvent.
+    </p>
+    <p>
+     <inlinemedia id="i16402" mediaid="16402" url="/02/16402-004-05DBDC68.jpg"/>
+    </p>
+    <p>
+     The sodium salt of the alkyne formed in this reaction is not normally isolated but is treated directly with an alkyl halide. The ensuing reaction proceeds with carbon-carbon bond formation and is used to prepare higher alkynes.
+    </p>
+    <p>
+     <inlinemedia id="i16401" mediaid="16401" url="/01/16401-004-418ADFF6.jpg"/>
+    </p>
+   </h3>
+   <h3 id="h277905">
+    <title>
+     Polymerization
+    </title>
+    <p>
+     A single alkene molecule, called a
+     <xref articleid="53403">
+      monomer
+     </xref>
+     , can add to the double bond of another to give a product, called a dimer, having twice the molecular weight. In the presence of an acid catalyst, the monomer 2-methylpropene (C
+     <sub>
+      4
+     </sub>
+     H
+     <sub>
+      8
+     </sub>
+     ), for example, is converted to a mixture of C
+     <sub>
+      8
+     </sub>
+     H
+     <sub>
+      16
+     </sub>
+     alkenes (dimers) suitable for subsequent conversion to 2,2,4-trimethylpentane (isooctane).
+    </p>
+    <p>
+     <inlinemedia id="i16855" mediaid="16855" url="/55/16855-004-3D1A5A86.jpg"/>
+    </p>
+    <p>
+     If the process is repeated, trimers, and eventually polymers—substances composed of a great many monomer units—are obtained.
+    </p>
+    <p>
+     Approximately one-half of the ethylene produced each year is used to prepare the polymer
+     <xref articleid="98896">
+      polyethylene
+     </xref>
+     . Polyethylene is a mixture of polymer chains of different lengths, where
+     <e type="italic">
+      n
+     </e>
+     , the number of monomer units, is on the order of 1,000–5,000.
+    </p>
+    <p>
+     <inlinemedia id="i16400" mediaid="16400" url="/00/16400-004-7BE5B11B.jpg"/>
+    </p>
+    <p>
+     The distinguishing characteristic of polyethylene is its resistance to attack by most substances. Its resemblance to an alkane in this respect is not surprising, because the polymer chain is nearly void of
+     <xref articleid="35655">
+      functional groups
+     </xref>
+     . Its ends may have catalyst molecules attached or may terminate in a double bond by loss of a hydrogen atom at the next-to-last carbon. The properties of a particular sample of polyethylene depend mainly on the catalyst used and the conditions under which
+     <xref articleid="60701">
+      polymerization
+     </xref>
+     occurs. A chain may be continuous, or it may sprout occasional branches of shorter chains. The more nearly continuous the chain, the greater is the density of the polymer.
+    </p>
+    <p>
+     Low-density polyethylene (LDPE) is obtained under conditions of free-
+     <xref articleid="62404">
+      radical
+     </xref>
+     polymerization, whereby polymerization is initiated by oxygen or peroxides under high pressure at roughly 200 °C (392 °F). Polyethylene, especially low-density polyethylene, is thermoplastic (softens and flows on heating) and can be extruded into sheets or films and molded into various shapes.
+    </p>
+    <p>
+     High-density polyethylene (HDPE) is obtained under conditions of coordination polymerization initiated by a mixture of titanium tetrachloride (TiCl
+     <sub>
+      4
+     </sub>
+     ) and triethylaluminum [(CH
+     <sub>
+      3
+     </sub>
+     CH
+     <sub>
+      2
+     </sub>
+     )
+     <sub>
+      3
+     </sub>
+     Al]. Coordination polymerization was discovered by German chemist
+     <xref articleid="78365">
+      Karl Ziegler
+     </xref>
+     . Ziegler and Italian chemist
+     <xref articleid="55037">
+      Giulio Natta
+     </xref>
+     pioneered the development of
+     <xref articleid="78366">
+      Ziegler-Natta catalysts
+     </xref>
+     , for which they shared the 1963 Nobel Prize for Chemistry. The original Ziegler-Natta titanium tetrachloride-triethylaluminum catalyst has been joined by a variety of others. In addition to its application in the preparation of high-density polyethylene, coordination polymerization is the method by which ethylene oligomers, called linear α-
+     <xref articleid="57003">
+      olefins
+     </xref>
+     , and stereoregular polymers, especially
+     <xref articleid="98900">
+      polypropylene
+     </xref>
+     , are prepared.
+    </p>
+    <p>
+     Vinyl compounds, which are substituted derivatives of ethylene, can also be polymerized according to the following reaction:
+    </p>
+    <p>
+     <inlinemedia id="i16854" mediaid="16854" url="/54/16854-004-FFF041AA.jpg"/>
+    </p>
+    <p>
+     Polymerization of vinyl chloride (where X is Cl) gives
+     <xref articleid="60733">
+      polyvinyl chloride
+     </xref>
+     , or PVC, more than 27 million metric tons of which is used globally each year to produce pipes, floor tiles, siding for houses, gutters, and downspouts. Polymerization of
+     <xref articleid="70074">
+      styrene
+     </xref>
+     , X = C
+     <sub>
+      6
+     </sub>
+     H
+     <sub>
+      5
+     </sub>
+     (a phenyl group derived from
+     <xref articleid="78683">
+      benzene
+     </xref>
+     ;
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="41720" refid="h277906">
+      Aromatic hydrocarbons
+     </xref>
+     ), yields polystyrene, a durable polymer used to make luggage, refrigerator casings, and television cabinets and which can be foamed and used as a lightweight packaging and insulating material. If X = CH
+     <sub>
+      3
+     </sub>
+     , the product is polypropylene, which is used to make films, molded articles, and fibres. Acrylonitrile, X = CN, gives
+     <xref articleid="60673">
+      polyacrylonitrile
+     </xref>
+     for use in carpet fibres and clothing.
+    </p>
+    <p>
+     Diene polymers have an important application as
+     <xref articleid="23536">
+      rubber
+     </xref>
+     substitutes. Natural rubber (
+     <e type="italic">
+      see above
+     </e>
+     <xref articleid="41720" refid="h277901">
+      Natural occurrence
+     </xref>
+     ) is a polymer of 2-methyl-1,3-butadiene (commonly called
+     <xref articleid="42963">
+      isoprene
+     </xref>
+     ). Coordination polymerization conditions have been developed that convert isoprene to a polymer with properties identical to that of natural rubber.
+    </p>
+    <p>
+     <inlinemedia id="i16853" mediaid="16853" url="/53/16853-004-90EE1B94.jpg"/>
+    </p>
+    <p>
+     The largest portion of the synthetic rubber industry centres on styrene-butadiene rubber (SBR), which is a copolymer of styrene and 1,3-butadiene. Its major application is in automobile tires.
+    </p>
+    <p>
+     <inlinemedia id="i16852" mediaid="16852" url="/52/16852-004-BEA7D3A0.jpg"/>
+    </p>
+    <p>
+     Alkyne polymerization is not nearly as developed nor as useful a procedure as alkene polymerization. The dimer of acetylene, vinylacetylene, is the starting material for the preparation of 2-chloro-1,3-butadiene, which in turn is polymerized to give the elastomer
+     <xref articleid="55275">
+      neoprene
+     </xref>
+     . Neoprene was the first commercially successful rubber substitute.
+    </p>
+    <p>
+     <inlinemedia id="i16851" mediaid="16851" url="/51/16851-004-B9AE12E2.jpg"/>
+    </p>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h277906">
+  <title>
+   Aromatic hydrocarbons
+  </title>
+  <p>
+   <assembly id="a931" url="/assembly/view/931">
+    <title>
+     intermediate and end products from raw benzene
+    </title>
+    <media mediaid="1514" type="image" url="/14/1514-004-8C21699E.jpg"/>
+    <caption>
+     Intermediate and end products from raw benzene.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a931"/>
+   <xref articleid="78683">
+    Benzene
+   </xref>
+   (C
+   <sub>
+    6
+   </sub>
+   H
+   <sub>
+    6
+   </sub>
+   ), the simplest aromatic hydrocarbon, was first isolated in 1825 by English chemist
+   <xref articleid="109756">
+    Michael Faraday
+   </xref>
+   from the oily residues left from illuminating gas. In 1834 it was prepared from
+   <xref articleid="78687">
+    benzoic acid
+   </xref>
+   (C
+   <sub>
+    6
+   </sub>
+   H
+   <sub>
+    5
+   </sub>
+   CO
+   <sub>
+    2
+   </sub>
+   H), a compound obtained by chemical degradation of gum benzoin, the fragrant
+   <xref articleid="12046">
+    balsam
+   </xref>
+   exuded by a tree that grows on the island of Java, Indonesia. Similarly, the hydrocarbon
+   <xref articleid="72816">
+    toluene
+   </xref>
+   (C
+   <sub>
+    6
+   </sub>
+   H
+   <sub>
+    5
+   </sub>
+   CH
+   <sub>
+    3
+   </sub>
+   ) received its name from tolu balsam, a substance isolated from a Central American tree and used in perfumery. Thus benzene, toluene, and related hydrocarbons, while not particularly pleasant-smelling themselves, were classified as aromatic because they were obtained from fragrant substances.
+   <xref articleid="49002">
+    Joseph Loschmidt
+   </xref>
+   , an Austrian chemist, recognized in 1861 that most aromatic substances have formulas that can be derived from benzene by replacing one or more hydrogens by other atoms or groups. The term
+   <e type="italic">
+    aromatic
+   </e>
+   thus came to mean any compound structurally derived from benzene. Use of the term expanded with time to include properties, especially that of special stability, and eventually aromaticity came to be defined in terms of stability alone. The modern definition states that a compound is
+   <xref articleid="9593">
+    aromatic
+   </xref>
+   if it is significantly more stable than would be predicted on the basis of the most stable Lewis structural formula written for it. (This special stability is related to the number of
+   <xref articleid="32316">
+    electrons
+   </xref>
+   contained in a cyclic
+   <xref articleid="25876">
+    conjugated system
+   </xref>
+   ;
+   <e type="italic">
+    see below
+   </e>
+   <xref articleid="41720" refid="h277908">
+    Arenes: Structure and bonding
+   </xref>
+   .) All compounds that contain a benzene ring possess special stability and are classified as benzenoid aromatic compounds. Certain other compounds lack a benzene ring yet satisfy the criterion of special stability and are classified as nonbenzenoid aromatic compounds.
+  </p>
+  <h2 id="h277907">
+   <title>
+    Arenes
+   </title>
+   <p>
+    These compounds are hydrocarbons that contain a benzene ring as a structural unit. In addition to benzene, other examples include toluene and
+    <xref articleid="54808">
+     naphthalene
+    </xref>
+    .
+   </p>
+   <p>
+    <inlinemedia id="i16850" mediaid="16850" url="/50/16850-004-F5D83CEE.jpg"/>
+   </p>
+   <p>
+    (
+    <xref articleid="110604">
+     Hydrogen
+    </xref>
+    atoms connected to the benzene ring are shown for completeness in the above structural formulas. The more usual custom, which will be followed hereafter, omits them.)
+   </p>
+   <h3 id="h277908">
+    <title>
+     Structure and bonding
+    </title>
+    <p>
+     In 1865 the German chemist
+     <xref articleid="45001">
+      August Kekule von Stradonitz
+     </xref>
+     suggested the cyclic structure for benzene shown above. Kekule’s structure, while consistent with the molecular formula and the fact that all of the hydrogen atoms of benzene are equivalent, needed to be modified to accommodate the observation that disubstitution of the ring at adjacent carbons did not produce isomers. Two isomeric products, as shown below, would be expected depending on the placement of the double bonds within the hexagon, but only one 1,2-disubstituted product was formed. In 1872 Kekule revised his proposal by assuming that two such isomers would interconvert so rapidly as to be inseparable from one another.
+    </p>
+    <p>
+     <inlinemedia id="i16849" mediaid="16849" url="/49/16849-004-B9FBDA6E.jpg"/>
+    </p>
+    <p>
+     The next major advance in understanding was due largely to the American chemist
+     <xref articleid="58785">
+      Linus Pauling
+     </xref>
+     , who brought the concept of
+     <xref articleid="63275">
+      resonance
+     </xref>
+     —which had been introduced in the 1920s—to the question of structure and bonding in benzene. According to the resonance model, benzene does not exist as a pair of rapidly interconverting conjugated trienes but has a single structure that cannot be represented by formulations with localized electrons. The six π electrons (two for the π component of each double bond) are considered to be delocalized over the entire ring, meaning that each π electron is shared by all six carbon atoms rather than by two. Resonance between the two Kekule formulas is symbolized by an arrow of the type ↔ to distinguish it from an interconversion process. The true structure of benzene is described as a hybrid of the two Kekule forms and is often simplified to a hexagon with an inscribed circle to represent the six delocalized π electrons. It is commonly said that a resonance hybrid is more stable than any of the contributing structures, which means, in the case of benzene, that each π electron, because it feels the attractive force of six carbons (delocalized), is more strongly held than if it were associated with only two of them (localized double bonds).
+    </p>
+    <p>
+     <inlinemedia id="i16848" mediaid="16848" url="/48/16848-004-5FBBF629.jpg"/>
+    </p>
+    <p>
+     <assembly id="a49877" url="/assembly/view/49877">
+      <title>
+       chemical bonding in benzene
+      </title>
+      <media mediaid="7417" type="image" url="/17/7417-004-AC594A29.jpg"/>
+      <caption>
+       Benzene is the smallest of the organic aromatic hydrocarbons. It contains sigma bonds (represented by lines) and regions of high-pi electron density, formed by the overlapping of
+       <e type="italic">
+        p
+       </e>
+       orbitals (represented by the dark yellow shaded area) of adjacent carbon atoms, which give benzene its characteristic planar structure.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a49877"/>
+     The orbital hybridization model of bonding in benzene is based on a σ bond framework of six
+     <e type="italic">
+      s
+     </e>
+     <e type="italic">
+      p
+     </e>
+     <sup>
+      2
+     </sup>
+     hybridized carbons. The six π electrons circulate above and below the plane of the ring in a region formed by the overlap of the
+     <e type="italic">
+      p
+     </e>
+     orbitals contributed by the six carbons. (For a further discussion of hybridization and the bonding in benzene,
+     <e type="italic">
+      see
+     </e>
+     <xref articleid="110108">
+      chemical bonding
+     </xref>
+     .)
+    </p>
+    <p>
+     Benzene is a planar molecule with six C―C bond distances of equal length. The observed bond distance (1.40 angstroms) is midway between the
+     <e type="italic">
+      s
+     </e>
+     <e type="italic">
+      p
+     </e>
+     <sup>
+      2
+     </sup>
+     -
+     <e type="italic">
+      s
+     </e>
+     <e type="italic">
+      p
+     </e>
+     <sup>
+      2
+     </sup>
+     single-bond distance (1.46 angstroms) and
+     <e type="italic">
+      s
+     </e>
+     <e type="italic">
+      p
+     </e>
+     <sup>
+      2
+     </sup>
+     -
+     <e type="italic">
+      s
+     </e>
+     <e type="italic">
+      p
+     </e>
+     <sup>
+      2
+     </sup>
+     double-bond distance (1.34 angstroms) seen in conjugated dienes and is consistent with the bond order of 1.5 predicted by resonance theory. (Bond order is an index of bond strength. A bond order of 1 indicates that a single σ bond exists between two atoms, and a bond order of 2 indicates the presence of one σ and one π bond between two atoms. Fractional bond orders are possible for resonance structures, as in the case of benzene.) Benzene is a regular hexagon; all bond angles are 120°.
+    </p>
+    <p>
+     The special stability of benzene is evident in several ways. Benzene and its derivatives are much less reactive than expected. Arenes are unsaturated but resemble saturated hydrocarbons (i.e., alkanes) in their low reactivity more than they resemble unsaturated ones (alkenes and alkynes;
+     <e type="italic">
+      see below
+     </e>
+     <xref articleid="41720" refid="h277912">
+      Reactions
+     </xref>
+     ). Thermodynamic estimates indicate that benzene is 30–36 kilocalories per mole more stable than expected for a localized conjugated triene structure.
+    </p>
+   </h3>
+   <h3 id="h277909">
+    <title>
+     Nomenclature
+    </title>
+    <p>
+     A number of monosubstituted derivatives of benzene have common names of long standing that have been absorbed into the IUPAC system. Examples include toluene (C
+     <sub>
+      6
+     </sub>
+     H
+     <sub>
+      5
+     </sub>
+     CH
+     <sub>
+      3
+     </sub>
+     ) and styrene (C
+     <sub>
+      6
+     </sub>
+     H
+     <sub>
+      5
+     </sub>
+     CH=CH
+     <sub>
+      2
+     </sub>
+     ). Disubstituted derivatives of benzene may have their substituents in a 1,2 (
+     <e type="italic">
+      ortho
+     </e>
+     , or
+     <e type="italic">
+      o
+     </e>
+     ), 1,3 (
+     <e type="italic">
+      meta
+     </e>
+     , or
+     <e type="italic">
+      m
+     </e>
+     ), or 1,4 (
+     <e type="italic">
+      para
+     </e>
+     , or
+     <e type="italic">
+      p
+     </e>
+     ) relationship (where the numbers indicate the carbons to which the substituents are bonded) and may be named using either numerical locants or the
+     <e type="italic">
+      ortho
+     </e>
+     ,
+     <e type="italic">
+      meta
+     </e>
+     ,
+     <e type="italic">
+      para
+     </e>
+     notation.
+    </p>
+    <p>
+     <inlinemedia id="i16847" mediaid="16847" url="/47/16847-004-85878606.jpg"/>
+    </p>
+    <p>
+     Two groups that contain benzene rings, C
+     <sub>
+      6
+     </sub>
+     H
+     <sub>
+      5
+     </sub>
+     ―(phenyl) and C
+     <sub>
+      6
+     </sub>
+     H
+     <sub>
+      5
+     </sub>
+     CH
+     <sub>
+      2
+     </sub>
+     ―(benzyl), have special names, as in these examples:
+    </p>
+    <p>
+     <inlinemedia id="i16846" mediaid="16846" url="/46/16846-004-B0F2D432.jpg"/>
+    </p>
+    <p>
+     Arenes in which two or more benzene rings share a common side are called polycyclic aromatic compounds. Each such assembly has a unique name, as the examples of
+     <xref articleid="54808">
+      naphthalene
+     </xref>
+     ,
+     <xref articleid="7786">
+      anthracene
+     </xref>
+     , and phenanthrene illustrate.
+    </p>
+    <p>
+     <inlinemedia id="i16845" mediaid="16845" url="/45/16845-004-DB9E7028.jpg"/>
+    </p>
+    <p>
+     Certain polycyclic aromatic hydrocarbons are known to be
+     <xref articleid="20278">
+      carcinogenic
+     </xref>
+     and enter the environment when organic matter is burned. Benzo[a]pyrene, for example, is present in
+     <xref articleid="111043">
+      tobacco
+     </xref>
+     smoke and chimney soot and is formed when meat is cooked on barbecue grills.
+    </p>
+    <p>
+     <inlinemedia id="i16844" mediaid="16844" url="/44/16844-004-C9146014.jpg"/>
+    </p>
+   </h3>
+   <h3 id="h277910">
+    <title>
+     Physical properties
+    </title>
+    <p>
+     All arenes are either liquids or solids at room temperature; none are gases. Aromatic hydrocarbons are insoluble in water. Benzene was once widely used as a solvent, but evidence of its carcinogenic properties prompted its replacement by less hazardous solvents.
+    </p>
+   </h3>
+   <h3 id="h277911">
+    <title>
+     Source and synthesis
+    </title>
+    <p>
+     For a period of approximately 100 years encompassing the last half of the 19th century and the first half of the 20th century,
+     <xref articleid="110442">
+      coal
+     </xref>
+     was the main starting material for the large-scale production of
+     <xref articleid="9593">
+      aromatic compounds
+     </xref>
+     . When soft coal is heated in the absence of air, substances are formed that are volatile at the high temperatures employed (500–1,000 °C [930–1,800 °F], depending on the process), which when condensed give the material known as
+     <xref articleid="24505">
+      coal tar
+     </xref>
+     .
+     <xref articleid="30650">
+      Distillation
+     </xref>
+     of coal tar gives a number of fractions, the lowest boiling of which contains benzene, toluene, and other low-molecular-weight aromatic compounds. The higher-boiling fractions are sources of aromatic compounds of higher molecular weight. Beginning with the second half of the 20th century,
+     <xref articleid="110438">
+      petroleum
+     </xref>
+     replaced coal as the principal source of aromatic hydrocarbons. The stability of the benzene ring makes possible processes, known generally as catalytic reforming, in which alkanes are converted to arenes by a combination of
+     <xref articleid="42955">
+      isomerization
+     </xref>
+     and dehydrogenation events.
+    </p>
+    <p>
+     <inlinemedia id="i16843" mediaid="16843" url="/43/16843-004-37A2D04A.jpg"/>
+    </p>
+    <p>
+     The arenes formed by catalytic reforming are used to boost the octane rating of
+     <xref articleid="36148">
+      gasoline
+     </xref>
+     and as starting materials for the synthesis of a variety of plastics, fibres, dyes, agricultural chemicals, and drugs.
+    </p>
+   </h3>
+   <h3 id="h277912">
+    <title>
+     Reactions
+    </title>
+    <p>
+     Like other hydrocarbons, arenes undergo
+     <xref articleid="24921">
+      combustion
+     </xref>
+     to form
+     <xref articleid="20249">
+      carbon dioxide
+     </xref>
+     and
+     <xref articleid="76210">
+      water
+     </xref>
+     , and like other unsaturated hydrocarbons, arenes undergo catalytic
+     <xref articleid="41734">
+      hydrogenation
+     </xref>
+     .
+    </p>
+    <p>
+     <inlinemedia id="i16842" mediaid="16842" url="/42/16842-004-C72CFD48.jpg"/>
+    </p>
+    <p>
+     However, many species that react with alkenes by addition react with arenes by replacing one of the hydrogens on the ring (
+     <xref articleid="1315">
+      substitution
+     </xref>
+     ). This behaviour is most pronounced with species known as
+     <xref articleid="1538">
+      electrophiles
+     </xref>
+     (electron seekers), and the characteristic reaction of an arene is electrophilic aromatic substitution. Representative electrophilic aromatic substitutions, shown with benzene as the arene, include nitration, halogenation,
+     <xref articleid="70243">
+      sulfonation
+     </xref>
+     ,
+     <xref articleid="5759">
+      alkylation
+     </xref>
+     , and acylation.
+    </p>
+    <p>
+     <inlinemedia id="i16841" mediaid="16841" url="/41/16841-004-604655F7.jpg"/>
+    </p>
+    <p>
+     Alkylation and acylation reactions of aromatic compounds that are catalyzed by aluminum chloride (AlCl
+     <sub>
+      3
+     </sub>
+     ) are referred to as Friedel-Crafts reactions after French chemist and mineralogist
+     <xref articleid="35420">
+      Charles Friedel
+     </xref>
+     and American chemist James M. Crafts, who discovered this reaction at the Sorbonne in 1877. Further substitution is possible, and under certain circumstances all six hydrogen atoms of benzene are capable of being replaced. The products of electrophilic aromatic substitution in benzene and its derivatives are employed in subsequent transformations to give a variety of useful products.
+    </p>
+    <p>
+     The benzene ring is relatively resistant toward oxidation with the exception of its combustion. Arenes that bear alkyl side chains, when treated with strong oxidizing agents, undergo oxidation of the side chain while the ring remains intact.
+    </p>
+    <p>
+     <inlinemedia id="i16840" mediaid="16840" url="/40/16840-004-1336B835.jpg"/>
+    </p>
+    <p>
+     Under conditions of biological oxidation by the cytochrome P-450
+     <xref articleid="32739">
+      enzyme
+     </xref>
+     system in the
+     <xref articleid="48577">
+      liver
+     </xref>
+     , benzene and polycyclic aromatic hydrocarbons undergo epoxidation of their ring. The epoxides that form react with deoxyribonucleic acid (
+     <xref articleid="30730">
+      DNA
+     </xref>
+     ), and it is believed that this process is responsible for the carcinogenic properties of polycyclic aromatic hydrocarbons.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h277913">
+   <title>
+    Nonbenzenoid aromatic compounds
+   </title>
+   <p>
+    Once it became clear that the special stability of benzene and related compounds was associated with the cyclic nature of its conjugated system of double bonds, organic chemists attempted to synthesize both larger and smaller analogs. The earliest targets were cyclobutadiene (C
+    <sub>
+     4
+    </sub>
+    H
+    <sub>
+     4
+    </sub>
+    ) and cyclooctatetraene (C
+    <sub>
+     8
+    </sub>
+    H
+    <sub>
+     8
+    </sub>
+    ).
+   </p>
+   <p>
+    <inlinemedia id="i16839" mediaid="16839" url="/39/16839-004-A8C9C7FB.jpg"/>
+   </p>
+   <p>
+    Of the two, cyclooctatetraene proved more accessible. It was first prepared in 1911 by chemical degradation of the alkaloid pseudopelletierine by the German chemist
+    <xref articleid="77108">
+     Richard Willstätter
+    </xref>
+    . (Willstätter was awarded the 1915 Nobel Prize for Chemistry for his work on the structure of
+    <xref articleid="82254">
+     chlorophyll
+    </xref>
+    .) A more direct synthesis from
+    <xref articleid="3510">
+     acetylene
+    </xref>
+    was developed in the 1940s. While cyclooctatetraene is a stable substance, thermochemical measurements show that it does not possess the special stability required to be classified as an aromatic hydrocarbon. Structural studies reveal that, unlike benzene in which all of the ring bonds are of equal length (1.40 angstroms), cyclooctatetraene has four short (1.33 angstroms) and four long (1.46 angstroms) carbon-carbon distances consistent with a pattern of alternating single and double bonds. Cyclooctatetraene, moreover, has a nonplanar tub-shaped structure, which, because it is not planar, does not permit the eight π electrons to be delocalized over all the carbon atoms. Classifying cyclooctatetraene as an aliphatic hydrocarbon is also consistent with numerous observations concerning its chemical reactivity, which is characterized by a tendency to undergo alkenelike addition rather than arenelike substitution.
+   </p>
+   <p>
+    Cyclobutadiene resisted attempts at chemical synthesis until the 1950s when evidence for its intermediacy in certain reactions was obtained. The high reactivity of cyclobutadiene was interpreted as evidence against its aromaticity. Subsequent low-temperature spectroscopic studies revealed that cyclobutadiene has a rectangular structure with alternating single and double bonds unlike the square shape required for an electron-delocalized aromatic molecule.
+   </p>
+   <h3 id="h277914">
+    <title>
+     Annulenes and the Hückel rule
+    </title>
+    <p>
+     Insight into the requirements for aromaticity were provided by German physicist Erich Hückel in 1931. Limiting his analysis to planar, monocyclic, completely conjugated polyenes, Hückel calculated that compounds of this type are aromatic if they contain 4
+     <e type="italic">
+      n
+     </e>
+     + 2 π electrons, where
+     <e type="italic">
+      n
+     </e>
+     is a whole number. According to the Hückel rule, 2, 6, 10, 14 . . . π electrons (
+     <e type="italic">
+      n
+     </e>
+     = 0, 1, 2, 3 . . . ) confer aromaticity to this class of compounds, but 4, 8, 12, 16 . . . π electrons do not. Benzene, which has 6 π electrons, is aromatic, but cyclobutadiene, which has 4, and cyclooctatraene, which has 8, are nonaromatic.
+    </p>
+    <p>
+     Monocyclic, completely conjugated polyenes (the hydrocarbons treated by the Hückel rule) are referred to as annulenes, and individual annulenes are differentiated by a numerical prefix equal to the number of π electrons. Beyond benzene, [10]-annulene is the first hydrocarbon to satisfy the Hückel rule. A structure in which all of the double bonds are
+     <e type="italic">
+      cis
+     </e>
+     , however, would be a regular 10-sided polygon requiring bond angles of 144° (instead of the 120° angles required for
+     <e type="italic">
+      s
+     </e>
+     <e type="italic">
+      p
+     </e>
+     <sup>
+      2
+     </sup>
+     hybridized carbon) and would suffer considerable angle strain. The destabilization owing to angle strain apparently exceeds the stabilization associated with aromaticity and makes all-
+     <e type="italic">
+      cis
+     </e>
+     -cyclodecapentaene a highly reactive substance. An isomer in which two of the double bonds are
+     <e type="italic">
+      trans
+     </e>
+     should, in principle, be free of angle strain. It is destabilized, however, by a repulsive force between two hydrogen atoms that are forced together in the interior of the ring, and for this reason it is relatively reactive.
+    </p>
+    <p>
+     <inlinemedia id="i16838" mediaid="16838" url="/38/16838-004-8DDBA2D1.jpg"/>
+    </p>
+    <p>
+     [18]-Annulene is predicted to be aromatic by the Hückel rule (4
+     <e type="italic">
+      n
+     </e>
+     + 2 = 18 when
+     <e type="italic">
+      n
+     </e>
+     = 4). The structure shown has a shape that makes it free of angle strain and is large enough so that repulsive forces between hydrogen atoms in the interior are minimal. Thermochemical measurements indicate a resonance energy of roughly 100 kilocalories per mole, and structural studies reveal that the molecule is planar with all its bond distances falling in the range 1.37–1.43 angstroms. In terms of its chemical reactivity, however, [18]-annulene resembles an alkene more than it resembles benzene.
+    </p>
+    <p>
+     <inlinemedia id="i16837" mediaid="16837" url="/37/16837-004-982E5F5F.jpg"/>
+    </p>
+   </h3>
+   <h3 id="h277915">
+    <title>
+     Polycyclic nonaromatic compounds
+    </title>
+    <p>
+     The Hückel rule is not designed to apply to polycyclic compounds. Nevertheless, a similar dependence on the number of π electrons is apparent. The bicyclic hydrocarbon azulene has the same number of π electrons (10) as
+     <xref articleid="54808">
+      naphthalene
+     </xref>
+     and, like naphthalene, is aromatic. Pentalene and heptalene, analogs with 8 and 12 π electrons, respectively, are not aromatic. Both are relatively unstable, highly reactive substances.
+    </p>
+    <p>
+     <inlinemedia id="i16836" mediaid="16836" url="/36/16836-004-B242D2CB.jpg"/>
+    </p>
+    <signature>
+     Francis A. Carey
+    </signature>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h277888">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   The concept of “special stability” in aromatic hydrocarbons is covered in
+   <e type="smallcap">
+    Peter J. Garratt
+   </e>
+   ,
+   <e type="italic">
+    Aromaticity
+   </e>
+   , 2nd ed. (1986). Industrial organic chemicals and the processes by which they are prepared are described in
+   <e type="smallcap">
+    H. Harry Szmant
+   </e>
+   ,
+   <e type="italic">
+    Organic Building Blocks of the Chemical Industry
+   </e>
+   (1989).
+   <e type="smallcap">
+    Stanley R. Sandler
+   </e>
+   and
+   <e type="smallcap">
+    Wolf Karo
+   </e>
+   ,
+   <e type="italic">
+    Polymer Syntheses
+   </e>
+   , 2nd ed., vol. 1 (1992), presents information on techniques of hydrocarbon polymerization.
+  </p>
+  <signature>
+   Francis A. Carey
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

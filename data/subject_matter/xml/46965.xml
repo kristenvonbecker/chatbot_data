@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="46965" articletypeid="1" language="en_us" lastupdate="2022-Jul-14 16:40:40" url="/article/laminar-flow/46965" version="5">
+ <title>
+  laminar flow
+ </title>
+ <p>
+  <e type="bold">
+   laminar flow
+  </e>
+  , also called
+  <e type="bold">
+   streamline flow
+  </e>
+  , type of fluid (
+  <xref articleid="110302">
+   gas
+  </xref>
+  or
+  <xref articleid="110301">
+   liquid
+  </xref>
+  ) flow in which the fluid travels smoothly or in regular paths, in contrast to turbulent flow, in which the fluid undergoes irregular fluctuations and mixing. In laminar flow, the
+  <xref articleid="74984">
+   velocity
+  </xref>
+  ,
+  <xref articleid="61303">
+   pressure
+  </xref>
+  , and other flow properties at each point in the fluid remain constant. Laminar flow over a horizontal surface may be thought of as consisting of thin layers, or laminae, all parallel to each other. The fluid in contact with the horizontal surface is stationary, but all the other layers slide over each other. A deck of new cards, as a rough analogy, may be made to “flow” laminarly.
+ </p>
+ <p>
+  Laminar flow in a straight pipe may be considered as the relative motion of a set of concentric cylinders of fluid, the outside one fixed at the pipe wall and the others moving at increasing speeds as the centre of the pipe is approached. Smoke rising in a straight path from a cigarette is undergoing laminar flow. After rising a small distance, the smoke usually changes to turbulent flow, as it eddies and swirls from its regular path.
+ </p>
+ <p>
+  Laminar flow is common only in cases in which the flow channel is relatively small, the fluid is moving slowly, and its
+  <xref articleid="75513">
+   viscosity
+  </xref>
+  is relatively high. Oil flow through a thin tube or blood flow through capillaries is laminar. Most other kinds of fluid flow are turbulent except near solid boundaries, where the flow is often laminar, especially in a thin layer just adjacent to the surface.
+  <e type="italic">
+   See
+  </e>
+  <xref articleid="110311">
+   fluid mechanics
+  </xref>
+  .
+ </p>
+ <signature>
+  EB Editors
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

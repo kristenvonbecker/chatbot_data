@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="36139" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 22:11:16" url="/article/gas-meter/36139" version="2">
+ <title>
+  gas meter
+ </title>
+ <p>
+  <e type="bold">
+   gas meter
+  </e>
+  , device for measuring the quantity or rate of flow of a gas. Types of gas meters (by operating principles) include displacement, velocity, head, thermal, acoustic, and tracer.
+ </p>
+ <p>
+  An example of the displacement principle is the bellows-and-diaphragm gas meter (shown in the ). This type is widely used in commercial and domestic gas service to measure the quantity of gas delivered to a user. Bellows gas meters measure the quantity of gas passing through them by filling and emptying, in a regular sequence, one or more internal chambers of known capacity. Counting the times each chamber is filled and emptied gives the volume of gas delivered.
+ </p>
+ <p>
+  In velocity-type gas meters the gas flow moves impeller blades on a rotor. Rotation of the rotor is geared to a dial mechanism that records gas volume delivered. In the velocity vortex meter the rotor is mounted in an offset chamber in a short section of the flow pipe. Only a portion of the total gas flow is fed into this chamber, and total quantity measurements are based on recorded rotor movement. Velocity gas meters also include anemometer-type meters in which rotating cups or vanes either power a small generator or drive a series of recording registers.
+ </p>
+ <p>
+  Head-type gas meters measure quantity of gas per unit time. The measurement is based on a deliberately produced pressure drop, or head, between two nearby points in a tube in the meter. This pressure differential can be converted to a flow rate. Devices used to produce the pressure head include orifice plates, venturi tubes, flow nozzles, and pitot tubes.
+ </p>
+ <p>
+  In thermal-type gas meters a heater (such as an electrical heating coil) is placed in the gas stream, and thermometers are installed on its upstream and downstream sides. Gas flow is measured in relation to either the temperature rise of the gas stream or the amount of electrical energy that is necessary to keep the heater at a constant temperature.
+ </p>
+ <p>
+  Acoustic gas meters measure the rate of gas flow by comparing the frequency shifts of two initially identical signals (one sent upstream, the other downstream) after they are reflected.
+ </p>
+ <p>
+  A tracer-type gas meter measures flow rate by timing the passage of an injected radioactive material between two fixed detectors.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

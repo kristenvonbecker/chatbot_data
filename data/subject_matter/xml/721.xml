@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="721" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 19:53:44" url="/article/cylinder/721" version="1">
+ <title>
+  cylinder
+ </title>
+ <p>
+  <e type="bold">
+   cylinder
+  </e>
+  , in geometry, surface that is traced by a straight line (the generatrix) that always moves parallel to some fixed line or direction (the axis). The path, to be definite, is directed along a curve (the directrix), along which the line always glides. The most familiar cylinder is a right circular cylinder, where the directrix is a circle in a plane perpendicular to the line. The axis of this cylinder is a line through the centre of the circle, perpendicular to the plane of the circle. In an oblique circular cylinder, the angle that the axis makes with the circle is other than 90°.
+ </p>
+ <p>
+  The directrix of a cylinder need not be a circle, and if the cylinder is right, planes parallel to the plane of the directrix that intersect the cylinder produce intersections that take the shape of the directrix. For such a plane, if the directrix is an ellipse, the intersection is an ellipse.
+ </p>
+ <p>
+  The generatrix of a cylinder is often assumed to be infinite in length; the cylinder so generated, therefore, extends infinitely in both directions. A finite cylinder whose directrix is a closed curve has a finite base, the region enclosed by the directrix, and a finite length of generatrix, called an element.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

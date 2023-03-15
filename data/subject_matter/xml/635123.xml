@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="635123" articletypeid="1" language="en_us" lastupdate="2022-Oct-17 08:28:01" url="/article/hexagon/635123" version="1">
+ <title>
+  hexagon
+ </title>
+ <p>
+  <assembly id="a270952" url="/assembly/view/270952">
+   <title>
+    regular and irregular hexagons
+   </title>
+   <media mediaid="235740" type="image" url="/40/235740-004-B69F0F44.jpg"/>
+   <caption>
+    A regular hexagon (blue) with six equal sides. Irregular hexagons (red and green) have six sides of unequal length.
+   </caption>
+   <credit>
+    Encyclopædia Britannica, Inc.
+   </credit>
+  </assembly>
+  <e type="bold">
+   hexagon
+  </e>
+  ,
+  <assemblyref assemblyid="a270952"/>
+  in
+  <xref articleid="126112">
+   geometry
+  </xref>
+  , a six-sided
+  <xref articleid="473089">
+   polygon
+  </xref>
+  . In a regular hexagon, all sides are the same length, and each internal angle is 120 degrees. The area of a regular hexagon is commonly determined with the formula:
+  <formula>
+   area =
+   <fraction>
+    <num>
+     3√3
+    </num>
+    <den>
+     2
+    </den>
+   </fraction>
+   × side
+   <sup>
+    2
+   </sup>
+  </formula>
+  In an irregular hexagon, the sides are of unequal length, and each internal angle can be more or less than 120 degrees. Regular hexagons can be used to pack the most number of units into a flat plane with no wasted space and with a minimum perimeter. Hexagons are not only commonly found in nature, they are also used in various types of human designs and data displays.
+ </p>
+ <h1 id="h352699">
+  <title>
+   Hexagons in nature
+  </title>
+  <p>
+   <assembly id="a53502" url="/assembly/view/53502">
+    <title>
+     insect eye
+    </title>
+    <media mediaid="63163" type="image" url="/63/63163-004-1DA75B76.jpg"/>
+    <caption>
+     The compound eye often has thousands of lenslike facets, each hexagonal, that are fitted together as in a mosaic.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assembly id="a109859" url="/assembly/view/109859">
+    <title>
+     aromatic compounds
+    </title>
+    <media mediaid="16850" type="image" url="/50/16850-004-F5D83CEE.jpg"/>
+    <caption>
+     Aromatic compounds are characterized by the presence of one or more rings and are uniquely stable structures—a result of strong bonding arrangements between certain pi (π) electrons of molecules. Benzene, which serves as the parent compound of numerous other aromatic compounds, such as toluene and naphthalene, contains six planar π electrons that are shared among the six carbon atoms of the ring.
+    </caption>
+    <credit/>
+   </assembly>
+   <assemblyref assemblyid="a53502"/>
+   <assemblyref assemblyid="a109859"/>
+   Honeycombs, snowflakes, the compound eyes of various insects,
+   <xref articleid="78683">
+    benzene
+   </xref>
+   and other cyclic compounds, and certain types of minerals are among the most well-known examples of hexagonal structures in nature.
+  </p>
+  <h2 id="h352700">
+   <title>
+    Honeycombs
+   </title>
+   <p>
+    <assembly id="a270953" url="/assembly/view/270953">
+     <title>
+      honeycomb
+     </title>
+     <media mediaid="190338" type="image" url="/38/190338-004-3CACBDAE.jpg"/>
+     <caption>
+      Hexagonal honeycombs.
+     </caption>
+     <credit>
+      © John Foxx Images/ImageState
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a270953"/>
+    <xref articleid="40939">
+     Honeybees
+    </xref>
+    build their honeycombs with
+    <xref articleid="76333">
+     wax
+    </xref>
+    they produce, so they need a form that makes the most efficient use of this precious wax resource. The regular hexagon fits this requirement, allowing bees to fit the most cells into a honeycomb. Their hexagonal cells are nearly the exact same size with the same precise wall thickness across hives.
+   </p>
+   <p>
+    In the past, this remarkable engineering feat was attributed mainly to the way bees evolved. Yet researchers have pointed out that simple laws of physics may also be at work, citing the example of floating rafts of bubbles. When the bubbles reach a certain number, they naturally change from spherical to hexagonal-faced structures as a more efficient way to fill the space. In a similar manner, the cells that bees make have a somewhat circular shape at first while the wax is still soft. It is possible that as the number of cells increases, the surface tension around them rises, and the circles gradually form into hexagons, hardening into the familiar hexagonal honeycomb pattern.
+   </p>
+  </h2>
+  <h2 id="h352701">
+   <title>
+    Snowflakes
+   </title>
+   <p>
+    <assembly id="a155360" url="/assembly/view/155360">
+     <title>
+      snowflake on a wool coat
+     </title>
+     <media mediaid="149179" type="image" url="/79/149179-004-01C6E1CE.jpg"/>
+     <caption>
+      Individual snowflake on the threads of a wool coat.
+     </caption>
+     <credit>
+      Yaroslav/Shutterstock.com
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a155360"/>
+    The laws of physics are also at work when six-sided snowflakes form. Depending on the weather conditions, snowflakes often begin as small regular hexagonal plates, formed by water molecules as they freeze. Because each of the hexagon’s internal angles is 120 degrees, such a plate has an unusually stable structure. As this plate tumbles through the clouds, exposed to different temperatures and levels of moisture, crystal arms grow from each of the six outside corners. When all corners are exposed to the same conditions, the arms grow into the symmetrical crystals seen in some snowflakes.
+   </p>
+  </h2>
+  <h2 id="h352702">
+   <title>
+    Basalt columns and other minerals
+   </title>
+   <p>
+    <assembly id="a270954" url="/assembly/view/270954">
+     <title>
+      Devils Postpile National Monument
+     </title>
+     <media mediaid="118928" type="image" url="/28/118928-004-27AF427B.jpg"/>
+     <caption>
+      Basalt columns in Devils Postpile National Monument, California.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a270954"/>
+    One of the most striking examples of hexagonal structures in minerals are
+    <xref articleid="13572">
+     basalt
+    </xref>
+    columns, as seen in the
+    <xref articleid="30161">
+     Devils Postpile National Monument
+    </xref>
+    in California and the
+    <xref articleid="36732">
+     Giant’s Causeway
+    </xref>
+    in Northern Ireland. Basalt columns are formed by
+    <xref articleid="47378">
+     lava
+    </xref>
+    outflows that cool and begin to shrink. The shrinking creates surface tension that produces cracks in the basalt. It turns out that cracks at 120 degrees release the most tension. Gradually the cracks create the hexagonal columns of basalt, although most of them are irregular. If all parts of the lava had cooled at the same rate, the basalt columns would all be regular hexagons.
+   </p>
+   <p>
+    <assembly id="a270955" url="/assembly/view/270955">
+     <title>
+      quartz crystals
+     </title>
+     <media mediaid="224193" type="image" url="/93/224193-004-AFEACBF0.jpg"/>
+     <caption>
+      Hexagonal quartz crystals.
+     </caption>
+     <credit>
+      © ala/stock.adobe.com
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a270955"/>
+    There are only a few minerals whose internal structure is classified under the hexagonal system. They include
+    <xref articleid="109693">
+     calcite
+    </xref>
+    ,
+    <xref articleid="109694">
+     dolomite
+    </xref>
+    ,
+    <xref articleid="62182">
+     quartz
+    </xref>
+    ,
+    <xref articleid="7981">
+     apatite
+    </xref>
+    ,
+    <xref articleid="32522">
+     emerald
+    </xref>
+    , and
+    <xref articleid="64334">
+     ruby
+    </xref>
+    . Their structures allow light to travel through the crystals at difference speeds and at different angles.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h352703">
+  <title>
+   Hexagons in human designs
+  </title>
+  <p>
+   <assembly id="a270956" url="/assembly/view/270956">
+    <title>
+     carbon nanotube
+    </title>
+    <media mediaid="224608" type="image" url="/08/224608-004-D426D6E9.jpg"/>
+    <caption>
+     Pattern of hexagonal nano-geometry in a carbon nanotube.
+    </caption>
+    <credit>
+     © Quality Stock Arts/stock.adobe.com
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a270956"/>
+   Hexagons have a long history in human designs, particularly in tile patterns and in some architectural structures. More recently, hexagons have also been used to represent geographic data on computer-generated maps.
+  </p>
+  <h2 id="h352704">
+   <title>
+    Tiling
+   </title>
+   <p>
+    Hexagon tiles can be tessellated, or arranged in a repeating pattern without gaps or overlaps, to fill a floor or wall space efficiently. Both regular and irregular hexagons can be used to create a variety of highly original, artistic designs. Hexagonal tiles often represent a more efficient, less costly use of materials than other tile shapes.
+   </p>
+  </h2>
+  <h2 id="h352705">
+   <title>
+    Architecture
+   </title>
+   <p>
+    <assembly id="a270957" url="/assembly/view/270957">
+     <title>
+      hexagonal atrium
+     </title>
+     <media mediaid="228078" type="image" url="/78/228078-004-2F2C7AA1.jpg"/>
+     <caption>
+      Hexagonal lead glass skylight ceiling in multistory atrium.
+     </caption>
+     <credit>
+      © Magnus Bjermo—iStock/Getty images
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a270957"/>
+    Hexagons are also used as architectural elements. Several well-known buildings, such as the New York Supreme Court Building, the Museum of Jewish History in Manhattan, and the Berlin-Tegel Airport were built using a six-sided design. In addition, the pulpits in many historical churches were built in a hexagonal shape not only for strength and durability but to represent the sacred number six, referring to the six days of creation. In material design engineering, synthetic, composite materials comprised of hexagonal forms can have minimal density and relatively high out-of-plane compression and shear properties, and may prove useful in the construction of tall buildings. The Sino Steel International Plaza T2 in Tianjin, China, is set to be the first super tall building to implement a hexagonal grid structure system for the exterior tube structure.
+   </p>
+  </h2>
+  <h2 id="h352706">
+   <title>
+    Map-making
+   </title>
+   <p>
+    The regular hexagon is also used to represent 3D geographic features and other geospatial data, such as population density, on 2D computer-generated maps. Hexagons not only can be tessellated in an evenly spaced grid, but they also allow curvatures in the 3D patterns of geographic and other data to be seen more accurately. For example, on maps depicting a large area of Earth’s curved surface, a hexagonal grid will show less distortion than will a typical square grid.
+   </p>
+  </h2>
+ </h1>
+ <signature>
+  [ No Value! ]
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

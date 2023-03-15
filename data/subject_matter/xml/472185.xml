@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="472185" articletypeid="1" language="en_us" lastupdate="2023-Feb-23 11:25:06" url="/article/Deep-Blue/472185" version="6">
+ <title>
+  Deep Blue
+ </title>
+ <p>
+  <e type="bold">
+   Deep Blue
+  </e>
+  , computer
+  <xref articleid="105867">
+   chess
+  </xref>
+  -playing system designed by
+  <xref articleid="1636">
+   IBM
+  </xref>
+  in the early 1990s. As the successor to Chiptest and Deep Thought, earlier purpose-built chess computers, Deep Blue was designed to succeed where all others had failed. In 1996 it made history by defeating Russian grandmaster
+  <xref articleid="44807">
+   Garry Kasparov
+  </xref>
+  in one of their six games—the first time a computer had won a game against a world champion under tournament conditions. In the 1997 rematch, it won the deciding sixth game in only 19 moves; its 3.5–2.5 victory (it won two games and had three draws) marked the first time a current world champion had lost a match to a computer under tournament conditions. In its final configuration, the IBM RS6000/SP computer used 256 processors working in tandem, with an ability to evaluate 200 million chess positions per second.
+ </p>
+ <p>
+  <e type="italic">
+   <xref articleid="630803">
+    (Read Garry Kasparov’s Britannica essay on Deep Blue.)
+   </xref>
+  </e>
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="36276" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 22:12:02" url="/article/gear/36276" version="2">
+ <title>
+  gear
+ </title>
+ <p>
+  <assembly id="a10979" url="/assembly/view/10979">
+   <title>
+    Study how a series of gears in a waterwheel translates a stream’s energy to a millstone
+   </title>
+   <media mediaid="20700" thumburl="/00/20700-049-43225033.jpg" type="video" url=""/>
+   <caption>
+    Before the Industrial Revolution, power came from three main sources: humans, draft animals, and water. The ingenuity people used in harnessing waterpower can be seen in this medieval-style mill. The waterwheel is turned by a stream and is connected to a shaft that leads into the building. At the other end of the shaft is a gear. The connection of a series of gears translates the power from the stream to a shaft that drives a millstone, which grinds flour from grain. (30 sec; 1.84MB)
+   </caption>
+   <credit>
+    Public Domain
+   </credit>
+  </assembly>
+  <e type="bold">
+   gear
+  </e>
+  ,
+  <assemblyref assemblyid="a10979"/>
+  machine component consisting of a toothed wheel attached to a rotating shaft. Gears operate in pairs to transmit and modify rotary motion and torque (turning force) without slip, the teeth of one gear engaging the teeth on a mating gear. If the teeth on a pair of mating gears are arranged on circles,
+  <e type="italic">
+   i.e.,
+  </e>
+  if the gears are toothed wheels, the ratios of the rotary speeds and torques of the shafts are constant. If the teeth are arranged on noncircular bodies the speed and torque ratios vary.
+ </p>
+ <p>
+  Most gears are circular. To transmit motion smoothly and with a nonvarying speed ratio at every instant, the contacting surfaces of gear teeth must be carefully shaped to a specific profile. If the smaller of a gear pair (the pinion) is on the driving shaft, the pair acts to reduce speed and to amplify torque; if the pinion is on the driven shaft the pair acts as a speed increaser and a torque reducer. If the driven gear has twice as many teeth as the pinion, for example, the torque of the driven gear is twice the pinion torque, whereas the pinion speed is twice the speed of the driven gear.
+ </p>
+ <p>
+  The shafts that gears connect must be relatively close, but they may have practically any spatial relationship with respect to one another; they may be parallel or nonparallel and intersecting or nonintersecting. For each of these arrangements of the shafts, gears having appropriate capabilities can be made. Parallel shafts can be connected by gears with teeth that are straight lengthwise and parallel to the shaft axes (spur gears) or by gears with twisted, screwlike teeth (helical gears). Intersecting shafts are connected by gears with tapered teeth arranged on truncated cones (bevel gears). Nonparallel, nonintersecting shafts are usually connected by a worm and gear. The worm resembles a screw, and the gear resembles a quarter section of a long nut that has been bent around a cylinder. The commonest angle between nonparallel shafts, either intersecting or nonintersecting, is a right angle (90°).
+ </p>
+ <p>
+  Because it is basically a screw, a worm gear may have only one thread (tooth), whereas to maintain continuous contact with parallel shaft gears (spur and helical), the pinion must have at least five teeth. For this reason, to obtain a large speed ratio in a single gear pair, a worm and gear are well suited. If the shafts must be parallel, it may be necessary to use several gear pairs in series (a train) to obtain a large ratio.
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="30413">
+   differential gear
+  </xref>
+  .
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

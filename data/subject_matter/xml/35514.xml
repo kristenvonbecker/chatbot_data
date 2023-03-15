@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="35514" articletypeid="1" language="en_us" lastupdate="2021-Jun-30 22:07:40" url="/article/Froude-number/35514" version="2">
+ <title>
+  Froude number (Fr)
+ </title>
+ <p>
+  <e type="bold">
+   Froude number (Fr)
+  </e>
+  , in hydrology and fluid mechanics, dimensionless quantity used to indicate the influence of gravity on fluid motion. It is generally expressed as Fr =
+  <e type="italic">
+   v
+  </e>
+  /(
+  <e type="italic">
+   gd
+  </e>
+  )
+  <sup>
+   <fraction>
+    <num>
+     1
+    </num>
+    <den>
+     2
+    </den>
+   </fraction>
+  </sup>
+  , in which
+  <e type="italic">
+   d
+  </e>
+  is depth of flow,
+  <e type="italic">
+   g
+  </e>
+  is the gravitational acceleration (equal to the specific weight of the water divided by its density, in fluid mechanics),
+  <e type="italic">
+   v
+  </e>
+  is the celerity of a small surface (or gravity) wave, and Fr is the Froude number. When Fr is less than 1, small surface waves can move upstream; when Fr is greater than 1, they will be carried downstream; and when Fr = 1 (said to be the critical Froude number), the velocity of flow is just equal to the velocity of surface waves. The Froude number enters into formulations of the hydraulic jump (rise in water surface elevation) that occurs under certain conditions, and, together with the
+  <xref articleid="63389">
+   Reynolds number
+  </xref>
+  , it serves to delineate the boundary between laminar and turbulent flow conditions in open channels.
+ </p>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

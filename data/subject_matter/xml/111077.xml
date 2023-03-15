@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="111077" articletypeid="1" language="en_us" lastupdate="2022-Jul-28 08:00:36" url="/article/telescope/111077" version="28">
+ <title>
+  telescope
+ </title>
+ <p>
+  <assembly id="a19700" url="/assembly/view/19700">
+   <title>
+    Keck Observatory
+   </title>
+   <media mediaid="27069" type="image" url="/69/27069-004-3689F73F.jpg"/>
+   <caption>
+    Aerial view of the Keck Observatory’s twin domes, which are opened to reveal the telescopes. Keck II is on the left and Keck I on the right.
+   </caption>
+   <credit>
+    © 1998, Richard J. Wainscoat/M.W. Keck Observatory
+   </credit>
+  </assembly>
+  <e type="bold">
+   telescope
+  </e>
+  ,
+  <assemblyref assemblyid="a19700"/>
+  device used to form magnified images of distant objects. The telescope is undoubtedly the most important investigative tool in
+  <xref articleid="108656">
+   astronomy
+  </xref>
+  . It provides a means of collecting and analyzing radiation from celestial objects, even those in the far reaches of the
+  <xref articleid="74362">
+   universe
+  </xref>
+  .
+ </p>
+ <p>
+  <xref articleid="105766">
+   Galileo
+  </xref>
+  revolutionized astronomy when he applied the telescope to the study of extraterrestrial bodies in the early 17th century. Until then, magnification instruments had never been used for this purpose. Since Galileo’s pioneering work, increasingly more powerful optical telescopes have been developed, as has a wide array of instruments capable of detecting and measuring radiation in every region of the
+  <xref articleid="101148">
+   electromagnetic spectrum
+  </xref>
+  . Observational capability has been further enhanced by the invention of various kinds of auxiliary instruments (e.g., the
+  <xref articleid="18803">
+   camera
+  </xref>
+  , spectrograph, and
+  <xref articleid="471995">
+   charge-coupled device
+  </xref>
+  ) and by the use of electronic
+  <xref articleid="117728">
+   computers
+  </xref>
+  ,
+  <xref articleid="106040">
+   rockets
+  </xref>
+  , and spacecraft in conjunction with telescope systems. These developments have contributed dramatically to advances in scientific knowledge about the
+  <xref articleid="110143">
+   solar system
+  </xref>
+  , the
+  <xref articleid="110643">
+   Milky Way Galaxy
+  </xref>
+  , and the universe as a whole.
+ </p>
+ <p>
+  This article describes the operating principles and historical development of optical telescopes. For explanation of instruments that operate in other portions of the electromagnetic spectrum,
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="62417">
+   radio telescope
+  </xref>
+  ;
+  <xref articleid="77660">
+   X-ray telescope
+  </xref>
+  ; and
+  <xref articleid="480500">
+   gamma-ray telescope
+  </xref>
+  .
+ </p>
+ <h1 id="h44206">
+  <title>
+   Refracting telescopes
+  </title>
+  <p>
+   <assembly id="a120956" url="/assembly/view/120956">
+    <title>
+     refractor at Lick Observatory
+    </title>
+    <media mediaid="126351" type="image" url="/51/126351-004-7B2461C1.jpg"/>
+    <caption>
+     The historical 91-cm (36-inch) refractor at the Lick Observatory on Mount Hamilton, near San Jose, California, U.S.
+    </caption>
+    <credit>
+     © Joe Mercier/Shutterstock.com
+    </credit>
+   </assembly>
+   <assembly id="a3701" url="/assembly/view/3701">
+    <title>
+     focal length of a lens
+    </title>
+    <media mediaid="4627" type="image" url="/27/4627-004-E3B847C3.jpg"/>
+    <caption>
+     Focal length of a lens.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assembly id="a3702" url="/assembly/view/3702">
+    <title>
+     refracting telescope
+    </title>
+    <media mediaid="4628" type="image" url="/28/4628-004-9CBBDBD2.jpg"/>
+    <caption>
+     Refracting telescope.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a120956"/>
+   Commonly known as refractors, telescopes of this kind are typically used to examine the
+   <xref articleid="53598">
+    Moon
+   </xref>
+   , other objects of the
+   <xref articleid="110143">
+    solar system
+   </xref>
+   such as
+   <xref articleid="110150">
+    Jupiter
+   </xref>
+   and
+   <xref articleid="110149">
+    Mars
+   </xref>
+   , and
+   <xref articleid="79221">
+    binary stars
+   </xref>
+   . The name
+   <e type="italic">
+    refractor
+   </e>
+   is derived from the term
+   <e type="italic">
+    <xref articleid="63033">
+     refraction
+    </xref>
+   </e>
+   , which is the bending of
+   <xref articleid="110443">
+    light
+   </xref>
+   when it passes from one medium to another of different density—e.g., from
+   <xref articleid="5193">
+    air
+   </xref>
+   to
+   <xref articleid="36988">
+    glass
+   </xref>
+   . The glass is referred to as a
+   <xref articleid="47770">
+    lens
+   </xref>
+   and may have one or more components. The physical shape of the components may be convex, concave, or plane-parallel.
+   <assemblyref assemblyid="a3701">
+    This diagram
+   </assemblyref>
+   illustrates the principle of refraction and the term focal length. The focus is the point, or plane, at which light rays from infinity converge after passing through a lens and traveling a distance of one focal length. In a refractor the first lens through which light from a celestial object passes is called the objective lens. It should be noted that the light will be inverted at the focal plane. A second lens, referred to as the eyepiece lens, is placed behind the focal plane and enables the observer to view the enlarged, or magnified, image. Thus, the simplest form of refractor consists of an objective and an eyepiece, as illustrated in
+   <assemblyref assemblyid="a3702">
+    the diagram
+   </assemblyref>
+   .
+  </p>
+  <p>
+   The diameter of the objective is referred to as the aperture; it typically ranges from a few centimetres for small spotting telescopes up to one metre for the largest refractor in existence. The objective, as well as the eyepiece, may have several components. Small spotting telescopes may contain an extra lens behind the eyepiece to erect the image so that it does not appear upside-down. When an object is viewed with a refractor, the image may not appear sharply defined, or it may even have a predominant colour in it. Such distortions, or aberrations, are sometimes introduced when the lens is polished into its design shape. The major kind of distortion in a refractor is
+   <xref articleid="471070">
+    chromatic aberration
+   </xref>
+   , which is the failure of the differently coloured light rays to come to a common focus. Chromatic aberration can be minimized by adding components to the objective. In lens-design technology, the coefficients of expansion of different kinds of glass are carefully matched to minimize the aberrations that result from
+   <xref articleid="71632">
+    temperature
+   </xref>
+   changes of the telescope at night.
+  </p>
+  <p>
+   Eyepieces, which are used with both refractors and reflectors (
+   <e type="italic">
+    see below
+   </e>
+   <xref articleid="111077" refid="h44208">
+    Reflecting telescopes
+   </xref>
+   ), have a wide variety of applications and provide observers with the ability to select the magnification of their instruments. The magnification, sometimes referred to as magnifying power, is determined by dividing the focal length of the objective by the focal length of the eyepiece. For example, if the objective has a focal length of 254 cm (100 inches) and the eyepiece has a focal length of 2.54 cm (1 inch), then the magnification will be 100. Large magnifications are very useful for observing the Moon and the
+   <xref articleid="60298">
+    planets
+   </xref>
+   . However, since
+   <xref articleid="110472">
+    stars
+   </xref>
+   appear as point sources owing to their great distances, magnification provides no additional advantage when viewing them. Another important factor that one must take into consideration when attempting to view at high magnification is the stability of the telescope mounting. Any vibration in the mounting will also be magnified and may severely reduce the quality of the observed image. Thus, great care is usually taken to provide a stable platform for the telescope. This problem should not be associated with that of atmospheric
+   <xref articleid="66574">
+    seeing
+   </xref>
+   , which may introduce a disturbance to the image because of fluctuating air currents in the path of the light from a celestial or terrestrial object. Generally, most of the seeing disturbance arises in the first 30 metres (100 feet) of air above the telescope. Large telescopes are frequently installed on mountain peaks in order to get above the seeing disturbances.
+  </p>
+ </h1>
+ <h1 id="h44207">
+  <title>
+   Light gathering and resolution
+  </title>
+  <p>
+   The most important of all the powers of an optical telescope is its light-gathering power. This capacity is strictly a function of the diameter of the clear objective—that is, the aperture—of the telescope. Comparisons of different-sized apertures for their light-gathering power are calculated by the ratio of their diameters squared; for example, a 25-cm (10-inch) objective will collect four times the light of a 12.5-cm (5-inch) objective ([25 × 25] ÷ [12.5 × 12.5] = 4). The advantage of collecting more light with a larger-aperture telescope is that one can observe fainter
+   <xref articleid="110472">
+    stars
+   </xref>
+   ,
+   <xref articleid="108754">
+    nebulae
+   </xref>
+   , and very distant
+   <xref articleid="110642">
+    galaxies
+   </xref>
+   .
+  </p>
+  <p>
+   Resolving power is another important feature of a telescope. This is the ability of the instrument to distinguish clearly between two points whose angular separation is less than the smallest angle that the observer’s eye can resolve. The resolving power of a telescope can be calculated by the following formula: resolving power = 11.25 seconds of arc/
+   <e type="italic">
+    d,
+   </e>
+   where
+   <e type="italic">
+    d
+   </e>
+   is the diameter of the objective expressed in centimetres. Thus, a 25-cm-diameter objective has a theoretical resolution of 0.45 second of arc and a 250-cm (100-inch) telescope has one of 0.045 second of arc. An important application of resolving power is in the observation of visual
+   <xref articleid="79221">
+    binary stars
+   </xref>
+   . There, one star is routinely observed as it revolves around a second star. Many observatories conduct extensive visual binary observing programs and publish catalogs of their observational results. One of the major contributors in this field is the
+   <xref articleid="74338">
+    United States Naval Observatory
+   </xref>
+   in Washington, D.C.
+  </p>
+  <p>
+   Most refractors currently in use at observatories have equatorial mountings. The mounting describes the orientation of the physical bearings and structure that permits a telescope to be pointed at a celestial object for viewing. In the equatorial mounting, the polar axis of the telescope is constructed parallel to
+   <xref articleid="110147">
+    Earth
+   </xref>
+   ’s axis. The polar axis supports the declination axis of the instrument.
+   <xref articleid="29708">
+    Declination
+   </xref>
+   is measured on the celestial sky north or south from the celestial equator. The declination axis makes it possible for the telescope to be pointed at various declination angles as the instrument is rotated about the polar axis with respect to
+   <xref articleid="63679">
+    right ascension
+   </xref>
+   . Right ascension is measured along the celestial equator from the vernal
+   <xref articleid="32849">
+    equinox
+   </xref>
+   (i.e., the position on the
+   <xref articleid="22001">
+    celestial sphere
+   </xref>
+   where the
+   <xref articleid="110144">
+    Sun
+   </xref>
+   crosses the celestial equator from south to north on the first day of spring). Declination and right ascension are the two coordinates that define a celestial object on the celestial sphere. Declination is analogous to
+   <xref articleid="47303">
+    latitude
+   </xref>
+   , and right ascension is analogous to longitude. Graduated dials are mounted on the axis to permit the observer to point the telescope precisely. To track an object, the telescope’s polar axis is driven smoothly by an electric motor at a sidereal rate—namely, at a rate equal to the rate of rotation of Earth with respect to the stars. Thus, one can track or observe with a telescope for long periods of time if the sidereal rate of the motor is very accurate. High-accuracy motor-driven systems have become readily available with the rapid advancement of
+   <xref articleid="62182">
+    quartz
+   </xref>
+   -clock technology. Most major observatories now rely on either quartz or
+   <xref articleid="10128">
+    atomic clocks
+   </xref>
+   to provide accurate sidereal time for observations as well as to drive telescopes at an extremely uniform rate.
+  </p>
+  <p>
+   A notable example of a refracting telescope is the 66-cm (26-inch) refractor of the U.S. Naval Observatory. This instrument was used by the astronomer
+   <xref articleid="38905">
+    Asaph Hall
+   </xref>
+   to discover the two
+   <xref articleid="53598">
+    moons
+   </xref>
+   of
+   <xref articleid="110149">
+    Mars
+   </xref>
+   ,
+   <xref articleid="59744">
+    Phobos
+   </xref>
+   and
+   <xref articleid="29767">
+    Deimos
+   </xref>
+   , in 1877. Today, the telescope is used primarily for observing binary stars. The 91-cm (36-inch) refractor at
+   <xref articleid="126080">
+    Lick Observatory
+   </xref>
+   on Mount Hamilton, California, U.S., is the largest refracting system currently in operation. (The 1-metre [40-inch] instrument at
+   <xref articleid="126079">
+    Yerkes Observatory
+   </xref>
+   in Williams Bay, Wisconsin, U.S., has been inactive since 2018 [
+   <e type="italic">
+    see
+   </e>
+   ].)
+  </p>
+  <p>
+   Another type of refracting telescope is the astrograph, which usually has an objective diameter of approximately 20 cm (8 inches). The astrograph has a photographic plateholder mounted in the focal plane of the objective so that photographs of the celestial sphere can be taken. The photographs are usually taken on glass plates. The principal application of the astrograph is to determine the positions of a large number of faint stars. These positions are then published in catalogs such as the
+   <e type="italic">
+    <xref articleid="3965">
+     <e type="italic">
+      AGK
+     </e>
+     3
+    </xref>
+   </e>
+   and serve as reference points for deep-space photography.
+  </p>
+ </h1>
+ <h1 id="h44208">
+  <title>
+   Reflecting telescopes
+  </title>
+  <p>
+   <assembly id="a107346" url="/assembly/view/107346">
+    <title>
+     telescope at Birr Castle
+    </title>
+    <media mediaid="103021" type="image" url="/21/103021-004-D271B32C.jpg"/>
+    <caption>
+     The 72-inch reflecting telescope at Birr Castle, County Offaly, Leinster, Ireland, was the largest in the world at the time of its construction in the 1840s.
+    </caption>
+    <credit>
+     Geray Sweeney/Tourism Ireland
+    </credit>
+   </assembly>
+   <assembly id="a3704" url="/assembly/view/3704">
+    <title>
+     concave mirror
+    </title>
+    <media mediaid="4629" type="image" url="/29/4629-004-B3CF4625.jpg"/>
+    <caption>
+     Concave mirror.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a107346"/>
+   Reflectors are used not only to examine the visible region of the
+   <xref articleid="101148">
+    electromagnetic spectrum
+   </xref>
+   but also to explore both the shorter- and longer-wavelength regions adjacent to it (i.e., the
+   <xref articleid="74181">
+    ultraviolet
+   </xref>
+   and the
+   <xref articleid="42403">
+    infrared
+   </xref>
+   ). The name of this type of instrument is derived from the fact that the primary mirror reflects the light back to a focus instead of refracting it. The primary mirror usually has a concave spherical or parabolic shape, and, as it reflects the light, it inverts the image at the focal plane.
+   <assemblyref assemblyid="a3704">
+    The diagram
+   </assemblyref>
+   illustrates the principle of a concave reflecting mirror. The formulas for resolving power, magnifying power, and light-gathering power, as discussed for refractors, apply to reflectors as well.
+  </p>
+  <p>
+   The primary mirror is located at the lower end of the telescope tube in a reflector and has its front surface coated with an extremely thin film of metal, such as
+   <xref articleid="5954">
+    aluminum
+   </xref>
+   . The back of the mirror is usually made of
+   <xref articleid="36988">
+    glass
+   </xref>
+   , although other materials have been used from time to time.
+   <xref articleid="62049">
+    Pyrex
+   </xref>
+   was the principal glass of choice for many of the older large telescopes, but new technology has led to the development and widespread use of a number of glasses with very low coefficients of expansion. A low coefficient of expansion means that the shape of the mirror will not change significantly as the
+   <xref articleid="71632">
+    temperature
+   </xref>
+   of the telescope changes during the night. Since the back of the mirror serves only to provide the desired form and physical support, it does not have to meet the high optical quality standards required for a lens.
+  </p>
+  <p>
+   <assembly id="a137718" url="/assembly/view/137718">
+    <title>
+     Newton’s reflecting telescope
+    </title>
+    <media mediaid="116541" type="image" url="/41/116541-004-54D813B4.jpg"/>
+    <caption>
+     Isaac Newton’s reflecting telescope, 1668.
+    </caption>
+    <credit>
+     © Photos.com/Jupiterimages
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a137718"/>
+   Reflecting telescopes have a number of other advantages over refractors. They are not subject to
+   <xref articleid="471070">
+    chromatic aberration
+   </xref>
+   because reflected light does not disperse according to wavelength. Also, the telescope tube of a reflector is shorter than that of a refractor of the same diameter, which reduces the cost of the tube. Consequently, the dome for housing a reflector is smaller and more economical to construct. So far only the primary mirror for the reflector has been discussed. One might wonder about the location of the eyepiece. The primary mirror reflects the light of the celestial object to the prime focus near the upper end of the tube. Obviously, if an observer put his eye there to observe with a modest-sized reflector, he would block out the light from the primary mirror with his head.
+   <xref articleid="108764">
+    Isaac Newton
+   </xref>
+   placed a small plane mirror at an angle of 45° inside the prime focus and thereby brought the focus to the side of the telescope tube. The amount of light lost by this procedure is very small when compared to the total light-gathering power of the primary mirror. The Newtonian reflector is popular among amateur telescope makers.
+  </p>
+  <p>
+   <assembly id="a3705" url="/assembly/view/3705">
+    <title>
+     Cassegrain reflector
+    </title>
+    <media mediaid="4630" type="image" url="/30/4630-004-91C42F2C.jpg"/>
+    <caption>
+     Cassegrain reflector.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   Laurent Cassegrain of France, a contemporary of Newton, invented another type of reflector. Called the Cassegrain telescope, this instrument employs a small convex mirror to reflect the light back through a small hole in the primary mirror to a focus located behind the primary.
+   <assemblyref assemblyid="a3705">
+    The diagram
+   </assemblyref>
+   illustrates a typical
+   <xref articleid="20644">
+    Cassegrain reflector
+   </xref>
+   . Some large telescopes of this kind do not have a hole in the primary mirror but use a small plane mirror in front of the primary to reflect the light outside the main tube and provide another place for observation. The Cassegrain design usually permits short tubes relative to their mirror diameter.
+  </p>
+  <p>
+   One more variety of reflector was invented by another of Newton’s contemporaries, the Scottish astronomer
+   <xref articleid="38046">
+    James Gregory
+   </xref>
+   . Gregory placed a concave secondary mirror outside the prime focus to reflect the light back through a hole in the primary mirror. Notable is the fact that the Gregorian design was adopted for the Earth-orbiting space observatory, the Solar Maximum Mission (SMM), launched in 1980.
+  </p>
+  <p>
+   Most large reflecting telescopes that are currently in use have a cage at their prime focus that permits the observer to sit inside the telescope tube while operating the instrument. The 5-metre (200-inch) reflector at
+   <xref articleid="58167">
+    Palomar Observatory
+   </xref>
+   , near San Diego, Calif., is so equipped. While most reflectors have equatorial mounts similar to refractors, the world’s largest reflector, the 10.4-metre (34.1-foot) instrument at the
+   <xref articleid="477259">
+    Gran Telescopio Canarias
+   </xref>
+   at La Palma, Canary Islands, Spain, has an altitude-azimuth mounting. The significance of the latter design is that the telescope must be moved both in
+   <xref articleid="5936">
+    altitude and in azimuth
+   </xref>
+   as it tracks a celestial object. Equatorial mountings, by contrast, require motion in only one coordinate while tracking, since the
+   <xref articleid="29708">
+    declination
+   </xref>
+   coordinate is constant. Reflectors, like refractors, usually have small guide telescopes mounted parallel to their main optical axis to facilitate locating the desired object. These guide telescopes have low magnification and a wide field of view, the latter being a desirable attribute for finding
+   <xref articleid="110472">
+    stars
+   </xref>
+   or other remote cosmic objects.
+  </p>
+  <p>
+   The parabolic shape of a primary mirror has a basic failing in that it produces a narrow field of view. This can be a problem when one wishes to observe extended celestial objects. To overcome this difficulty, most large reflectors now have a modified Cassegrain design. The central area of the primary mirror has its shape deepened from that of a paraboloid, and the secondary mirror is configured to compensate for the altered primary. The result is the Ritchey-Chrétien design, which has a curved rather than a flat focus. Obviously, the photographic medium must be curved to collect high-quality images across the curved focal plane. The 1-metre telescope of the U.S. Naval Observatory in Flagstaff, Arizona, was one of the early examples of this design.
+  </p>
+ </h1>
+ <h1 id="h44209">
+  <title>
+   The Schmidt telescope
+  </title>
+  <p>
+   <assembly id="a3707" url="/assembly/view/3707">
+    <title>
+     Schmidt telescope
+    </title>
+    <media mediaid="4632" type="image" url="/32/4632-004-58F823DA.jpg"/>
+    <caption>
+     Schmidt telescope.
+    </caption>
+    <credit>
+     Encyclopædia Britannica, Inc.
+    </credit>
+   </assembly>
+   The Ritchey-Chrétien design has a good field of view of about 1°. For some astronomical applications, however, photographing larger areas of the sky is mandatory. In 1930
+   <xref articleid="66168">
+    Bernhard Schmidt
+   </xref>
+   , an optician at the Hamburg Observatory in Bergedorf, Germany, designed a catadioptric telescope that satisfied the requirement of photographing larger celestial areas. A catadioptric telescope design incorporates the best features of both the refractor and the reflector—i.e., it has both reflective and refractive optics. The
+   <xref articleid="66173">
+    Schmidt telescope
+   </xref>
+   has a spherically shaped primary mirror. Since parallel
+   <xref articleid="110443">
+    light
+   </xref>
+   rays that are reflected by the centre of a spherical mirror are focused farther away than those reflected from the outer regions, Schmidt introduced a thin lens (called the correcting plate) at the radius of curvature of the primary mirror. Since this correcting plate is very thin, it introduces little chromatic aberration. The resulting focal plane has a field of view several degrees in diameter.
+   <assemblyref assemblyid="a3707">
+    The diagram
+   </assemblyref>
+   illustrates a typical Schmidt design.
+  </p>
+  <p>
+   The National Geographic Society–Palomar Observatory Sky Survey made use of a 1.2-metre (47-inch) Schmidt telescope to photograph the northern sky in the red and blue regions of the visible spectrum. The survey produced 900 pairs of photographic plates (about 7° by 7° each) taken from 1949 to 1956. Schmidt telescopes of the
+   <xref articleid="33273">
+    European Southern Observatory
+   </xref>
+   in Chile and of the
+   <xref articleid="54031">
+    Siding Spring Observatory
+   </xref>
+   in Australia have photographed the remaining part of the sky that cannot be observed from
+   <xref articleid="58167">
+    Palomar Observatory
+   </xref>
+   . (The survey undertaken at the latter included photographs in the
+   <xref articleid="42403">
+    infrared
+   </xref>
+   as well as in the red and blue spectral regions.)
+  </p>
+ </h1>
+ <h1 id="h44210">
+  <title>
+   Multimirror telescopes
+  </title>
+  <p>
+   The main reason astronomers build larger telescopes is to increase light-gathering power so that they can see deeper into the universe. Unfortunately, the cost of constructing larger single-mirror telescopes increases rapidly—approximately with the cube of the diameter of the aperture. Thus, in order to achieve the goal of increasing light-gathering power while keeping costs down, it has become necessary to explore new, more economical and nontraditional telescope designs.
+  </p>
+  <p>
+   <assembly id="a120660" url="/assembly/view/120660">
+    <title>
+     Mauna Kea Observatory: Keck telescopes
+    </title>
+    <media mediaid="126151" type="image" url="/51/126151-004-EDC0233D.jpg"/>
+    <caption>
+     The Keck telescopes at Mauna Kea Observatory, Hawaii.
+    </caption>
+    <credit>
+     © Frank Fichtmüller—iStock/Getty Images
+    </credit>
+   </assembly>
+   <assemblyref assemblyid="a120660"/>
+   The two 10-metre (33-foot)
+   <xref articleid="126118">
+    Keck Observatory
+   </xref>
+   multimirror telescopes represent such an effort. The first was installed on
+   <xref articleid="51487">
+    Mauna Kea
+   </xref>
+   on the island of Hawaii in 1992, and a second telescope was completed in 1996. Each of the Keck telescopes comprises 36 contiguous adjustable mirror segments, all under computer control. Even-larger multimirror instruments are currently being planned by American and European astronomers.
+  </p>
+ </h1>
+ <h1 id="h44211">
+  <title>
+   Special types of optical telescopes
+  </title>
+  <h2 id="h44212">
+   <title>
+    Solar telescopes
+   </title>
+   <p>
+    <assembly id="a113297" url="/assembly/view/113297">
+     <title>
+      solar corona
+     </title>
+     <media mediaid="66847" type="image" url="/47/66847-004-259EC058.jpg"/>
+     <caption>
+      The Sun’s corona as seen by the Large Angle Spectrometric Coronagraph (LASCO) aboard the Solar and Heliospheric Observatory (SOHO).
+     </caption>
+     <credit>
+      SOHO and NASA/ESA
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a113297"/>
+    Either a refractor or a reflector may be used for visual observations of solar features, such as
+    <xref articleid="70383">
+     sunspots
+    </xref>
+    or
+    <xref articleid="68563">
+     solar prominences
+    </xref>
+    . Special solar telescopes have been constructed, however, for investigations of the
+    <xref articleid="110144">
+     Sun
+    </xref>
+    that require the use of such ancillary instruments as spectroheliographs and
+    <xref articleid="26377">
+     coronagraphs
+    </xref>
+    . These telescopes are mounted in towers and have very long focus objectives. Typical examples of tower solar telescopes are found at the
+    <xref articleid="54036">
+     Mount Wilson Observatory
+    </xref>
+    in California and the McMath-Hulbert Observatory in Michigan. The long focus objective produces a very good scale factor, which in turn makes it possible to look at individual wavelengths of the solar
+    <xref articleid="101148">
+     electromagnetic spectrum
+    </xref>
+    in great detail. A tower telescope has an equatorially mounted plane mirror at its summit to direct the sunlight into the telescope objective. This plane mirror is called a
+    <xref articleid="24635">
+     coelostat
+    </xref>
+    .
+    <xref articleid="49542">
+     Bernard Lyot
+    </xref>
+    constructed another type of solar telescope in 1930 at Pic du Midi Observatory in France. This instrument was specifically designed for photographing the Sun’s
+    <xref articleid="26372">
+     corona
+    </xref>
+    (the outer layer), which up to that time had been successfully photographed only during solar
+    <xref articleid="106197">
+     eclipses
+    </xref>
+    . The coronagraph, as this special telescope is called, must be located at a high altitude to be effective. The high altitude is required to reduce the scattered sunlight, which would reduce the quality of the photograph. The High Altitude Observatory in Colorado has such a coronagraph. The principle has been extended to build instruments that can search for extrasolar planets by blocking out the light of their parent stars. Coronagraphs are also used on board satellites, such as the
+    <xref articleid="387681">
+     Solar and Heliospheric Observatory
+    </xref>
+    , that study the Sun.
+   </p>
+  </h2>
+  <h2 id="h44213">
+   <title>
+    Earth-orbiting space telescopes
+   </title>
+   <p>
+    <assembly id="a3710" url="/assembly/view/3710">
+     <title>
+      Hubble Space Telescope
+     </title>
+     <media mediaid="4631" type="image" url="/31/4631-004-DF4155FE.jpg"/>
+     <caption>
+      Cutaway of the Hubble Space Telescope, revealing the Optical Telescope Assembly (OTA), the heart of this orbiting observational system.
+     </caption>
+     <credit>
+      Courtesy of the Hughes Aircraft Company
+     </credit>
+    </assembly>
+    While astronomers continue to seek new technological breakthroughs with which to build larger ground-based telescopes, it is readily apparent that the only solution to some scientific problems is to make observations from above
+    <xref articleid="110147">
+     Earth
+    </xref>
+    ’s
+    <xref articleid="126202">
+     atmosphere
+    </xref>
+    . A series of Orbiting Astronomical Observatories (OAOs) was launched by the
+    <xref articleid="54947">
+     National Aeronautics and Space Administration
+    </xref>
+    (NASA). The OAO launched in 1972—later named Copernicus—had an 81-cm (32-inch) telescope on board. The most sophisticated observational system placed in Earth
+    <xref articleid="57286">
+     orbit
+    </xref>
+    so far is the
+    <xref articleid="2410">
+     Hubble Space Telescope
+    </xref>
+    (HST;
+    <e type="italic">
+     see
+    </e>
+    <assemblyref assemblyid="a3710">
+     photograph
+    </assemblyref>
+    ). Launched in 1990, the HST is essentially a telescope with a 2.4-metre (94-inch) primary mirror. It has been designed to enable astronomers to see into a volume of space 300 to 400 times larger than that permitted by other systems. At the same time, the HST is not impeded by any of the problems caused by the atmosphere. It is equipped with five principal scientific instruments: (1) a wide-field and planetary camera, (2) a faint-object spectrograph, (3) a high-resolution spectrograph, (4) a high-speed photometer, and (5) a faint-object camera. The HST was launched into orbit from the U.S.
+    <xref articleid="68968">
+     space shuttle
+    </xref>
+    at an altitude of more than 570 km (350 miles) above Earth. Shortly after its deployment in Earth orbit, HST project scientists found that a manufacturing error affecting the shape of the telescope’s primary mirror severely impaired the instrument’s focusing capability. The flawed mirror caused spherical aberration, which limited the ability of the HST to distinguish between cosmic objects that lie close together and to image distant
+    <xref articleid="110642">
+     galaxies
+    </xref>
+    and
+    <xref articleid="62185">
+     quasars
+    </xref>
+    . Project scientists devised measures that enabled them to compensate for the defective mirror and correct the imaging problem.
+   </p>
+  </h2>
+  <h2 id="h44214">
+   <title>
+    Astronomical transit instruments
+   </title>
+   <p>
+    These small but extremely important telescopes have played a vital role in mapping the
+    <xref articleid="22001">
+     celestial sphere
+    </xref>
+    . Astronomical transit instruments are usually refractors with apertures of 15 to 20 cm (6 to 8 inches). (
+    <xref articleid="83854">
+     Ole Rømer
+    </xref>
+    , a Danish astronomer, is credited with having invented this type of telescope system.) The main optical axis of the instrument is aligned on a north-south line such that its motion is restricted to the plane of the
+    <xref articleid="52133">
+     meridian
+    </xref>
+    of the observer. The observer’s meridian is a great circle on the celestial sphere that passes through the north and south points of the horizon as well as through the
+    <xref articleid="78318">
+     zenith
+    </xref>
+    of the observer. Restricting the telescope to motion only in the meridian provides an added degree of stability, but it requires the observer to wait for the celestial object to rotate across his meridian. The latter process is referred to as transiting the meridian, from which the name of the telescope is derived. There are various types of transit instruments—for example, the transit circle telescope, the vertical circle telescope, and the horizontal meridian circle telescope. The transit circle determines the
+    <xref articleid="63679">
+     right ascension
+    </xref>
+    of celestial objects, while the vertical circle measures only their
+    <xref articleid="29708">
+     declinations
+    </xref>
+    . Transit circles and horizontal meridian circles measure both right ascension and declination at the same time. The final output data of all transit instruments are included in star or planetary catalogs. A notable example of this class of telescopes is the transit circle of the National Astronomical Observatory in Tokyo.
+   </p>
+  </h2>
+  <h2 id="h44215">
+   <title>
+    Astrolabes
+   </title>
+   <p>
+    Another special type of telescopic instrument is the modern version of the astrolabe. Known as a prismatic astrolabe, it too is used for making precise determinations of the positions of
+    <xref articleid="110472">
+     stars
+    </xref>
+    and
+    <xref articleid="60298">
+     planets
+    </xref>
+    . It may sometimes be used inversely to determine the
+    <xref articleid="47303">
+     latitude and longitude
+    </xref>
+    of the observer, assuming the star positions are accurately known. The aperture of a prismatic astrolabe is small, usually only 8 to 10 cm (3 to 4 inches). A small pool of
+    <xref articleid="52102">
+     mercury
+    </xref>
+    and a refracting
+    <xref articleid="61433">
+     prism
+    </xref>
+    make up the other principal parts of the instrument. An image reflected off the mercury is observed along with a direct image to give the necessary position data. The most notable example of this type of instrument is the French-constructed Danjon astrolabe. During the 1970s, however, the Chinese introduced various innovations that resulted in a more accurate and automatic kind of astrolabe, which is now in use at the National Astronomical Observatories of China’s headquarters in Beijing.
+   </p>
+   <signature>
+    B.L. Klock
+   </signature>
+  </h2>
+ </h1>
+ <h1 id="h44224">
+  <title>
+   The development of the telescope and auxiliary instrumentation
+  </title>
+  <h2 id="h44230">
+   <title>
+    Evolution of the optical telescope
+   </title>
+   <p>
+    <xref articleid="105766">
+     Galileo
+    </xref>
+    is credited with having developed telescopes for astronomical observation in 1609. While the largest of his instruments was only about 120 cm (47 inches) long and had an objective diameter of 5 cm (2 inches), it was equipped with an eyepiece that provided an upright (i.e., erect) image. Galileo used his modest instrument to explore such celestial phenomena as the valleys and mountains of the
+    <xref articleid="110148">
+     Moon
+    </xref>
+    , the
+    <xref articleid="59592">
+     phases
+    </xref>
+    of
+    <xref articleid="110146">
+     Venus
+    </xref>
+    , and the four largest
+    <xref articleid="110150" refid="h54267">
+     Jovian satellites
+    </xref>
+    , which had never been systematically observed before.
+   </p>
+   <p>
+    The reflecting telescope was developed in 1668 by
+    <xref articleid="108764">
+     Newton
+    </xref>
+    , though John Gregory had independently conceived of an alternative reflector design in 1663. Cassegrain introduced another variation of the reflector in 1672. Near the end of the century, others attempted to construct refractors as long as 61 metres, but these instruments were too awkward to be effective.
+   </p>
+   <p>
+    The most significant contribution to the development of the telescope in the 18th century was that of
+    <xref articleid="40235">
+     Sir William Herschel
+    </xref>
+    . Herschel, whose interest in telescopes was kindled by a modest 5-cm Gregorian, persuaded the king of England to finance the construction of a reflector with a 12-metre (39-foot) focal length and a 120-cm mirror. Herschel is credited with having used this instrument to lay the observational groundwork for the concept of extragalactic “nebulas”—i.e.,
+    <xref articleid="110642">
+     galaxies
+    </xref>
+    outside the
+    <xref articleid="110643">
+     Milky Way
+    </xref>
+    system.
+   </p>
+   <p>
+    Reflectors continued to evolve during the 19th century with the work of
+    <xref articleid="64148">
+     William Parsons, 3rd earl of Rosse
+    </xref>
+    , and
+    <xref articleid="47257">
+     William Lassell
+    </xref>
+    . In 1845 Lord Rosse constructed in Ireland a reflector with a 185-cm (73-inch) mirror and a focal length of about 16 metres (52 feet). For 75 years this telescope ranked as the largest in the world and was used to explore thousands of
+    <xref articleid="108754">
+     nebulae
+    </xref>
+    and
+    <xref articleid="110473">
+     star clusters
+    </xref>
+    . Lassell built several reflectors, the largest of which was on Malta; this instrument had a 124-cm (49-inch) primary mirror and a focal length of more than 10 metres (33 feet). His telescope had greater reflecting power than Rosse’s, and it enabled him to catalog 600 new nebulae as well as to discover several satellites of the outer
+    <xref articleid="60298">
+     planets
+    </xref>
+    —
+    <xref articleid="73441">
+     Triton
+    </xref>
+    (
+    <xref articleid="110153">
+     Neptune
+    </xref>
+    ’s largest
+    <xref articleid="53598">
+     moon
+    </xref>
+    ),
+    <xref articleid="41800">
+     Hyperion
+    </xref>
+    (
+    <xref articleid="110151">
+     Saturn
+    </xref>
+    ’s 8th moon), and
+    <xref articleid="9421">
+     Ariel
+    </xref>
+    and
+    <xref articleid="74205">
+     Umbriel
+    </xref>
+    (two of
+    <xref articleid="110152">
+     Uranus
+    </xref>
+    ’s moons).
+   </p>
+   <p>
+    Refractor telescopes, too, underwent development during the 18th and 19th centuries. The last significant one to be built was the 1-metre (40-inch) refractor at
+    <xref articleid="126079">
+     Yerkes Observatory
+    </xref>
+    . Installed in 1897, it was the largest refracting system in the world. Its objective was designed and constructed by the optician
+    <xref articleid="24201">
+     Alvan Clark
+    </xref>
+    , while the mount was built by the firm of Warner &amp; Swasey.
+   </p>
+   <p>
+    The reflecting telescope predominated in the 20th century. The rapid proliferation of increasingly larger instruments of this type began with the installation of the 2.5-metre (60-inch) reflector at the
+    <xref articleid="54036">
+     Mount Wilson Observatory
+    </xref>
+    near Pasadena, Calif., U.S. The technology for mirrors underwent a major advance when the Corning Glass Works (in Steuben county, N.Y., U.S.) developed
+    <xref articleid="62049">
+     Pyrex
+    </xref>
+    . This borosilicate glass, which undergoes substantially less expansion than ordinary glass does, was used in the 5-metre (200-inch)
+    <xref articleid="38870">
+     Hale Telescope
+    </xref>
+    built in 1948 at the
+    <xref articleid="58167">
+     Palomar Observatory
+    </xref>
+    . Pyrex also was utilized in the main mirror of the 6-metre (236-inch) reflector of the Special Astrophysical Observatory in Zelenchukskaya, Russia. Since then, much better materials for mirrors have become available. Cer-Vit, for example, was used for the 4.2-metre (165-inch) William Herschel Telescope of the Roque de los Muchachos Observatory in the Canary Islands, and Zerodur was used for the 10.4-metre (410-inch) reflector at the Gran Telescopio Canarias in the Canary Islands.
+   </p>
+   <signature>
+    B.L. Klock
+   </signature>
+  </h2>
+  <h2 id="h44232">
+   <title>
+    Advances in auxiliary instrumentation
+   </title>
+   <p>
+    Almost as important as the telescope itself are the auxiliary instruments that the astronomer uses to exploit the
+    <xref articleid="110443">
+     light
+    </xref>
+    received at the focal plane. Examples of such instruments are the camera, spectrograph,
+    <xref articleid="59816">
+     photomultiplier tube
+    </xref>
+    , charge-coupled device (
+    <xref articleid="471995">
+     CCD
+    </xref>
+    ), and charge injection device (CID). Each of these instrument types is discussed below.
+   </p>
+   <h3 id="h44233">
+    <title>
+     Cameras
+    </title>
+    <p>
+     American John Draper photographed the Moon as early as 1840 by applying the
+     <xref articleid="28530">
+      daguerreotype
+     </xref>
+     process. The French physicists
+     <xref articleid="34454">
+      A.-H.-L. Fizeau
+     </xref>
+     and
+     <xref articleid="35012">
+      J.-B.-L. Foucault
+     </xref>
+     succeeded in making a photographic image of the
+     <xref articleid="110144">
+      Sun
+     </xref>
+     in 1845. Five years later astronomers at Harvard Observatory took the first photographs of the
+     <xref articleid="110472">
+      stars
+     </xref>
+     .
+    </p>
+    <p>
+     The use of photographic equipment in conjunction with telescopes benefited astronomers greatly, giving them two distinct advantages: first, photographic images provided a permanent record of celestial phenomena, and, second, photographic plates integrated the light from celestial sources over long periods of time and thereby permitted astronomers to see much-fainter objects than they would be able to observe visually. Typically, the camera’s photographic plate (or film) was mounted in the focal plane of the telescope. The plate or film consisted of glass or of a plastic material that was covered with a thin layer of a
+     <xref articleid="67807">
+      silver
+     </xref>
+     compound. The light striking the photographic medium caused the silver compound to undergo a chemical change. When processed, a negative image resulted; i.e., the brightest spots (the Moon and the stars, for example) appeared as the darkest areas on the plate or the film. In the 1980s the CCD supplanted photography in the production of astronomical images.
+    </p>
+   </h3>
+   <h3 id="h44234">
+    <title>
+     Spectrographs
+    </title>
+    <p>
+     <assembly id="a3721" url="/assembly/view/3721">
+      <title>
+       spectrograph
+      </title>
+      <media mediaid="4637" type="image" url="/37/4637-004-FED6B1CC.jpg"/>
+      <caption>
+       A spectrograph and its components.
+      </caption>
+      <credit>
+       Encyclopædia Britannica, Inc.
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a3721"/>
+     Newton noted the interesting way in which a piece of glass can break up light into different bands of colour, but it was not until 1814 that the German physicist
+     <xref articleid="35214">
+      Joseph von Fraunhofer
+     </xref>
+     discovered the
+     <xref articleid="35215">
+      lines
+     </xref>
+     of the solar spectrum and laid the basis for
+     <xref articleid="110407">
+      spectroscopy
+     </xref>
+     . The spectrograph consists of a slit, a collimator, a
+     <xref articleid="61433">
+      prism
+     </xref>
+     for dispersing the light, and a focusing lens. The collimator is an optical device that produces parallel rays from a focal plane source—i.e., it gives the appearance that the source is located at an infinite distance. The spectrograph enables astronomers to analyze the chemical composition of planetary atmospheres, stars, nebulae, and other celestial objects. A bright line in the spectrum indicates the presence of a glowing gas radiating at a wavelength characteristic of the chemical element in the gas. A dark line in the spectrum usually means that a cooler gas has intervened and absorbed the lines of the element characteristic of the intervening material. The lines may be displaced to either the red end or the blue end of the spectrum. This effect was first noted in 1842 by the Austrian physicist
+     <xref articleid="30954">
+      Christian Johann Doppler
+     </xref>
+     . When a light source is approaching, the lines are shifted toward the blue end of the spectrum, and when the source is receding, the lines are shifted toward its red end. This effect, known as the
+     <xref articleid="30955">
+      Doppler effect
+     </xref>
+     , permits astronomers to study the relative motions of celestial objects with respect to Earth’s motion.
+    </p>
+    <p>
+     The slit of the spectrograph is placed at the focal plane of the telescope. The resulting spectrum may be recorded photographically or with some kind of electronic detector, such as a photomultiplier tube, CCD, or CID. If no recording device is used, then the optical device is technically referred to as a spectroscope.
+    </p>
+   </h3>
+   <h3 id="h44235">
+    <title>
+     Photomultiplier tubes
+    </title>
+    <p>
+     The photomultiplier tube is an enhanced version of the photocell, which was first used by astronomers to record data electronically. The photocell contains a photosensitive surface that generates an
+     <xref articleid="32273">
+      electric current
+     </xref>
+     when struck by light from a celestial source. The photosensitive surface is positioned just behind the focus. A diaphragm of very small aperture is usually placed in the focal plane to eliminate as much of the background light of the sky as possible. A small lens is used to focus the focal plane image on the photosensitive surface, which, in the case of a photomultiplier tube, is referred to as the
+     <xref articleid="59795">
+      photocathode
+     </xref>
+     . In the photomultiplier tube a series of special sensitive plates are arranged geometrically to amplify or multiply the
+     <xref articleid="32316">
+      electron
+     </xref>
+     stream. Frequently, magnifications of a million are achieved by this process.
+    </p>
+    <p>
+     The photomultiplier tube has a distinct advantage over the photographic plate. With the photographic plate the relationship between the brightness of the celestial source and its registration on the plate is not linear. In the case of the photomultiplier tube, however, the release of electrons in the tube is directly proportional to the intensity of light from the celestial source. This linear relationship is very useful for working over a wide range of brightness. A disadvantage of the photomultiplier tube is that only one object can be recorded at a time. The output from such a device is sent to a recorder or digital storage device to produce a permanent record.
+    </p>
+   </h3>
+   <h3 id="h44236">
+    <title>
+     Charge-coupled devices
+    </title>
+    <p>
+     The charge-coupled device (CCD) uses a light-sensitive material on a
+     <xref articleid="67764">
+      silicon
+     </xref>
+     chip to electronically detect
+     <xref articleid="59817">
+      photons
+     </xref>
+     in a way similar to the photomultiplier tube. The principal difference is that the chip also contains integrated microcircuitry required to transfer the detected signal along a row of discrete picture elements (or pixels) and thereby scan a celestial object or objects very rapidly. When individual pixels are arranged simply in a single row, the detector is referred to as a linear array. When the pixels are arranged in rows and columns, the assemblage is called a two-dimensional array.
+    </p>
+    <p>
+     Pixels can be assembled in various sizes and shapes. The
+     <xref articleid="2410">
+      Hubble Space Telescope
+     </xref>
+     has a CCD detector with a 1,600 × 1,600 pixel array. Actually, there are four 800 × 800 pixel arrays mosaicked together. The sensitivity of a CCD is 100 times greater than a photographic plate and so has the ability to quickly scan objects such as planets, nebulae, and star clusters and record the desired data. Another feature of the CCD is that the detector material may be altered to provide more sensitivity at different wavelengths. Thus, some detectors are more sensitive in the blue region of the spectrum than in the red region.
+    </p>
+    <p>
+     Today, most large observatories use CCDs to record data electronically. Another similar device, the charge injection device, is sometimes employed. The basic difference between the CID and the CCD is in the way the electric charge is transferred before it is recorded; however, the two devices may be used interchangeably as far as astronomical work is concerned.
+    </p>
+   </h3>
+  </h2>
+  <h2 id="h44237">
+   <title>
+    Impact of technological developments
+   </title>
+   <h3 id="h44238">
+    <title>
+     Computers
+    </title>
+    <p>
+     Besides the telescope itself, the electronic
+     <xref articleid="117728">
+      computer
+     </xref>
+     has become the astronomer’s most important tool. Indeed, the computer has revolutionized the use of the telescope to the point where the collection of observational data is now completely automated. The astronomer need only identify the object to be observed, and the rest is carried out by the computer and auxiliary electronic equipment.
+    </p>
+    <p>
+     A telescope can be set to observe automatically by means of electronic sensors appropriately placed on the telescope axis. Precise quartz or
+     <xref articleid="10128">
+      atomic clocks
+     </xref>
+     send signals to the computer, which in turn activates the telescope sensors to collect data at the proper time. The computer not only makes possible more efficient use of telescope time but also permits a more detailed analysis of the data collected than could have been done manually. Data analysis that would have taken a lifetime or longer to complete with a mechanical calculator can now be done within hours or even minutes with a high-speed computer.
+    </p>
+    <p>
+     Improved means of recording and storing computer data also have contributed to astronomical research. Optical disc data-storage technology, such as the
+     <xref articleid="1430">
+      CD-ROM
+     </xref>
+     (
+     <xref articleid="25003">
+      compact disc
+     </xref>
+     read-only memory) or the
+     <xref articleid="472241">
+      DVD
+     </xref>
+     -ROM (digital video disc read-only memory), has provided astronomers with the ability to store and retrieve vast amounts of telescopic and other astronomical data.
+    </p>
+   </h3>
+   <h3 id="h44239">
+    <title>
+     Rockets and spacecraft
+    </title>
+    <p>
+     The quest for new knowledge about the
+     <xref articleid="74362">
+      universe
+     </xref>
+     has led astronomers to study
+     <xref articleid="106022">
+      electromagnetic radiation
+     </xref>
+     other than just visible light. Such forms of radiation, however, are blocked for the most part by Earth’s
+     <xref articleid="126202">
+      atmosphere
+     </xref>
+     , and so their detection and analysis can only be achieved from above this gaseous envelope.
+    </p>
+    <p>
+     During the late 1940s, single-stage
+     <xref articleid="68807">
+      sounding rockets
+     </xref>
+     were sent up to 160 km (100 miles) or more to explore the upper layers of the atmosphere. From 1957, more sophisticated multistage
+     <xref articleid="106040">
+      rockets
+     </xref>
+     were launched as part of the
+     <xref articleid="42588">
+      International Geophysical Year
+     </xref>
+     . These rockets carried artificial
+     <xref articleid="65844">
+      satellites
+     </xref>
+     equipped with a variety of scientific instruments. Beginning in 1959, the Soviet Union and the United States, engaged in a “space race,” intensified their efforts and launched a series of robotic probes to explore the Moon. Lunar exploration culminated with the first crewed landing on the Moon, by the U.S.
+     <xref articleid="476371">
+      Apollo 11
+     </xref>
+     astronauts on July 20, 1969. Numerous other U.S. and Soviet spacecraft were sent to further study the lunar environment until the mid-1970s. Lunar exploration revived in the early years of the 21st century with the United States, China, Japan, and India all sending robotic probes to the Moon.
+    </p>
+    <p>
+     <assembly id="a113230" url="/assembly/view/113230">
+      <title>
+       Mars Exploration Rover
+      </title>
+      <media mediaid="93293" type="image" url="/93/93293-004-F3899A13.jpg"/>
+      <caption>
+       Artist’s conception of Mars Exploration Rover.
+      </caption>
+      <credit>
+       NASA Jet Propulsion Laboratory
+      </credit>
+     </assembly>
+     <assemblyref assemblyid="a113230"/>
+     Starting in the early 1960s, both the United States and the Soviet Union launched a multitude of robotic deep-space probes to learn more about the other planets and satellites of the
+     <xref articleid="110143">
+      solar system
+     </xref>
+     . Carrying television cameras, detectors, and an assortment of other instruments, these probes sent back impressive amounts of scientific data and close-up pictures. Among the most successful missions were those involving the U.S.
+     <xref articleid="471092">
+      Messenger
+     </xref>
+     flybys of
+     <xref articleid="110145">
+      Mercury
+     </xref>
+     (2008–15), the Soviet
+     <xref articleid="75006">
+      Venera
+     </xref>
+     probes to Venus (1967–83), the U.S.
+     <xref articleid="443595">
+      Mars Exploration Rover
+     </xref>
+     landings on Mars (2004–18), and the U.S.
+     <xref articleid="75768">
+      Voyager
+     </xref>
+     2 flybys of Jupiter, Saturn, Uranus, and Neptune (1979–89). When the Voyager 2 probe flew past Neptune and its moons in August 1989, every known major planet had been explored by spacecraft. Many long-held views, particularly those about the outer planets, were altered by the findings of the Voyager probe. These findings included the discovery of several rings and six additional satellites around Neptune, all of which are undetectable to ground-based telescopes.
+    </p>
+    <p>
+     Specially instrumented spacecraft have enabled astronomers to investigate other celestial phenomena as well. The Orbiting Solar Observatories and Solar Maximum Mission (Earth-orbiting U.S. satellites equipped with
+     <xref articleid="74181">
+      ultraviolet
+     </xref>
+     detector systems) have provided a means for studying solar activity. Another example is the
+     <xref articleid="396191">
+      Giotto
+     </xref>
+     probe of the
+     <xref articleid="33274">
+      European Space Agency
+     </xref>
+     , which enabled astronomers to obtain detailed photographs of the nucleus of
+     <xref articleid="38944">
+      Halley’s Comet
+     </xref>
+     during its 1986 passage.
+    </p>
+    <signature>
+     B.L. Klock
+    </signature>
+   </h3>
+  </h2>
+ </h1>
+ <h1 id="h44240">
+  <title>
+   Bibliography
+  </title>
+  <p>
+   Techniques of observation with the help of telescopes are detailed in
+   <e type="smallcap">
+    P. Clay Sherrod
+   </e>
+   and
+   <e type="smallcap">
+    Thomas L. Koed,
+   </e>
+   <e type="italic">
+    A Complete Manual of Amateur Astronomy: Tools and Techniques for Astronomical Observations
+   </e>
+   (1981), including a discussion of telescope setup;
+   <e type="smallcap">
+    Robert T. Dixon,
+   </e>
+   <e type="italic">
+    Dynamic Astronomy,
+   </e>
+   5th ed. (1989), a comprehensive, well-illustrated text; and
+   <e type="smallcap">
+    Jay M. Pasachoff,
+   </e>
+   <e type="italic">
+    Astronomy, from the Earth to the Universe,
+   </e>
+   3rd ed. (1987). A highly readable and profusely illustrated discussion of radio telescopes is given in
+   <e type="smallcap">
+    Gerrit L. Verschuur,
+   </e>
+   <e type="italic">
+    The Invisible Universe Revealed: The Story of Radio Astronomy
+   </e>
+   , 2nd ed. (2006). More technical accounts are offered in
+   <e type="smallcap">
+    Bernard F. Burke
+   </e>
+   and
+   <e type="smallcap">
+    Francis Graham-Smith,
+   </e>
+   <e type="italic">
+    An Introduction to Radio Astronomy
+   </e>
+   , 2nd ed. (2002);
+   <e type="smallcap">
+    Gerrit L. Verschuur
+   </e>
+   and
+   <e type="smallcap">
+    Kenneth Kellermann
+   </e>
+   ,
+   <e type="italic">
+    Galactic and Extragalactic Radio Astronomy
+   </e>
+   , 2nd ed. (1988); and
+   <e type="smallcap">
+    K. Rohlfs
+   </e>
+   and
+   <e type="smallcap">
+    T.L. Wilson,
+   </e>
+   <e type="italic">
+    Tools of Radio Astronomy,
+   </e>
+   4th ed. (2004).
+   <e type="smallcap">
+    Bernard Lovell,
+   </e>
+   <e type="italic">
+    The Story of Jodrell Bank
+   </e>
+   (1968), presents a dramatic story of the construction of the 76-metre Jodrell Bank Radio Telescope. Other modern types of telescopes are described in
+   <e type="smallcap">
+    D.S. Finley
+   </e>
+   et al., “Design of the Extreme Ultraviolet Explorer Long-Wavelength Grazing Incidence Telescope Optics,”
+   <e type="italic">
+    Applied Optics
+   </e>
+   27(8):1476–80 (April 15, 1988);
+   <e type="smallcap">
+    Adelaide Hewitt
+   </e>
+   (ed.),
+   <e type="italic">
+    Optical and Infrared Telescopes for the 1990s,
+   </e>
+   2 vol. (1980); and
+   <e type="smallcap">
+    Joseph F. Baugher,
+   </e>
+   <e type="italic">
+    The Space-Age Solar System
+   </e>
+   (1988). Numerous articles on various types of telescopes are found in
+   <e type="italic">
+    Sky and Telescope
+   </e>
+   (monthly). Historical surveys tracing the development of the telescope from the earliest versions to those constructed in the late 1980s include
+   <e type="smallcap">
+    Arthur Berry,
+   </e>
+   <e type="italic">
+    A Short History of Astronomy
+   </e>
+   (1898, reprinted 1961);
+   <e type="smallcap">
+    Henry C. King,
+   </e>
+   <e type="italic">
+    The History of the Telescope
+   </e>
+   (1955, reprinted 1979); and
+   <e type="smallcap">
+    Richard Learner,
+   </e>
+   <e type="italic">
+    Astronomy Through the Telescope
+   </e>
+   (1981).
+  </p>
+  <signature>
+   B.L. Klock
+  </signature>
+  <signature>
+   Kenneth I. Kellermann
+  </signature>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

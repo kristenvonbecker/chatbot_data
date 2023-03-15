@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="473598" articletypeid="1" language="en_us" lastupdate="2022-Jan-19 14:09:51" url="/article/wave/473598" version="4">
+ <title>
+  wave
+ </title>
+ <p>
+  <assembly id="a207420" url="/assembly/view/207420">
+   <title>
+    wave
+   </title>
+   <media mediaid="170609" type="image" url="/09/170609-004-E5F1604D.jpg"/>
+   <caption>
+    A wave in water.
+   </caption>
+   <credit>
+    © juland/Fotolia
+   </credit>
+  </assembly>
+  <e type="bold">
+   wave
+  </e>
+  ,
+  <assemblyref assemblyid="a207420"/>
+  propagation of disturbances from place to place in a regular and organized way. Most familiar are surface
+  <xref articleid="76315">
+   waves
+  </xref>
+  that travel on
+  <xref articleid="76210">
+   water
+  </xref>
+  , but
+  <xref articleid="109557">
+   sound
+  </xref>
+  ,
+  <xref articleid="110443">
+   light
+  </xref>
+  , and the motion of
+  <xref articleid="108593">
+   subatomic particles
+  </xref>
+  all exhibit wavelike properties. In the simplest waves, the disturbance oscillates periodically (
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="59261">
+   periodic motion
+  </xref>
+  ) with a fixed
+  <xref articleid="35365">
+   frequency
+  </xref>
+  and
+  <xref articleid="76325">
+   wavelength
+  </xref>
+  . Mechanical waves, such as sound, require a medium through which to travel, while electromagnetic waves (
+  <e type="italic">
+   see
+  </e>
+  <xref articleid="106022">
+   electromagnetic radiation
+  </xref>
+  ) do not require a medium and can be propagated through a vacuum. Propagation of a wave through a medium depends on the medium’s properties.
+  <e type="italic">
+   See also
+  </e>
+  <xref articleid="66632">
+   seismic wave
+  </xref>
+  .
+ </p>
+ <h1 id="h333566">
+  <title>
+   Types and features of waves
+  </title>
+  <p>
+   Waves come in two kinds, longitudinal and transverse. Transverse waves are like those on water, with the surface going up and down, and longitudinal waves are like of those of sound, consisting of alternating compressions and rarefactions in a medium. The high point of a transverse wave is a called the crest, and the low point is called the trough. For longitudinal waves, the compressions and rarefactions are analogous to the crests and troughs of transverse waves. The distance between successive crests or troughs is called the wavelength. The height of a wave is the amplitude. How many crests or troughs pass a specific point during a unit of time is called the frequency. The velocity of a wave can be expressed as the wavelength multiplied by the frequency.
+  </p>
+  <p>
+   Waves can travel immense distances even though the oscillation at one point is very small. For example, a thunderclap can be heard kilometres away, yet the sound carried manifests itself at any point only as minute compressions and rarefactions of the air.
+  </p>
+ </h1>
+ <h1 id="h333567">
+  <title>
+   Wave behaviour
+  </title>
+  <p>
+   Waves display several basic phenomena. In reflection, a wave encounters an obstacle and is reflected back. In refraction, a wave bends when it enters a medium through which it has a different speed. In diffraction, waves bend when they pass around small obstacles and spread out when they pass through small openings. In interference, when two waves meet, they can interfere constructively, creating a wave with larger amplitude than the original waves, or destructively, creating a wave with a smaller (or even zero) amplitude.
+  </p>
+  <h2 id="h333568">
+   <title>
+    Reflection
+   </title>
+   <p>
+    When waves hit a boundary and are reflected, the angle of incidence equals the angle of reflection. The angle of incidence is the angle between the direction of motion of the wave and a line drawn perpendicular to the reflecting boundary.
+   </p>
+  </h2>
+  <h2 id="h333569">
+   <title>
+    Refraction
+   </title>
+   <p>
+    <assembly id="a159440" url="/assembly/view/159440">
+     <title>
+      Perceive refraction as a wave’s speed is changed by its passing between different media
+     </title>
+     <media mediaid="151064" thumburl="/64/151064-049-64D0E90C.jpg" type="video" url=""/>
+     <caption>
+      Learn more about refraction.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a159440"/>
+    The speed of a wave depends on the properties of the medium through which it travels. For example, sound travels much faster through water than through air. When a wave enters at an angle a medium through which its speed would be slower, the wave is bent toward the perpendicular. When a wave enters at an angle a medium in which its speed would be increased, the opposite effect happens. With light, this change can be expressed by using
+    <xref articleid="68375">
+     Snell’s law of refraction.
+    </xref>
+   </p>
+  </h2>
+  <h2 id="h333570">
+   <title>
+    Diffraction
+   </title>
+   <p>
+    <assembly id="a159541" url="/assembly/view/159541">
+     <title>
+      Discover diffraction as a property of sound, electromagnetic radiation, and small moving particles
+     </title>
+     <media mediaid="151069" thumburl="/69/151069-049-B52BED1D.jpg" type="video" url=""/>
+     <caption>
+      Learn about diffraction of sound, electromagnetic radiation, and small moving particles.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a159541"/>
+    When a wave encounters a small obstacle or a small opening (that is, small compared with the wavelength of the wave), the wave can bend around the obstacle or pass through the opening and then spread out. This bending or spreading out is called diffraction.
+   </p>
+  </h2>
+  <h2 id="h333571">
+   <title>
+    Interference
+   </title>
+   <p>
+    <assembly id="a91340" url="/assembly/view/91340">
+     <title>
+      examples of interference
+     </title>
+     <media mediaid="96595" type="image" url="/95/96595-004-D2952591.jpg"/>
+     <caption>
+      When two waves of identical wavelength are in phase, they form a new wave with an amplitude equal to the sum of their individual amplitudes (constructive interference). When two waves are of completely opposite phase, they either form a new wave of reduced amplitude (partial destructive interference) or cancel each other out (complete destructive interference). Much more complicated constructive and destructive interference patterns emerge when waves with different wavelengths interact.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a91340"/>
+    The waves from two or more centres of disturbance may reinforce each other in some directions and cancel in others. This phenomenon is called the interference of waves. It is easy to see how this may happen. Consider two sources producing waves of the same wavelength and in phase; that is, at their origin the crests of the waves occur at the same time. If a point P is equidistant from both sources, the crests arrive at P simultaneously and reinforce each other. Similarly, the troughs arrive simultaneously and become deeper. The same situation occurs if the distances to point P are unequal but differ by one or more full wavelengths. If, however, the distances differ by half a wavelength or by an odd number of half wavelengths, then the crests of one wave will coincide with the troughs of the other and the intensity of the resultant wave is decreased. When two such waves are of equal intensity, they will cancel each other completely. Intermediate situations arise in those directions in which the distances traveled by the two waves differ by some other fraction of a wavelength, the waves tending either to reinforce or to cancel each other.
+   </p>
+  </h2>
+  <h2 id="h333572">
+   <title>
+    Doppler effect
+   </title>
+   <p>
+    <assembly id="a141128" url="/assembly/view/141128">
+     <title>
+      Doppler shift
+     </title>
+     <media mediaid="97249" type="image" url="/49/97249-004-5E2CF2A5.jpg"/>
+     <caption>
+      Doppler shift.
+     </caption>
+     <credit>
+      Encyclopædia Britannica, Inc.
+     </credit>
+    </assembly>
+    <assemblyref assemblyid="a141128"/>
+    When the source of a wave moves relative to an observer, the observer notices a change in the frequency of the wave. This change is called the
+    <xref articleid="30955">
+     Doppler effect
+    </xref>
+    , after its discoverer, Austrian physicist
+    <xref articleid="30954">
+     Christian Doppler
+    </xref>
+    .
+   </p>
+   <p>
+    Consider a source emitting a wave such as light or sound of frequency ν moving away from an observer at velocity
+    <e type="italic">
+     v
+    </e>
+    . The successive crests of the light waves will reach the observer at longer intervals than if the observer were at rest, and calculation shows that the observer will receive them with a frequency ν(1−
+    <e type="italic">
+     v
+    </e>
+    /
+    <e type="italic">
+     c
+    </e>
+    ), where
+    <e type="italic">
+     c
+    </e>
+    is the velocity of the wave. The frequency of the wave will appear to the observer slightly lower than it would if the source were at rest. If the source is approaching, the frequency will be higher.
+   </p>
+   <p>
+    In sound this effect is an everyday experience; when a blowing horn is passed on the highway, the observer may notice that the pitch of the note seems to change. The Doppler effect for light waves is evident in
+    <xref articleid="110407">
+     spectroscopy
+    </xref>
+    . A shift to higher frequencies is called a blueshift, and a shift to lower frequencies is called a redshift. The redshifted light from other galaxies is evidence of the expansion of the universe.
+   </p>
+  </h2>
+ </h1>
+ <h1 id="h333573">
+  <title>
+   Standing waves
+  </title>
+  <p>
+   If a wave is confined to a closed space, it undergoes both reflection and interference. For example, consider a tube of length l. A disturbance anywhere in the air in the tube will be reflected from both ends and produce in general a series of waves traveling in both directions along the tube. From the geometry of the situation and the finite constant value of acoustic velocity, these must be periodic waves with frequencies fixed by the boundary conditions at the end of the tube. The allowed frequencies of the waves in the tube satisfy sin
+   <e type="italic">
+    k
+   </e>
+   <e type="italic">
+    l
+   </e>
+   = 0; i.e., the allowed frequencies are ν =
+   <e type="italic">
+    n
+   </e>
+   <e type="italic">
+    v
+   </e>
+   /2
+   <e type="italic">
+    l
+   </e>
+   , where
+   <e type="italic">
+    n
+   </e>
+   is any integer and
+   <e type="italic">
+    v
+   </e>
+   is the acoustic velocity in the tube. These are the frequencies of harmonic waves that can exist in the tube and still satisfy the boundary conditions at the ends. They are called the characteristic frequencies or normal modes of vibration of the air column. The fundamental frequency (
+   <e type="italic">
+    n
+   </e>
+   = 1) is ν =
+   <e type="italic">
+    v
+   </e>
+   /2
+   <e type="italic">
+    l
+   </e>
+   .
+  </p>
+  <p>
+   The higher frequencies, called harmonics or overtones, are multiples of the fundamental. It is customary to refer to the fundamental as the first harmonic;
+   <e type="italic">
+    n
+   </e>
+   = 2 gives the second harmonic or first overtone, and so on. Approximately the same set of characteristic frequencies hold for a cylindrical tube open at both ends, though the boundary conditions are different.
+  </p>
+  <p>
+   There are positions in the tube at which the displacement of the air is zero at all times. This cannot take place in a progressive wave; thus, the wave disturbance corresponding to a normal mode is known as a standing wave. The positions of continuous zero displacement are known as nodes, while the positions for which there is maximum displacement are called antinodes. The distance between successive nodes is equal to a half wavelength of the particular mode.
+  </p>
+ </h1>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>

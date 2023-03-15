@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "syndication_xml.dtd">
+<article articleid="474204" articletypeid="1" language="en_us" lastupdate="2021-Jul-01 06:09:34" url="/article/high-voltage-electron-microscope/474204" version="2">
+ <title>
+  high-voltage electron microscope
+ </title>
+ <p>
+  <e type="bold">
+   high-voltage electron microscope
+  </e>
+  , type of
+  <xref articleid="32323">
+   electron microscope
+  </xref>
+  that has been constructed to operate at accelerating voltages in excess of the 200–300 kV normally used in the conventional
+  <xref articleid="474201">
+   transmission electron microscope
+  </xref>
+  . High-voltage microscopes now in commercial production are designed for accelerating voltages of up to 1,500 kV.
+ </p>
+ <p>
+  These instruments have several advantages over the conventional transmission electron microscope: (1) the theoretical resolving power of the instrument increases as the accelerating voltage increases; (2) thick specimens are easily penetrated by the beam; (3) chromatic aberration caused by energy losses and scattering in the specimen is decreased; and (4) specimen heating and irradiation damage of organic samples are decreased. Many metals and
+  <xref articleid="66711">
+   semiconductors
+  </xref>
+  suffer increased damage at these high energies, however, because the incident
+  <xref articleid="32316">
+   electrons
+  </xref>
+  may knock an
+  <xref articleid="110411">
+   atom
+  </xref>
+  from its correct position in the crystal lattice.
+ </p>
+ <p>
+  Although the gain in resolution at 1,000 kV is theoretically about two and a half times that of a 100-kV instrument, such increases have not been fully achieved in practice. It is primarily for the increased penetrating power and consequent reduction in chromatic aberration that the high-voltage instruments are used, as in the study of metals and
+  <xref articleid="5832">
+   alloys
+  </xref>
+  , for example. Some biological systems, such as
+  <xref articleid="110416">
+   bacteria
+  </xref>
+  and whole
+  <xref articleid="106125">
+   cells
+  </xref>
+  contained within a quartz chamber, may also be examined at high voltage. However, specimen damage due to the energetic electron beam is considerable.
+ </p>
+ <signature>
+  Savile Bradbury
+ </signature>
+ <signature>
+  David C. Joy
+ </signature>
+ <signature>
+  Brian J. Ford
+ </signature>
+ <copyright>
+  Encyclopædia Britannica
+ </copyright>
+</article>
