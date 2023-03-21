@@ -13,8 +13,8 @@ load_dotenv()
 
 article_list_url = {
     'advanced': 'https://syndication.api.eb.com/production/articles?articleTypeId=1&page=',
-    'concise': 'https://syndication.api.eb.com/production/articles?articleTypeId=45&page=',
-    'intermediate': 'https://syndication.api.eb.com/production/articles?articleTypeId=31&page='
+    'science': 'https://syndication.api.eb.com/production/articles?articleTypeId=1&categoryId=2&page=',
+    'technology': 'https://syndication.api.eb.com/production/articles?articleTypeId=1&categoryId=2&page='
 }
 
 json_header = {
@@ -22,12 +22,12 @@ json_header = {
         'x-api-key': os.getenv('EB_API_KEY_ADV'),
         'content-type': 'application/json'
     },
-    'concise': {
-        'x-api-key': os.getenv('EB_API_KEY_CON'),
+    'science': {
+        'x-api-key': os.getenv('EB_API_KEY_SCI'),
         'content-type': 'application/json'
     },
-    'intermediate': {
-        'x-api-key': os.getenv('EB_API_KEY_INT'),
+    'technology': {
+        'x-api-key': os.getenv('EB_API_KEY_TEC'),
         'content-type': 'application/json'
     }
 }
@@ -37,12 +37,12 @@ xml_header = {
         'x-api-key': os.getenv('EB_API_KEY_ADV'),
         'content-type': 'text/xml; charset=UTF-8'
     },
-    'intermediate': {
-        'x-api-key': os.getenv('EB_API_KEY_INT'),
+    'science': {
+        'x-api-key': os.getenv('EB_API_KEY_SCI'),
         'content-type': 'text/xml; charset=UTF-8'
     },
-    'concise': {
-        'x-api-key': os.getenv('EB_API_KEY_CON'),
+    'technology': {
+        'x-api-key': os.getenv('EB_API_KEY_TEC'),
         'content-type': 'text/xml; charset=UTF-8'
     }
 }
