@@ -1,8 +1,7 @@
+import os
 import openai
 from google.cloud import language_v1
 import numpy as np
-from dotenv import load_dotenv
-load_dotenv()
 
 # Using Google Cloud Natural Language's analyze_entities endpoint
 
@@ -27,15 +26,13 @@ def get_google_entities(text):
 
 # Using OpenAI's completion endpoint
 
+openai.api_key = os .getenv("OPENAI_API_KEY")
+
 def get_openai_completion(engine, prompt_type, domain, text, audience="young adults", completion_tokens=50, temp=1):
-    if prompt_type == "short-summary":
-        prompt = "Give a very short summary for " + \
+    if prompt_type == "summary":
+        prompt = "Give a summary for " + \
                  audience + \
-                 " about a museum " + domain + " with the following description: "
-    elif prompt_type == "medium-summary":
-        prompt = "Give a paragraph summary, including highlights, for " + \
-                 audience + \
-                 " about a museum " + domain + " with the following description: "
+                 " about a museum " + domain + " having the following description: "
     elif prompt_type == "keywords":
         prompt = "Give a list of keywords for a museum " + domain + " with the following description: "
     elif prompt_type == "fun-facts":

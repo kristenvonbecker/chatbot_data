@@ -5,9 +5,6 @@ from bs4.element import Comment
 from bs4 import BeautifulSoup
 from lxml import html
 
-from dotenv import load_dotenv
-load_dotenv()
-
 
 # define parameters for API calls to the Encyclopedia Britannica products
 

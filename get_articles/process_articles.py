@@ -2,9 +2,6 @@ import pandas as pd
 import re
 from unidecode import unidecode
 
-from dotenv import load_dotenv
-load_dotenv()
-
 
 apos_pattern = r"(\w+)(\s)*'S "
 paren_pattern = r"(\((?!born).+?\)),? "

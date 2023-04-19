@@ -6,10 +6,10 @@ from nltk.tokenize import sent_tokenize
 
 # Define regex patterns for parsing OpenAI completion responses
 
-# text begins with a fragment (what appears to be a text completion?)
+# text begins with a fragment
 frag_start = r"^([a-z][^\n]*)"
 
-# pattern for an itemization which has -hash marks, - spaced hash marks, 3. enumeration
+# pattern for itemization by -hash marks, - hash marks plus space, 3. enumeration
 # ending in a newline or EOF
 item_pattern = r"(- *|\d. )?(.*?)(\n)*(?:$|\n)"
 
